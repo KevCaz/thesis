@@ -1,0 +1,166 @@
+% ----------------------------------------------------------------------%
+% Coquille pour thèses et mémoires.                                    %
+% UQAR, 29 mai 2009.                                                   %
+% Modifié par F. Cyr - aout 2013                                       %
+%		 AC. Tassel - janvier 2014                                     %
+%		 C. Rigaud - 2014-2015                                         %
+% ----------------------------------------------------------------------%
+
+% ----------------------------------------------------------------------%
+% 1- Préambule.                                                        %
+% ----------------------------------------------------------------------%
+
+% Pour le dépôt initial (recto),       utiliser  oneside.
+% Pour le dépôt final  (recto-verso), remplacer oneside par twoside.
+
+\documentclass[12pt,twoside,francais,letterpaper]{stylethese}
+% \documentclass[12pt,twoside,letterpaper]{stylethese}
+
+\raggedbottom % Évite les espaces trop gands entre chaque section.
+
+% \usepackage{multirow}
+\usepackage{natbib}
+\usepackage{amsmath}
+\usepackage{enumerate} % For fancy enumerate item labels.
+% \usepackage{utopia}
+\usepackage{txfonts,empheq}
+% \usepackage{chancery}
+%\usepackage{ccaption}		 %pour utiliser \legend (pour l'explication de la figure,texte plus long)
+%\usepackage{pgfplots}      	 % dessiner des graphes direct dans LaTeX
+%\pgfplotsset{compat=1.3}
+
+% Sous Unix/Linux, utiliser  latin1 comme encodage.
+% Sous Windows,    remplacer latin1 par ansinew. (à vérifier, moi ça marche comme ça)
+% Sous MacOS,      remplacer latin1 par applemac.
+
+% \usepackage[latin1]{inputenc}
+\usepackage[utf8x]{inputenc}
+\usepackage{ucs}
+
+
+\usepackage{chapterbib} % <----- for bibliography per chapter
+%\usepackage[duplicate]{chapterbib}
+%\usepackage{url}
+
+% Ajout Cyril :
+\usepackage[linktocpage=true,linkcolor=cyan,citecolor=cyan,colorlinks=true,urlcolor=blue,pagebackref]{hyperref}
+\usepackage[english,french]{cleveref}
+\usepackage{upgreek}
+\usepackage{textcomp}
+\usepackage{tabularx}
+\usepackage{longtable}
+\usepackage{ltxtable}
+\usepackage{pdflscape}
+\usepackage{booktabs}
+\usepackage{afterpage}
+\usepackage{floatpag}
+\usepackage[babel=true]{csquotes}
+\usepackage{pifont}
+\usepackage{soulutf8}
+\usepackage{caption}
+\captionsetup{singlelinecheck=false}
+
+\setlength{\LTcapwidth}{1.55\linewidth}
+
+%Marge inférieure avec note de bas de page
+\setlength{\footnotesep}{1cm}
+
+%Régler le problème des Et/And entre deux auteurs (voir le fichier "tutoriel bst")
+\newcommand*{\andname}{and}
+      \addto \captionsenglish {\renewcommand*{\andname}{and}}
+      \addto \captionsfrench  {\renewcommand*{\andname}{et}}
+
+%Intitulé des figures en français
+\addto\captionsfrench{\renewcommand{\figurename}{Figure}}
+
+%Intitulé des tableaux en français
+\addto\captionsfrench{\renewcommand{\tablename}{Tableau}}
+
+% Interligne 1 et 1/2.
+\setstretch{1.5}
+
+% Pour créer un index (optionnel).
+\makeindex
+
+% Info sur la thèse (Titre, auteur, etc.)
+\Titre{INFLUENCE DES CONTRAINTES ENVIRONNEMNENTALES, DES INTERACTIONS ET DE LA DISTRIBUTION DES TRAITS SUR LA RÉPARTITION GÉOGRAPHIQUE DES ESPÈCES} % Mettre en majuscule!! (je nai pas résolu ce probleme...)
+\Auteur{Kévin Cazelles}
+\Faculte{programme de doctorat en Biologie}
+\Diplome{Philosophiae Doctor}
+\Date{Mois}{2016}
+
+\These
+% \Memoire
+
+% Utiliser      \Chapitres pour une thèse (ou mémoire) traditionnelle.
+% Remplacer par \Articles  pour une thèse (ou mémoire) par articles.
+\Articles
+% \Chapitres
+
+\begin{document}
+\pdfstringdefDisableCommands{%
+\let\MakeUppercase\relax}
+
+
+% ----------------------------------------------------------------------%
+% 2- Liminaires de la thèse.                                           %
+% ----------------------------------------------------------------------%
+
+\include{liminaires}
+
+% ----------------------------------------------------------------------%
+% 3- Corps de la thèse.                                                %
+% ----------------------------------------------------------------------%
+
+\debutcorps
+\cleardoublepage
+% Utiliser      chapitres.tex pour une thèse (ou mémoire) traditionnelle.
+% Remplacer par articles.tex  pour une thèse (ou mémoire) par articles.
+
+
+% \introduction
+% \selectlanguage{french}
+% \input{introGenerale.tex}
+% \cleardoublepage
+
+
+\selectlanguage{english}
+\input{./chapitre1/chap1.tex}
+\input{./chapitre2/chap2.tex}
+\input{chap3.tex}
+\input{chap4.tex}
+\cleardoublepage
+
+% \conclusion
+% \selectlanguage{french}
+% \input{concluGenerale.tex}
+% \cleardoublepage
+
+
+
+% ----------------------------------------------------------------------%
+% 4 - Appendices de la thèse.                                           %
+% ----------------------------------------------------------------------%
+
+% \input{annexeI.tex}
+% \cleardoublepage
+
+% ----------------------------------------------------------------------%
+% 5 - Bibliographie.                                                    %
+% ----------------------------------------------------------------------%
+
+\begin{singlespace}
+  \makeatletter
+  \phantomsection\addcontentsline{toc}{chapter}{\MakeUppercase{\@references}}
+  \makeatother
+  \selectlanguage{english}
+  \bibdata{mylib}
+  \bibliographystyle{pnas} % Ici éditer le style
+  \bibliography{library} % Ici mettre le nom de la biblio, ici mylib.bib
+\end{singlespace}
+
+% ----------------------------------------------------------------------%
+% Fin du document.                                                     %
+% ----------------------------------------------------------------------%
+
+\end{document}
