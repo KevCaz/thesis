@@ -2,17 +2,51 @@
 title: Intro brouillon
 ---
 
-
-
 Décrire l'organisation spatiale des êtres vivants et en comprendre les mécanismes sous-jacents, tels sont les objectifs ambitieux de la biogéographie \cite{MacArthur1967}. Cette discipline a récemment percolée au sein de la société civile via le concept de biodiversité. Le regard des citoyens se posent attentivement sur le devenir de la biodiversité dans le contexte actuel des changements globaux. La biogéographie, par son essence, peut apporter des réponses à ce questionnement ambiant \cite{Whittaker2005}. Cependant, pour y parvenir, des défis techniques et théoriques majeurs restent à surmonter \cite{Beck2012}.
 
 L'effort théorique nécessaire en biogéographie porte sur l'intégration ordonnée de concepts clés issus de différents champs de l'écologie \cite{Thuiller2013}. Ainsi, alors que les conditions climatiques et plus généralement la géographie physique sont classiquement évoquées pour expliquer la répartition des espèces \cite{Kearney2004}, les interactions entre espèces sont quant à elles souvent occultées. De même, bien que les processus évolutifs soient souvent évoqués comme déterminants majeurs de la diversité des espèces \cite{Rosindell2011}, leurs effets à court terme sont souvent ignorés \cite{Parmesan2006} dans les scénarios décrivant la biodiversité de demain \cite{Lavergne2010}. La difficulté principale est alors de produire des modèles (théoriques en première instance) qui intègrent l'ensemble des processus et les relations qu'ils entretient \cite{Thuiller2013} tout en gardant une relative simplicité. Une théorie intégrative en biogéographie pourrait être le meilleur point d'ancrage pour construire de nouvelles approches appliquées. Avec une telle théorie en main, nous pourrions aller vers l'enjeux majeurs de ces dernières années en biogéographie : relâcher les hypothèses que les modèles classiques de répartitions des espèces d'aujourd'hui utilisent (notamment en occultant les interactions) pour prédire la biodiversité de demain \cite{Guisan2011}.
 
 Dans le projet ici présenté, nous proposons de construire des modèles théoriques plus intégratifs en repartant d'un modèle théorique classique, celui de la théorie de la biogéographie des îles proposée par MacArthur et Wilson \cite{MacArthur1967}. Dans un premier temps, nous y ajoutons les interactions entre espèces et une relation explicite avec l'environnement abiotique au travers d'une approche communauté centrée qui étend le modèle classique. Dans un second temps, nous combinons une approche population centrée et les processus évolutifs pour une biogéographie insulaire plus mécaniste. Enfin, au regard des enjeux que soulève le rôle des interactions entre espèces dans la construction de la biodiversité, nous réfléchissons sur l'inférence d'espèces interdépendantes.
 
-\section{Etat des connaissances}
+Dans cette introduction à ma thèse j'ai choisi de prendre comme fil conducteur la question suivante :
+quelles informations referment la distribution géographiques des espèces ?
+Pour y apporter un maximum d'élément de réponse je regarderais les mécanismes sous-jacents à l'échelle d'une échelle avant d'aborder les espoir que soulève l'analyse de la variation de ces ranges dans le temps et l'espèce sur les différentes échelles de temps avant d'aborder les apporter un maximum d'é
+avant de montrer que l'analyse jointe semble révéler et les défis au regard.
 
-\subsection{La Théorie de la Biogéographie des Iles de MacArthur et Wilson}
+: question d'échelle / de variation de co-variation / difficultés d'apprécier la proportions relative des différents mécanismes / mécanismes de coexistence
+coexistence vs co-occurrence
+
+variabilité quelle espoir de généralisation
+
+Crombie repris dans Macarthur => coexistence
+
+Problème de coexistence
+
+
+
+
+
+
+
+# Cadre théorique de la thèse
+
+## Développements théoriques en Biogéographie
+
+### L'empreinte historique de la La Théorie de la Biogéographie des Iles de MacArthur et Wilson
+
+Malgré la 50 ans de depuis la publication du Livre et premier articles
+=> publications récentes qui repartent de la théorie des îles ; l'ecolet Warren et gravel and all
+
+### La théorie des métapopulations
+
+### La théorie neutres de l'écologie et le débat qu'elle soulève
+
+Ecological equivalence des individus OK mais peut-être que l'abondance des interactions expliques aussi
+
+
+
+## La TIB : un modèle simple donnant une vision puissante
+
 
 Le travail remarquable de MacArthur et Wilson \cite{MacArthur1967} est l'un des cadres les plus robustes de la biogéographie actuelle. Plus de 40 ans après la parution de leur livre, la Théorie de la Biogéographie des Iles (abrégée dans la suite TBI) est encore une entrée bien adaptée en biogéographie et le point de départ de nombreux travaux \cite{Gravel2011b,Ryberg2007,Rosindell2011}. L'idée majeure de la TBI est simple et puissante : étant donné une île colonisable par un ensemble d'espèces depuis un continent voisin, la diversité locale résulte de la balance entre 1- la colonisation depuis le continent et 2- les extinctions locales. La TBI est une métaphore, le cas simple d'un territoire isolé (l'île) où les flux d'individus depuis le pool d'espèce régional (le continent) sont facilement représentables. Le modèle peut être étendu à de nombreux cas où un territoire isolé est colonisé par les organismes à proximité, par exemple après un incendie ou une fragmentation de l'habitat \cite{Cook2002}. Plus généralement, on peut adapter un tel modèle à un territoire quelconque avec l'hypothèse que le pool régional d'espèces est indépendant des conditions locales (aucune rétroaction de la communauté locale sur le pool régional). Ainsi, ce modèle a déjà été utilisé avec succès par Gravel \textit{et al.} 2011 pour l'élaboration de leur théorie trophique de la biogéographie des îles \cite{Gravel2011b}.
 
@@ -26,16 +60,15 @@ La TIB tient également sa notoriété des nombreuses prédictions supportées p
 
 De part son pouvoir explicatif et son élégance, le modèle de MacArthur et Wilson est un point de départ approprié pour construire des modèles plus intégratifs en intégrant explicitement des processus écologiques et évolutifs. Cette idée n'est pas nouvelle et les auteurs de la TIB ont étudié un certain nombre de processus écologiques. Notamment, ils ont intégré les phénomènes de spéciation \cite{MacArthur1967} et réfléchis sur l'importance des interactions quant à la répartition des espèces \cite{MacArthur1984}. Néanmoins, dans le modèle classique, l'ensemble de ces aspects sont absents, l'idée que les processus écologiques importent peu aux larges échelles domine. Nous allons, dans ce projet, à l'encontre de cette idée et proposons de construire des modèles intégratifs qui étendent la TIB.
 
-\begin{figure}[H]
-\centering
-\includegraphics [scale=0.7]{fig1.png}
-\caption{ \footnotesize{ \textbf{Théorie de la biogéographie des Iles.} L'évolution des taux de colonisation et d'extinction est présentée pour trois îles aux caractéristiques différentes. Les tailles relatives des îles et les distances qui les séparent du continent sont schématisées à droite du graphique, les couleurs associent les îles à leurs courbes respectives. Le pool d'espèce régional ($P$) est constitué de 100 espèces, les taux de colonisation et d'extinction sont exprimés en terme de probabilité d'évènement. Les points où colonisation et extinction s'équilibrent sont marqué par les symboles en gris.}}
-\label{fig1}
-\vspace{-0.2 cm}
-\end{figure}
+
+
+![**La Théorie de la biogéographie des Iles.** L'évolution des taux de colonisation et d'extinction est présentée pour deux îles aux caractéristiques différentes. Les tailles relatives des îles et les distances qui les séparent du continent sont schématisées à droite du graphique, les couleurs associent les îles à leurs courbes respectives. Le pool d'espèce régional ($P$) est constitué de 100 espèces, les taux de colonisation et d'extinction sont exprimés en terme de probabilité d'évènement. Les points où colonisation et extinction s'équilibrent sont marqué par les symboles en gris.](../fig/figIntro/fig1.pdf){#fig:figMW}
+
 
 
 \subsection{Environnement abiotique et distribution des espèces}
+
+
 
 Les atouts actuels de la biogéographie sont 1- une quantité importante d'information relative aux présences d'espèces et au climat et 2- des modèles corrélatifs puissants qui décrivent précisément le lien entre l'espèce et son environnement abiotique. Le terme abiotique peut prêter à confusion dans la mesure où les espèces elles-mêmes peuvent modifier des variables dîtes abiotiques. Par exemple, les végétaux peuvent avoir un grand impact sur les variables abiotiques locales comme la température et l'humidité du sol \cite{Breshears1998}. Certains auteurs font une distinction précise en utilisant les termes de \textit{scenopoetiques} pour les variables environnementales sur lesquels les espèces ne peuvent influer et de \textit{dynamiquement liées} pour les autres \cite{Peterson2011}. Nous occulterons volontairement ces-dernières, l'environnement abiotique dont il est ici question n'est donc pas dynamiquement lié aux espèces.   
 
