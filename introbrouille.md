@@ -2,18 +2,29 @@
 title: Intro brouillon
 ---
 
-Décrire l'organisation spatiale des êtres vivants et en comprendre les mécanismes sous-jacents, tels sont les objectifs ambitieux de la biogéographie \cite{MacArthur1967}. Cette discipline a récemment percolée au sein de la société civile via le concept de biodiversité. Le regard des citoyens se posent attentivement sur le devenir de la biodiversité dans le contexte actuel des changements globaux. La biogéographie, par son essence, peut apporter des réponses à ce questionnement ambiant \cite{Whittaker2005}. Cependant, pour y parvenir, des défis techniques et théoriques majeurs restent à surmonter \cite{Beck2012}.
 
-L'effort théorique nécessaire en biogéographie porte sur l'intégration ordonnée de concepts clés issus de différents champs de l'écologie \cite{Thuiller2013}. Ainsi, alors que les conditions climatiques et plus généralement la géographie physique sont classiquement évoquées pour expliquer la répartition des espèces \cite{Kearney2004}, les interactions entre espèces sont quant à elles souvent occultées. De même, bien que les processus évolutifs soient souvent évoqués comme déterminants majeurs de la diversité des espèces \cite{Rosindell2011}, leurs effets à court terme sont souvent ignorés \cite{Parmesan2006} dans les scénarios décrivant la biodiversité de demain \cite{Lavergne2010}. La difficulté principale est alors de produire des modèles (théoriques en première instance) qui intègrent l'ensemble des processus et les relations qu'ils entretient \cite{Thuiller2013} tout en gardant une relative simplicité. Une théorie intégrative en biogéographie pourrait être le meilleur point d'ancrage pour construire de nouvelles approches appliquées. Avec une telle théorie en main, nous pourrions aller vers l'enjeux majeurs de ces dernières années en biogéographie : relâcher les hypothèses que les modèles classiques de répartitions des espèces d'aujourd'hui utilisent (notamment en occultant les interactions) pour prédire la biodiversité de demain \cite{Guisan2011}.
+Dans l'introduction de son livre "Island Life" paru en 1980 (soit 22 ans après la parution de *On the Tendency of Varieties to Depart Indefinitely From the Original Type*), le célèbre naturaliste Alfred Russel Wallace saisit le drôle de paradoxe suivant : bien que séparé traversé une bonne partie du globe terre les écosystème du Japon et du Royaume Uni sont très similaire notamment par leur composition en arbustes et en oiseaux alors que dans le même temps des êtres très rapprochées comme les îles indinesiennes Bali et Lombok séparées de quelques dizaines de kilomètres et peuvent être très différentes. Il evoque aussi la faible predictibility du climat pour comprendre les espèces en question , il prend pour exemple diff.érence faune afrique et brésilienne malgès la similarité du climat. Face à ces paradoxes so ouvrage ce veut une tentatatove pour comprendre ce les raisons mais il reconnait dès l'introduction que :
 
-Dans le projet ici présenté, nous proposons de construire des modèles théoriques plus intégratifs en repartant d'un modèle théorique classique, celui de la théorie de la biogéographie des îles proposée par MacArthur et Wilson \cite{MacArthur1967}. Dans un premier temps, nous y ajoutons les interactions entre espèces et une relation explicite avec l'environnement abiotique au travers d'une approche communauté centrée qui étend le modèle classique. Dans un second temps, nous combinons une approche population centrée et les processus évolutifs pour une biogéographie insulaire plus mécaniste. Enfin, au regard des enjeux que soulève le rôle des interactions entre espèces dans la construction de la biodiversité, nous réfléchissons sur l'inférence d'espèces interdépendantes.
+> Many years study of this class of subjects has convinced me that there is no short abd easy method of dealing with them; because they are, in their very nature, the visible outcome and residual product of the whole past history of the earth.
+
+Dans une vision simplifiée l'écologie détermine les lien entre les caractéristiques des espcèes  de la mort et des naissance des et l'évolution regardera les conséquences sur ces caractéristiques de ces même morts et naissances. En prennant ces définitions on comprend l'intrication de ces deux qui explique la demande pour réunir les deux de même que diverse discipline on été réunie avec succès lors de la théorie synthétique de l'évolution [@Schoener2011].
+
+porblème d'intricatoition des processus
+
+Special attention sur les îles
+
+Premier chapitre plus d'espèce mais plus de paramètre plus de porblème moins de prédiction
+
+
+Je vais illustrer mon propos avec 2 (3?) récurrent exemple (mais d'autres aussi) le cas du Frelon asiqtieu (anglais : Yellow-legged horne, *Vespa velutina*). Importance pour impact dans sur les abaeilles domestiques mais très peu sur la faune locale et les oiseaux migrateurs dans le nord
+
+L'introduction aux chapitres de ma thèse sera articulée autour de la question fondamnetal esuivant
+
 
 Dans cette introduction à ma thèse j'ai choisi de prendre comme fil conducteur la question suivante :
 quelles informations referment la distribution géographiques des espèces ?
 Pour y apporter un maximum d'élément de réponse je regarderais les mécanismes sous-jacents à l'échelle d'une échelle avant d'aborder les espoir que soulève l'analyse de la variation de ces ranges dans le temps et l'espèce sur les différentes échelles de temps avant d'aborder les apporter un maximum d'é
 avant de montrer que l'analyse jointe semble révéler et les défis au regard.
-
-Je vais illustrer mon propos avec 2 (3?) récurrent exemple (mais d'autres aussi) le cas du Frelon asiqtieu (anglais : Yellow-legged horne, *Vespa velutina*). Importance pour impact dans sur les abaeilles domestiques mais très peu sur la faune locale et les oiseaux migrateurs dans le nord
 
 
 : question d'échelle / de variation de co-variation / difficultés d'apprécier la proportions relative des différents mécanismes / mécanismes de coexistence
@@ -40,7 +51,28 @@ Un problème d'identification.
 
 classique experience de perte de la biodiv => et hope une histoire différenteds
 
-raseemblé ecologie 
+raseemblé ecologie et @Schoener2011
+
+
+
+##
+
+# Phase quantitavive / modéliser
+
+
+## L'importance des îles en biogéorgaphie
+
+
+
+<!-- différence avec le climat pas constentwe -->
+
+
+Décrire l'organisation spatiale des êtres vivants et en comprendre les mécanismes sous-jacents, tels sont les objectifs ambitieux de la biogéographie \cite{MacArthur1967}. Cette discipline a récemment percolée au sein de la société civile via le concept de biodiversité. Le regard des citoyens se posent attentivement sur le devenir de la biodiversité dans le contexte actuel des changements globaux. La biogéographie, par son essence, peut apporter des réponses à ce questionnement ambiant \cite{Whittaker2005}. Cependant, pour y parvenir, des défis techniques et théoriques majeurs restent à surmonter \cite{Beck2012}.
+
+L'effort théorique nécessaire en biogéographie porte sur l'intégration ordonnée de concepts clés issus de différents champs de l'écologie \cite{Thuiller2013}. Ainsi, alors que les conditions climatiques et plus généralement la géographie physique sont classiquement évoquées pour expliquer la répartition des espèces \cite{Kearney2004}, les interactions entre espèces sont quant à elles souvent occultées. De même, bien que les processus évolutifs soient souvent évoqués comme déterminants majeurs de la diversité des espèces \cite{Rosindell2011}, leurs effets à court terme sont souvent ignorés \cite{Parmesan2006} dans les scénarios décrivant la biodiversité de demain \cite{Lavergne2010}. La difficulté principale est alors de produire des modèles (théoriques en première instance) qui intègrent l'ensemble des processus et les relations qu'ils entretient \cite{Thuiller2013} tout en gardant une relative simplicité. Une théorie intégrative en biogéographie pourrait être le meilleur point d'ancrage pour construire de nouvelles approches appliquées. Avec une telle théorie en main, nous pourrions aller vers l'enjeux majeurs de ces dernières années en biogéographie : relâcher les hypothèses que les modèles classiques de répartitions des espèces d'aujourd'hui utilisent (notamment en occultant les interactions) pour prédire la biodiversité de demain \cite{Guisan2011}.
+
+Dans le projet ici présenté, nous proposons de construire des modèles théoriques plus intégratifs en repartant d'un modèle théorique classique, celui de la théorie de la biogéographie des îles proposée par MacArthur et Wilson \cite{MacArthur1967}. Dans un premier temps, nous y ajoutons les interactions entre espèces et une relation explicite avec l'environnement abiotique au travers d'une approche communauté centrée qui étend le modèle classique. Dans un second temps, nous combinons une approche population centrée et les processus évolutifs pour une biogéographie insulaire plus mécaniste. Enfin, au regard des enjeux que soulève le rôle des interactions entre espèces dans la construction de la biodiversité, nous réfléchissons sur l'inférence d'espèces interdépendantes.
+
 
 
 # Data availability
@@ -206,7 +238,7 @@ Malgré leurs performances, les modèles de distribution actuels utilisés pour 
 
 ## L'espace en liu 2même...
 
-## Remarqrues
+## Remarques
 
 "It just so happens that some people find it easier to think about things in terms of x's and y's, and other in terms rabbits of and lynx." MCann Preface
 
@@ -303,6 +335,8 @@ l'idée des interactions à déjà montré ça pertinence sur plusieurs exemples
 Relation diversiyté des habitats
 Relation aire quantitié d'espéces SAR / relation de la biogeograhies des îles
 Compromis entre aire et hétérogénéité...
+
+
 
 
 
@@ -441,7 +475,48 @@ On nous fait miroiter que finalement que l'érosion de la biodiversité est dram
 Mais les changement sont des remplacemnt et pour la conservation on peut se demander les startégie. Dans son arctile 'Don't juge a species on their origin' Mark Davis prend à revers un sertain nombre d'idée recu et souligne qye les effects des invedeurs peuvent être positives @Davis2011.
 
 
+Les ramges comme un fait (wallace chap 2)
+des espèces avec des larges avec des grandes ranges
 
+Loddigésie admirable (*Loddigesia mirabilis*) seul collibris de son genre vs Lièvre variable (*Lepus timidus*)
+
+nomnbre d'espèce dans un genre vaire beaucoup => un autre indice de solution pas fructifiées...
+
+Pithacia Monathus vs Pithecia pythecia separé par une rivière
+
+
+Geographical Ecology => patterns in the distribution of spceies
+
+L'auvrage de MacArthur de
+
+<!-- Island  life p10 -->
+
+2 espèces proches des ranges très séparéed =>  species
+Bonobo et cChimpanzés
+
+L'évolution = le hasard et la nécessité est un moteur de la répartiton mais aussi la composante historiqe de la biologie. Cette dimension fascinante implique aussi nous focalisé sur des explications singulière souvent pas évident qui permettent de conformer le type de facteurs impliqué dans la variation des ranges mais nous amène pas encore à trouver des règles précices.
+
+Wallace conclut :28 qu'une théorie générale doit tenir compte des variation range et proximité des espèces porches et des overlapp.
+
+
+> Both competition and predation appear now to be much more important in biogeography than peopl had formely guesses
+
+chap 2 geographical ecology
+
+il prend comme exemple la compétition entre oiseau et un manque de ressource pour une année partiuculièremnet sévère et que 19 and pas assez pour voir et il conclut que
+
+> This is the main reason most evidence for competition is from biogepgraphers.
+
+Distributiin des fauvettes *Crateroscelis robusta* et  *C.runa*
+
+ Mais le porblème étant que le signal n'est visible que si on a des données sur 20and.
+
+Le problème
+
+Parallèle entre information des traits sur le régime allimentaire et l'information dans les ranegs est-ce cela qui conduit les ecologistes à être des statisticuencs. et l'info dans l'ADN
+
+la question a été pourquoi il y a autant d'espèces mais je pense qu'un equestion légèremnetn différentes n'a pas été assez invextie : pourquoi peuvent-elles être si nombreuse....
+La limite est toujours OK si assez pour 2 ou plus.
 
 
 # Mes objectifs.
