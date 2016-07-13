@@ -13,6 +13,9 @@ quelles informations referment la distribution géographiques des espèces ?
 Pour y apporter un maximum d'élément de réponse je regarderais les mécanismes sous-jacents à l'échelle d'une échelle avant d'aborder les espoir que soulève l'analyse de la variation de ces ranges dans le temps et l'espèce sur les différentes échelles de temps avant d'aborder les apporter un maximum d'é
 avant de montrer que l'analyse jointe semble révéler et les défis au regard.
 
+Je vais illustrer mon propos avec 2 (3?) récurrent exemple (mais d'autres aussi) le cas du Frelon asiqtieu (anglais : Yellow-legged horne, *Vespa velutina*). Importance pour impact dans sur les abaeilles domestiques mais très peu sur la faune locale et les oiseaux migrateurs dans le nord
+
+
 : question d'échelle / de variation de co-variation / difficultés d'apprécier la proportions relative des différents mécanismes / mécanismes de coexistence
 coexistence vs co-occurrence
 
@@ -22,8 +25,55 @@ Crombie repris dans Macarthur => coexistence
 
 Problème de coexistence
 
+=> non reproductibilité des ranges / stochasticité des ranges Frelon asiatiques
+
+=> degat sur la nouvelle faune local msiaune augmentation ++ du nombre de liens...
+reconfigurations des réseaux locaux.
+
+=> ou est le cuyrseur dans l'hstoire (evolution) ou la geographie (l'ecologie)
+
+<!-- > biogeography of the species’ requires both theory and experiments that must be in large part novel -->
+
+A quel point est-il pertinent d'évaluer le range d'une espèce sur juste une île.
+
+Un problème d'identification.
+
+classique experience de perte de la biodiv => et hope une histoire différenteds
+
+raseemblé ecologie 
 
 
+# Data availability
+
+# Information dans les distributions
+
+## Proxy
+
+## Potential interactions
+
+Vespa aussi au Amérqieu la densit. des traffic...
+
+Multi couche de distrobution dans le cas du frelon asiatique Villemant et al. @Villeman ont montrés que superposition du genre *Vespa* et notamment au niveau asiatique énormément aisin l'inférence se fait sur des données qui comporte une empreinte de condition et localemnt éteinte alors que possiblement comtraite qui ne seront pas en France...
+
+
+
+
+
+## Enjeux essentiels de la biogéographie
+
+
+## Une question d'échelle
+Question d'échelle
+La biogéographie avec au moins 3 problèmes d'échelles
+
+=> spatiale peut-on avoir d
+
+=> temporelle plus on augmente plus l'enpreinte historiques est forte => grands evenemnt géologique (lacitaion mouvement des plques) biogéogrpahies historiqyes mais aussi forme un pool d'espèces
+
+=> Mais aussi l'échelle taxonomique : la relaton aire espèce est décrite à l'intérieru des taxons les relations allométriques à l'inérieur des taxons E O Wilson a commencé à rappporter des relation sur les formis les exemples du livre sont herpeta faun (reptile plus amphibien)
+mecanisme => diversité de milieu
+
+contre exemple des chauves souris
 
 
 
@@ -32,17 +82,48 @@ Problème de coexistence
 
 ## Développements théoriques en Biogéographie
 
+equilibre => equation 3-3 repartir de 3-3
+
 ### L'empreinte historique de la La Théorie de la Biogéographie des Iles de MacArthur et Wilson
 
-Malgré la 50 ans de depuis la publication du Livre et premier articles
+=> impact enorme sur la conservation et encore aujourd'hui bien que simplifié les calculs permettent de comprendredsimplementr dans quelles directions nous allons [article NewYork Times]
+Malgré la 50 ans de depuis la publication du Livre et premier articles a lasuorise de auiteure eux meme
 => publications récentes qui repartent de la théorie des îles ; l'ecolet Warren et gravel and all
 
+Dans la réédition de 2001 [] Wilson rappelle que le problème :
+
+> "The flaws of the book lie in its oversimplification and incompleteness, which are endemic to most efforts at theory and synthesis."
+
+Preface de 67 :
+
+> Now we both call ourselves Biogeographers and are unable to see any real distinction between biogeography and ecology
+
+Diminuer la composante historqiue à la recherche de loi et j'ajouterais aussi simple soit elle raffiner par la suite
+
 ### La théorie des métapopulations
+
+=> chapitre de H  anski
 
 ### La théorie neutres de l'écologie et le débat qu'elle soulève
 
 Ecological equivalence des individus OK mais peut-être que l'abondance des interactions expliques aussi
 
+=> chapitre dans revisited
+
+
+Problème si explication alternatives possibles alors on n'est pas obligé de mettre pour expliquer quoi que ce soit. De plus savons nous si c'est discernable ??? Si le deux relation aire espèce sont différentes d'un groupe à l'autre alors oui... Mais sinon... Non.
+
+
+## Chapitre 2 TIB
+
+area and number $S=CA^z$ ($z \in [0.2,0.35]$) mais des exeptions C taxon dependance similarité avec les eation allometriques sample nom isolé même relation mais z différent
+
+Preston 1962 a lié species abindance et
+
+
+## Interactions écologique et TIB
+
+Wilson grand entoogist spécialistes des fourmis et MacArthur mathématicien + biologuste très oiseaux sont pleinemnt conscience et même comporteemntau que peut avoir la biogéographie c'est même souvent evoquer dans la théorie mais jamais inclu aisni la théorie des
 
 
 ## La TIB : un modèle simple donnant une vision puissante
