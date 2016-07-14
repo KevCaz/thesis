@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  13 JUL 2016 19:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  14 JUL 2016 11:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -975,7 +975,14 @@ RACTION []
 
 ])
 Package cleveref Info: loaded `french' language definitions on input line 126.
- (./intro.tex [1
+
+Chapitre 1.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\\' on input line 128.
+
+(./intro.tex [1
+
 
 
 
@@ -1120,7 +1127,7 @@ ine 327.
 Package natbib Warning: Citation `MacArthur1984' on page 9 undefined on input l
 ine 329.
 
-<fig/fig1.pdf, id=456, 505.89pt x 325.215pt>
+<fig/fig1.pdf, id=464, 505.89pt x 325.215pt>
 File: fig/fig1.pdf Graphic file (type pdf)
  <use fig/fig1.pdf>
 Package pdftex.def Info: fig/fig1.pdf used on input line 337.
@@ -1167,15 +1174,15 @@ e 392.
 Package natbib Warning: Citation `Thuiller2011' on page 11 undefined on input l
 ine 392.
 
+[11]
 
-Package natbib Warning: Citation `Gravel2011b' on page 11 undefined on input li
+Package natbib Warning: Citation `Gravel2011b' on page 12 undefined on input li
 ne 406.
 
 
-Package natbib Warning: Citation `Godsoe2012' on page 11 undefined on input lin
+Package natbib Warning: Citation `Godsoe2012' on page 12 undefined on input lin
 e 406.
 
-[11]
 
 Package natbib Warning: Citation `Allesina2012' on page 12 undefined on input l
 ine 424.
@@ -1204,43 +1211,43 @@ e 436.
 Package natbib Warning: Citation `Montoya2009' on page 12 undefined on input li
 ne 436.
 
+[12]
 
-Package natbib Warning: Citation `Levin1974' on page 12 undefined on input line
+Package natbib Warning: Citation `Levin1974' on page 13 undefined on input line
  440.
 
 
-Package natbib Warning: Citation `Godsoe2012' on page 12 undefined on input lin
+Package natbib Warning: Citation `Godsoe2012' on page 13 undefined on input lin
 e 445.
 
 
-Package natbib Warning: Citation `Holt2009' on page 12 undefined on input line 
+Package natbib Warning: Citation `Holt2009' on page 13 undefined on input line 
 447.
 
 
-Package natbib Warning: Citation `Davis1998' on page 12 undefined on input line
+Package natbib Warning: Citation `Davis1998' on page 13 undefined on input line
  450.
 
 
-Package natbib Warning: Citation `Gotelli2010' on page 12 undefined on input li
+Package natbib Warning: Citation `Gotelli2010' on page 13 undefined on input li
 ne 453.
 
 
-Package natbib Warning: Citation `Kissling2011' on page 12 undefined on input l
+Package natbib Warning: Citation `Kissling2011' on page 13 undefined on input l
 ine 455.
 
 
-Package natbib Warning: Citation `Guisan2011' on page 12 undefined on input lin
+Package natbib Warning: Citation `Guisan2011' on page 13 undefined on input lin
 e 455.
 
 
-Package natbib Warning: Citation `Jabot2012' on page 12 undefined on input line
+Package natbib Warning: Citation `Jabot2012' on page 13 undefined on input line
  458.
 
 
-Package natbib Warning: Citation `Gravel2011b' on page 12 undefined on input li
+Package natbib Warning: Citation `Gravel2011b' on page 13 undefined on input li
 ne 462.
 
-[12]
 
 Package natbib Warning: Citation `Poisot2012' on page 13 undefined on input lin
 e 472.
@@ -1331,38 +1338,38 @@ ne 543.
 Package natbib Warning: Citation `Grant2006' on page 15 undefined on input line
  551.
 
+[15]
 
-Package natbib Warning: Citation `McGill2006' on page 15 undefined on input lin
+Package natbib Warning: Citation `McGill2006' on page 16 undefined on input lin
 e 561.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/ucs/data/uni-1.def
 File: uni-1.def 2013/05/13 UCS: Unicode data U+0100..U+01FF
 )
 
-Package natbib Warning: Citation `McGill2006' on page 15 undefined on input lin
+Package natbib Warning: Citation `McGill2006' on page 16 undefined on input lin
 e 567.
 
 
-Package natbib Warning: Citation `Albouy2011' on page 15 undefined on input lin
+Package natbib Warning: Citation `Albouy2011' on page 16 undefined on input lin
 e 567.
 
 
-Package natbib Warning: Citation `Litchman2008' on page 15 undefined on input l
+Package natbib Warning: Citation `Litchman2008' on page 16 undefined on input l
 ine 567.
 
 
-Package natbib Warning: Citation `Albouy2011' on page 15 undefined on input lin
+Package natbib Warning: Citation `Albouy2011' on page 16 undefined on input lin
 e 573.
 
 
-Package natbib Warning: Citation `Edwards2013' on page 15 undefined on input li
+Package natbib Warning: Citation `Edwards2013' on page 16 undefined on input li
 ne 577.
 
 
-Package natbib Warning: Citation `Mouillot2013' on page 15 undefined on input l
+Package natbib Warning: Citation `Mouillot2013' on page 16 undefined on input l
 ine 580.
 
-[15]
 
 Package natbib Warning: Citation `McGill2006' on page 16 undefined on input lin
 e 596.
@@ -1449,24 +1456,25 @@ ne 676.
 Package natbib Warning: Citation `Araujo2011' on page 18 undefined on input lin
 e 678.
 
+[18]
 
-Package natbib Warning: Citation `Beck2012' on page 18 undefined on input line 
+Package natbib Warning: Citation `Beck2012' on page 19 undefined on input line 
 687.
 
 
-Package natbib Warning: Citation `Lomolino2000' on page 18 undefined on input l
+Package natbib Warning: Citation `Lomolino2000' on page 19 undefined on input l
 ine 687.
 
 
-Package natbib Warning: Citation `MacArthur1967' on page 18 undefined on input 
+Package natbib Warning: Citation `MacArthur1967' on page 19 undefined on input 
 line 690.
 
 
-Package natbib Warning: Citation `Brown2004' on page 18 undefined on input line
+Package natbib Warning: Citation `Brown2004' on page 19 undefined on input line
  690.
 
 
-Package natbib Warning: Citation `Thuiller2013' on page 18 undefined on input l
+Package natbib Warning: Citation `Thuiller2013' on page 19 undefined on input l
 ine 694.
 
 
@@ -1475,41 +1483,40 @@ Overfull \hbox (19.66306pt too wide) in paragraph at lines 684--703
 'his-toire de la th[]eorie de la biog[]eographie
  []
 
-[18]
 ! Undefined control sequence.
 l.707 \tightlist
                 
 ? 
-[19] [20]
+[19] [20] [21]
 Overfull \hbox (19.0736pt too wide) in paragraph at lines 807--810
 []\OT1/txr/m/n/12 La niche c'est quoi on en a deux de-fi-ni-tion ultr clas-siqu
 e mais elles sont tr[]es porbl[]ematiques.
  []
 
-[21]
+[22]
 
-Package natbib Warning: Citation `Tingley2009' on page 22 undefined on input li
+Package natbib Warning: Citation `Tingley2009' on page 23 undefined on input li
 ne 846.
 
 
-Package natbib Warning: Citation `Post2009' on page 22 undefined on input line 
+Package natbib Warning: Citation `Post2009' on page 23 undefined on input line 
 850.
 
 
-Package natbib Warning: Citation `Yoshida2003' on page 22 undefined on input li
+Package natbib Warning: Citation `Yoshida2003' on page 23 undefined on input li
 ne 855.
 
 
-Package natbib Warning: Citation `Grant2006' on page 22 undefined on input line
+Package natbib Warning: Citation `Grant2006' on page 23 undefined on input line
  863.
 
-[22] [23] [24] [25] [26] [27] [28] [29] [30]
+[23] [24] [25] [26] [27] [28] [29] [30] [31]
 Overfull \hbox (16.70961pt too wide) in paragraph at lines 1176--1180
 []\OT1/txr/m/n/12 la ques-tion a []et[]e pour-quoi il y a au-tant d'esp[]eces m
 ais je pense qu'un eques-tion l[]eg[]eremnetn
  []
 
-[31] [32]
+[32]
 Overfull \hbox (74.32588pt too wide) in paragraph at lines 1230--1235
 \OT1/txr/m/n/12 Na-tio-nal Aca-demy of Sciences of the Uni-ted States of Ame-ri
 ca 105, 13930--5. doi :[][]10.1073/pnas.0803834105[][] 
@@ -1527,13 +1534,13 @@ Overfull \hbox (25.25017pt too wide) in paragraph at lines 1243--1248
 Let-ters 14, 741--748. doi :[][]10.1111/j.1461-
  []
 
-
+[33]
 Overfull \hbox (41.93448pt too wide) in paragraph at lines 1271--1275
 \OT1/txr/m/n/12 2002. Single-species mo-dels for many-species food webs. Na-tur
 e 417, 541--543. doi :[][]10.1038/417541a[][] 
  []
 
-[33]
+
 Overfull \hbox (5.06616pt too wide) in paragraph at lines 1277--1281
 \OT1/txr/m/n/12 si-mi-la-rity of spe-cies in-ter-ac-tion net-works. Eco-logy le
 t-ters 15, 1353--61. doi :[][]10.1111/ele.12002[][] 
@@ -1546,10 +1553,10 @@ Overfull \hbox (29.24692pt too wide) in paragraph at lines 1288--1292
  []
 
 )
-Package cleveref Info: loaded `english' language definitions on input line 131.
+Package cleveref Info: loaded `english' language definitions on input line 133.
 
  (./chapitre1/chap1.tex [34]
-article 1.
+article 2.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\\' on input line 1.
@@ -1943,7 +1950,7 @@ Overfull \hbox (1.56554pt too wide) in paragraph at lines 258--259
 -nectance gra-di-ents. \OT1/txr/m/n/12 We com-
  []
 
-[63] <./chapitre1/table1.pdf, id=794, 538.60861pt x 124.20102pt>
+[63] <./chapitre1/table1.pdf, id=827, 538.60861pt x 124.20102pt>
 File: ./chapitre1/table1.pdf Graphic file (type pdf)
 
 <use ./chapitre1/table1.pdf>
@@ -1964,7 +1971,7 @@ Package epstopdf Info: Source file: <./chapitre1/fig1.eps>
 rted-to.pdf ./chapitre1/fig1.eps>
 (epstopdf)             \includegraphics on input line 285.
 Package epstopdf Info: Output file is already uptodate.
-<./chapitre1/fig1-eps-converted-to.pdf, id=795, 650.43pt x 198.7425pt>
+<./chapitre1/fig1-eps-converted-to.pdf, id=828, 650.43pt x 198.7425pt>
 File: ./chapitre1/fig1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./chapitre1/fig1-eps-converted-to.pdf>
@@ -1982,7 +1989,7 @@ rted-to.pdf ./chapitre1/fig2.eps>
 (epstopdf)             \includegraphics on input line 297.
 Package epstopdf Info: Output file is already uptodate.
 
-<./chapitre1/fig2-eps-converted-to.pdf, id=796, 433.62pt x 389.455pt>
+<./chapitre1/fig2-eps-converted-to.pdf, id=829, 433.62pt x 389.455pt>
 File: ./chapitre1/fig2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./chapitre1/fig2-eps-converted-to.pdf>
@@ -2001,7 +2008,7 @@ Package epstopdf Info: Source file: <./chapitre1/fig3.eps>
 rted-to.pdf ./chapitre1/fig3.eps>
 (epstopdf)             \includegraphics on input line 309.
 Package epstopdf Info: Output file is already uptodate.
-<./chapitre1/fig3-eps-converted-to.pdf, id=864, 433.62pt x 389.455pt>
+<./chapitre1/fig3-eps-converted-to.pdf, id=896, 433.62pt x 389.455pt>
 File: ./chapitre1/fig3-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./chapitre1/fig3-eps-converted-to.pdf>
@@ -2019,7 +2026,7 @@ Package epstopdf Info: Source file: <./chapitre1/fig4.eps>
 rted-to.pdf ./chapitre1/fig4.eps>
 (epstopdf)             \includegraphics on input line 321.
 Package epstopdf Info: Output file is already uptodate.
- <./chapitre1/fig4-eps-converted-to.pdf, id=883, 650.43pt x 216.81pt>
+ <./chapitre1/fig4-eps-converted-to.pdf, id=914, 650.43pt x 216.81pt>
 File: ./chapitre1/fig4-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./chapitre1/fig4-eps-converted-to.pdf>
@@ -2038,7 +2045,7 @@ rted-to.pdf ./chapitre1/fig5.eps>
 (epstopdf)             \includegraphics on input line 333.
 Package epstopdf Info: Output file is already uptodate.
 
-<./chapitre1/fig5-eps-converted-to.pdf, id=902, 650.43pt x 230.8625pt>
+<./chapitre1/fig5-eps-converted-to.pdf, id=932, 650.43pt x 230.8625pt>
 File: ./chapitre1/fig5-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./chapitre1/fig5-eps-converted-to.pdf>
@@ -2046,7 +2053,7 @@ Package pdftex.def Info: ./chapitre1/fig5-eps-converted-to.pdf used on input li
 ne 333.
 (pdftex.def)             Requested size: 443.86316pt x 157.54803pt.
 ) (./chapitre2/chap2.tex [68 <./chapitre1/fig5-eps-converted-to.pdf>]
-article 2.
+article 3.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\\' on input line 1.
@@ -2383,7 +2390,7 @@ Package epstopdf Info: Source file: <./chapitre2/fig1.eps>
 rted-to.pdf ./chapitre2/fig1.eps>
 (epstopdf)             \includegraphics on input line 539.
 Package epstopdf Info: Output file is already uptodate.
-<./chapitre2/fig1-eps-converted-to.pdf, id=1048, 1156.32pt x 317.185pt>
+<./chapitre2/fig1-eps-converted-to.pdf, id=1091, 1156.32pt x 317.185pt>
 File: ./chapitre2/fig1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./chapitre2/fig1-eps-converted-to.pdf>
@@ -2394,44 +2401,377 @@ ne 539.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) (./chapitre3/chap3.tex [92] [93] [94
+) (./chapitre3/chap3.tex [92] [93] [94]
 
-]
-article 3.
+LaTeX Warning: Reference `fig:synth' on page 95 undefined on input line 113.
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 1.
 
-) (./chapitre4/chap4.tex [95] [96
+LaTeX Warning: Reference `fig:shtpth' on page 95 undefined on input line 119.
 
-]
+
+LaTeX Warning: Reference `fig:shtpth' on page 95 undefined on input line 121.
+
+[95]
+
+LaTeX Warning: Reference `fig:synth' on page 96 undefined on input line 125.
+
+
+LaTeX Warning: Reference `fig:synth' on page 96 undefined on input line 137.
+
+
+LaTeX Warning: Reference `fig:shtpth' on page 96 undefined on input line 145.
+
+
+LaTeX Warning: Reference `fig:shtpth' on page 96 undefined on input line 146.
+
+[96]
+
+LaTeX Warning: Reference `fig:degocc' on page 97 undefined on input line 157.
+
+
+LaTeX Warning: Reference `fig:degocc' on page 97 undefined on input line 175.
+
+[97] [98]
+
+LaTeX Warning: Reference `fig:box1' on page 99 undefined on input line 242.
+
+
+LaTeX Warning: Reference `fig:box1' on page 99 undefined on input line 263.
+
+[99] [100]
+Overfull \hbox (80.31902pt too wide) in paragraph at lines 293--293
+[] [] 
+ []
+
+
+Overfull \hbox (3.58234pt too wide) in paragraph at lines 299--301
+ \OT1/txr/m/n/12 species|
+ []
+
+
+Overfull \hbox (3.1588pt too wide) in paragraph at lines 301--303
+ []|\OT1/txr/m/n/12 Interaction
+ []
+
+
+Overfull \hbox (23.6095pt too wide) in paragraph at lines 303--305
+ []|\OT1/txr/m/n/12 Observed|
+ []
+
+
+Overfull \hbox (9.82446pt too wide) in paragraph at lines 305--307
+ []|\OT1/txr/m/n/12 Traits|
+ []
+
+
+Overfull \hbox (35.34932pt too wide) in paragraph at lines 307--309
+ []|\OT1/txr/m/n/12 Connectance|
+ []
+
+
+Overfull \hbox (3.58234pt too wide) in paragraph at lines 319--321
+ \OT1/txr/m/n/12 species|
+ []
+
+
+Overfull \hbox (3.1588pt too wide) in paragraph at lines 321--323
+ []|\OT1/txr/m/n/12 Interaction
+ []
+
+
+Overfull \hbox (23.6095pt too wide) in paragraph at lines 323--325
+ []|\OT1/txr/m/n/12 Observed|
+ []
+
+
+Overfull \hbox (9.82446pt too wide) in paragraph at lines 325--327
+ []|\OT1/txr/m/n/12 Traits|
+ []
+
+
+Overfull \hbox (35.34932pt too wide) in paragraph at lines 327--329
+ []|\OT1/txr/m/n/12 Connectance|
+ []
+
+
+Overfull \hbox (0.99878pt too wide) in paragraph at lines 340--342
+ \OT1/txr/m/n/12 Parasitism|
+ []
+
+
+Overfull \hbox (4.92633pt too wide) in paragraph at lines 387--389
+ []|\OT1/txr/m/n/12 128891|
+ []
+
+
+Overfull \hbox (11.18678pt too wide) in paragraph at lines 391--393
+ []|\OT1/txr/m/n/12 Competition|
+ []
+
+[101]
+
+LaTeX Warning: File `../fig/figConcept.pdf' not found on input line 428.
+
+
+! Package pdftex.def Error: File `../fig/figConcept.pdf' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.428 \includegraphics{../fig/figConcept.pdf}
+                                             
+? 
+LaTeX Font Info:    Try loading font information for OT1+txtt on input line 428
+.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/txfonts/ot1txtt.fd
+File: ot1txtt.fd 2000/12/15 v3.1
+) [102]
+
+LaTeX Warning: File `../fig/figIntVsNoint.pdf' not found on input line 442.
+
+
+! Package pdftex.def Error: File `../fig/figIntVsNoint.pdf' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.442 \includegraphics{../fig/figIntVsNoint.pdf}
+                                                
+? 
+[103]
+
+LaTeX Warning: File `../fig/figOrder.pdf' not found on input line 463.
+
+
+! Package pdftex.def Error: File `../fig/figOrder.pdf' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.463 \includegraphics{../fig/figOrder.pdf}
+                                           
+? 
+[104]
+
+LaTeX Warning: File `../fig/figdegocc.pdf' not found on input line 477.
+
+
+! Package pdftex.def Error: File `../fig/figdegocc.pdf' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.477 \includegraphics{../fig/figdegocc.pdf}
+                                            
+? 
+[105]pdfTeX warning (ext4): destination with the same identifier (name{refs}) h
+as been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.502 \hypertarget{refs}{}
+                           [106] [107] [108] [109]
+
+LaTeX Warning: Reference `fig:dendro' on page 110 undefined on input line 643.
+
+[110]
+
+Package longtable Warning: Column widths have changed
+(longtable)                in table 5 on input line 669.
+
+
+Package longtable Warning: Column widths have changed
+(longtable)                in table 6 on input line 684.
+
+[111]
+Overfull \hbox (42.233pt too wide) in alignment at lines 697--738
+ [] [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (42.233pt too wide) in alignment at lines 738--761
+ [] [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Package longtable Warning: Column widths have changed
+(longtable)                in table 7 on input line 761.
+
+[112]
+LaTeX Font Info:    Try loading font information for OMS+txr on input line 765.
+
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/txfonts/omstxr.fd
+File: omstxr.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Font shape `OMS/txr/m/n' in size <12> not available
+(Font)              Font shape `OMS/txsy/m/n' tried instead on input line 765.
+ [113]
+
+LaTeX Warning: File `../fig/figS1.png' not found on input line 773.
+
+
+! Package pdftex.def Error: File `../fig/figS1.png' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.773 \includegraphics{../fig/figS1.png}
+                                        
+? 
+[114]
+
+LaTeX Warning: File `../fig/figS2.pdf' not found on input line 781.
+
+
+! Package pdftex.def Error: File `../fig/figS2.pdf' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.781 \includegraphics{../fig/figS2.pdf}
+                                        
+? 
+[115]
+
+LaTeX Warning: File `../fig/figS3.pdf' not found on input line 792.
+
+
+! Package pdftex.def Error: File `../fig/figS3.pdf' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.792 \includegraphics{../fig/figS3.pdf}
+                                        
+? 
+[116]
+
+LaTeX Warning: File `../fig/figS4.pdf' not found on input line 803.
+
+
+! Package pdftex.def Error: File `../fig/figS4.pdf' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.803 \includegraphics{../fig/figS4.pdf}
+                                        
+? 
+[117]
+
+LaTeX Warning: File `../fig/figS5.pdf' not found on input line 823.
+
+
+! Package pdftex.def Error: File `../fig/figS5.pdf' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.823 \includegraphics{../fig/figS5.pdf}
+                                        
+? 
+[118]
+
+LaTeX Warning: File `../fig/figS6.pdf' not found on input line 835.
+
+
+! Package pdftex.def Error: File `../fig/figS6.pdf' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.835 \includegraphics{../fig/figS6.pdf}
+                                        
+? 
+[119]
+
+LaTeX Warning: File `../fig/figS7.pdf' not found on input line 850.
+
+
+! Package pdftex.def Error: File `../fig/figS7.pdf' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.850 \includegraphics{../fig/figS7.pdf}
+                                        
+? 
+[120]
+
+LaTeX Warning: File `../fig/figS8.pdf' not found on input line 866.
+
+
+! Package pdftex.def Error: File `../fig/figS8.pdf' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.866 \includegraphics{../fig/figS8.pdf}
+                                        
+? 
+[121]
+
+LaTeX Warning: File `../fig/figS9.pdf' not found on input line 887.
+
+
+! Package pdftex.def Error: File `../fig/figS9.pdf' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.887 \includegraphics{../fig/figS9.pdf}
+                                        
+? 
+pdfTeX warning (ext4): destination with the same identifier (name{refs}) has be
+en already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.900 \hypertarget{refs}{}
+                          ) (./chapitre4/chap4.tex [122]
 article 4.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\\' on input line 1.
 
-) [97] [98
+) [123
+
+] [124
 
 ]
-Package cleveref Info: loaded `english' language definitions on input line 165.
+Package cleveref Info: loaded `english' language definitions on input line 167.
 
 
 No file thesekc.bbl.
-Package cleveref Info: loaded `english' language definitions on input line 169.
+Package cleveref Info: loaded `english' language definitions on input line 171.
 
 
 Package natbib Warning: There were undefined citations.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 175.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 175.
+
+Package longtable Warning: Table widths have changed. Rerun LaTeX.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 177.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 177.
 (./thesekc.aux (./liminaires.aux)
 Package cleveref Info: loaded `french' language definitions on input line 25.
 Package cleveref Info: loaded `french' language definitions on input line 30.
-Package cleveref Info: loaded `english' language definitions on input line 260.
+Package cleveref Info: loaded `english' language definitions on input line 263.
 
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 175.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 175.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 177.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 177.
 
 
 Package rerunfilecheck Warning: File `thesekc.out' has changed.
@@ -2439,44 +2779,176 @@ Package rerunfilecheck Warning: File `thesekc.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `thesekc.out':
-(rerunfilecheck)             Before: 64CF007E7DFC2A33ED41B8DD32947A87;5168
-(rerunfilecheck)             After:  2F2FA87BC20A9E590DDB2E8AEFC2593C;5177.
+(rerunfilecheck)             Before: 2F2FA87BC20A9E590DDB2E8AEFC2593C;5177
+(rerunfilecheck)             After:  AD8C7D13976371F713D4D5EFD5A35250;6842.
+
+LaTeX Warning: There were undefined references.
+
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 175.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 177.
  ) 
 Here is how much of TeX's memory you used:
- 15780 strings out of 493014
- 243264 string characters out of 6133351
- 396183 words of memory out of 5000000
- 18725 multiletter control sequences out of 15000+600000
- 31753 words of font info for 77 fonts, out of 8000000 for 9000
+ 16087 strings out of 493014
+ 247947 string characters out of 6133351
+ 402183 words of memory out of 5000000
+ 18881 multiletter control sequences out of 15000+600000
+ 32690 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  37i,17n,38p,2392b,928s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{table.caption.32} has been referenced but does no
-t exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.caption.25} has been referenced but does not
+pdfTeX warning (dest): name{equation.2.7.12} has been referenced but does not
  exist, replaced by a fixed one
 
-pdfTeX warning (dest): name{figure.caption.23} has been referenced but does not
- exist, replaced by a fixed one
+pdfTeX warning (dest): name{equation.2.7.6} has been referenced but does not ex
+ist, replaced by a fixed one
 
-pdfTeX warning (dest): name{figure.caption.21} has been referenced but does not
- exist, replaced by a fixed one
+pdfTeX warning (dest): name{equation.2.7.9} has been referenced but does not ex
+ist, replaced by a fixed one
 
-pdfTeX warning (dest): name{figure.caption.19} has been referenced but does not
- exist, replaced by a fixed one
+pdfTeX warning (dest): name{equation.2.7.7} has been referenced but does not ex
+ist, replaced by a fixed one
 
-pdfTeX warning (dest): name{table.caption.15} has been referenced but does not 
+pdfTeX warning (dest): name{equation.2.7.3} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{equation.2.7.1} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{equation.1.6.8} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{equation.1.6.9} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{equation.1.6.5} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{equation.1.6.4} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{equation.1.6.2} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{equation.1.6.1} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.1.11} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.1.10} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.1.7.1} has been referenced but does not 
 exist, replaced by a fixed one
 
-pdfTeX warning (dest): name{figure.caption.17} has been referenced but does not
+pdfTeX warning (dest): name{subsection.0.9.1} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.0.9} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.0.8} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.0.7} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.0.6.5} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.0.6.4} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.0.6.3} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.0.6.2} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.0.6.1} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.0.6} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.0.5} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.0.4.16} has been referenced but does not
  exist, replaced by a fixed one
 
-pdfTeX warning (dest): name{subsection.0.0.1} has been referenced but does not 
+pdfTeX warning (dest): name{subsection.0.4.15} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.0.4.14} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.0.4.13} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.0.4.12} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.0.4.11} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.0.4.10} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.0.4.9} has been referenced but does not 
 exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.0.4.8} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.0.4.7} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.0.4.6} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.0.4.5} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.0.4.4} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.0.4.3} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.0.4.2} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.0.4.1} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.0.4} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.0.3.4} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.0.3.3} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.0.3.2} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.0.3.1} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.0.3} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.0.2} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.0.1.1} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.0.1} has been referenced but does not exist
+, replaced by a fixed one
 
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/tex
 live/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texl
@@ -2493,14 +2965,15 @@ s/type1/public/txfonts/rtxi.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1
 c/txfonts/rtxr.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/txfon
 ts/txex.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/txfonts/txsy
 .pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/txfonts/txsyb.pfb><
-/usr/local/texlive/2016/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local
-/texlive/2016/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/
-2016/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf
--dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesekc.pdf (112 pages, 1252580 bytes).
+/usr/local/texlive/2016/texmf-dist/fonts/type1/public/txfonts/txtt.pfb></usr/lo
+cal/texlive/2016/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texliv
+e/2016/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2016/te
+xmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/f
+onts/type1/urw/times/utmri8a.pfb>
+Output written on thesekc.pdf (138 pages, 1300864 bytes).
 PDF statistics:
- 1207 PDF objects out of 1440 (max. 8388607)
- 1022 compressed objects within 11 object streams
- 272 named destinations out of 1000 (max. 500000)
+ 1452 PDF objects out of 1728 (max. 8388607)
+ 1238 compressed objects within 13 object streams
+ 399 named destinations out of 1000 (max. 500000)
  582 words of extra memory for PDF output out of 10000 (max. 10000000)
 
