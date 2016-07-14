@@ -179,7 +179,7 @@
         % \hskip-1.6cm	\MakeUppercase{Universit\'{e} du Qu\'{e}bec \`{a} Rimouski}
         % \textbf{\MakeUppercase{Universit\'{e} du Qu\'{e}bec \`{a} Rimouski}}\\
 
-        \includegraphics[width=8cm]{logo_uqar.eps}
+        \includegraphics[width=8cm]{img/logo_uqar.eps}
 
 
         \vfill\textbf{\@Titre}\\

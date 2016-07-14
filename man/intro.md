@@ -1,7 +1,15 @@
 ---
-title: Intro brouillon
+geometry: margin=1in
+header-includes:
+    - \usepackage{setspace}
+    - \setstretch{1,5}
+    - \usepackage{times}
+    - \usepackage{lineno}
 ---
 
+
+
+# Depuis Wallace {-}
 
 Dans l'introduction de son livre "Island Life" paru en 1980 (soit 22 ans après la parution de *On the Tendency of Varieties to Depart Indefinitely From the Original Type*), le célèbre naturaliste Alfred Russel Wallace saisit le drôle de paradoxe suivant : bien que séparé traversé une bonne partie du globe terre les écosystème du Japon et du Royaume Uni sont très similaire notamment par leur composition en arbustes et en oiseaux alors que dans le même temps des êtres très rapprochées comme les îles indinesiennes Bali et Lombok séparées de quelques dizaines de kilomètres et peuvent être très différentes. Il evoque aussi la faible predictibility du climat pour comprendre les espèces en question , il prend pour exemple diff.érence faune afrique et brésilienne malgès la similarité du climat. Face à ces paradoxes so ouvrage ce veut une tentatatove pour comprendre ce les raisons mais il reconnait dès l'introduction que :
 
@@ -55,7 +63,7 @@ raseemblé ecologie et @Schoener2011
 
 
 
-##
+# Section non num {-}
 
 # Phase quantitavive / modéliser
 
@@ -175,7 +183,7 @@ De part son pouvoir explicatif et son élégance, le modèle de MacArthur et Wil
 
 
 
-![**La Théorie de la biogéographie des Iles.** L'évolution des taux de colonisation et d'extinction est présentée pour deux îles aux caractéristiques différentes. Les tailles relatives des îles et les distances qui les séparent du continent sont schématisées à droite du graphique, les couleurs associent les îles à leurs courbes respectives. Le pool d'espèce régional ($P$) est constitué de 100 espèces, les taux de colonisation et d'extinction sont exprimés en terme de probabilité d'évènement. Les points où colonisation et extinction s'équilibrent sont marqué par les symboles en gris.](../fig/figIntro/fig1.pdf){#fig:figMW}
+![**La Théorie de la biogéographie des Iles.** L'évolution des taux de colonisation et d'extinction est présentée pour deux îles aux caractéristiques différentes. Les tailles relatives des îles et les distances qui les séparent du continent sont schématisées à droite du graphique, les couleurs associent les îles à leurs courbes respectives. Le pool d'espèce régional ($P$) est constitué de 100 espèces, les taux de colonisation et d'extinction sont exprimés en terme de probabilité d'évènement. Les points où colonisation et extinction s'équilibrent sont marqué par les symboles en gris.](fig/fig1.pdf){#fig:figMW}
 
 
 

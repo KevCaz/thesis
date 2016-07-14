@@ -5,6 +5,7 @@
 L'érosion de la biodiversité exergue une certaine nostalgie qui parfois conduit une forme de fatalisme chez certain experts. Relevons la tête il va falloir trouver les solutions dans le mimétisme ?
 
 
+
 ### En terme de santé / de production
 
 La tique la souris le réservoir et des hommes
@@ -69,4 +70,4 @@ Au final les études s'accumulent mais avec un bird_traits_kc
 Les conséquences sont compliqués des changements climatiques sont nombreuses et certaines espèce voir le range grandir d'autre diminuer pour cds espèce de co existent et donc à un changemnet prononc. de  al morphologoe des communautés alors que le nombre d'espèce peut être peu affecté @Moritz2008
 
 
-# Quelles unité biologiques pour ala biogéographie ?
+# Quelles unité biologiques pour la biogéographie ?
