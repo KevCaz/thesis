@@ -11,9 +11,29 @@ header-includes:
 
 # Depuis Wallace {-}
 
-Dans l'introduction de son livre "Island Life" paru en 1980 (soit 22 ans après la parution de *On the Tendency of Varieties to Depart Indefinitely From the Original Type*), le célèbre naturaliste Alfred Russel Wallace saisit le drôle de paradoxe suivant : bien que séparé traversé une bonne partie du globe terre les écosystème du Japon et du Royaume Uni sont très similaire notamment par leur composition en arbustes et en oiseaux alors que dans le même temps des êtres très rapprochées comme les îles indinesiennes Bali et Lombok séparées de quelques dizaines de kilomètres et peuvent être très différentes. Il evoque aussi la faible predictibility du climat pour comprendre les espèces en question , il prend pour exemple diff.érence faune afrique et brésilienne malgès la similarité du climat. Face à ces paradoxes so ouvrage ce veut une tentatatove pour comprendre ce les raisons mais il reconnait dès l'introduction que :
+Dans l'introduction de son livre "Island Life" paru en 1881 !]soit 22 ans après la parution de *'On the Tendency of Varieties to Depart Indefinitely From the Original Type'*), le célèbre naturaliste Alfred Russel Wallace nous rapporte le fait suivant : bien que séparés par des miliers de kilomètres, les écosystèmes du Japon et du Royaume-Uni sont très similaires notamment pour ce qui est de leur composition en arbustes et en oiseaux alors que bien qu'étant séparées par seulemnet quelques kilomètres comme les îles indonesiennes Bali et Lombok séparées de quelques dizaines de kilomètres et peuvent être très différentes (voir l'introduction de @wallace1881island pour une abondance de ces paradoxes). En s'appuyant les différences des faunes brésiliennes et africanes sous des latitudes similaires, il évoque aussi la faiblesse du pouvoir préductif des variables climatiques pour décire les compositions fauniques. Face à ces deux paradoxes, sont ouvrage se réclame d'une tentative de compréhension des raisons sous jacentes ce les raisons mais il reconnait dès l'introduction la difficulté majeure pour arriver à une telle compréhension :
 
 > Many years study of this class of subjects has convinced me that there is no short abd easy method of dealing with them; because they are, in their very nature, the visible outcome and residual product of the whole past history of the earth.
+
+
+
+La suite de l'ouvrage est le déroullemnent du savoir encyclopédfique de ce Biogéographe reconnu à la fin de sa vie comme l'un des plus grands savants anglais. On y trouve des decsriptions précises et riches des îles à travers l'ensemble du globe. Cette ensemble de descriptions montre la multiplicité des facteurs et au vue de la récente découverte de la théorie de l'évolution, il semble que l'enpreinte historique est vraiment importante dans l'oeuvre de Wallace. Cependant, mettre l'emphase sur cette composante de la distribution des espèces est aussi problématique : l'évolution mène à des trajectoires qui semblent bien dfficiles à prédire et si chaque écosystèmes est le résultat d'une histoire unique comment penser y trouver des règles bien définies. Pour aller chercher ces règles il fallu attendre les travaux de MacArthur et Wilson et de leur célèbre théorie de la biogéographie insulaire sur lauelle je reviendrai amplement. Au chapitre 8 de 'The theory of Island Biogeographie' @MacArthur1967.
+
+> Biogeography has long remained in a natural history phase, accumulating information about the distribution of species and higher taxa and the taxonomic composition of biotas. Interpretative reasoning has been largely directed to the solution of special problems connected with the histories of individuals taxa and biotas. Without doubt this descriptive activity will continue to be of fundamental importance to the science, one of the most physically adventurous of all scientific entreprises and, in the richness of the detail it unfolds, esthetically pleasing. But biogeography is also in a position to enter an equally interesting experimental and thereotical phase.
+
+<!-- La biogéographie est longteos restée dans une phase d'hitoqire naturelle, accumulant des connaissances sur la distribution des espèces et des groupes taxonimique d'ordre supérieur et sur la composition des biotes. Le raisonnemnt interprétatifs a été largement utilisé pour résoudre des problèmes singuliers grâce è l'histoire individuels des taxons et biotes. Cette activité descriptive continura sans ausun doute à être d'une importance fundamentak pour la science et une des aventures de toutes les entreprises scientifiques, et dans la richesse des détails qu'on déroulem plaisant esthétiquement. Mais la biogéography est aussi dans une position dans une phase tout aussi intéressant d'expériece et de thérorie-->
+
+(Chapitre 8 TIB first paragraph)
+
+
+# Les mécanismes de la Biogéographie
+
+Avant d'être en
+
+Biogéographie / Macroécologie / Ecologie et evolution
+
+
+
 
 Dans une vision simplifiée l'écologie détermine les lien entre les caractéristiques des espcèes  de la mort et des naissance des et l'évolution regardera les conséquences sur ces caractéristiques de ces même morts et naissances. En prennant ces définitions on comprend l'intrication de ces deux qui explique la demande pour réunir les deux de même que diverse discipline on été réunie avec succès lors de la théorie synthétique de l'évolution [@Schoener2011].
 
@@ -70,6 +90,7 @@ raseemblé ecologie et @Schoener2011
 
 ## L'importance des îles en biogéorgaphie
 
+Meilleur explication pour des arrangemnets spatiaux singuliers sont des processus temporels. Faire émerger des règles mon apport amener des interactions
 
 Pourquoi les îles en fait isolé flux et gros contraste mailand - island alors qu'elles sontproches..
 
@@ -81,6 +102,13 @@ Décrire l'organisation spatiale des êtres vivants et en comprendre les mécani
 L'effort théorique nécessaire en biogéographie porte sur l'intégration ordonnée de concepts clés issus de différents champs de l'écologie \cite{Thuiller2013}. Ainsi, alors que les conditions climatiques et plus généralement la géographie physique sont classiquement évoquées pour expliquer la répartition des espèces \cite{Kearney2004}, les interactions entre espèces sont quant à elles souvent occultées. De même, bien que les processus évolutifs soient souvent évoqués comme déterminants majeurs de la diversité des espèces \cite{Rosindell2011}, leurs effets à court terme sont souvent ignorés \cite{Parmesan2006} dans les scénarios décrivant la biodiversité de demain \cite{Lavergne2010}. La difficulté principale est alors de produire des modèles (théoriques en première instance) qui intègrent l'ensemble des processus et les relations qu'ils entretient \cite{Thuiller2013} tout en gardant une relative simplicité. Une théorie intégrative en biogéographie pourrait être le meilleur point d'ancrage pour construire de nouvelles approches appliquées. Avec une telle théorie en main, nous pourrions aller vers l'enjeux majeurs de ces dernières années en biogéographie : relâcher les hypothèses que les modèles classiques de répartitions des espèces d'aujourd'hui utilisent (notamment en occultant les interactions) pour prédire la biodiversité de demain \cite{Guisan2011}.
 
 Dans le projet ici présenté, nous proposons de construire des modèles théoriques plus intégratifs en repartant d'un modèle théorique classique, celui de la théorie de la biogéographie des îles proposée par MacArthur et Wilson \cite{MacArthur1967}. Dans un premier temps, nous y ajoutons les interactions entre espèces et une relation explicite avec l'environnement abiotique au travers d'une approche communauté centrée qui étend le modèle classique. Dans un second temps, nous combinons une approche population centrée et les processus évolutifs pour une biogéographie insulaire plus mécaniste. Enfin, au regard des enjeux que soulève le rôle des interactions entre espèces dans la construction de la biodiversité, nous réfléchissons sur l'inférence d'espèces interdépendantes.
+
+
+> (:154) "Does the environment dictate the structure of the community, or are the species a fairly random assemblage?
+
+> A few decades ago it as fashionable for ecologist to study communities in the artic on the grounds that these would be very simple communities and hence easy to understand. Many excellent ecologists still follow this belied, but there are others who feel that it may be easier to understand the extremely complex communities. This sounds paradoxical: How can a more complex communities by easier to understand? A possible answer might be that complex community has has strong interactions among species so that the lives of the separate species are less independent than in a simple community. Where there is greter interdeoendance, patterns may be more conspicious."
+
+
 
 
 

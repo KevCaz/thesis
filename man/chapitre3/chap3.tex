@@ -153,30 +153,31 @@ species were examined (see Fig S5).
 
 When abiotic context is not taken into account, we showed that the mean
 Z-score of a predator (pollinator), \emph{i.e} Z-scores averaged over
-all the set of its preys (host plants), decreases with the cumulated
-range of its preys (\ref{fig:degocc} panels A, D, G and J). The
-associated linear regression outperformed the one using the degree of
-the species that has been envisioned by the theory (Fig S7). Therefore,
-when a predator feeds on a set of preys that jointly cover a large part
-of the geographic range studied, the impact of species interactions is
-undetectable, but when the joint repartition of the prey is restricted,
-the imprint of interactions remains appreciable. Additionally, we show
-this relation asymmetric: the decay is less convincing when the the mean
-Z-scores of the preys are plotted against the cumulated range of their
-predators (fig S8). Hence the imprints of interactions in static
-occurrence are appreciated once relevant pair of specials species are
-student. When species are highly linked with other species and when
-these species have ranges that do not completely overlap, we cannot make
-clearly co-occurrence to interactions. This suggest that the range of
-the set of species should be examined rather that individual range of
-prey. Interestingly, we found that using the presence of the whole set
-of prey as predictor to assign the presence of species outperformed GLMs
-(see Fig S9). When abiotic constrains are taken into account, the
-relationship is weakened or even reversed (\ref{fig:degocc}) meaning the
-signals of co-occurrence for specialists are no longer different from
-the one of generalists. This illustrates that inferring species
-distribution from abiotic requirements cannot reflect meaningful
-biological properties of the ecological system studied.
+all the set of its preys (host plants), decreases with the total number
+of site covered by its preys (\ref{fig:degocc} panels A, D, G and J).
+The associated linear regression outperformed the one using the degree
+of the species that has been envisioned by the theory (Fig S7).
+Therefore, when a predator feeds on a set of preys that jointly cover a
+large part of the geographic range studied, the impact of species
+interactions is undetectable, but when the joint repartition of the prey
+is restricted, the imprint of interactions remains appreciable.
+Additionally, we show this relation asymmetric: the decay is less
+convincing when the the mean Z-scores of the preys are plotted against
+the cumulated range of their predators (fig S8). Hence the imprints of
+interactions in static occurrence are appreciated once relevant pair of
+specials species are student. When species are highly linked with other
+species and when these species have ranges that do not completely
+overlap, we cannot make clearly co-occurrence to interactions. This
+suggest that the range of the set of species should be examined rather
+that individual range of prey. Interestingly, we found that using the
+presence of the whole set of prey as predictor to assign the presence of
+species outperformed GLMs (see Fig S9). When abiotic constrains are
+taken into account, the relationship is weakened or even reversed
+(\ref{fig:degocc}) meaning the signals of co-occurrence for specialists
+are no longer different from the one of generalists. This illustrates
+that inferring species distribution from abiotic requirements cannot
+reflect meaningful biological properties of the ecological system
+studied.
 
 \subsection{Discussion (\textasciitilde{} 4000
 char)}\label{discussion-4000-char}
@@ -483,15 +484,15 @@ the willows leafs network (panels A to C), the parasitoids in the willow
 leafs network (panels D to F), the hummingbirds in the Caribbean
 hummingbirds datasets (panels G to I) and all species in the pitcher
 plants network that consume other species (panels J to L). The x-axis is
-expressed as a log proportion of the total number of sites included in
-the considered dataset. Black symbols are mean Z-scores significantly
-different from 0 (see SI Text). In each panel, the dotted line
-represents the linear regression \(y~ax+b\) for which the \(R^2\) is
-provided. The size of circles reflects the degree of species for which
-the Z-score was calculated, the relation size-degree for each row is
-given in the middle panel. For the hummingbirds dataset (panels G to I),
-the triangle represent the values obtained for the former distribution
-of a species already analyzed (see SI text).\label{fig:degocc}}
+expressed as a log proportion of the total number of sites. Black
+symbols are mean Z-scores significantly different from 0 (see SI Text).
+In each panel, the dotted line represents the linear regression
+\(y~ax+b\) for which the \(R^2\) is provided. The size of circles
+reflects the degree of species for which the Z-score was calculated, the
+relation size-degree for each row is given in the middle panel. For the
+hummingbirds dataset (panels G to I), the triangle represent the values
+obtained for the former distribution of a species already analyzed (see
+SI text).\label{fig:degocc}}
 \end{figure}
 
 \newpage
@@ -517,10 +518,17 @@ consequences. Global Change Biology n/a--n/a.
 doi:\href{https://doi.org/10.1111/gcb.12917}{10.1111/gcb.12917}
 \section{Material and methods}\label{material-and-methods}
 
-All analysis have been performed using, table SX includes funciton and
-package that were used.
+In this section, we present in more details, the datasets and the
+methodology we used. All analyses have been performed using R
+environment software (table S1 includes functions and packages we used).
 
 \subsection{Datasets}\label{datasets}
+
+Sites for the five datasets are reported on five maps gathered in Fig
+S1. Below, we describe in more details the five datasets. The total
+number of species, the number of species present in at least 1\% of the
+total number of site and the number of species for which traits
+information were available are reported in table S2.
 
 \subsubsection{Willows leafs network}\label{willows-leafs-network}
 
@@ -532,45 +540,52 @@ network}\label{caribbean-hummingbirds-plant-network}
 \subsubsection{North American Trees
 datasets}\label{north-american-trees-datasets}
 
+\paragraph{Traits-based distance}\label{traits-based-distance}
+
+We used a distance built upon nine functional traits whose values were
+retrieved from ({\textbf{???}}), see \textbf{Supplementary Table 3}
+available at
+\url{http://onlinelibrary.wiley.com/doi/10.1111/j.1466-8238.2010.00592.x/suppinfo}.
+Each of the nine selected variables were centered and scaled (R
+functions used reported in table S1) then used as is to derive Euclidean
+distances for all pairs of species. Then, we use agglomeration
+clustering with Ward's method (implemented in the \emph{hclust()}
+function we used, see Table S1) to obtain the dendrogram presented in
+\ref{fig:dendro}.
+
 \subsubsection{French Breeding Birds Survey
 datasets}\label{french-breeding-birds-survey-datasets}
 
-\subsubsection{Keeping 1\%}\label{keeping-1}
+\paragraph{Traits-based distance}\label{traits-based-distance-1}
 
-\subsection{Traits-based distance}\label{traits-based-distance}
+We used 73 traits that are boolean variable (see Table S4) we kept as is
+to derive Euclidean distances for all pairs of species.
 
-Kind of data / methofd of clutering (sf table E)
+\subsection{Building metawebs}\label{building-metawebs}
 
-For trees, we used a trait-based distance built of nine functional
-traits whose values retrieved form ({\textbf{???}}), see
-\textbf{Supplementary Table 3}.
-
-\subsection{Building metaweb}\label{building-metaweb}
-
-For datasets 1,2,3 we built network based on observed interactions and
-derived associated quantities, \emph{i.e.} degrees of species and
-shortest-path, using the R package ``igraph'' (see Supplementary table
-2).
+For four datasets, we built network based on all observed interactions
+and derived associated quantities, \emph{i.e.} the connectance of the
+metawebs, the degrees of species and the shortest-path, using the R
+package ``igraph'' (table S1).
 
 \subsection{Co-occurrence measurement}\label{co-occurrence-measurement}
 
-Following ({\textbf{???}}), for a given pair of species \(i\) and \(j\),
-we examined the relationship between the observed co-occurrence
-\(O_{i,j}\) and the expected co-occurrence \(E_{i,j}\) in light of their
-relative position of species within the network. The expected
-co-occurrence is derived based on the assumption that species are
-independent.
+For a given pair of species \(i\) and \(j\), we examined the
+relationship between the observed co-occurrence \(O_{i,j}\) and the
+expected co-occurrence \(E_{i,j}\). Here, we provide more information
+about the three methods wed used to analyse co-occurrence.
 
 \subsection{Hypergeometric
 distribution}\label{hypergeometric-distribution}
 
 This distribution has been mentioned in a different context (see
-{\textbf{???}}) but have been fully exploited only in ({\textbf{???}})
+{\textbf{???}}) and have been fully exploited in ({\textbf{???}})
 despite the author never mentioned it is a classical distribution. To
 clarify this, we start from the distribution written in equation (1) in
-Veech (2013). We consider \(n\) sites in which two species 1 and 2 may
-occur. Species 1 is present in\$ \(n_1\) while 2 is present in \(n_2\)
-sites. The probability of having \(j\) co\_occurrence, \(p_j\) is :
+Veech (2013). We consider the co-occurrence of two species on \(n\)
+sites. Species 1 is present in \(n_1\) while species 2 is present in
+\(n_2\) sites. The probability of having \(j\) co\_occurrence, \(p_j\)
+is:
 
 \[ p_j= \frac{\binom{n}{j} \binom{n-j}{n_2-j} \binom{n-n_2}{n_1-j}}{\binom{n}{n_2} \binom{n}{n_2}} \]
 
@@ -579,11 +594,11 @@ The expression above yields:
 
 \[ p_j= \frac{n!}{(n-j)!j!} \frac{(n-j)!}{(n-j-n_2+j)!(n_2-j)!} \frac{(n-n_2)!}{(n-n_2-n_1+j)!(n_1-j)!} \frac{(n-n_1)!n_1!}{n!} \frac{1}{\binom{n}{n_2}} \]
 
-by rearrangemnt :
+by rearrangement:
 
 \[ p_j= \frac{1}{j!} \frac{1}{(n_2-j)!} \frac{1}{(n-n_2-n_1+j)!(n_1-j)!} \frac{(n-n_1)!n_1!}{1} \frac{1}{\binom{n}{n_2}} \]
 
-once sorted out, thi results in :
+once sorted out, this results in:
 
 \[ p_j= \frac{\binom{n_1}{j} \binom{n-n_1}{n_2-j}}{\binom{n}{n_2}} \]
 
@@ -593,6 +608,9 @@ co-occurrence \(E_{i,j}\) under the hypothesis that all site were
 identical for all species.
 
 \subsection{GLM and RF}\label{glm-and-rf}
+
+For GLM and RF, \(E_{i,j}\) correspond to probabilities of occurrence
+computed based on climatic data. R functions are reported in Table S1.
 
 \subsubsection{Climatic data}\label{climatic-data}
 
@@ -615,36 +633,18 @@ table SX.
 \subsubsection{Random Forests}\label{random-forests}
 
 Random Forests ({\textbf{???}}) were performed using the same formula as
-for GLMs. For all species 10000 trees were computed and the probability
+for GLMs. For all species, 10000 trees were computed and the probability
 for a species being in a given site were calculated based on the number
 of votes the sites were granted.
 
-\subsection{Mean Z-score log
-occupancy}\label{mean-z-score-log-occupancy}
-
-Distribution of Z-score =\textgreater{} normal \(\frac{1}{\sqrt{n}}\)
-
-For all species we add occupancy meaning that degree plus total spaced
-occupied are integrated,
-
-\subsection{Model Evaluation}\label{model-evaluation}
+\subsubsection{Evaluating the models}\label{evaluating-the-models}
 
 For all species, we assess the performance of the Species Distribution
 Models we used, \emph{i.e.} Generalized Linear Model and Random Forest,
-using the Area Under the Receiver Operating Characteristic curve (AUROC)
+using the Area Under the Receiver Operating Characteristic (AUROC)
 ({\textbf{???}}). We present the results as a cumulative sum of
 frequencies corresponding to the score for all species for each of the
-four ecological systems we studied (see Figure= ({\textbf{???}})).
-
-\subsection{Trees}\label{trees}
-
-Based on table ({\textbf{???}}) we scale all the variable and used then
-to generate a synthetic distance variables are unweighted leading to a
-dendrograms present in figure \ref{fig:dendro}.
-
-\section{Supplementary results}\label{supplementary-results}
-
-\subsection{Commenting S6-S9}\label{commenting-s6-s9}
+four ecological systems we studied (see Fig ({\textbf{???}})).
 
 \section{Supporting Tables}\label{supporting-tables}
 
@@ -652,23 +652,32 @@ dendrograms present in figure \ref{fig:dendro}.
 
 \begin{longtable}[]{@{}lrrrr@{}}
 \toprule
-Analysis & Function & Package name(s) & Version &
-Citation\tabularnewline
+Analysis & Function & Package name & Version & Citation\tabularnewline
 \midrule
 \endhead
+Scaling and Centering & scale & base & 3.3.1 & R Core Team
+(2015)\tabularnewline
+Euclidean distance & dist & stats & 3.3.1 & R Core Team
+(2015)\tabularnewline
+Clustering & hclust & stats & 3.3.1 & R Core Team (2015)\tabularnewline
 PCA & dudi.pca & ade4 & 1.7.4 & Dray and Dufour (2007)\tabularnewline
-GLM & glm & stats & 3.2.3 & R Core Team (2015)\tabularnewline
-& step & & &\tabularnewline
-Random Forests & randomForest & randomForest & 4.6.12 &
+GLM & glm & stats & 3.3.1 & R Core Team (2015)\tabularnewline
+GLM Selection & step & stats & 3.3.1 & R Core Team (2015)\tabularnewline
+Degree of species & degree & igraph & 1.0.1 &
 ({\textbf{???}})\tabularnewline
-nteworks structure & - & igraph & 1.0.1 &
+Shortest Paths & shortest.paths & igraph & 1.0.1 &
 ({\textbf{???}})\tabularnewline
 AUROC & somers2 & Hmisc & 3.17.2 & ({\textbf{???}})\tabularnewline
-& tazxise & Hmisc & 3.17.2 & ({\textbf{???}})\tabularnewline
+TSN retrieving & get\_tsn & taxize & 0.7.4 & ({\textbf{???}}),
+({\textbf{???}})\tabularnewline
+Wilcoxon tests & wilcox.test & stats & 3.3.1 & R Core Team
+(2015)\tabularnewline
 \bottomrule
 \end{longtable}
 
-\textbf{Supplementary Table 2}: R and packages used for the analyses.
+\textbf{Supplementary Table 1}: R and packages used for the analyses.
+GLM: Generalized Linear Model, PCA: Principal Component Analysis. AUROC:
+Area Under the Receiver Operating Characteristic.\{\#tbl:code\}
 
 \begin{longtable}[]{@{}lrrr@{}}
 \toprule
@@ -683,11 +692,11 @@ French Breeding Birds Survey & 340 & 179 & 321\tabularnewline
 \bottomrule
 \end{longtable}
 
-\textbf{Number of species 2}: For each datasets the total number of
+\textbf{Supplementary Table 2}: For each datasets the total number of
 species (column \emph{Total}), the number of species present in more
 that 1\% of the total number of sites (column \emph{Selected}), andthe
 number of species for which traits information are available (column
-\emph{Traits}). The symbol `-' means `not relevant'.
+\emph{Traits}). The symbol `-' means `not relevant'. \{\#tbl:numsp\}
 
 \begin{longtable}[]{@{}lrrrrrrrrrr@{}}
 \toprule
@@ -760,9 +769,101 @@ Ulmus rubra & 19050 & 25 & 3 & 0.48 & 3.3 & 3.0 & 1 & 0 & 59.88 &
 \bottomrule
 \end{longtable}
 
-\textbf{Supplementary Table 3}: Tree species and traits used TSN maxH GR
-WD Wood Densoty, TolS, TolD, AM, EM, LMA,
-Nmass({\textbf{???}}).\{\#tbl:trees\}
+\textbf{Supplementary Table 3}: Tree species and traits used.
+Abbreviations are as follows: TSN - Taxonomic Serial Number defined by
+Integrated Taxonomic Information System (ITIS), maxH - Average maximum
+height, GR - Growth rate, WD - Wood Density, TolS - Shade tolerance,
+TolD - Drought tolerance, AM - Arbuscular mycorrhiza (Endomycorrhiza),
+EM - Ectomycorrhiza, LMA - Leaf mass per area, Nmass - Nitrogen content
+per leaf mass unit({\textbf{???}}) availale at
+\url{http://onlinelibrary.wiley.com/doi/10.1111/j.1466-8238.2010.00592.x/suppinfo}.\{\#tbl:trees\}
+
+\begin{longtable}[]{@{}lr@{}}
+\toprule
+Category & Trait name\tabularnewline
+\midrule
+\endhead
+Activity & Nocturnal\tabularnewline
+Activity & Crepuscular\tabularnewline
+Activity & Diurnal\tabularnewline
+Diet & Seeds, nuts or grain\tabularnewline
+Diet & Fruits / frugivory\tabularnewline
+Diet & Vegetative\tabularnewline
+Diet & invert\tabularnewline
+Diet & fish\tabularnewline
+Diet & Very small mammals\tabularnewline
+Diet & Large mammals\tabularnewline
+Diet & Herptile\tabularnewline
+Diet & Small birds\tabularnewline
+Diet & Long birds\tabularnewline
+Diet & Vertebrate\tabularnewline
+Diet & Bones\tabularnewline
+Diet & Carrion\tabularnewline
+Feeding behavior & Pursuit (air and/or aquatic)\tabularnewline
+Feeding behavior & Sally\tabularnewline
+Feeding behavior & Foliage gleaning\tabularnewline
+Feeding behavior & Pouncing\tabularnewline
+Feeding behavior & Grazing\tabularnewline
+Feeding behavior & Picking, pecking or stabbing\tabularnewline
+Feeding behavior & Digging\tabularnewline
+Feeding behavior & Overturning\tabularnewline
+Feeding behavior & Probing\tabularnewline
+Feeding behavior & Filtering\tabularnewline
+Feeding habitat & Water-surface\tabularnewline
+Feeding habitat & Underwater\tabularnewline
+Feeding habitat & Water\tabularnewline
+Feeding habitat & Mud\tabularnewline
+Feeding habitat & Ground\tabularnewline
+Feeding habitat & Canopy\tabularnewline
+Feeding habitat & Shrub (low and high)\tabularnewline
+Feeding habitat & Vegetation\tabularnewline
+Feeding habitat & Air\tabularnewline
+Foraging habitat & Wet grassland, meadows, fens, sedges or
+tundra\tabularnewline
+Foraging habitat & Dry grassland\tabularnewline
+Foraging habitat & Rocky slope\tabularnewline
+Foraging habitat & Fast river/stream\tabularnewline
+Foraging habitat & Slow river/stream\tabularnewline
+Foraging habitat & Shore (marine)\tabularnewline
+Foraging habitat & Salt marsh\tabularnewline
+Foraging habitat & Mud or silt\tabularnewline
+Foraging habitat & Sandy gravel/beach\tabularnewline
+Foraging habitat & Reed marshes\tabularnewline
+Foraging habitat & Conifer\tabularnewline
+Foraging habitat & Mixed forest\tabularnewline
+Foraging habitat & Deciduous\tabularnewline
+Foraging habitat & Mediterranean oak or other\tabularnewline
+Foraging habitat & Open/low forest\tabularnewline
+Foraging habitat & Forest or habitat edge\tabularnewline
+Foraging habitat & Shrub/bush\tabularnewline
+Foraging habitat & Urban\tabularnewline
+Foraging habitat & Garden\tabularnewline
+Foraging habitat & High air\tabularnewline
+Nesting habitat & Wet grassland, meadows, fens, sedges or
+tundra\tabularnewline
+Nesting habitat & Dry grassland\tabularnewline
+Nesting habitat & Banks/sand/mud\tabularnewline
+Nesting habitat & Rock surface/outcrops\tabularnewline
+Nesting habitat & Near water/shore/island\tabularnewline
+Nesting habitat & Sand gravel/beach\tabularnewline
+Nesting habitat & Reed marshes\tabularnewline
+Nesting habitat & Conifer\tabularnewline
+Nesting habitat & Mixed forest\tabularnewline
+Nesting habitat & Deciduous\tabularnewline
+Nesting habitat & Mediterranean oak and other\tabularnewline
+Nesting habitat & Open/low forest\tabularnewline
+Nesting habitat & Shrub/bush\tabularnewline
+Nesting habitat & Urban\tabularnewline
+Nesting habitat & Garden\tabularnewline
+Nesting location & Elevated\tabularnewline
+Nesting location & Tree hole\tabularnewline
+Nesting location & Ground\tabularnewline
+\bottomrule
+\end{longtable}
+
+\textbf{Supplementary Table 4}: List of the Boolean traits used to
+derive Euclidean distances between all pairs of species in the French
+Breeding Birds Survey.
 
 \newpage
 
@@ -893,6 +994,10 @@ of willow it interacts with (triangles) to AUC obtained for GLM (A) and
 RF (B). Positive values indicated that species based model outperformed
 the SDM model.\label{fig:ratauc}}
 \end{figure}
+
+\newpage
+
+\newpage
 
 \section*{Supporting References}\label{supporting-references}
 \addcontentsline{toc}{section}{Supporting References}
