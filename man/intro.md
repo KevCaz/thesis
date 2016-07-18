@@ -125,17 +125,6 @@ Dans le projet ici présenté, nous proposons de construire des modèles théori
 
 
 
-# Data availability
-
-# Information dans les distributions
-
-## Proxy
-
-## Potential interactions
-
-Vespa aussi au Amérqieu la densit. des traffic...
-
-Multi couche de distrobution dans le cas du frelon asiatique Villemant et al. @Villeman ont montrés que superposition du genre *Vespa* et notamment au niveau asiatique énormément aisin l'inférence se fait sur des données qui comporte une empreinte de condition et localemnt éteinte alors que possiblement comtraite qui ne seront pas en France...
 
 
 
@@ -149,20 +138,28 @@ Multi couche de distrobution dans le cas du frelon asiatique Villemant et al. @V
 
 
 
+# Cadre théorique de la thèse {-}
 
 
-# Cadre théorique de la thèse
+## Théorie et modélisation {-}
 
-## Hasard et nécessité
 
+
+
+## Hasard et nécessité {-}
+
+### stochasticité {-}
+
+
+### Dans la Biogéo des îles {-}
 immigration => haazrd
-extinction nécéssité 
+extinction nécéssité
 
-## Développements théoriques en Biogéographie
+## Développements théoriques en Biogéographie {-}
 
 equilibre => equation 3-3 repartir de 3-3
 
-### L'empreinte historique de la La Théorie de la Biogéographie des Iles de MacArthur et Wilson
+### L'empreinte historique de la La Théorie de la Biogéographie des Iles de MacArthur et Wilson {-}
 
 => impact enorme sur la conservation et encore aujourd'hui bien que simplifié les calculs permettent de comprendredsimplementr dans quelles directions nous allons [article NewYork Times]
 Malgré la 50 ans de depuis la publication du Livre et premier articles a lasuorise de auiteure eux meme
@@ -564,7 +561,7 @@ La limite est toujours OK si assez pour 2 ou plus.
 
 
 
-
+<!-- décire les objectfs de ma thèse revenir en détail sur le contexte de la thèse  -->
 
 # Le rôle des interactions dans la distributiondes espàces {-}
 
@@ -596,13 +593,30 @@ rq : ce sont elles qui limites. Rôle des prédateurs. Rôle local majeur.
 Dans ma thèse j'ai oassé du temps à essayer de mettre au point un modèke qui donnait de la substace aux idées de MacArthur et Wilson een etandant le travai initié par Gravel et collègues pour aller plus loin dans la compréhension des effets joints des interactions et des contraintes abiotiques. C'est aussi ce qui m'a animé pour en mettre en place la compréhesin dans les données de co-occurrence avant d'aller m'y confronter frongalemnet. Ma dernière intergtaion a Été de trouver des pistes pour allerr plus loin dans la théorie et explorer des pistes que je n'avais pas encore dxplorer mais qui seront à court terme les directions que je souhaite explorer.
 
 
-# Étendre la théorie de MacArthur et Wilson {-}
+## Étendre la théorie de MacArthur et Wilson {-}
 
 
-# Comprendre les conséquence en terme de co-occurrece {-}
+
+## Comprendre les conséquence en terme de co-occurrece {-}
 
 
-# Chercher des signaux de co-occurrence  {-}
+### Abondance des données  {-}
+
+
+### Potential interactions  {-}
+
+Vespa aussi au Amérqieu la densit. des traffic...
+
+Multi couche de distrobution dans le cas du frelon asiatique Villemant et al. @Villeman ont montrés que superposition du genre *Vespa* et notamment au niveau asiatique énormément aisin l'inférence se fait sur des données qui comporte une empreinte de condition et localemnt éteinte alors que possiblement comtraite qui ne seront pas en France...
+
+
+
+
+## Chercher des signaux de co-occurrence  {-}
+
+## Information dans les distributions  {-}
+
+
 
 
 # Aller de l'avant  {-}
