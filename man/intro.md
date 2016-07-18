@@ -11,22 +11,35 @@ header-includes:
 
 # Depuis Wallace {-}
 
-Dans l'introduction de son livre "Island Life" paru en 1881 !]soit 22 ans après la parution de *'On the Tendency of Varieties to Depart Indefinitely From the Original Type'*), le célèbre naturaliste Alfred Russel Wallace nous rapporte le fait suivant : bien que séparés par des miliers de kilomètres, les écosystèmes du Japon et du Royaume-Uni sont très similaires notamment pour ce qui est de leur composition en arbustes et en oiseaux alors que bien qu'étant séparées par seulemnet quelques kilomètres comme les îles indonesiennes Bali et Lombok séparées de quelques dizaines de kilomètres et peuvent être très différentes (voir l'introduction de @wallace1881island pour une abondance de ces paradoxes). En s'appuyant les différences des faunes brésiliennes et africanes sous des latitudes similaires, il évoque aussi la faiblesse du pouvoir préductif des variables climatiques pour décire les compositions fauniques. Face à ces deux paradoxes, sont ouvrage se réclame d'une tentative de compréhension des raisons sous jacentes ce les raisons mais il reconnait dès l'introduction la difficulté majeure pour arriver à une telle compréhension :
+Dans l'introduction de son livre "Island Life" paru en 1881 !]soit 22 ans après la parution de *On the Tendency of Varieties to Depart Indefinitely From the Original Type*), le célèbre naturaliste Alfred Russel Wallace nous rapporte le fait suivant : bien que séparés par des miliers de kilomètres, les écosystèmes du Japon et du Royaume-Uni sont très similaires notamment pour ce qui est de leur composition en arbustes et en oiseaux alors que bien qu'étant séparées par seulemnet quelques kilomètres comme les îles indonesiennes Bali et Lombok séparées de quelques dizaines de kilomètres et peuvent être très différentes (voir l'introduction de @wallace1881island pour une abondance de ces paradoxes). En s'appuyant les différences des faunes brésiliennes et africanes sous des latitudes similaires, il évoque aussi la faiblesse du pouvoir préductif des variables climatiques pour décire les compositions fauniques. Face à ces deux paradoxes, sont ouvrage se réclame d'une tentative de compréhension des raisons sous jacentes ce les raisons mais il reconnait dès l'introduction la difficulté majeure pour arriver à une telle compréhension :
 
 > Many years study of this class of subjects has convinced me that there is no short abd easy method of dealing with them; because they are, in their very nature, the visible outcome and residual product of the whole past history of the earth.
 
 
-
-La suite de l'ouvrage est le déroullemnent du savoir encyclopédfique de ce Biogéographe reconnu à la fin de sa vie comme l'un des plus grands savants anglais. On y trouve des decsriptions précises et riches des îles à travers l'ensemble du globe. Cette ensemble de descriptions montre la multiplicité des facteurs et au vue de la récente découverte de la théorie de l'évolution, il semble que l'enpreinte historique est vraiment importante dans l'oeuvre de Wallace. Cependant, mettre l'emphase sur cette composante de la distribution des espèces est aussi problématique : l'évolution mène à des trajectoires qui semblent bien dfficiles à prédire et si chaque écosystèmes est le résultat d'une histoire unique comment penser y trouver des règles bien définies. Pour aller chercher ces règles il fallu attendre les travaux de MacArthur et Wilson et de leur célèbre théorie de la biogéographie insulaire sur lauelle je reviendrai amplement. Au chapitre 8 de 'The theory of Island Biogeographie' @MacArthur1967.
+La suite de l'ouvrage est le déroullemnent du savoir encyclopédique de ce Biogéographe reconnu à la fin de sa vie comme l'un des plus grands savants anglais. On y trouve des decsriptions précises et riches d'un grand nombre d'îles à travers l'ensemble du globe. Cette ensemble de descriptions montre la multiplicité des facteurs et au vue de la récente découverte de la théorie de l'évolution, il semble que l'enpreinte historique est vraiment importante dans l'oeuvre de Wallace. Cependant, mettre l'emphase sur cette composante de la distribution des espèces est aussi problématique : l'évolution mène à des trajectoires qui semblent bien dfficiles à prédire et si chaque écosystèmes est le résultat d'une histoire unique comment penser y trouver des règles bien définies. Pour aller chercher ces règles il fallu attendre les travaux de MacArthur et Wilson et de leur célèbre théorie de la biogéographie insulaire sur laquelle je reviendrai amplement. Dans le dernier chaptre de *The Theory of Island Biogeography* @MacArthur1967, nous pouvons lire :
 
 > Biogeography has long remained in a natural history phase, accumulating information about the distribution of species and higher taxa and the taxonomic composition of biotas. Interpretative reasoning has been largely directed to the solution of special problems connected with the histories of individuals taxa and biotas. Without doubt this descriptive activity will continue to be of fundamental importance to the science, one of the most physically adventurous of all scientific entreprises and, in the richness of the detail it unfolds, esthetically pleasing. But biogeography is also in a position to enter an equally interesting experimental and thereotical phase.
 
-<!-- La biogéographie est longteos restée dans une phase d'hitoqire naturelle, accumulant des connaissances sur la distribution des espèces et des groupes taxonimique d'ordre supérieur et sur la composition des biotes. Le raisonnemnt interprétatifs a été largement utilisé pour résoudre des problèmes singuliers grâce è l'histoire individuels des taxons et biotes. Cette activité descriptive continura sans ausun doute à être d'une importance fundamentak pour la science et une des aventures de toutes les entreprises scientifiques, et dans la richesse des détails qu'on déroulem plaisant esthétiquement. Mais la biogéography est aussi dans une position dans une phase tout aussi intéressant d'expériece et de thérorie-->
+<!-- La biogéographie est longtemps restée dans une phase d'hitoire naturelle, accumulant des connaissances sur la distribution des espèces et des groupes taxonimique d'ordre supérieur et sur la composition des biotes. Le raisonnemnt interprétatifs a été largement utilisé pour résoudre des problèmes singuliers grâce è l'histoire individuels des taxons et biotes. Cette activité descriptive continura sans ausun doute à être d'une importance fundamentak pour la science et une des aventures de toutes les entreprises scientifiques, et dans la richesse des détails qu'on déroulem plaisant esthétiquement. Mais la biogéographie est aussi dans une position dans une phase tout aussi intéressante d'expériences et de théorie.-->
+
+Les auteurs reconnaissent que l'accumulation de faits relatives à la distributions des espèces doivent maintenant être sujet à la place pratique expérimentale et à la théorisation. Cette dernière s'accompagne implicitement d'une mathématisation et les auteurs ont produit un cadre conseptuel qui est encore qujourd'hui l'un des plus importants qu'il soit en écologie. C'est un cadre conceptuel majeur et qui est une recher che finalemnt d'aller vers une biogéographie de l'espèces et chercher la gén.éralité qu'il y a derrière. Accumuker les faits et réussir à sd'abstraie de leut simgularité pour y voir la ressamblabce est un effort majeur et qui aboutit à une théorie qui explique bien en partant d'une forme d'équivalence écologique bien qu'au fond ce soit deu grand naturalisme qui connaissem bien les différences entrre les espèces et que Wilson est fait son article sur les cyvles qui finalemnt classe les espèce non pas sur la taconoe mais sur leru capacité de dispersion.
+
+Les îles qui occupent le coeur de l'ouvrage de Wallace et de MAcArthur et Wilson ont été essentiel poour comprendre les processus qui forme la sitributn des espèces. Elle sosn tproches du continent et peuvent être si différenetes la nature eotique des piles à forcer les auteurs à comprendre l'origine de leur singularit.é et ces sur ces bout de terre isolé qu'ils ont trouv.s des réposnes historques ais ausso spataile qui a parmis d'aller vers des dévelppemnt encore aujour,Hui très actis. La quête de cees honmes et de bien d'autres reste finalemnt de comprendre pourquoi les espèces sont ou elles sont et de comproendre ce qui les amanerner la. Ma thèse s'inscrit dans la poursuite de ces questions sur la distribution des ranges et j'artiuclerai la suirte de mon introduction autour de l'interrogagtion suivante : Quelles infornations renferment les distributions d'espèces. Pour apporter le maximum d'élément de réposse à cette questio e commencerai apr apporter les mécanismes en présence au travers de différérents ecemple avant de passer plus de temps sur la cadre conceptuel en Biogéograohie pour aboutir sur l'importance des interactions sur les distribution d'espèces.
+
 
 (Chapitre 8 TIB first paragraph)
 
 
-# Les mécanismes de la Biogéographie
+#  {-}
+
+## Quelques définitions importantes {-}
+
+## Quelques définitions importantes {-}
+
+## Quelques définitions importantes {-}
+
+Avant de com
+
 
 Avant d'être en
 
@@ -128,26 +141,22 @@ Multi couche de distrobution dans le cas du frelon asiatique Villemant et al. @V
 
 
 
-## Enjeux essentiels de la biogéographie
 
 
-## Une question d'échelle
-Question d'échelle
-La biogéographie avec au moins 3 problèmes d'échelles
 
-=> spatiale peut-on avoir d
 
-=> temporelle plus on augmente plus l'enpreinte historiques est forte => grands evenemnt géologique (lacitaion mouvement des plques) biogéogrpahies historiqyes mais aussi forme un pool d'espèces
 
-=> Mais aussi l'échelle taxonomique : la relaton aire espèce est décrite à l'intérieru des taxons les relations allométriques à l'inérieur des taxons E O Wilson a commencé à rappporter des relation sur les formis les exemples du livre sont herpeta faun (reptile plus amphibien)
-mecanisme => diversité de milieu
 
-contre exemple des chauves souris
 
 
 
 
 # Cadre théorique de la thèse
+
+## Hasard et nécessité
+
+immigration => haazrd
+extinction nécéssité 
 
 ## Développements théoriques en Biogéographie
 
@@ -268,16 +277,12 @@ Malgré leurs performances, les modèles de distribution actuels utilisés pour 
 
 
 
-## figures envisagées
 
-- les problèmes d'échelles (figure qui cmontrent des paramètres qui captures si ou ça...)
-- les reltions "solides" de la biogéographie
 
-## L'espace en liu 2même...
 
-## Remarques
 
-"It just so happens that some people find it easier to think about things in terms of x's and y's, and other in terms rabbits of and lynx." MCann Preface
+
+> It just so happens that some people find it easier to think about things in terms of x's and y's, and other in terms rabbits of and lynx.  MCann Preface
 
 
 
@@ -556,21 +561,48 @@ la question a été pourquoi il y a autant d'espèces mais je pense qu'un equest
 La limite est toujours OK si assez pour 2 ou plus.
 
 
-# Mes objectifs.
-
-# ce qu'il y a dedans la thèse.
-
-Alors on est ;oin du compte masi pourquoi. Sans vouloir détruire complètement le comcept de iche il est demeur lacunaire è bien des égards. Il y aqqchose dans le concept de niche qu'on peut sentir..
-
-# Les intercations entre espèces vers la co-occurrence.
-
-
-
-La distribution des plantes à fleurs et des insectes et un incroyable  radiation évolutive mais aussi conséquence des dispersion.
 
 
 
 
-## Et ben allons y  
 
-Faire une figure avec les grands paramètres et discuter quelles hypothèse dessus ou pas...
+# Le rôle des interactions dans la distributiondes espàces {-}
+
+## Oubli de ce facteur important de
+
+Ls SMDS...
+
+
+## Une question d'échelle
+Question d'échelle
+La biogéographie avec au moins 3 problèmes d'échelles
+
+=> spatiale peut-on avoir d
+
+=> temporelle plus on augmente plus l'enpreinte historiques est forte => grands evenemnt géologique (lacitaion mouvement des plques) biogéogrpahies historiqyes mais aussi forme un pool d'espèces
+
+=> Mais aussi l'échelle taxonomique : la relaton aire espèce est décrite à l'intérieru des taxons les relations allométriques à l'inérieur des taxons E O Wilson a commencé à rappporter des relation sur les formis les exemples du livre sont herpeta faun (reptile plus amphibien)
+mecanisme => diversité de milieu
+
+contre exemple des chauves souris
+
+
+rq : ce sont elles qui limites. Rôle des prédateurs. Rôle local majeur.
+
+
+
+# Intégrations des contraintes biotiques et de la théorie à la recherche de signaux de d'intéraction {-}
+
+Dans ma thèse j'ai oassé du temps à essayer de mettre au point un modèke qui donnait de la substace aux idées de MacArthur et Wilson een etandant le travai initié par Gravel et collègues pour aller plus loin dans la compréhension des effets joints des interactions et des contraintes abiotiques. C'est aussi ce qui m'a animé pour en mettre en place la compréhesin dans les données de co-occurrence avant d'aller m'y confronter frongalemnet. Ma dernière intergtaion a Été de trouver des pistes pour allerr plus loin dans la théorie et explorer des pistes que je n'avais pas encore dxplorer mais qui seront à court terme les directions que je souhaite explorer.
+
+
+# Étendre la théorie de MacArthur et Wilson {-}
+
+
+# Comprendre les conséquence en terme de co-occurrece {-}
+
+
+# Chercher des signaux de co-occurrence  {-}
+
+
+# Aller de l'avant  {-}
