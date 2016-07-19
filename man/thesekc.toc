@@ -1,121 +1,122 @@
 \gdef \the@ipfilectr {@-1}
 \contentsline {chapter}{\MakeUppercase {Table des mati\`eres}}{ix}{section*.1}
-\contentsline {chapter}{\MakeUppercase {Liste des symboles}}{xiii}{section*.2}
+\contentsline {chapter}{\MakeUppercase {liste des abr\'{e}viations}}{xiii}{section*.2}
+\contentsline {chapter}{\MakeUppercase {Liste des symboles}}{xv}{section*.3}
 \select@language {french}
 \gdef \the@ipfilectr {}
 \select@language {french}
 \contentsline {chapter}{\numberline {\MakeUppercase {Chapitre} \MakeUppercase {1}} \\ \MakeUppercase {INTRODUCTION G\IeC {\'E}N\IeC {\'E}RALE}}{1}{chapter.1}
-\contentsline {section}{Section non num}{3}{section*.3}
-\contentsline {section}{\numberline {1.1}Phase quantitavive / mod\IeC {\'e}liser}{3}{section.1.1}
-\contentsline {subsection}{\numberline {1.1.1}L'importance des \IeC {\^\i }les en biog\IeC {\'e}orgaphie}{3}{subsection.1.1.1}
-\contentsline {section}{\numberline {1.2}Data availability}{4}{section.1.2}
-\contentsline {section}{\numberline {1.3}Information dans les distributions}{4}{section.1.3}
-\contentsline {subsection}{\numberline {1.3.1}Proxy}{4}{subsection.1.3.1}
-\contentsline {subsection}{\numberline {1.3.2}Potential interactions}{4}{subsection.1.3.2}
-\contentsline {subsection}{\numberline {1.3.3}Enjeux essentiels de la biog\IeC {\'e}ographie}{5}{subsection.1.3.3}
-\contentsline {subsection}{\numberline {1.3.4}Une question d'\IeC {\'e}chelle}{5}{subsection.1.3.4}
-\contentsline {section}{\numberline {1.4}Cadre th\IeC {\'e}orique de la th\IeC {\`e}se}{5}{section.1.4}
-\contentsline {subsection}{\numberline {1.4.1}D\IeC {\'e}veloppements th\IeC {\'e}oriques en Biog\IeC {\'e}ographie}{5}{subsection.1.4.1}
-\contentsline {subsubsection}{\numberline {1.4.1.1}L'empreinte historique de la La Th\IeC {\'e}orie de la Biog\IeC {\'e}ographie des Iles de MacArthur et Wilson}{6}{subsubsection.1.4.1.1}
-\contentsline {subsubsection}{\numberline {1.4.1.2}La th\IeC {\'e}orie des m\IeC {\'e}tapopulations}{6}{subsubsection.1.4.1.2}
-\contentsline {subsubsection}{\numberline {1.4.1.3}La th\IeC {\'e}orie neutres de l'\IeC {\'e}cologie et le d\IeC {\'e}bat qu'elle soul\IeC {\`e}ve}{6}{subsubsection.1.4.1.3}
-\contentsline {subsection}{\numberline {1.4.2}Chapitre 2 TIB}{7}{subsection.1.4.2}
-\contentsline {subsection}{\numberline {1.4.3}Interactions \IeC {\'e}cologique et TIB}{7}{subsection.1.4.3}
-\contentsline {subsection}{\numberline {1.4.4}La TIB : un mod\IeC {\`e}le simple donnant une vision puissante}{7}{subsection.1.4.4}
-\contentsline {subsection}{\numberline {1.4.5}Environnement abiotique et distribution des esp\IeC {\`e}ces}{9}{subsection.1.4.5}
-\contentsline {subsection}{\numberline {1.4.6}R\IeC {\'e}seaux d'interactions : interd\IeC {\'e}pendance des esp\IeC {\`e}ces}{12}{subsection.1.4.6}
-\contentsline {subsection}{\numberline {1.4.7}Plasticit\IeC {\'e} ph\IeC {\'e}notypique et processus \IeC {\'e}volutifs}{14}{subsection.1.4.7}
-\contentsline {subsection}{\numberline {1.4.8}Traits fonctionnels}{16}{subsection.1.4.8}
-\contentsline {subsection}{\numberline {1.4.9}Inf\IeC {\'e}rence en biog\IeC {\'e}ographie}{18}{subsection.1.4.9}
-\contentsline {subsection}{\numberline {1.4.10}figures envisag\IeC {\'e}es}{19}{subsection.1.4.10}
-\contentsline {subsection}{\numberline {1.4.11}L'espace en liu 2m\IeC {\^e}me\ldots {}}{20}{subsection.1.4.11}
-\contentsline {subsection}{\numberline {1.4.12}Remarques}{20}{subsection.1.4.12}
-\contentsline {subsection}{\numberline {1.4.13}La distribution des esp\IeC {\`e}ces des faits et des causes}{20}{subsection.1.4.13}
-\contentsline {subsubsection}{\numberline {1.4.13.1}De l'\IeC {\'e}merveillement}{21}{subsubsection.1.4.13.1}
-\contentsline {subsubsection}{\numberline {1.4.13.2}Des causes / des m\IeC {\'e}canismes}{21}{subsubsection.1.4.13.2}
-\contentsline {subsubsection}{\numberline {1.4.13.3}Challeng vers un espoir de g\IeC {\'e}n\IeC {\'e}ralisation}{21}{subsubsection.1.4.13.3}
-\contentsline {subsection}{\numberline {1.4.14}Une question d'\IeC {\'e}chelle}{21}{subsection.1.4.14}
-\contentsline {subsection}{\numberline {1.4.15}P2}{22}{subsection.1.4.15}
-\contentsline {subsection}{\numberline {1.4.16}Les relations de la biog\IeC {\'e}ographie}{24}{subsection.1.4.16}
-\contentsline {section}{\numberline {1.5}Conclusion}{24}{section.1.5}
-\contentsline {section}{\numberline {1.6}Predire la r\IeC {\'e}partiton futrure des esp\IeC {\`e}ces}{24}{section.1.6}
-\contentsline {subsection}{\numberline {1.6.1}Mod\IeC {\'e}liser}{25}{subsection.1.6.1}
-\contentsline {subsection}{\numberline {1.6.2}Correlative / Mechanism}{26}{subsection.1.6.2}
-\contentsline {subsubsection}{\numberline {1.6.2.1}R\IeC {\`e}gle et containgence}{26}{subsubsection.1.6.2.1}
-\contentsline {subsubsection}{\numberline {1.6.2.2}Un acte d'abstarction pour des d\IeC {\'e}fis tr\IeC {\`e}s concret}{27}{subsubsection.1.6.2.2}
-\contentsline {subsubsection}{\numberline {1.6.2.3}Deterministes ou stochastiques}{28}{subsubsection.1.6.2.3}
-\contentsline {subsection}{\numberline {1.6.3}Difficcult\IeC {\'e} des modlisation}{29}{subsection.1.6.3}
-\contentsline {subsection}{\numberline {1.6.4}Les piliers th\IeC {\'e}oriques de la biog\IeC {\'e}ogrpahie actuelle}{29}{subsection.1.6.4}
-\contentsline {subsection}{\numberline {1.6.5}DEB}{29}{subsection.1.6.5}
-\contentsline {subsubsection}{\numberline {1.6.5.1}Interaction et biogeographie}{30}{subsubsection.1.6.5.1}
-\contentsline {section}{\numberline {1.7}Mes objectifs.}{32}{section.1.7}
-\contentsline {section}{\numberline {1.8}ce qu'il y a dedans la th\IeC {\`e}se.}{32}{section.1.8}
-\contentsline {section}{\numberline {1.9}Les intercations entre esp\IeC {\`e}ces vers la co-occurrence.}{32}{section.1.9}
-\contentsline {subsection}{\numberline {1.9.1}Et ben allons y}{32}{subsection.1.9.1}
+\contentsline {section}{Des \IeC {\^\i }les et des esp\IeC {\`e}ces}{1}{section*.4}
+\contentsline {subsection}{En suivant Wallace}{1}{section*.5}
+\contentsline {subsection}{\numberline {1.0.1}L'information que referment les distributions d'esp\IeC {\`e}ces}{3}{subsection.1.0.1}
+\contentsline {subsection}{Importance des \IeC {\^\i }les en Biogeographie}{3}{section*.6}
+\contentsline {subsection}{D\IeC {\'e}finitions importantes}{4}{section*.7}
+\contentsline {subsection}{Th\IeC {\'e}orie et mod\IeC {\'e}lisation}{6}{section*.8}
+\contentsline {subsubsection}{\numberline {1.0.1.1}Deterministes ou stochastiques}{6}{subsubsection.1.0.1.1}
+\contentsline {subsection}{\numberline {1.0.2}Correlative / Mechanism}{7}{subsection.1.0.2}
+\contentsline {subsubsection}{\numberline {1.0.2.1}R\IeC {\`e}gle et containgence}{7}{subsubsection.1.0.2.1}
+\contentsline {subsubsection}{\numberline {1.0.2.2}Un acte d'abstarction pour des d\IeC {\'e}fis tr\IeC {\`e}s concret}{8}{subsubsection.1.0.2.2}
+\contentsline {section}{M\IeC {\'e}canismes et enjeux de la connaissance des distributions d'esp\IeC {\`e}ces}{9}{section*.9}
+\contentsline {subsection}{\numberline {1.0.3}Biog\IeC {\'e}ographie historique}{9}{subsection.1.0.3}
+\contentsline {subsection}{Environnement abiotique et distribution des esp\IeC {\`e}ces}{9}{section*.10}
+\contentsline {subsection}{R\IeC {\'e}seaux d'interactions : interd\IeC {\'e}pendance des esp\IeC {\`e}ces}{11}{section*.11}
+\contentsline {subsection}{Capact\IeC {\'e}s de dispersion et structure du payasge}{13}{section*.12}
+\contentsline {subsection}{Plasticit\IeC {\'e} ph\IeC {\'e}notypique et processus micro-\IeC {\'e}volutifs}{13}{section*.13}
+\contentsline {subsection}{Syth\IeC {\`e}se des m\IeC {\'e}canismes et des enjeus autour d'un exemple r\IeC {\'e}cent}{15}{section*.14}
+\contentsline {section}{Cadre th\IeC {\'e}orique de la th\IeC {\`e}se}{16}{section*.15}
+\contentsline {subsection}{\numberline {1.0.4}Grandes th\IeC {\'e}ories en Biogeographie}{16}{subsection.1.0.4}
+\contentsline {subsubsection}{\numberline {1.0.4.1}L'importance des \IeC {\^\i }les en biog\IeC {\'e}orgaphie}{16}{subsubsection.1.0.4.1}
+\contentsline {subsubsection}{L'empreinte historique de la La Th\IeC {\'e}orie de la Biog\IeC {\'e}ographie des Iles de MacArthur et Wilson}{17}{section*.16}
+\contentsline {subsubsection}{\numberline {1.0.4.2}La th\IeC {\'e}orie des m\IeC {\'e}tapopulations}{18}{subsubsection.1.0.4.2}
+\contentsline {subsubsection}{\numberline {1.0.4.3}La th\IeC {\'e}orie neutres de l'\IeC {\'e}cologie et le d\IeC {\'e}bat qu'elle soul\IeC {\`e}ve}{18}{subsubsection.1.0.4.3}
+\contentsline {subsection}{Hasard et n\IeC {\'e}cessit\IeC {\'e}}{18}{section*.17}
+\contentsline {subsubsection}{stochasticit\IeC {\'e}}{18}{section*.18}
+\contentsline {subsubsection}{Dans la Biog\IeC {\'e}o des \IeC {\^\i }les}{18}{section*.19}
+\contentsline {subsection}{D\IeC {\'e}veloppements th\IeC {\'e}oriques en Biog\IeC {\'e}ographie}{18}{section*.20}
+\contentsline {subsection}{\numberline {1.0.5}Chapitre 2 TIB}{19}{subsection.1.0.5}
+\contentsline {subsection}{\numberline {1.0.6}La TIB : un mod\IeC {\`e}le simple donnant une vision puissante}{19}{subsection.1.0.6}
+\contentsline {subsection}{\numberline {1.0.7}Inf\IeC {\'e}rence en biog\IeC {\'e}ographie}{21}{subsection.1.0.7}
+\contentsline {subsection}{\numberline {1.0.8}P2}{24}{subsection.1.0.8}
+\contentsline {subsection}{\numberline {1.0.9}Les relations de la biog\IeC {\'e}ographie}{26}{subsection.1.0.9}
+\contentsline {section}{\numberline {1.1}Conclusion}{26}{section.1.1}
+\contentsline {section}{\numberline {1.2}Predire la r\IeC {\'e}partiton futrure des esp\IeC {\`e}ces}{27}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Mod\IeC {\'e}liser}{28}{subsection.1.2.1}
+\contentsline {section}{Le r\IeC {\^o}le des interactions dans la distributiondes esp\IeC {\`e}ces}{29}{section*.22}
+\contentsline {subsection}{\numberline {1.2.2}Interaction et biogeographie}{29}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}Interactions \IeC {\'e}cologique et TIB}{31}{subsection.1.2.3}
+\contentsline {subsection}{\numberline {1.2.4}Une question d'\IeC {\'e}chelle}{31}{subsection.1.2.4}
+\contentsline {subsection}{\numberline {1.2.5}Oubli de ce facteur important de}{32}{subsection.1.2.5}
+\contentsline {subsection}{\numberline {1.2.6}Une question d'\IeC {\'e}chelle}{33}{subsection.1.2.6}
+\contentsline {section}{Int\IeC {\'e}grations des contraintes biotiques et de la th\IeC {\'e}orie \IeC {\`a} la recherche de signaux de d'int\IeC {\'e}raction}{34}{section*.23}
+\contentsline {subsection}{\IeC {\'E}tendre la th\IeC {\'e}orie de MacArthur et Wilson}{35}{section*.24}
+\contentsline {subsection}{Comprendre les cons\IeC {\'e}quence en terme de co-occurrece}{35}{section*.25}
+\contentsline {subsubsection}{Abondance des donn\IeC {\'e}es}{35}{section*.26}
+\contentsline {subsubsection}{Potential interactions}{35}{section*.27}
+\contentsline {subsection}{Chercher des signaux de co-occurrence}{36}{section*.28}
+\contentsline {subsection}{Information dans les distributions}{36}{section*.29}
+\contentsline {section}{Aller de l'avant}{36}{section*.30}
+\contentsline {subsection}{\numberline {1.2.7}DEB}{36}{subsection.1.2.7}
+\contentsline {subsection}{Traits fonctionnels}{36}{section*.31}
 \select@language {english}
-\contentsline {chapter}{\numberline {\MakeUppercase {article} \MakeUppercase {2}} \\ \MakeUppercase {A PROPOS DES INTERACTIONS BIOTIQUES ET DES CONTRAINTES ENVIRONNMNENTALES A L'ECHELLE BIOGEOGRAPHIQUE}}{35}{chapter.2}
-\contentsline {section}{\numberline {2.1}RESUM\IeC {\'E}}{35}{section.2.1}
-\contentsline {section}{\numberline {2.2}TITLE}{37}{section.2.2}
-\contentsline {section}{\numberline {2.3}AUTHORS}{37}{section.2.3}
-\contentsline {section}{\numberline {2.4}ABSTRACT}{37}{section.2.4}
-\contentsline {section}{\numberline {2.5}Introduction}{38}{section.2.5}
-\contentsline {section}{\numberline {2.6}The model}{41}{section.2.6}
-\contentsline {subsection}{\numberline {2.6.1}A simple probabilistic biogeographical model}{41}{subsection.2.6.1}
-\contentsline {subsection}{\numberline {2.6.2}Integrating biotic interactions}{44}{subsection.2.6.2}
-\contentsline {subsection}{\numberline {2.6.3}Integrating environmental gradients}{46}{subsection.2.6.3}
-\contentsline {section}{\numberline {2.7}Exploring the model}{48}{section.2.7}
-\contentsline {subsection}{\numberline {2.7.1}Biodiversity distribution over environmental gradients}{50}{subsection.2.7.1}
-\contentsline {section}{\numberline {2.8}Discussion}{52}{section.2.8}
-\contentsline {section}{\numberline {2.9}Acknowledgment}{57}{section.2.9}
-\contentsline {section}{\numberline {2.10}Tables}{64}{section.2.10}
-\contentsline {section}{\numberline {2.11}Figures}{64}{section.2.11}
-\contentsline {chapter}{\numberline {\MakeUppercase {article} \MakeUppercase {3}} \\ \MakeUppercase {THEORIE DE CO-OCCURRENCE DES ESPECES DANS LES R\IeC {\'E}SEAUX D'INTERACTION}}{69}{chapter.3}
-\contentsline {section}{\numberline {3.1}R\IeC {\'e}sum\IeC {\'e} en fran\IeC {\c c}ais du deuxi\IeC {\`e}me article}{69}{section.3.1}
-\contentsline {section}{\numberline {3.2}TITLE}{72}{section.3.2}
-\contentsline {section}{\numberline {3.3}AUTHORS}{72}{section.3.3}
-\contentsline {section}{\numberline {3.4}ABSTRACT}{72}{section.3.4}
-\contentsline {section}{\numberline {3.5}KEYWORDS}{73}{section.3.5}
-\contentsline {section}{\numberline {3.6}Introduction}{73}{section.3.6}
-\contentsline {section}{\numberline {3.7}Definitions}{77}{section.3.7}
-\contentsline {paragraph}{\numberline {3.7.0.0.1}Indirect interactions}{82}{paragraph.3.7.0.0.1}
-\contentsline {paragraph}{\numberline {3.7.0.0.2}Associations do not have to be symmetrical.}{84}{paragraph.3.7.0.0.2}
-\contentsline {paragraph}{\numberline {3.7.0.0.3}Distance decay of observed co-occurrence.}{85}{paragraph.3.7.0.0.3}
-\contentsline {paragraph}{\numberline {3.7.0.0.4}Strength of co-occurrence decreases with degree and species richness.}{86}{paragraph.3.7.0.0.4}
-\contentsline {section}{\numberline {3.8}ACKNOWLEDGMENTS}{90}{section.3.8}
-\contentsline {section}{\numberline {3.9}FIGURES}{91}{section.3.9}
-\contentsline {section}{\numberline {3.10}Context}{92}{section.3.10}
-\contentsline {section}{\numberline {3.11}Material and Methods}{95}{section.3.11}
-\contentsline {subsection}{\numberline {3.11.1}Datasets}{95}{subsection.3.11.1}
-\contentsline {subsection}{\numberline {3.11.2}Measures of co-occurrence}{95}{subsection.3.11.2}
-\contentsline {section}{\numberline {3.12}Results}{96}{section.3.12}
-\contentsline {subsection}{\numberline {3.12.1}Discussion (\textasciitilde {} 4000 char)}{97}{subsection.3.12.1}
-\contentsline {subsection}{\numberline {3.12.2}Box 1}{99}{subsection.3.12.2}
-\contentsline {subsection}{\numberline {3.12.3}Tables}{101}{subsection.3.12.3}
-\contentsline {section}{\numberline {3.13}Figures}{102}{section.3.13}
-\contentsline {section}{Reference}{106}{section*.39}
-\contentsline {section}{\numberline {3.14}Material and methods}{106}{section.3.14}
-\contentsline {subsection}{\numberline {3.14.1}Datasets}{107}{subsection.3.14.1}
-\contentsline {subsubsection}{\numberline {3.14.1.1}Willows leafs network}{107}{subsubsection.3.14.1.1}
-\contentsline {subsubsection}{\numberline {3.14.1.2}Pitcher plants network}{107}{subsubsection.3.14.1.2}
-\contentsline {subsubsection}{\numberline {3.14.1.3}Caribbean Hummingbirds-Plant network}{107}{subsubsection.3.14.1.3}
-\contentsline {subsubsection}{\numberline {3.14.1.4}North American Trees datasets}{107}{subsubsection.3.14.1.4}
-\contentsline {subsubsection}{\numberline {3.14.1.5}French Breeding Birds Survey datasets}{107}{subsubsection.3.14.1.5}
-\contentsline {subsubsection}{\numberline {3.14.1.6}Keeping 1\%}{107}{subsubsection.3.14.1.6}
-\contentsline {subsection}{\numberline {3.14.2}Traits-based distance}{107}{subsection.3.14.2}
-\contentsline {subsection}{\numberline {3.14.3}Building metaweb}{107}{subsection.3.14.3}
-\contentsline {subsection}{\numberline {3.14.4}Co-occurrence measurement}{108}{subsection.3.14.4}
-\contentsline {subsection}{\numberline {3.14.5}Hypergeometric distribution}{108}{subsection.3.14.5}
-\contentsline {subsection}{\numberline {3.14.6}GLM and RF}{109}{subsection.3.14.6}
-\contentsline {subsubsection}{\numberline {3.14.6.1}Climatic data}{109}{subsubsection.3.14.6.1}
-\contentsline {subsubsection}{\numberline {3.14.6.2}Generalized Linear Model}{109}{subsubsection.3.14.6.2}
-\contentsline {subsubsection}{\numberline {3.14.6.3}Random Forests}{110}{subsubsection.3.14.6.3}
-\contentsline {subsection}{\numberline {3.14.7}Mean Z-score log occupancy}{110}{subsection.3.14.7}
-\contentsline {subsection}{\numberline {3.14.8}Model Evaluation}{110}{subsection.3.14.8}
-\contentsline {subsection}{\numberline {3.14.9}Trees}{110}{subsection.3.14.9}
-\contentsline {section}{\numberline {3.15}Supplementary results}{111}{section.3.15}
-\contentsline {subsection}{\numberline {3.15.1}Commenting S6-S9}{111}{subsection.3.15.1}
-\contentsline {section}{\numberline {3.16}Supporting Tables}{111}{section.3.16}
-\contentsline {subsubsection}{\numberline {3.16.0.1}R packages used}{111}{subsubsection.3.16.0.1}
-\contentsline {section}{\numberline {3.17}Supporting Figures}{114}{section.3.17}
-\contentsline {section}{Supporting References}{122}{section*.49}
-\contentsline {chapter}{\numberline {\MakeUppercase {article} \MakeUppercase {4}} \\ \MakeUppercase {ISLAND THEORY OF BIOGEOGRAPHY : FROM SPECIES TO FONCTIONNAL TRAITS}}{123}{chapter.4}
+\contentsline {chapter}{\numberline {\MakeUppercase {article} \MakeUppercase {2}} \\ \MakeUppercase {A PROPOS DES INTERACTIONS BIOTIQUES ET DES CONTRAINTES ENVIRONNMNENTALES A L'ECHELLE BIOGEOGRAPHIQUE}}{45}{chapter.2}
+\contentsline {section}{\numberline {2.1}RESUM\IeC {\'E}}{45}{section.2.1}
+\contentsline {section}{\numberline {2.2}TITLE}{47}{section.2.2}
+\contentsline {section}{\numberline {2.3}AUTHORS}{47}{section.2.3}
+\contentsline {section}{\numberline {2.4}ABSTRACT}{47}{section.2.4}
+\contentsline {section}{\numberline {2.5}Introduction}{48}{section.2.5}
+\contentsline {section}{\numberline {2.6}The model}{51}{section.2.6}
+\contentsline {subsection}{\numberline {2.6.1}A simple probabilistic biogeographical model}{51}{subsection.2.6.1}
+\contentsline {subsection}{\numberline {2.6.2}Integrating biotic interactions}{54}{subsection.2.6.2}
+\contentsline {subsection}{\numberline {2.6.3}Integrating environmental gradients}{56}{subsection.2.6.3}
+\contentsline {section}{\numberline {2.7}Exploring the model}{58}{section.2.7}
+\contentsline {subsection}{\numberline {2.7.1}Biodiversity distribution over environmental gradients}{60}{subsection.2.7.1}
+\contentsline {section}{\numberline {2.8}Discussion}{62}{section.2.8}
+\contentsline {section}{\numberline {2.9}Acknowledgment}{67}{section.2.9}
+\contentsline {section}{\numberline {2.10}Tables}{74}{section.2.10}
+\contentsline {section}{\numberline {2.11}Figures}{74}{section.2.11}
+\contentsline {chapter}{\numberline {\MakeUppercase {article} \MakeUppercase {3}} \\ \MakeUppercase {THEORIE DE CO-OCCURRENCE DES ESPECES DANS LES R\IeC {\'E}SEAUX D'INTERACTION}}{79}{chapter.3}
+\contentsline {section}{\numberline {3.1}R\IeC {\'e}sum\IeC {\'e} en fran\IeC {\c c}ais du deuxi\IeC {\`e}me article}{79}{section.3.1}
+\contentsline {section}{\numberline {3.2}TITLE}{82}{section.3.2}
+\contentsline {section}{\numberline {3.3}AUTHORS}{82}{section.3.3}
+\contentsline {section}{\numberline {3.4}ABSTRACT}{82}{section.3.4}
+\contentsline {section}{\numberline {3.5}KEYWORDS}{83}{section.3.5}
+\contentsline {section}{\numberline {3.6}Introduction}{83}{section.3.6}
+\contentsline {section}{\numberline {3.7}Definitions}{87}{section.3.7}
+\contentsline {paragraph}{\numberline {3.7.0.0.1}Indirect interactions}{92}{paragraph.3.7.0.0.1}
+\contentsline {paragraph}{\numberline {3.7.0.0.2}Associations do not have to be symmetrical.}{94}{paragraph.3.7.0.0.2}
+\contentsline {paragraph}{\numberline {3.7.0.0.3}Distance decay of observed co-occurrence.}{95}{paragraph.3.7.0.0.3}
+\contentsline {paragraph}{\numberline {3.7.0.0.4}Strength of co-occurrence decreases with degree and species richness.}{96}{paragraph.3.7.0.0.4}
+\contentsline {section}{\numberline {3.8}ACKNOWLEDGMENTS}{100}{section.3.8}
+\contentsline {section}{\numberline {3.9}FIGURES}{101}{section.3.9}
+\contentsline {section}{\numberline {3.10}Context}{102}{section.3.10}
+\contentsline {section}{\numberline {3.11}Material and Methods}{105}{section.3.11}
+\contentsline {subsection}{\numberline {3.11.1}Datasets}{105}{subsection.3.11.1}
+\contentsline {subsection}{\numberline {3.11.2}Measures of co-occurrence}{105}{subsection.3.11.2}
+\contentsline {section}{\numberline {3.12}Results}{106}{section.3.12}
+\contentsline {subsection}{\numberline {3.12.1}Discussion (\textasciitilde {} 4000 char)}{107}{subsection.3.12.1}
+\contentsline {subsection}{\numberline {3.12.2}Box 1}{109}{subsection.3.12.2}
+\contentsline {subsection}{\numberline {3.12.3}Tables}{111}{subsection.3.12.3}
+\contentsline {section}{\numberline {3.13}Figures}{112}{section.3.13}
+\contentsline {section}{Reference}{116}{section*.66}
+\contentsline {section}{\numberline {3.14}Material and methods}{116}{section.3.14}
+\contentsline {subsection}{\numberline {3.14.1}Datasets}{116}{subsection.3.14.1}
+\contentsline {subsubsection}{\numberline {3.14.1.1}Willows leafs network}{117}{subsubsection.3.14.1.1}
+\contentsline {subsubsection}{\numberline {3.14.1.2}Pitcher plants network}{117}{subsubsection.3.14.1.2}
+\contentsline {subsubsection}{\numberline {3.14.1.3}Caribbean Hummingbirds-Plant network}{117}{subsubsection.3.14.1.3}
+\contentsline {subsubsection}{\numberline {3.14.1.4}North American Trees datasets}{117}{subsubsection.3.14.1.4}
+\contentsline {paragraph}{\numberline {3.14.1.4.1}Traits-based distance}{117}{paragraph.3.14.1.4.1}
+\contentsline {subsubsection}{\numberline {3.14.1.5}French Breeding Birds Survey datasets}{117}{subsubsection.3.14.1.5}
+\contentsline {paragraph}{\numberline {3.14.1.5.1}Traits-based distance}{117}{paragraph.3.14.1.5.1}
+\contentsline {subsection}{\numberline {3.14.2}Building metawebs}{117}{subsection.3.14.2}
+\contentsline {subsection}{\numberline {3.14.3}Co-occurrence measurement}{118}{subsection.3.14.3}
+\contentsline {subsection}{\numberline {3.14.4}Hypergeometric distribution}{118}{subsection.3.14.4}
+\contentsline {subsection}{\numberline {3.14.5}GLM and RF}{119}{subsection.3.14.5}
+\contentsline {subsubsection}{\numberline {3.14.5.1}Climatic data}{119}{subsubsection.3.14.5.1}
+\contentsline {subsubsection}{\numberline {3.14.5.2}Generalized Linear Model}{119}{subsubsection.3.14.5.2}
+\contentsline {subsubsection}{\numberline {3.14.5.3}Random Forests}{120}{subsubsection.3.14.5.3}
+\contentsline {subsubsection}{\numberline {3.14.5.4}Evaluating the models}{120}{subsubsection.3.14.5.4}
+\contentsline {section}{\numberline {3.15}Supporting Tables}{120}{section.3.15}
+\contentsline {subsubsection}{\numberline {3.15.0.1}R packages used}{120}{subsubsection.3.15.0.1}
+\contentsline {section}{\numberline {3.16}Supporting Figures}{127}{section.3.16}
+\contentsline {section}{Supporting References}{136}{section*.76}
+\contentsline {chapter}{\numberline {\MakeUppercase {article} \MakeUppercase {4}} \\ \MakeUppercase {ISLAND THEORY OF BIOGEOGRAPHY : FROM SPECIES TO FONCTIONNAL TRAITS}}{137}{chapter.4}

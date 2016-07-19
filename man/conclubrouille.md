@@ -1,4 +1,13 @@
-# Conclusion
+# L'espoir d'une biogéographie mechanistique {-}
+
+Avec l'espo
+
+# Un monde biaisé ? {-}
+
+Et même
+Sommes nous en train de biaisé le signal hylogén.tique ?
+
+
 
 ### Les conséquences
 
@@ -77,3 +86,5 @@ Les conséquences sont compliqués des changements climatiques sont nombreuses e
 
 
 Wallace n'aurait-il pas eu plus de mal à comprndre les zones aujourd'hui. Si naïvemnt on réduit aux villes, l'homogénéité ++ mais avec les espèces invasive le signal est fortemnt briollé aussi !
+
+Je pense qu'on est a un tournant de la biogoe vers un chamgemnt de paradigme communaité centré qui ne nit pas les travaux précédant mais les suit.

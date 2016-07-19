@@ -10,7 +10,10 @@ header-includes:
 <!-- Question fondamentale -->
 
 
+
+
 # Des îles et des espèces {-}
+
 
 ## En suivant Wallace {-}
 
@@ -25,29 +28,9 @@ La réponse apportée par Wallace est la suivante : une connaissance encyclopéd
 
 <!-- La biogéographie est longtemps restée dans une phase d'hitoire naturelle, accumulant des connaissances sur la distribution des espèces et des groupes taxonimique d'ordre supérieur et sur la composition des biotes. Le raisonnemnt interprétatifs a été largement utilisé pour résoudre des problèmes singuliers grâce è l'histoire individuels des taxons et biotes. Cette activité descriptive continura sans ausun doute à être d'une importance fundamentak pour la science et une des aventures de toutes les entreprises scientifiques, et dans la richesse des détails qu'on déroulem plaisant esthétiquement. Mais la biogéographie est aussi dans une position dans une phase tout aussi intéressante d'expériences et de théorie.-->
 
-Les auteurs affirmeent ainsi la distributions des espèces doit sortir du royaumes des contingences pour devenir un objet de science au sens ou il peut et doit être manipulé aussi bien expérimentalement que par l'abstraction mathématique. Pour ce qui est du travail expérimental, le plus marquent demeur celui entreprit par Wilson avec son doctorant qui est aujourd'hui le célèbre écologue Daniel Simberloff aui ont directement testé la validité de la théorie des îles six petits îlots de mangrove dans la Bay de Floride [@Simberloff2016]. La travail d'abstraction mathématique a été surtout celui de MacArthur qui est contenue dans les dévelopments mathématiques de la prolongée dans les annexes de son livre de 1972 [@macarthur1972geographical]. Leurs efforts conjugués ont donnés le jour à une vision générale et puissante dans laquelle la présence sur une île donnée est le résultat de processus stochastique de colonisation et de contraintes locales conduisant à des extinction contrebalacant les colonisations et amenant aisin à un équilibre en terme de richesse spécifique sur l'île. Ils ont alors montrès que l'appatrence statique des distributions d'espèces étaient le r.ustlat d'une dynmqiue et qu'en plus des indices à l'échelle d'un grand nombre d'île, la démonstration pouvait être expérimentale.
+Les auteurs affirmeent ainsi la distributions des espèces doit sortir du royaumes des contingences pour devenir un objet de science au sens ou il peut et doit être manipulé aussi bien expérimentalement que par l'abstraction mathématique. Pour ce qui est du travail expérimental, le plus marquent demeur celui entreprit par Wilson avec son doctorant qui est aujourd'hui le célèbre écologue Daniel Simberloff aui ont directement testé la validité de la théorie des îles six petits îlots de mangrove dans la Bay de Floride [@Simberloff2016]. La travail d'abstraction mathématique a été surtout celui de MacArthur qui est contenue dans les dévelopments mathématiques de la prolongée dans les annexes de son livre de 1972 [@macarthur1972geographical]. Leurs efforts conjugués ont donné le jour à une vision générale et puissante dans laquelle la présence sur une île donnée est le résultat de processus stochastique de colonisation et de contraintes locales conduisant à des extinction contrebalacant les colonisations et amenant ainsi à un équilibre en terme de richesse spécifique sur l'île. Ils ont alors montré que le charactère statique des distributions d'espèces étaient le résultat d'une dynamique qui pouvait être montré empiriquement et éclairait les données existente. Leur désir de fonder une biogéographie de l'espèce (terme donnée à l'avant-dernière phrase de leur livre de 1967) est l'aspiration à mettre davantage de processus écologique pour améliorer la connaissance du vivant sans pour atant nier l'importance des processus évolutifs.
 
-
-
-## Importance des îles en Biogeographie {-}
-
-Les îles qui occupent le coeur de l'ouvrage de Wallace et de MAcArthur et Wilson ont été essentiel poour comprendre les processus qui forme la sitributn des espèces. Elle sosn tproches du continent et peuvent être si différenetes la nature eotique des piles à forcer les auteurs à comprendre l'origine de leur singularit.é et ces sur ces bout de terre isolé qu'ils ont trouv.s des réposnes historques ais ausso spataile qui a parmis d'aller vers des dévelppemnt encore aujourd'hui très actis. La quête de cees honmes et de bien d'autres reste finalemnt de comprendre pourquoi les espèces sont ou elles sont et de comproendre ce qui les amanerner la. Ma thèse s'inscrit dans la poursuite de ces questions sur la distribution des ranges et j'artiuclerai la suirte de mon introduction autour de l'interrogagtion suivante : Quelles infornations renferment les distributions d'espèces. Pour apporter le maximum d'élément de réponse à cette question, je commencerai apr apporter les mécanismes en présence au travers de différérents ecemple avant de passer plus de temps sur la cadre conceptuel en Biogéograohie pour aboutir sur l'importance des interactions sur les distribution d'espèces.
-
-
-(Chapitre 8 TIB first paragraph)
-
-Le concept récent de biodiversité.
-However ecological equivalence in
-"the niche is a mapping of population dynamics onto this space" @Holt2009PNAS
-vers le fonctionnemt des ecosystèmes levier d'action vers une approche plus utilitariste mais qui donne uns certaine proximité avec les eécosytèmes @Loreau2001
-
-
-
-[chrono]: Wallace a publié en 1858 un article *On the Tendency of Varieties to Depart Indefinitely From the Original Type* qui témoigne très clairement que ses idées sur les varitions temporelles des espèces étaient très proche de celle de Charles Robert Darwin  a qui il avait d'ailleurs envoyé le manuscipt [@Wallace1858].
-
-
-## Définitions importantes {-}
-
+Une des pi
 Je tiens ici à disuter de notion clef pour lesquelles je donne des discussions volontairemnt courtes. Ce ne sont pas ces définitions qui m'intéressent mais leur articlion que je développe jutse après.
 
 1. **Ecologie** : étude des relations entre les êtres vivants et de leur interaction avec leur habitat et des relations entre elles.
@@ -81,6 +64,51 @@ La compréhension de la répartion géogrpahique des espces s'articlue autour de
 les variables climatiques / biotiques les capacitésde dispersion l'artciuclation est bien détaillé dans dans la remière partie de @Peterson2011.
 
 
+
+
+## Quelles informations referment les distributions d'espèces? {-}
+
+Je pense que cette question permet de parcourir l'étude du lien entre le vivant et l'espace qu'est la biogéographie. Non seulemnent elle est une invitation à découvir les raisons de la présence de telle ou telle organisme à tel ou tel endroit, mais elle suggère dans le même temps que certaines informations ne sont pas données par la répartion géogrpahique des espèces. Wallace, MacArthur et Wilson ont apporté des éléments de réponse essentiel à cette question. Wallace a montré que la distribution reflètait au moins partiellement les liens de parenté entre les esèces. MacArthur et Wilson ont suggérés des processus écologiques dynamiques pour expliquer la présence d'une espèce dans un endroit donné. Examiner les distribtions entre espèces est demande alors de s'en nourrir pour ce qu'elles sont mais aussi d'avoir une connassance biologique fine pour envisager les mécanismes qui sont les moteurs des occupations spatiales actuelles.
+
+Cette idée de regarder les distributions d'espèces et de les confronter à la connaisssance biologique est reprise tout au long de son livre de MacArthur de 1972 au chapitre 2 où il propose un cadre mathématique pour comprendre l'impact de la prédation et de la compétition qui fonde des prinicpes sur les conséquences des interactions en termes de ségréaton spatiale avec par exemple l'idée que deux compétiteurs soit ne paeuvent pas co-occuré ou que sur une zone restreinte  séparant leur deux distribution [@macarthur1972geographical]. D'ailleurs il parlera dans se même ouvrage de la distribution en damier (*checkerboard*) des espèces en compétition qui sera approfondie et quantifié par Jared Diamond [@Diamond1975] qui déclenchera le débat sur les outils nécessaires les présence non aléatoires d'espèces [@Connor1979].
+
+L'analyse de l'infornation des distributions est a mené à différentes spatiales et temporelles. Comme le relève MacArthur, c'est en trouvant des phénomènes répété que l'on peut aller vers la génétalisation mais la répétition spatiale et aussi temporelle de de phénomène qui s'exprinent eux même a des échelles diff.rentes ainsi, distributions d'espèces est un repose aussi sur une analyse à différentes échelles
+Quelle est le lien entre le lien entre les variables abiotiqyes et. Il faut avoir alors des s'armées de connaissance relative à différentes échelles les messages sont à checher dans l'évolution (données fossiles) au temps courts (séries temporelles) à des échelles fines et larges. Ces études peuvent réveler que tous les processus ne s'exprinent pas de la même manière à toutes les échelles [@McGill2010].
+
+
+
+
+## Enjeux de la connaisssance de la répartition géogrpahique
+
+Aujourd'hui une bone partie du des enjeux de la biogéogrpahie ce fait aussi
+proédire les rengae s
+
+le traver => focus sur variabels climatiques
+
+=> modélistaion
+
+
+## {-}
+
+
+Rappelons les objectifs de la biogéographie : décrire et comprendre  sur la Terre. Le coeur de l'inférence en biogéographie est donc de trouver les variables les plus pertinentes pour la répartition des espèces. Pour cela, les données spatialisées de présence ou d'abondance des organismes étudiés sont mises en relation avec des variables prédictives également spatialisées \cite{Guisan2005,Peterson2011,Elith2009a}. Idéalement, les échelles spatiales coïncident, sinon des transformations des données sont nécessaires. Si la variabilité capturée est satisfaisante, la combinaison retenue de variables explicatives éclairent alors les motifs de la présence des espèces en un lieu donné. Nous retiendrons le nom de modèle de distribution des espèces (MDE) pour référer à cette démarche de modélisation générale. Il y a cependant de nombreux aspects à discuter relatifs aux variables explicatives employées. Les MDE ont fourni des exemples attestant de leur pouvoir à décrire la niche fondamentale pour expliquer les présences des espèces \cite{Kearney2004}. Si l'on considère des espèces mobiles, il est problématique de négliger leur mouvement, la dispersion et ses limites doivent alors être incorporés dans les modèles de distribution \cite{Gotelli2009}. De même, les espèces interagissant entre elles, elles influencent leurs distributions. Utiliser une espèce en tant que variable explicative pour la présence d'une autre peut s'avérer pertinent \cite{Araujo2007,Pearson2003} mais soulève la question suivante: que faire lorsque nous essayons de prédire simultanément la présence de deux espèces dont les observations résultent elles-même de leurs échanges ?
+
+Dans le contexte actuel des changements globaux, il y a une concentration des efforts pour mieux cerner l'ensemble des réponses possibles des espèces face aux changements globaux \cite{Bellard2012}. En guise de réponse, les MDE deviennent plus intégrateurs et de nouvelles approches émergent \cite{Kissling2011}. Ainsi, Guisan et Rahbek 2011 proposent une démarche alliant les prédictions faîtes par les MDE sur un ensemble d'espèces et celles données par une approche de modélisation macroécologiques s'appuyant sur des règles de coexistence dans une unité géographique donnée \cite{Guisan2011}. Le travail de Gotelli \textit{et al.} est également un exemple de démarche intégrative où un nombre important de processus peuvent être inclus via un système de combinaison de scénarios et tester par simulations stochastiques \cite{Gotelli2009}. Enfin, en construisant des réseaux basés sur la cooccurrence des espèces, Araújo \textit{et al.} revisitent le problème de l'interdépendance des espèces \cite{Araujo2011} : ils s'interrogent sur la résistance des réseaux de cooccurrence obtenus face aux futurs changement climatiques, ils mettent ainsi en évidence des risques accrus de perte des espèces les moins connectés (celles qui cooccurent moins). Ces travaux témoignent de la volonté d'une biogéographie intégrative.
+
+Malgré leurs performances, les modèles de distribution actuels utilisés pour construire les scénarios de biodiversité de demain souffrent vraisemblablement d'un manque de théorie sous-jacent \cite{Beck2012,Lomolino2000}. La nécessité d'une approche théorique pour aller vers des approches plus appliquées est fondamentale, en témoignent, par exemple, l'histoire de la théorie de la biogéographie \cite{MacArthur1967} et de la théorie métabolique \cite{Brown2004}. Dans notre cas, partir d'une construction progressive assemblant les différents processus décrits ci-dessus nourrit, dans un premier temps, la réflexion sur l'ensemble des retroactions que peuvent exercer les différents processus les uns sur les autres\cite{Thuiller2013}. Dans un second temps, le questionnement sur les échelles des phénomènes peut amener à isoler les processus que les futurs MDE ne doivent pas occulter au regard des échelles spatio-temporelles qu'ils considèrent. Troisièmement, les modèles théoriques fournissent des hypothèses à confronter aux faits, ce qui permet de conforter ou d'infirmer la théorie. Enfin, si l'agencement des processus entre eux est bien expliqué, de la théorie peut émerger de nouvelles méthodes pour traiter les données.
+
+
+
+
+
+
+
+
+[^chrono]: Wallace a publié en 1858 un article *On the Tendency of Varieties to Depart Indefinitely From the Original Type* qui témoigne très clairement que ses idées sur les varitions temporelles des espèces étaient très proche de celle de Charles Robert Darwin  a qui il avait d'ailleurs envoyé le manuscipt [@Wallace1858].
+
+
+je tiens è finir cette partie avec quelques idées générales mais préceuse pour conprendr la dématche théioriqe et de modelisationm
+
 ## Théorie et modélisation {-}
 
 ### Deterministes ou stochastiques
@@ -101,6 +129,7 @@ Produire variance et moments d'ordre supérierus...
 
 Dans mon premier chapitre je fais appel à une chaîne de Markov qui est elle, un processus aléatroi masus qui peut
 
+> It just so happens that some people find it easier to think about things in terms of x's and y's, and other in terms rabbits of and lynx.  MCann Preface
 
 
 ## Correlative / Mechanism
@@ -220,7 +249,7 @@ vers une systhèse @Schoener2011 => interaction de ces processus.
 
 
 
-## Sythèse des mécanismes et des enjeus autour d'un exemple récent {-}
+## Sythèse des mécanismes et des enjeux autour d'un exemple récent {-}
 
 Avant de nouer tous ces mécanimses dont on bien comprendre je vais nouer leur interacton autour d'un exemple Je vais illustrer mon propos avec 2 (3?) récurrent exemple (mais d'autres aussi) le cas du Frelon asiqtieu (anglais : Yellow-legged horne, *Vespa velutina*). Importance pour impact dans sur les abaeilles domestiques mais très peu sur la faune locale et les oiseaux migrateurs dans le nord
 
@@ -259,6 +288,11 @@ CCL internediaire : information dans les ranges / on peut maintenat essayer de p
 
 # Cadre théorique de la thèse {-}
 
+## Importance des îles en Biogeographie {-}
+
+isolation lux de migraotion simple / assemblage moins nombreux / conséquence d'une manipultion limité à l'île / 5% mais répétable ? / un oacth isolé et peut être que flux au île [@Simberloff1974a]
+
+Les îles qui occupent le coeur de l'ouvrage de Wallace et de MAcArthur et Wilson ont été essentiel poour comprendre les processus qui forme la sitributn des espèces. Elle sosn tproches du continent et peuvent être si différenetes la nature eotique des piles à forcer les auteurs à comprendre l'origine de leur singularit.é et ces sur ces bout de terre isolé qu'ils ont trouv.s des réposnes historques ais ausso spataile qui a parmis d'aller vers des dévelppemnt encore aujourd'hui très actis. La quête de cees honmes et de bien d'autres reste finalemnt de comprendre pourquoi les espèces sont ou elles sont et de comproendre ce qui les amanerner la. Ma thèse s'inscrit dans la poursuite de ces questions sur la distribution des ranges et j'artiuclerai la suirte de mon introduction autour de l'interrogagtion suivante : Quelles infornations renferment les distributions d'espèces. Pour apporter le maximum d'élément de réponse à cette question, je commencerai apr apporter les mécanismes en présence au travers de différérents ecemple avant de passer plus de temps sur la cadre conceptuel en Biogéograohie pour aboutir sur l'importance des interactions sur les distribution d'espèces.
 
 ## Grandes théories en Biogeographie
 
@@ -289,7 +323,7 @@ Diminuer la composante historqiue à la recherche de loi et j'ajouterais aussi s
 
 ### La théorie des métapopulations
 
-=> chapitre de H  anski
+=> chapitre de Hanski
 
 ### La théorie neutres de l'écologie et le débat qu'elle soulève
 
@@ -352,23 +386,10 @@ De part son pouvoir explicatif et son élégance, le modèle de MacArthur et Wil
 
 
 
-\subsection{Inférence en biogéographie}
-
-Rappelons les objectifs de la biogéographie : décrire et comprendre le lien entre le vivant et l'espace sur la Terre. Le coeur de l'inférence en biogéographie est donc de trouver les variables les plus pertinentes pour la répartition des espèces. Pour cela, les données spatialisées de présence ou d'abondance des organismes étudiés sont mises en relation avec des variables prédictives également spatialisées \cite{Guisan2005,Peterson2011,Elith2009a}. Idéalement, les échelles spatiales coïncident, sinon des transformations des données sont nécessaires. Si la variabilité capturée est satisfaisante, la combinaison retenue de variables explicatives éclairent alors les motifs de la présence des espèces en un lieu donné. Nous retiendrons le nom de modèle de distribution des espèces (MDE) pour référer à cette démarche de modélisation générale. Il y a cependant de nombreux aspects à discuter relatifs aux variables explicatives employées. Les MDE ont fourni des exemples attestant de leur pouvoir à décrire la niche fondamentale pour expliquer les présences des espèces \cite{Kearney2004}. Si l'on considère des espèces mobiles, il est problématique de négliger leur mouvement, la dispersion et ses limites doivent alors être incorporés dans les modèles de distribution \cite{Gotelli2009}. De même, les espèces interagissant entre elles, elles influencent leurs distributions. Utiliser une espèce en tant que variable explicative pour la présence d'une autre peut s'avérer pertinent \cite{Araujo2007,Pearson2003} mais soulève la question suivante: que faire lorsque nous essayons de prédire simultanément la présence de deux espèces dont les observations résultent elles-même de leurs échanges ?
-
-Dans le contexte actuel des changements globaux, il y a une concentration des efforts pour mieux cerner l'ensemble des réponses possibles des espèces face aux changements globaux \cite{Bellard2012}. En guise de réponse, les MDE deviennent plus intégrateurs et de nouvelles approches émergent \cite{Kissling2011}. Ainsi, Guisan et Rahbek 2011 proposent une démarche alliant les prédictions faîtes par les MDE sur un ensemble d'espèces et celles données par une approche de modélisation macroécologiques s'appuyant sur des règles de coexistence dans une unité géographique donnée \cite{Guisan2011}. Le travail de Gotelli \textit{et al.} est également un exemple de démarche intégrative où un nombre important de processus peuvent être inclus via un système de combinaison de scénarios et tester par simulations stochastiques \cite{Gotelli2009}. Enfin, en construisant des réseaux basés sur la cooccurrence des espèces, Araújo \textit{et al.} revisitent le problème de l'interdépendance des espèces \cite{Araujo2011} : ils s'interrogent sur la résistance des réseaux de cooccurrence obtenus face aux futurs changement climatiques, ils mettent ainsi en évidence des risques accrus de perte des espèces les moins connectés (celles qui cooccurent moins). Ces travaux témoignent de la volonté d'une biogéographie intégrative.
-
-Malgré leurs performances, les modèles de distribution actuels utilisés pour construire les scénarios de biodiversité de demain souffrent vraisemblablement d'un manque de théorie sous-jacent \cite{Beck2012,Lomolino2000}. La nécessité d'une approche théorique pour aller vers des approches plus appliquées est fondamentale, en témoignent, par exemple, l'histoire de la théorie de la biogéographie \cite{MacArthur1967} et de la théorie métabolique \cite{Brown2004}. Dans notre cas, partir d'une construction progressive assemblant les différents processus décrits ci-dessus nourrit, dans un premier temps, la réflexion sur l'ensemble des retroactions que peuvent exercer les différents processus les uns sur les autres\cite{Thuiller2013}. Dans un second temps, le questionnement sur les échelles des phénomènes peut amener à isoler les processus que les futurs MDE ne doivent pas occulter au regard des échelles spatio-temporelles qu'ils considèrent. Troisièmement, les modèles théoriques fournissent des hypothèses à confronter aux faits, ce qui permet de conforter ou d'infirmer la théorie. Enfin, si l'agencement des processus entre eux est bien expliqué, de la théorie peut émerger de nouvelles méthodes pour traiter les données.
 
 
 
 
-
-
-
-
-
-> It just so happens that some people find it easier to think about things in terms of x's and y's, and other in terms rabbits of and lynx.  MCann Preface
 
 
 
@@ -476,6 +497,12 @@ J'explore quelques dualié propre à l'acte de modélisation que j'applique ulti
 
 
 
+(Chapitre 8 TIB first paragraph)
+
+Le concept récent de biodiversité.
+However ecological equivalence in
+"the niche is a mapping of population dynamics onto this space" @Holt2009PNAS
+vers le fonctionnemt des ecosystèmes levier d'action vers une approche plus utilitariste mais qui donne uns certaine proximité avec les eécosytèmes @Loreau2001
 
 
 
