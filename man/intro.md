@@ -7,22 +7,29 @@ header-includes:
     - \usepackage{lineno}
 ---
 
+<!-- Question fondamentale -->
 
 
-# Depuis Wallace {-}
+# Des îles et des espèces {-}
 
-Dans l'introduction de son livre "Island Life" paru en 1881 !]soit 22 ans après la parution de *On the Tendency of Varieties to Depart Indefinitely From the Original Type*), le célèbre naturaliste Alfred Russel Wallace nous rapporte le fait suivant : bien que séparés par des miliers de kilomètres, les écosystèmes du Japon et du Royaume-Uni sont très similaires notamment pour ce qui est de leur composition en arbustes et en oiseaux alors que bien qu'étant séparées par seulemnet quelques kilomètres comme les îles indonesiennes Bali et Lombok séparées de quelques dizaines de kilomètres et peuvent être très différentes (voir l'introduction de @wallace1881island pour une abondance de ces paradoxes). En s'appuyant les différences des faunes brésiliennes et africanes sous des latitudes similaires, il évoque aussi la faiblesse du pouvoir préductif des variables climatiques pour décire les compositions fauniques. Face à ces deux paradoxes, sont ouvrage se réclame d'une tentative de compréhension des raisons sous jacentes ce les raisons mais il reconnait dès l'introduction la difficulté majeure pour arriver à une telle compréhension :
+## En suivant Wallace {-}
+
+Dans l'introduction de son livre "Island Life" paru en 1881, le célèbre naturaliste Alfred Russel Wallace nous rapporte deux faits important qui justifient l'importance de l'examen de la répartition géographique des espèces [@wallace1881island]. Premièrement, il montre, à travers un grand nombre d'exemple, que l'éloignemnet de deux régions du monde n'est pas suffiant pour conclure quand à l'éloignement de leur composition faunistique et floristique. Ainsi, bien que séparés par des miliers de kilomètres, la compoisiton taxonomiques des arbres et oiseaux du Japon sont bien plus porches que les compositions taxonomiques des îles îles indonesiennes Bali et Lombok séparées pourtant de quelques dizaines de kilomètres seulement. De plus, en s'appuyant les différences des faunes brésiliennes et africanes sous des latitudes similaires, il souligne la faiblesse du pouvoir préductif des variables climatiques pour décire les compositions fauniques. Au-dela des faits, ces comparaisons incitent à la reflexion : en deux points de la Terre, quels sont les mécanismes qui amènent à une ressembblandce ou non des écosystème dans leur compousiotn taxonomique. Son ouvrage se réclame d'une tentative de compréhension des raisons sous-jacentes à ces faits et il reconnait toujours dans cette introduction la difficulté majeure pour arriver à une telle compréhension :
 
 > \guillemotleft Many years study of this class of subjects has convinced me that there is no short abd easy method of dealing with them; because they are, in their very nature, the visible outcome and residual product of the whole past history of the earth. \guillemotright
 
 
-La suite de l'ouvrage est le déroullemnent du savoir encyclopédique de ce Biogéographe reconnu à la fin de sa vie comme l'un des plus grands savants anglais. On y trouve des decsriptions précises et riches d'un grand nombre d'îles à travers l'ensemble du globe. Cette ensemble de descriptions montre la multiplicité des facteurs et au vue de la récente découverte de la théorie de l'évolution, il semble que l'enpreinte historique est vraiment importante dans l'oeuvre de Wallace. Cependant, mettre l'emphase sur cette composante de la distribution des espèces est aussi problématique : l'évolution mène à des trajectoires qui semblent bien dfficiles à prédire et si chaque écosystèmes est le résultat d'une histoire unique comment penser y trouver des règles bien définies. Pour aller chercher ces règles il fallu attendre les travaux de MacArthur et Wilson et de leur célèbre théorie de la biogéographie insulaire sur laquelle je reviendrai amplement. Dans le dernier chaptre de *The Theory of Island Biogeography* @MacArthur1967, nous pouvons lire :
+La réponse apportée par Wallace est la suivante : une connaissance encyclopédique de la distribution des êtres vivants à travers le monde permet de relier les différents îles aux grands ensembles régionnaux biologiques (que nous appelons aujourd'hui écozones). Il est intéressant de noter que le nom de Wallace est associé à la ligne séparant l'écozone indomalaise de l'écozone australienne (qui sépare notamment Bali et Lomonk citées plus haut) à la suite de ces travaux publiés en 1860 [@Wallace1860]. Ces regroupemnets géographiques fondés sur la proximité taxonimique est la traduction que les distributions des espèces renflètent en partie une phylogénie des êtres vivants et sont alors autant d'arguments en faveur de la théorie de l'évolution [^chrono]. L'éclaircissement substantiel des répartitions géogrpahiques des êtres vivants par l'évolution se double d'un obstacle épistémologique important : si l'explication ultime de la présence d'une espèce en un point donné est le produit d'une série de contingences historiques, sur quoi bâtir une théorie de la biogéographie? Comment s'abstraire des singularités pour trouver des règles? Pour aller chercher ces règles, il fallut attendre les travaux du milieu du XX^ème^ et particulièrement la fructuseuse rencontre du mathématicien et biologiste Robert Helmer MacArthur et de l'enthomologiste Edward Osborne Wilson qui conduit à l'élaboration d'une théorie de la biogéographie insulaire publiée en 1967 sur laquelle je reviendrai abondammnent tout au long de mon introduction [@MacArthur1967]. Leurs travaux théoriques ont été menés afin de dépasser les explications de la distribution uniquement en terme d'histoire naturelle comme ils l'indiquent eux même au dernier chapitre de leur livre de 1967 :
 
->  \guillemotleft Biogeography has long remained in a natural history phase, accumulating information about the distribution of species and higher taxa and the taxonomic composition of biotas. Interpretative reasoning has been largely directed to the solution of special problems connected with the histories of individuals taxa and biotas. Without doubt this descriptive activity will continue to be of fundamental importance to the science, one of the most physically adventurous of all scientific entreprises and, in the richness of the detail it unfolds, esthetically pleasing. But biogeography is also in a position to enter an equally interesting experimental and thereotical phase. \guillemotright
+>  \guillemotleft &nbsp; Biogeography has long remained in a natural history phase, accumulating information about the distribution of species and higher taxa and the taxonomic composition of biotas. Interpretative reasoning has been largely directed to the solution of special problems connected with the histories of individuals taxa and biotas. Without doubt this descriptive activity will continue to be of fundamental importance to the science, one of the most physically adventurous of all scientific entreprises and, in the richness of the detail it unfolds, esthetically pleasing. But biogeography is also in a position to enter an equally interesting experimental and thereotical phase. \guillemotright
 
 <!-- La biogéographie est longtemps restée dans une phase d'hitoire naturelle, accumulant des connaissances sur la distribution des espèces et des groupes taxonimique d'ordre supérieur et sur la composition des biotes. Le raisonnemnt interprétatifs a été largement utilisé pour résoudre des problèmes singuliers grâce è l'histoire individuels des taxons et biotes. Cette activité descriptive continura sans ausun doute à être d'une importance fundamentak pour la science et une des aventures de toutes les entreprises scientifiques, et dans la richesse des détails qu'on déroulem plaisant esthétiquement. Mais la biogéographie est aussi dans une position dans une phase tout aussi intéressante d'expériences et de théorie.-->
 
-Les auteurs reconnaissent que l'accumulation de faits relatives à la distributions des espèces doivent maintenant être sujet à la place pratique expérimentale et à la théorisation. Cette dernière s'accompagne implicitement d'une mathématisation et les auteurs ont produit un cadre conseptuel qui est encore qujourd'hui l'un des plus importants qu'il soit en écologie. C'est un cadre conceptuel majeur et qui est une recher che finalemnt d'aller vers une biogéographie de l'espèces et chercher la gén.éralité qu'il y a derrière. Accumuker les faits et réussir à sd'abstraie de leur simgularité pour y voir la ressamblabce est un effort majeur et qui aboutit à une théorie qui explique bien en partant d'une forme d'équivalence écologique bien qu'au fond ce soit deu grand naturalisme qui connaissem bien les différences entrre les espèces et que Wilson est fait son article sur les cyvles qui finalemnt classe les espèce non pas sur la taconoe mais sur leru capacité de dispersion.
+Les auteurs affirmeent ainsi la distributions des espèces doit sortir du royaumes des contingences pour devenir un objet de science au sens ou il peut et doit être manipulé aussi bien expérimentalement que par l'abstraction mathématique. Pour ce qui est du travail expérimental, le plus marquent demeur celui entreprit par Wilson avec son doctorant qui est aujourd'hui le célèbre écologue Daniel Simberloff aui ont directement testé la validité de la théorie des îles six petits îlots de mangrove dans la Bay de Floride [@Simberloff2016]. La travail d'abstraction mathématique a été surtout celui de MacArthur qui est contenue dans les dévelopments mathématiques de la prolongée dans les annexes de son livre de 1972 [@macarthur1972geographical]. Leurs efforts conjugués ont donnés le jour à une vision générale et puissante dans laquelle la présence sur une île donnée est le résultat de processus stochastique de colonisation et de contraintes locales conduisant à des extinction contrebalacant les colonisations et amenant aisin à un équilibre en terme de richesse spécifique sur l'île. Ils ont alors montrès que l'appatrence statique des distributions d'espèces étaient le r.ustlat d'une dynmqiue et qu'en plus des indices à l'échelle d'un grand nombre d'île, la démonstration pouvait être expérimentale.
+
+
+
+## Importance des îles en Biogeographie {-}
 
 Les îles qui occupent le coeur de l'ouvrage de Wallace et de MAcArthur et Wilson ont été essentiel poour comprendre les processus qui forme la sitributn des espèces. Elle sosn tproches du continent et peuvent être si différenetes la nature eotique des piles à forcer les auteurs à comprendre l'origine de leur singularit.é et ces sur ces bout de terre isolé qu'ils ont trouv.s des réposnes historques ais ausso spataile qui a parmis d'aller vers des dévelppemnt encore aujourd'hui très actis. La quête de cees honmes et de bien d'autres reste finalemnt de comprendre pourquoi les espèces sont ou elles sont et de comproendre ce qui les amanerner la. Ma thèse s'inscrit dans la poursuite de ces questions sur la distribution des ranges et j'artiuclerai la suirte de mon introduction autour de l'interrogagtion suivante : Quelles infornations renferment les distributions d'espèces. Pour apporter le maximum d'élément de réponse à cette question, je commencerai apr apporter les mécanismes en présence au travers de différérents ecemple avant de passer plus de temps sur la cadre conceptuel en Biogéograohie pour aboutir sur l'importance des interactions sur les distribution d'espèces.
 
@@ -34,6 +41,9 @@ However ecological equivalence in
 "the niche is a mapping of population dynamics onto this space" @Holt2009PNAS
 vers le fonctionnemt des ecosystèmes levier d'action vers une approche plus utilitariste mais qui donne uns certaine proximité avec les eécosytèmes @Loreau2001
 
+
+
+[chrono]: Wallace a publié en 1858 un article *On the Tendency of Varieties to Depart Indefinitely From the Original Type* qui témoigne très clairement que ses idées sur les varitions temporelles des espèces étaient très proche de celle de Charles Robert Darwin  a qui il avait d'ailleurs envoyé le manuscipt [@Wallace1858].
 
 
 ## Définitions importantes {-}
@@ -93,6 +103,47 @@ Dans mon premier chapitre je fais appel à une chaîne de Markov qui est elle, u
 
 
 
+## Correlative / Mechanism
+
+### Règle et containgence
+
+Finalemnt se problème est aussi lié au problème d'échelle de travail ! il y a un problème d'échelle
+
+Quand on se tourne vers les sciences de l'écomomie il y a un bon jeus de mots que j'ai entendu sous deux formes :
+- Les physiciens oont 5 règles pour expliquer 95% univers et les 95 rèle pour 5%
+- Les économistes ont pédit 12 des trois dernière crises éconimoqe
+
+Il y a un sentiment partagé avec l'écologie (beaucouoe en commun dans la raci)
+administration/gestion de la maison  que l'on recent plus dans le trerme familier que /  c'est la science de la maison, de l'habitat.
+et une compléxité une légère jalousie des physiciens se serait qui ont des théories qui ont prédi des objets à une époque où pas les moyens de faire les intslallation Boson Onde rgavitationelle ou encore expliquer la loi de fourier à partir de la mécanique statitsiqes
+
+Rassurons nous les physiciens ont encore bien des parties sonmbres àexplorer : matière noire et energie noire et du boulot en masse pour ecologues / economistes peut-être que les foralimes que nous empreintons à ces disciplines ne sont pas les bons... Comme dit le phylodophe Sachs dans sa biodiversité c'est trop historiques qu'un concepte comme le fitness n,est peutêtre pas bien mis en equation dans une forme physique
+
+
+### Un acte d'abstarction pour des défis très concret
+
+ce n'est pas objectif, c'est se placer dans un cadre et c'est une façon de contruire le raisonemet.
+Exemple on peut vouloir modéliser la robabiliter d'interaction et alors uon peut commenceer par une probabilité de rencontre qui est simplemnt la probabiliter de se detecter mais qui pourrait être calcluer de manière complexe ou alors juste un paramètre.
+
+Il y a différent niveau la modelisation a pour but de donner une idée mais n'oublions as qu'il existe une progression, un raffinement et qu'ultimement, le réalisme de la simulation permet d'obetnir préscisement le phénomène données et on peut aller très loin à partor d'imagination d'un aller retour entre le réel et l'espace dans lequel on se place pour modéliser.
+
+Même sur des dynamiqeues d'espèce l'échelle
+
+Prendre quelques
+
+Devons-nous prendre un modèle taille ou agr structuré quand on cherche la distibution des espàces à large échelle
+
+Des courbes à fitetr qui sont parfois les m^mes et donc peut infornatives...
+
+prendre deux oiseaux il y a une relation phylo mais ecologiquenent qui est le plus proche ? Qui a quelle rôe ? Les traist permettent cette abastraction qui ne doit pas non pplus laisser de cote la phylo, il faut bien sur regarder tout pour avoir l'image complete
+
+
+Un modèle existe en lui soi on pourrait se demander
+Evaluation au regard de sa perfomnce
+
+
+
+
 
 
 
@@ -127,12 +178,15 @@ La niche fundamnetale est une contrainte de premier plan dircetemnt lié aux rel
 Dans le même chapitre 6 de *Geographical Ecology* MacArthur parle clairement de la contrainte biotique notamment du rôle que peu avoir la compétition pour comprendre la distribution des espèces.
 la prédation et la compétition ont été très vote envisagée Il reprend l'exemple donnée par Brown en 1971 de l'exclusion compétitive de deux espèces de de tamias, *Eutamias dorsalis* et *E. umbrinus*, dans les forêts d'altitude (au dess-su des déserts) de pins et de junipers (*pinyon-juniper woodland* woodland) du Sud outes des Etats-Unis. L'article de Brown montre bien comment une différence comportementale peu engendré une séparation des distirubution locales. Ainsi, l'aggressivité de *Eutamias dorsalis* lui est favorable dans les forêts clersemés où son compétiteur doit dépensé beacoup d'énergie pour se réfuugié dand un arbre de basse altidue alors que l'abondance des arbres le rend inefficace, le compétiteur plus facilemnent y échappe. Ainsi la segregation locale des deux espèces reflète bien une interaction biotique et donc l'information contenu dans la distrbution est aussi de nature très précise : competiton pour ressources et comprtanemnt.
 
+Au-delà de la competition, l'écologie des réseaux actuelle nous montre à quel point il est difficile de concevoir les espèces comme indépendantes, elles sont reliés par des relations de très diverses natures. Les relations trophiques sont les plus évidentes, mais il existe aussi une myriade d'interaction non trophiques qui affectent aussi utlimement la démographie des espèces (voir @Kefi2012 pour une relexion autour et une classification de ces interactions) et il existe actuellemnt aucun argument solide justifiant la primauté d'un tyoe d'nteraction sur les autres. Récemment, les interactions trophiques et non-trophiques ont été exhaustivement analysées pour 104 espèces des écosystèmes interdidaux rocheux de la partie centrale de la côte chilienne révélant ainsi que les interactions non-trophiques y étaient globalemnent plus abondantes et concentrées sur les bas niveau trophques [@Kefi2015]. La compréhension fine des lines qui existent entre les êtres vivants est un ressort essentiel pour obtenir des théories puissantes sur la dynamique des populations à placer au coeur de la biogéograohie comme le mentionnait MacArthur et Wilson au dernier paragraphe de leur Théorie de la Biogeographi insulaire par ces mots :
 
-Au-delà de la competition, l'écologie des réseaux actuelle nous montre à quel point il est difficile de concevoir les espèces comme indépendantes, elles partagent des espaces communs et des sources d'énergie, elles échangent de la matière, elles sont en permanentes interactions. Ces relations intra et inter spécifiques sont au coeur de l'écologie. En dynamique des populations, sont arrivés très vite des modèles classiques attestant les relations proies-prédateurs témoignant de l'importance de traiter la démographie de différentes espèces simultanément . L'écologie des réseaux pose des questions fondamentales comme celle de la stabilité des écosystèmes au regard de la structure des réseaux [@Allesina2012a.] Au delà des relations trophiques, les interactions peuvent se manifester sous de nombreuses formes \cite{Kefi2012}. Le mutualisme, le commensalisme et la compétition sont des relations qui affectent la démographie des espèces sans que l'une d'entre elles se nourrisse d'une autre. La représentation en réseau des interactions est un outil puissant pour synthétiser la complexité des écosystèmes \cite{Sole2006,Pascual2006}. Ils sont représentés par la matrice de communauté qui résume l'effet démographique des espèces par pair. Cette matrice renferme des informations précieuses telles que la connectance (mesure du nombre de liens constatés rapporté au nombre de liens possibles), la topologie des interactions entre espèces \cite{Sole2006} et les effets indirects \cite{Bender1984, Montoya2009}.
-Et l'ejeu c'est de tout intégré.
+> \guillemotleft In short, biogrography apperas to us ti hace develope to the extent taht it cam be reformulated in terms of the first pricnciples of population ecology and genetics. \guillemotright
 
-Les deux ibstance Le
-dans la distribution de mais ce signal disparait si l'on considère une avec un grain plus grossier (voir section échelle). et abondance des interactions ne sont peut être pass distincable
+Le débat majeur autour de la relation entre la diversité et la stabilité des écosystèmes au regard de la structure des réseaux [@May1973, @Allesina2012a.] doivent être aussi regardé en terme de conséquence sur le changement de réoartition des espèces. Le débat c'est construit autour d'argymemnt mathématqieu qui ont considérablement enrichit l'écologue [@McCann2000] La représentation en réseau de ces interactions est un outil puissant pour synthétiser la complexité des écosystèmes [@Sole2006, @Pascual2006]. Avce une seule matrice Ils sont représentés par la matrice de communauté qui résume l'effet démographique des espèces par pair. Cette matrice renferme des informations précieuses telles que la connectance (mesure du nombre de liens constatés rapporté au nombre de liens possibles), la topologie des interactions entre espèces \cite{Sole2006} et les effets indirects [@Wootton1994a, @Montoya2009].
+
+Il y a cependant deux problémes majeurs
+- abndance des interactions
+- la distribution de mais ce signal disparait si l'on considère une avec un grain plus grossier (voir section échelle). et abondance des interactions ne sont peut être pass distincable
 
 
 
@@ -147,7 +201,11 @@ De manière générale, l'espèce doit pouvoir répondre à l'ensemble de ses d�
 
 - Par essence stochatioque
 
-- diversité => crombie
+- diversité => crombie crombie 1946 diversité d'habitat and coexitence (article repis dan MacArthur).
+=> faarine and tube + broken caripopse  de blé
+
+- expéreice de défoliation expérience reprise
+
 
 
 ## Plasticité phénotypique et processus micro-évolutifs {-}
@@ -293,14 +351,6 @@ De part son pouvoir explicatif et son élégance, le modèle de MacArthur et Wil
 
 
 
-\subsection{Traits fonctionnels}
-
-Les traits fonctionnels sont des propriétés mesurables sur les organismes en relation avec leurs performances et leur rôle dans l'écosystème \cite{McGill2006}. Les traits étudiés peuvent être de différentes natures, 1-morphologiques : taille de différentes parties du corps, position des yeux, taille des oeufs chez les organismes ovipares, taille des graines pour les végétaux, 2- physiologiques : taux métaboliques de bases, stœchiométrie (rapport de la concentration entre divers éléments qui compose l'organismes) \cite{McGill2006,Albouy2011,Litchman2008}. Un ensemble approprié de ces propriétés peut être un outil puissant pour décrire un ensemble d'espèce dans un même espace. Leur proximité dans l'espace des traits est alors un indice précieux d'une proximité fonctionnelle. Ainsi, à l'aide de 13 traits ecomorphlogiques, Albouy \textit{et al.} 2011 parviennent à prédire les guildes trophiques de 35 espèces de poissons de la Méditerranée \cite{Albouy2011}. Edwards \textit{et al.} 2013 montrent que l'effet saisonnier sur une communauté de phytoplancton dans la Manche peut être capturé à l'aide de traits décrivant : le taux maximal de croissance, la compétitivité pour la lumière et l'azote \cite{Edwards2013}. La distribution des traits fonctionnels au sein de la biodiversité est aussi une entrée de choix pour réfléchir quand à la fragilité potentielle des fonctions remplies par les écosystèmes \cite{Mouillot2013}.
-%DG: je comprends cette citation de Mouillot, mais juste une mise en garde contre ce type de référence. Mouillot se base sur l'hypothèse que les traits nous informent du fonctionnement, sans jamais documenter cette relation. Ce qui est souvent le cas, et par conséquent contribue à bâtir des mythes dans la littérature qui à l'occasion ne sont pas toujours bien appuyés. L'approche par traits est un bel exemple, on a édifié rapidement une structure conceptuelle sur les traits, mais on n'a pas solidement appuyé le concept sur de bonnes bases empiriques.
-
-L'approche de la biodiversité par les traits fonctionnels est plus quantitative que l'approche taxonomique et permet de déduire un grand nombre de propriétés en se passant de la connaissance de leur identité. Ainsi McGill, dans son article d'opinion de 2006, propose une approche nouvelle de l'écologie des communautés qui transforme les questions centrées autour des espèces par des questions qui interrogent la répartition et la variabilité des traits \cite{McGill2006}. L'emploi des traits fonctionnels est en fait un appel à une écologie plus mécaniste, qui se penche sur la physiologie des organismes, en prend les faits les plus importants (relativement au problème traité) pour les placer dans un espace de traits commun. Cette approche est aussi en lien avec la controversée théorie métabolique en écologie \cite{Brown2004, Price2012}. Dans cette théorie un certain nombre de grandeurs (comme le taux métabolique) sont reliées à la biomasse corporelles de l'adulte, fournissant ainsi en un seul trait de nombreuses relations pour des groupes d'organismes très différents. Par ces nouvelles approches, l'espérance de s'extraire de la seule identité des espèces est accrue, l'idée d'avoir des règles générales se concrétise.
-
-Dans une théorie intégrative de la biogéographie, les traits fonctionnels peuvent être un pivot très intéressant pour rassembler les différents concepts que nous avons développés dans les paragraphes précédents. Les traits peuvent tout d'abord être mis en relation avec le milieu abiotique. Le taux métabolique ou encore la sensibilité à la sécheresse sont des indices performant pour décrire la survie dans un milieu donné \cite{Kearney2004,Engelbrecht2007} que l'on peut capturer sous forme de traits. Kearney \textit{et al.} 2010 propose une approche prometteuse dans laquelle, l'environnement physique, la disponibilité des ressources et la dynamique énergétique sont reliées par les traits fonctionnelles le tout aboutissant à un modèle de distribution très mécanistes. La structure d'un réseaux peut également être dérivée à partir de l'espace des traits. Dans leur méthode proposée cette année, Gravel \textit{et al.} infèrent les paramètres du modèle de niche de Williams et Martinez \cite{Williams2000} à partir des relations de masse du corps entre proie et prédateurs \cite{Gravel2013}. Ils sont alors en mesure de dériver un réseau global pour un ensemble d'espèce donné. Enfin, en tant qu'expression phénotypique, les traits fonctionnels sont soumis aux processus évolutifs. Sur les temps longs, l'expression de l'évolution résulte en la modification progressive des traits qui se répercute sur l'ensemble des propriétés qui en découle. Ainsi la considération d'une modification des traits est une approche simple et réaliste pour introduire les processus évolutifs et leurs conséquences \cite{Guill2008,Loeuille2005}.
 
 \subsection{Inférence en biogéographie}
 
@@ -380,7 +430,7 @@ Compromis entre aire et hétérogénéité...
 # Conclusion
 
 
-Generalist consumers should typically be weakly coupled to any one of their prey populations because, when feeding on many different species, they cannot be strongly coupled to any one of them @Murdoch2002
+> Generalist consumers should typically be weakly coupled to any one of their prey populations because, when feeding on many different species, they cannot be strongly coupled to any one of them @Murdoch2002
 
 
 
@@ -417,42 +467,6 @@ approhe modulaire => rupture de symétrie
 
 J'explore quelques dualié propre à l'acte de modélisation que j'applique ultiment au champd e la biogéogroahie
 
-## Correlative / Mechanism
-
-### Règle et containgence
-
-Finalemnt se problème est aussi lié au problème d'échelle de travail ! il y a un problème d'échelle
-
-Quand on se tourne vers les sciences de l'écomomie il y a un bon jeus de mots que j'ai entendu sous deux formes :
-- Les physiciens oont 5 règles pour expliquer 95% univers et les 95 rèle pour 5%
-- Les économistes ont pédit 12 des trois dernière crises éconimoqe
-
-Il y a un sentiment partagé avec l'écologie (beaucouoe en commun dans la raci)
-administration/gestion de la maison  que l'on recent plus dans le trerme familier que /  c'est la science de la maison, de l'habitat.
-et une compléxité une légère jalousie des physiciens se serait qui ont des théories qui ont prédi des objets à une époque où pas les moyens de faire les intslallation Boson Onde rgavitationelle ou encore expliquer la loi de fourier à partir de la mécanique statitsiqes
-
-Rassurons nous les physiciens ont encore bien des parties sonmbres àexplorer : matière noire et energie noire et du boulot en masse pour ecologues / economistes peut-être que les foralimes que nous empreintons à ces disciplines ne sont pas les bons... Comme dit le phylodophe Sachs dans sa biodiversité c'est trop historiques qu'un concepte comme le fitness n,est peutêtre pas bien mis en equation dans une forme physique
-
-### Un acte d'abstarction pour des défis très concret
-
-ce n'est pas objectif, c'est se placer dans un cadre et c'est une façon de contruire le raisonemet.
-Exemple on peut vouloir modéliser la robabiliter d'interaction et alors uon peut commenceer par une probabilité de rencontre qui est simplemnt la probabiliter de se detecter mais qui pourrait être calcluer de manière complexe ou alors juste un paramètre.
-
-Il y a différent niveau la modelisation a pour but de donner une idée mais n'oublions as qu'il existe une progression, un raffinement et qu'ultimement, le réalisme de la simulation permet d'obetnir préscisement le phénomène données et on peut aller très loin à partor d'imagination d'un aller retour entre le réel et l'espace dans lequel on se place pour modéliser.
-
-Même sur des dynamiqeues d'espèce l'échelle
-
-Prendre quelques
-
-Devons-nous prendre un modèle taille ou agr structuré quand on cherche la distibution des espàces à large échelle
-
-Des courbes à fitetr qui sont parfois les m^mes et donc peut infornatives...
-
-prendre deux oiseaux il y a une relation phylo mais ecologiquenent qui est le plus proche ? Qui a quelle rôe ? Les traist permettent cette abastraction qui ne doit pas non pplus laisser de cote la phylo, il faut bien sur regarder tout pour avoir l'image complete
-
-
-Un modèle existe en lui soi on pourrait se demander
-Evaluation au regard de sa perfomnce
 
 
 
@@ -463,9 +477,15 @@ Evaluation au regard de sa perfomnce
 
 
 
-<!-- décire les objectfs de ma thèse revenir en détail sur le contexte de la thèse  -->
+
+
+
+
+<!-- décire les objectfs de ma thèse revenir sur le contexte technologique de la thèse  -->
+<!-- Obstacle modelisaion -->
 
 # Le rôle des interactions dans la distributiondes espèces {-}
+
 
 ## Interaction et biogeographie
 
@@ -603,7 +623,7 @@ gecko australien généraliste  *Heteronotia binoei* => alors peut être que ç
 
 
 
-# Aller de l'avant  {-}
+# Aller de l'avant {-}
 
 ## DEB
 
@@ -612,3 +632,13 @@ C'est impressionnant de voir comment un auteur en repartant de simple considéra
 
 
 => problème SDMS quand inférencefait sur les données d'espèces la force c'est d'avoir des mesures ++ et indépendante quelquee part c'est vrai mais la source d'inforation est très brouillé et on peut se demander se que l'on peut obtenir comme infornation....
+
+
+## Traits fonctionnels {-}
+
+Les traits fonctionnels sont des propriétés mesurables sur les organismes en relation avec leurs performances et leur rôle dans l'écosystème \cite{McGill2006}. Les traits étudiés peuvent être de différentes natures, 1-morphologiques : taille de différentes parties du corps, position des yeux, taille des oeufs chez les organismes ovipares, taille des graines pour les végétaux, 2- physiologiques : taux métaboliques de bases, stœchiométrie (rapport de la concentration entre divers éléments qui compose l'organismes) \cite{McGill2006,Albouy2011,Litchman2008}. Un ensemble approprié de ces propriétés peut être un outil puissant pour décrire un ensemble d'espèce dans un même espace. Leur proximité dans l'espace des traits est alors un indice précieux d'une proximité fonctionnelle. Ainsi, à l'aide de 13 traits ecomorphlogiques, Albouy \textit{et al.} 2011 parviennent à prédire les guildes trophiques de 35 espèces de poissons de la Méditerranée \cite{Albouy2011}. Edwards \textit{et al.} 2013 montrent que l'effet saisonnier sur une communauté de phytoplancton dans la Manche peut être capturé à l'aide de traits décrivant : le taux maximal de croissance, la compétitivité pour la lumière et l'azote \cite{Edwards2013}. La distribution des traits fonctionnels au sein de la biodiversité est aussi une entrée de choix pour réfléchir quand à la fragilité potentielle des fonctions remplies par les écosystèmes \cite{Mouillot2013}.
+%DG: je comprends cette citation de Mouillot, mais juste une mise en garde contre ce type de référence. Mouillot se base sur l'hypothèse que les traits nous informent du fonctionnement, sans jamais documenter cette relation. Ce qui est souvent le cas, et par conséquent contribue à bâtir des mythes dans la littérature qui à l'occasion ne sont pas toujours bien appuyés. L'approche par traits est un bel exemple, on a édifié rapidement une structure conceptuelle sur les traits, mais on n'a pas solidement appuyé le concept sur de bonnes bases empiriques.
+
+L'approche de la biodiversité par les traits fonctionnels est plus quantitative que l'approche taxonomique et permet de déduire un grand nombre de propriétés en se passant de la connaissance de leur identité. Ainsi McGill, dans son article d'opinion de 2006, propose une approche nouvelle de l'écologie des communautés qui transforme les questions centrées autour des espèces par des questions qui interrogent la répartition et la variabilité des traits \cite{McGill2006}. L'emploi des traits fonctionnels est en fait un appel à une écologie plus mécaniste, qui se penche sur la physiologie des organismes, en prend les faits les plus importants (relativement au problème traité) pour les placer dans un espace de traits commun. Cette approche est aussi en lien avec la controversée théorie métabolique en écologie \cite{Brown2004, Price2012}. Dans cette théorie un certain nombre de grandeurs (comme le taux métabolique) sont reliées à la biomasse corporelles de l'adulte, fournissant ainsi en un seul trait de nombreuses relations pour des groupes d'organismes très différents. Par ces nouvelles approches, l'espérance de s'extraire de la seule identité des espèces est accrue, l'idée d'avoir des règles générales se concrétise.
+
+Dans une théorie intégrative de la biogéographie, les traits fonctionnels peuvent être un pivot très intéressant pour rassembler les différents concepts que nous avons développés dans les paragraphes précédents. Les traits peuvent tout d'abord être mis en relation avec le milieu abiotique. Le taux métabolique ou encore la sensibilité à la sécheresse sont des indices performant pour décrire la survie dans un milieu donné \cite{Kearney2004,Engelbrecht2007} que l'on peut capturer sous forme de traits. Kearney \textit{et al.} 2010 propose une approche prometteuse dans laquelle, l'environnement physique, la disponibilité des ressources et la dynamique énergétique sont reliées par les traits fonctionnelles le tout aboutissant à un modèle de distribution très mécanistes. La structure d'un réseaux peut également être dérivée à partir de l'espace des traits. Dans leur méthode proposée cette année, Gravel \textit{et al.} infèrent les paramètres du modèle de niche de Williams et Martinez \cite{Williams2000} à partir des relations de masse du corps entre proie et prédateurs \cite{Gravel2013}. Ils sont alors en mesure de dériver un réseau global pour un ensemble d'espèce donné. Enfin, en tant qu'expression phénotypique, les traits fonctionnels sont soumis aux processus évolutifs. Sur les temps longs, l'expression de l'évolution résulte en la modification progressive des traits qui se répercute sur l'ensemble des propriétés qui en découle. Ainsi la considération d'une modification des traits est une approche simple et réaliste pour introduire les processus évolutifs et leurs conséquences \cite{Guill2008,Loeuille2005}.

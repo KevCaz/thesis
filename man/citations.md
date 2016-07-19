@@ -4,3 +4,7 @@
 - Bien sûr, répondis-je.
 Et le petit prince ajouta :
 - Mais les yeux sont aveugles. Il fait chercher avec le coeur.
+
+
+
+la modestie sied au savant, mais pas aux idées qui l'habitent et qu'il doit défendre (Jacques Monod dans la préface du hasard et de la nécessité)

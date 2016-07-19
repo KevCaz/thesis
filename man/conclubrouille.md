@@ -74,3 +74,6 @@ Les conséquences sont compliqués des changements climatiques sont nombreuses e
 
 
 # Des classes d'espèces ?
+
+
+Wallace n'aurait-il pas eu plus de mal à comprndre les zones aujourd'hui. Si naïvemnt on réduit aux villes, l'homogénéité ++ mais avec les espèces invasive le signal est fortemnt briollé aussi !

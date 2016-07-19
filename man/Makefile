@@ -20,7 +20,7 @@ PFLAGS = --filter pandoc-fignos --filter pandoc-tablenos --bibliography=$(REF) -
 ALL: $(PDF) $(DOCX) $(CHP3)#$(THES)
 
 
-# $(THES): $(SRC) $(INTR) $(PDF)
+#$(THES): $(SRC) $(INTR) $(PDF)
 # 	pandoc $(SRC) -o $@ $(PFLAGS)
 
 $(INTR): $(MD)
