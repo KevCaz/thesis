@@ -29,8 +29,12 @@ Les îles qui occupent le coeur de l'ouvrage de Wallace et de MAcArthur et Wilso
 
 (Chapitre 8 TIB first paragraph)
 
+Le concept récent de biodiversité.
+However ecological equivalence in
+"the niche is a mapping of population dynamics onto this space" @Holt2009PNAS
+vers le fonctionnemt des ecosystèmes levier d'action vers une approche plus utilitariste mais qui donne uns certaine proximité avec les eécosytèmes @Loreau2001
 
-# Mécanismes et enjeux de la connaissance des distributions d'espèces {-}
+
 
 ## Définitions importantes {-}
 
@@ -67,6 +71,41 @@ La compréhension de la répartion géogrpahique des espces s'articlue autour de
 les variables climatiques / biotiques les capacitésde dispersion l'artciuclation est bien détaillé dans dans la remière partie de @Peterson2011.
 
 
+## Théorie et modélisation {-}
+
+### Deterministes ou stochastiques
+
+Il n'y pas de maeilleur manière
+les stats c'est sur du stochastique et on peut mettre du stochatci avec une variance c'est le r.sultats d'un théorème maus il en est aps moins que variance es quelqeues choses d etrès util et au bour aller des moi
+On peut avoir un modèle détermicites qui explique tout mais
+
+Le hasard est qquelques choses qui est dans le dé ce que Monod dans le hasard et la cnécessité appelle un ahasar opétaionnel certain pense alors que le dé est un faux hazard que la détermination des lois de Newton et des forces inital est totallemnt déterminée et on peut donc prédire que le résulat du dé. Cependant c'est l'ensemble croisé de série de contingence qui amènent au hasrad et dans une partie de Yatz il sera bien difficile d'obtenir un score souhaité... Mais le hasard pur existe-t-il ? Dans l'oeuvre de Momod le hasard existe et c'est l'ADn polymérase à l,origine des mutations qui en est l'expression.  mais l'ensemble des série de combinason
+
+
+Lien entre les deux
+Une manière de voir les choses est de donenr par Clark (et repris par Dom) pou on essaye
+
+Clark a suggérez que stochastique n,est pas savoir et que le but c'est de passé du pas au maximum vers le détermiste. Dans elur défendse de la la théroy neutre Rosindell et  al rétoquent que c'est plus subile il y a des modèles dtermisites chatosque (et dont les développemtn avancé font au propriété statistique des attracteurs) quer cela de même Gravel et collègues..  rreprche que. Modèles en plus validée par des stats qui reposent sur des stochsiques. Argument d'Einstien Dieu ne jue pas au dé face à la quantique qui au final alors mêe que le la gravitaté générale sans hazard pure sera fause. Le chat de Shrodinger est peut-être vivant ici mais il est mort dans un autre univers.
+
+Produire variance et moments d'ordre supérierus...
+
+Dans mon premier chapitre je fais appel à une chaîne de Markov qui est elle, un processus aléatroi masus qui peut
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Mécanismes et enjeux de la connaissance des distributions d'espèces {-}
+
+
 ## Biogéographie historique
 
 La dominante du livre de Wallabce est la dérivation et dès que le cadre concpetuel de l'écolution est sur bien tout semble faire grand sens. Le cadre majeur de l'interpreétation est le résulats de porcessus profone et long les même indices que Wegener pour faire le théorie des plaques : la ressemblance d'espèce très éloignées. L'études des îles à aussi de deéterminer quelles îles apparyienne écozone ()littéralement la région indienne et australienne) [@Wallace1860] c'est ainsi que la ligne décozones que sont l'indomalais et l'australasien
@@ -85,24 +124,30 @@ La niche fundamnetale est une contrainte de premier plan dircetemnt lié aux rel
 
 ## Réseaux d'interactions : interdépendance des espèces {-}
 
+Dans le même chapitre 6 de *Geographical Ecology* MacArthur parle clairement de la contrainte biotique notamment du rôle que peu avoir la compétition pour comprendre la distribution des espèces.
+la prédation et la compétition ont été très vote envisagée Il reprend l'exemple donnée par Brown en 1971 de l'exclusion compétitive de deux espèces de de tamias, *Eutamias dorsalis* et *E. umbrinus*, dans les forêts d'altitude (au dess-su des déserts) de pins et de junipers (*pinyon-juniper woodland* woodland) du Sud outes des Etats-Unis. L'article de Brown montre bien comment une différence comportementale peu engendré une séparation des distirubution locales. Ainsi, l'aggressivité de *Eutamias dorsalis* lui est favorable dans les forêts clersemés où son compétiteur doit dépensé beacoup d'énergie pour se réfuugié dand un arbre de basse altidue alors que l'abondance des arbres le rend inefficace, le compétiteur plus facilemnent y échappe. Ainsi la segregation locale des deux espèces reflète bien une interaction biotique et donc l'information contenu dans la distrbution est aussi de nature très précise : competiton pour ressources et comprtanemnt.
 
-ans le même chapitre6 de *Geographical Ecology* MacArthur parle clairement de la contrainte biotique notamment du rôle que peu avoir la compétition pour comprendre la distribution des espèces.
-la prédation et la compétition ont été très vote envisagée
 
+Au-delà de la competition, l'écologie des réseaux actuelle nous montre à quel point il est difficile de concevoir les espèces comme indépendantes, elles partagent des espaces communs et des sources d'énergie, elles échangent de la matière, elles sont en permanentes interactions. Ces relations intra et inter spécifiques sont au coeur de l'écologie. En dynamique des populations, sont arrivés très vite des modèles classiques attestant les relations proies-prédateurs témoignant de l'importance de traiter la démographie de différentes espèces simultanément . L'écologie des réseaux pose des questions fondamentales comme celle de la stabilité des écosystèmes au regard de la structure des réseaux [@Allesina2012a.] Au delà des relations trophiques, les interactions peuvent se manifester sous de nombreuses formes \cite{Kefi2012}. Le mutualisme, le commensalisme et la compétition sont des relations qui affectent la démographie des espèces sans que l'une d'entre elles se nourrisse d'une autre. La représentation en réseau des interactions est un outil puissant pour synthétiser la complexité des écosystèmes \cite{Sole2006,Pascual2006}. Ils sont représentés par la matrice de communauté qui résume l'effet démographique des espèces par pair. Cette matrice renferme des informations précieuses telles que la connectance (mesure du nombre de liens constatés rapporté au nombre de liens possibles), la topologie des interactions entre espèces \cite{Sole2006} et les effets indirects \cite{Bender1984, Montoya2009}.
+Et l'ejeu c'est de tout intégré.
 
-Aujourd'hui l'écologie des réseaux nous montre à quel point il est difficile de concevoir les espèces comme indépendantes, elles partagent des espaces communs et des sources d'énergie, elles échangent de la matière, elles sont en permanentes interactions. Ces relations intra et inter spécifiques sont au coeur de l'écologie. En dynamique des populations, sont arrivés très vite des modèles classiques attestant les relations proies-prédateurs témoignant de l'importance de traiter la démographie de différentes espèces simultanément . L'écologie des réseaux pose des questions fondamentales comme celle de la stabilité des écosystèmes au regard de la structure des réseaux \cite{Allesina2012}. Au delà des relations trophiques, les interactions peuvent se manifester sous de nombreuses formes \cite{Kefi2012}. Le mutualisme, le commensalisme et la compétition sont des relations qui affectent la démographie des espèces sans que l'une d'entre elles se nourrisse d'une autre. La représentation en réseau des interactions est un outil puissant pour synthétiser la complexité des écosystèmes \cite{Sole2006,Pascual2006}. Ils sont représentés par la matrice de communauté qui résume l'effet démographique des espèces par pair. Cette matrice renferme des informations précieuses telles que la connectance (mesure du nombre de liens constatés rapporté au nombre de liens possibles), la topologie des interactions entre espèces \cite{Sole2006} et les effets indirects \cite{Bender1984, Montoya2009}.
-
-Les interactions intra et inter spécifiques constituent un facteur rapidement pressenti comme responsable de la distribution spatiale des espèces \cite{Levin1974}. L'interdépendance des espèces conditionne, en effet, l'aspect favorable de l'environnement au sens large (biotique et abiotique). Ainsi Godsoe \textit{et al.} 2012, mettent en équations le caractère favorable de l'environnement pour une espèce donnée en terme de probabilité de présence d'une autre espèce et de la nature de leur interaction \cite{Godsoe2012}. De même, Holt et Barfield 2009 montrent l'impact de la prédation sur la répartition d'espèces en compétition \cite{Holt2009} insistant ainsi sur le rôle majeur des interactions. Davis \textit{et al.} 1998 ont montrés que, pour trois drosophiles en compétition, l'effet d'un parasitoïde n'est pas le même le long d'un gradient selon que les espèces sont seules ou ensemble \cite{Davis1998}. Récemment, des efforts ont été réalisés pour mettre en évidence l'importance de l'interdépendance des espèces dans les données aux larges échelles spatiales \cite{Gotelli2010}. On trouve actuellement dans la littérature une grande motivation pour les intégrer dans les modèles de distribution d'espèces \cite{Kissling2011, Guisan2011}. Des efforts théoriques sont encore nécessaires pour arriver à de telles approches. Néanmoins, rapprocher différents champs de l'écologie peut s'avérer d'une utilité majeure. Jabot et Bascompte \cite{Jabot2012} 2012, ont d'ailleurs montré l'importance des interactions pour comprendre la distribution des espèces en rapprochant écologie des réseaux et un modèle de metacommunauté. De même Gravel \textit{et al.} 2011 \cite{Gravel2011b} introduise l'interdépendance proie-prédateur dans le modèle classique de MacArthur et Wilson menant aux prémices d'une théorie trophique de la biogéographie des îles.
-
-L'ajout des interactions dans un modèle incluant l'environnement abiotique interroge la relation que les deux processus entretiennent. Si les espèces n'ont pas les mêmes performances dans différents milieux du fait de leur physiologie, pour les mêmes espèces considérées, les réseaux n'ont pas de raison d'être identiques d'un milieu à un autre. C'est sur ce fait que Poisot \textit{et al.} 2012 ont proposé une mesure de dissimilarité des réseaux \cite{Poisot2012}. Defossez \textit{et al.} montrent que les interactions négatives entre l'hêtre commun (\textit{Fagus Sylvaitca}) et les micro-organismes du sol diminuent avec l'altitude  \cite{Defossez2011}. Ainsi, les contraintes biotiques sont à relier à l'environnement \cite{Brooker2006,Canham2006} et un modèle intégratif doit donner un cadre cohérent à ces rétroactions entre processus. Enfin, l'importance des interactions est à mettre en relation avec l'échelle considérée \cite{Peterson2011}. Pour deux espèces en interaction, plus l'échelle d'étude est large, moins les effets des interactions locales sont susceptibles d'être capturés, le pouvoir explicatif de la présence d'une espèce sur l'autre peut être alors discutable \cite{Araujo2007}. Comprendre quels sont les processus à prendre en compte aux différentes échelles spatio-temporelles et comprendre comment le changement d'échelle affecte nous prédictions est aussi un véritable challenge en biogéographie \cite{Martinez2012}.
-
+Les deux ibstance Le
+dans la distribution de mais ce signal disparait si l'on considère une avec un grain plus grossier (voir section échelle). et abondance des interactions ne sont peut être pass distincable
 
 
 
-## Capactés de dispersion
 
-Le premier pas pour expliquer la répartition des espèces est alors la recherche des variables environnementales les plus discriminantes pour comprendre la présence des espèces en un lieu donné \cite{Kearney2004}. Au coeur de cette démarche existe un enracinement biologique profond. En effet, pour pouvoir s'installer sur un territoire donné, une espèce présente un certain nombre d'exigences physiologiques. De manière générale, l'espèce doit pouvoir répondre à l'ensemble de ses dépenses énergétiques pour survivre et éventuellement se reproduire \cite{Holt2009a}. La dernière condition n'est pas indispensable : la présence d'une espèce peut résulter d'une permanente colonisation \cite{Leibold2004}. Cet espace des variables environnementales dans lequel une survie d'une population est possible, nous l'appellerons niche écologique. Ce terme est l'objet de vif débat \cite{Chase2003} que nous éviterons en rappelant la définition employé. Nous palerons ici de niche fondamentale pour désigner l'ensemble des variables \textit{scenopoetiques} et niche réalisée lorsque la composante biotique intervient, même indirectement.
+## Capactés de dispersion et structure du payasge {-}
 
+De manière générale, l'espèce doit pouvoir répondre à l'ensemble de ses dépenses énergétiques pour survivre et éventuellement se reproduire \cite{Holt2009a}. La dernière condition n'est pas indispensable : la présence d'une espèce peut résulter d'une permanente colonisation \cite{Leibold2004}. Cet espace des variables environnementales dans lequel une survie d'une population est possible, nous l'appellerons niche écologique. Ce terme est l'objet de vif débat \cite{Chase2003} que nous éviterons en rappelant la définition employé. Nous palerons ici de niche fondamentale pour désigner l'ensemble des variables \textit{scenopoetiques} et niche réalisée lorsque la composante biotique intervient, même indirectement.
+
+- L'engoument pour les îles est aussi une facilité dans le comprendre les ocntraintes et relié clairemnt les îles aux continent
+
+- Metapopultion ont montré que différents porblème oour abirder [@Leibold2004]
+
+- Par essence stochatioque
+
+- diversité => crombie
 
 
 ## Plasticité phénotypique et processus micro-évolutifs {-}
@@ -113,73 +158,31 @@ Il est capital de ne pas oublier les processus évolutifs dans un modèle de bio
 
 Les processus évolutifs peuvent être favorisés par les changements environnementaux mais également par les interactions entre espèces \cite{Tingley2009}. Les étroites relations entre espèces peuvent favoriser ou contraindre les réponses évolutifs, qui elles-mêmes peuvent altérées ces interactions, il existe de fait des rétroactions permanentes entre évolution et écologie \cite{Post2009}. Yoshida \textit{et al.} 2003 montrent que la réponse des algues vertes unicellulaires \textit{Chlorella vulgaris} aux rotifères \textit{Brachionus calyciflorus} conduit à un changement dans la fréquence et la phase des cycles de la dynamiques proie prédateur \cite{Yoshida2003}. L'ensemble des trois éléments jusqu'ici évoqués (environnement abiotique, interaction, évolution) peuvent également être étroitement associé. Grant et Grant 2006 rapportent le cas de la compétition entre trois espèces de pinsons (dits de Darwin) sur l'ile de Daphne (Galapagos) qui engendre une modification de la taille de leurs becs. Cette évolution liée à la compétition est elle même reliée à l'environnement abiotique car, par l'abondance ou l'absence de précipitations, il détermine la disponibilité des ressources et donc l'intensité de la compétition \cite{Grant2006}. A travers cet exemple, nous comprenons l'importance d'inclure l'ensemble des différents processus pour construire un modèle intégratif en biogéographie. Un tel modèle serait capable, par exemple, de renseigner les risques d'exclusion compétitive dans l'exemple décrit par Grant et Grant.
 
-vers une systhèse @Schoener2011
+vers une systhèse @Schoener2011 => interaction de ces processus.  
 
 
-## Sythèse des mécanismes et des enjeus autour d'un exemple récent
 
-Je vais illustrer mon propos avec 2 (3?) récurrent exemple (mais d'autres aussi) le cas du Frelon asiqtieu (anglais : Yellow-legged horne, *Vespa velutina*). Importance pour impact dans sur les abaeilles domestiques mais très peu sur la faune locale et les oiseaux migrateurs dans le nord
+## Sythèse des mécanismes et des enjeus autour d'un exemple récent {-}
+
+Avant de nouer tous ces mécanimses dont on bien comprendre je vais nouer leur interacton autour d'un exemple Je vais illustrer mon propos avec 2 (3?) récurrent exemple (mais d'autres aussi) le cas du Frelon asiqtieu (anglais : Yellow-legged horne, *Vespa velutina*). Importance pour impact dans sur les abaeilles domestiques mais très peu sur la faune locale et les oiseaux migrateurs dans le nord
 
 L'introduction aux chapitres de ma thèse sera articulée autour de la question fondamnetal esuivant
-
-
-Dans cette introduction à ma thèse j'ai choisi de prendre comme fil conducteur la question suivante :
-quelles informations referment la distribution géographiques des espèces ?
-Pour y apporter un maximum d'élément de réponse je regarderais les mécanismes sous-jacents à l'échelle d'une échelle avant d'aborder les espoir que soulève l'analyse de la variation de ces ranges dans le temps et l'espèce sur les différentes échelles de temps avant d'aborder les apporter un maximum d'é
-avant de montrer que l'analyse jointe semble révéler et les défis au regard.
-
-
-: question d'échelle / de variation de co-variation / difficultés d'apprécier la proportions relative des différents mécanismes / mécanismes de coexistence
+de variation de co-variation / difficultés d'apprécier la proportions relative des différents mécanismes / mécanismes de coexistence
 coexistence vs co-occurrence
-
 variabilité quelle espoir de généralisation
-
 Crombie repris dans Macarthur => coexistence
-
 Problème de coexistence
-
 => non reproductibilité des ranges / stochasticité des ranges Frelon asiatiques
-
 => degat sur la nouvelle faune local msiaune augmentation ++ du nombre de liens...
 reconfigurations des réseaux locaux.
-
 => ou est le cuyrseur dans l'hstoire (evolution) ou la geographie (l'ecologie)
-
 <!-- > biogeography of the species’ requires both theory and experiments that must be in large part novel -->
-
 A quel point est-il pertinent d'évaluer le range d'une espèce sur juste une île.
-
 Un problème d'identification.
-
 classique experience de perte de la biodiv => et hope une histoire différenteds
 
-raseemblé ecologie et @Schoener2011
 
-
-
-
-
-## L'importance des îles en biogéorgaphie
-
-Meilleur explication pour des arrangemnets spatiaux singuliers sont des processus temporels. Faire émerger des règles mon apport amener des interactions
-
-Pourquoi les îles en fait isolé flux et gros contraste mailand - island alors qu'elles sontproches..
-
-<!-- différence avec le climat pas constentwe -->
-
-
-
-
-L'effort théorique nécessaire en biogéographie porte sur l'intégration ordonnée de concepts clés issus de différents champs de l'écologie \cite{Thuiller2013}. Ainsi, alors que les conditions climatiques et plus généralement la géographie physique sont classiquement évoquées pour expliquer la répartition des espèces \cite{Kearney2004}, les interactions entre espèces sont quant à elles souvent occultées. De même, bien que les processus évolutifs soient souvent évoqués comme déterminants majeurs de la diversité des espèces \cite{Rosindell2011}, leurs effets à court terme sont souvent ignorés \cite{Parmesan2006} dans les scénarios décrivant la biodiversité de demain \cite{Lavergne2010}. La difficulté principale est alors de produire des modèles (théoriques en première instance) qui intègrent l'ensemble des processus et les relations qu'ils entretient \cite{Thuiller2013} tout en gardant une relative simplicité. Une théorie intégrative en biogéographie pourrait être le meilleur point d'ancrage pour construire de nouvelles approches appliquées. Avec une telle théorie en main, nous pourrions aller vers l'enjeux majeurs de ces dernières années en biogéographie : relâcher les hypothèses que les modèles classiques de répartitions des espèces d'aujourd'hui utilisent (notamment en occultant les interactions) pour prédire la biodiversité de demain \cite{Guisan2011}.
-
-Dans le projet ici présenté, nous proposons de construire des modèles théoriques plus intégratifs en repartant d'un modèle théorique classique, celui de la théorie de la biogéographie des îles proposée par MacArthur et Wilson \cite{MacArthur1967}. Dans un premier temps, nous y ajoutons les interactions entre espèces et une relation explicite avec l'environnement abiotique au travers d'une approche communauté centrée qui étend le modèle classique. Dans un second temps, nous combinons une approche population centrée et les processus évolutifs pour une biogéographie insulaire plus mécaniste. Enfin, au regard des enjeux que soulève le rôle des interactions entre espèces dans la construction de la biodiversité, nous réfléchissons sur l'inférence d'espèces interdépendantes.
-
-
-> (:154) "Does the environment dictate the structure of the community, or are the species a fairly random assemblage?
-
-> A few decades ago it as fashionable for ecologist to study communities in the artic on the grounds that these would be very simple communities and hence easy to understand. Many excellent ecologists still follow this belied, but there are others who feel that it may be easier to understand the extremely complex communities. This sounds paradoxical: How can a more complex communities by easier to understand? A possible answer might be that complex community has has strong interactions among species so that the lives of the separate species are less independent than in a simple community. Where there is greter interdeoendance, patterns may be more conspicious."
-
-
+CCL internediaire : information dans les ranges / on peut maintenat essayer de passé au cadre interpretatifs de la thèse.
 
 
 
@@ -199,23 +202,19 @@ Dans le projet ici présenté, nous proposons de construire des modèles théori
 # Cadre théorique de la thèse {-}
 
 
-## Théorie et modélisation {-}
+## Grandes théories en Biogeographie
 
+### L'importance des îles en biogéorgaphie
 
+Meilleur explication pour des arrangemnets spatiaux singuliers sont des processus temporels. Faire émerger des règles mon apport amener des interactions
 
+Pourquoi les îles en fait isolé flux et gros contraste mailand - island alors qu'elles sontproches..
 
-## Hasard et nécessité {-}
+<!-- différence avec le climat pas constentwe -->
 
-### stochasticité {-}
+L'effort théorique nécessaire en biogéographie porte sur l'intégration ordonnée de concepts clés issus de différents champs de l'écologie \cite{Thuiller2013}. Ainsi, alors que les conditions climatiques et plus généralement la géographie physique sont classiquement évoquées pour expliquer la répartition des espèces \cite{Kearney2004}, les interactions entre espèces sont quant à elles souvent occultées. De même, bien que les processus évolutifs soient souvent évoqués comme déterminants majeurs de la diversité des espèces \cite{Rosindell2011}, leurs effets à court terme sont souvent ignorés \cite{Parmesan2006} dans les scénarios décrivant la biodiversité de demain \cite{Lavergne2010}. La difficulté principale est alors de produire des modèles (théoriques en première instance) qui intègrent l'ensemble des processus et les relations qu'ils entretient \cite{Thuiller2013} tout en gardant une relative simplicité. Une théorie intégrative en biogéographie pourrait être le meilleur point d'ancrage pour construire de nouvelles approches appliquées. Avec une telle théorie en main, nous pourrions aller vers l'enjeux majeurs de ces dernières années en biogéographie : relâcher les hypothèses que les modèles classiques de répartitions des espèces d'aujourd'hui utilisent (notamment en occultant les interactions) pour prédire la biodiversité de demain \cite{Guisan2011}.
 
-
-### Dans la Biogéo des îles {-}
-immigration => haazrd
-extinction nécéssité
-
-## Développements théoriques en Biogéographie {-}
-
-equilibre => equation 3-3 repartir de 3-3
+Dans le projet ici présenté, nous proposons de construire des modèles théoriques plus intégratifs en repartant d'un modèle théorique classique, celui de la théorie de la biogéographie des îles proposée par MacArthur et Wilson \cite{MacArthur1967}. Dans un premier temps, nous y ajoutons les interactions entre espèces et une relation explicite avec l'environnement abiotique au travers d'une approche communauté centrée qui étend le modèle classique. Dans un second temps, nous combinons une approche population centrée et les processus évolutifs pour une biogéographie insulaire plus mécaniste. Enfin, au regard des enjeux que soulève le rôle des interactions entre espèces dans la construction de la biodiversité, nous réfléchissons sur l'inférence d'espèces interdépendantes.
 
 ### L'empreinte historique de la La Théorie de la Biogéographie des Iles de MacArthur et Wilson {-}
 
@@ -227,9 +226,6 @@ Dans la réédition de 2001 [] Wilson rappelle que le problème :
 
 > "The flaws of the book lie in its oversimplification and incompleteness, which are endemic to most efforts at theory and synthesis."
 
-Preface de 67 :
-
-> Now we both call ourselves Biogeographers and are unable to see any real distinction between biogeography and ecology
 
 Diminuer la composante historqiue à la recherche de loi et j'ajouterais aussi simple soit elle raffiner par la suite
 
@@ -247,6 +243,22 @@ Ecological equivalence des individus OK mais peut-être que l'abondance des inte
 Problème si explication alternatives possibles alors on n'est pas obligé de mettre pour expliquer quoi que ce soit. De plus savons nous si c'est discernable ??? Si le deux relation aire espèce sont différentes d'un groupe à l'autre alors oui... Mais sinon... Non.
 
 
+
+
+## Hasard et nécessité {-}
+
+### stochasticité {-}
+
+
+### Dans la Biogéo des îles {-}
+immigration => haazrd
+extinction nécéssité
+
+## Développements théoriques en Biogéographie {-}
+
+equilibre => equation 3-3 repartir de 3-3
+
+
 ## Chapitre 2 TIB
 
 area and number $S=CA^z$ ($z \in [0.2,0.35]$) mais des exeptions C taxon dependance similarité avec les eation allometriques sample nom isolé même relation mais z différent
@@ -254,9 +266,7 @@ area and number $S=CA^z$ ($z \in [0.2,0.35]$) mais des exeptions C taxon dependa
 Preston 1962 a lié species abindance et
 
 
-## Interactions écologique et TIB
 
-Wilson grand entoogist spécialistes des fourmis et MacArthur mathématicien + biologuste très oiseaux sont pleinemnt conscience et même comporteemntau que peut avoir la biogéographie c'est même souvent evoquer dans la théorie mais jamais inclu aisni la théorie des
 
 
 ## La TIB : un modèle simple donnant une vision puissante
@@ -321,41 +331,6 @@ Dans la premièr partie de cette introduciton je fais un tour très large de not
 
 
 
-
-
-## La distribution des espèces des faits et des causes
-
-Le concept récent de biodiversité.
-However ecological equivalence in
-
-"the niche is a mapping of population dynamics onto this space" @Holt2009PNAS
-
-
-vers le fonctionnemt des ecosystèmes levier d'action vers une approche plus utilitariste mais qui donne uns certaine proximité avec les eécosytèmes @Loreau2001
-
-### Challeng vers un espoir de généralisation
-
-
-
-
-
-## Une question d'échelle
-
-Se problème est d'une grande importance. L'écologie porte sur l'ensemble du monde vivant quelquees soiten leur taille mais les différent champs ne sont pas toutes relatoves à la m^me échelle alors il y a bien els échelles de temps, les echelles spatiales mais il y a le lével d'organisation. Il est bien inportant de comprendre celad !
-
-Un scéhma avec des variables qui émergenet ave différemts paramères et quelques éxemelpme de théorie! (DEB Evolution foodweb...) et l'action de
-
-
-
-Repartition des especes des passges histroqiere dans l'origin des espèces et dans Wallace.
-Le principe même de l'écologie (la definition de ecologie).On arrive à l'idée de ;la niche.
-Exemple histriques. Dans son ouvrage, le grand biogéographe Wallace reconait en introduction le caractère facinant de la réaortition de la biodiversité des îles avec des faot intriguant wuant à la faune et la flore. Ainsi il constate qu'il peut y avir plus deux différence entre île très éloigné et deux île s très proche. Il écrit que la faune et la flore sont plus dissimilaire entre ldeles deux piles des Galapagos Bali et Lombik qu'entre Hokaido (Yesso) et La grand bretagne ouy encore la Nouvelle Zéland et l'Australie,
-
-Exemple classique de grinnel et des Trasher + evolution avec les charcter displacement.
-
-
-Nous accumulons des évidences quand aux impact du changement anthropique. A diiférentes échelles la diminution de la biodiversité, chngemnt en compoisiton @Taranu2015
-@DeRoos2008
 
 
 
@@ -481,53 +456,18 @@ Evaluation au regard de sa perfomnce
 
 
 
-### Deterministes ou stochastiques
-
-Il n'y pas de maeilleur manière
-les stats c'est sur du stochastique et on peut mettre du stochatci avec une variance c'est le r.sultats d'un théorème maus il en est aps moins que variance es quelqeues choses d etrès util et au bour aller des moi
-On peut avoir un modèle détermicites qui explique tout mais
-
-Le hasard est qquelques choses qui est dans le dé ce que Monod dans le hasard et la cnécessité appelle un ahasar opétaionnel certain pense alors que le dé est un faux hazard que la détermination des lois de Newton et des forces inital est totallemnt déterminée et on peut donc prédire que le résulat du dé. Cependant c'est l'ensemble croisé de série de contingence qui amènent au hasrad et dans une partie de Yatz il sera bien difficile d'obtenir un score souhaité... Mais le hasard pur existe-t-il ? Dans l'oeuvre de Momod le hasard existe et c'est l'ADn polymérase à l,origine des mutations qui en est l'expression.  mais l'ensemble des série de combinason
-
-
-Lien entre les deux
-Une manière de voir les choses est de donenr par Clark (et repris par Dom) pou on essaye
-
-Clark a suggérez que stochastique n,est pas savoir et que le but c'est de passé du pas au maximum vers le détermiste. Dans elur défendse de la la théroy neutre Rosindell et  al rétoquent que c'est plus subile il y a des modèles dtermisites chatosque (et dont les développemtn avancé font au propriété statistique des attracteurs) quer cela de même Gravel et collègues..  rreprche que. Modèles en plus validée par des stats qui reposent sur des stochsiques. Argument d'Einstien Dieu ne jue pas au dé face à la quantique qui au final alors mêe que le la gravitaté générale sans hazard pure sera fause. Le chat de Shrodinger est peut-être vivant ici mais il est mort dans un autre univers.
-
-Produire variance et moments d'ordre supérierus...
-
-Dans mon premier chapitre je fais appel à une chaîne de Markov qui est elle, un processus aléatroi masus qui peut
 
 
 
-## Difficculté des modlisation
 
 
 
-## Les piliers théoriques de la biogéogrpahie actuelle
 
-Les prinicipes de la biogéogrpahies sont assez simples à comprendre,
+<!-- décire les objectfs de ma thèse revenir en détail sur le contexte de la thèse  -->
 
-Une des théories les plus fortes est la biogéographie des îles de MacArthur and Wilosn dans les années
-Macarthu est mort à 1972 Wilson est fameux dans les fourmis et une série de descendants comme Simberloff tout aussi connu.
+# Le rôle des interactions dans la distributiondes espèces {-}
 
-Sont des entitéas avec histoire et beaucop de publication viennent souligner le poinds de l'histoire sur le pool d,espèces
-
-
-Si la compréhension est relativement simple leur intrications est bien pus challengin  
-
-Si les humains et leur commensaux sont relié au point que la prise alimentaire est lié à la faune intestinale...
-Alors doit on modéiser toutes les espàces de bactéries commesanle ppur déterminer le
-
-
-## DEB
-
-C'est impressionnant de voir comment un auteur en repartant de simple considération telle que la taile le volume peut arriver à construire une théorie à la fois simple, fondée et predictive. mettant de la cohérence dansune accumulation de fait.
-
-
-
-### Interaction et biogeographie
+## Interaction et biogeographie
 
 Accent sur les cascading effect est surtout un problème de l'instabiilté @Zarnetske2012 Il ya aussi l'article perturbant de @Saterberg2013 qui montre que le fait qu'une espèce soit (ex. pêche) peut conduirte à des extinctions d'autres espèces lié dans le réseau... Ces deux exemple montrent que les interactions peuvent mener à des problèmes de prédicitons et donc porblèmes sur prévoir les services ecosystémiques et c'est appuyer par @Cahill2013 qui nous indique en somme que le changemnr des interactiosn bioiqtess ets la voie privilégié d'extintionciton dans un contexte de chanegnmtn climatique
 
@@ -538,27 +478,16 @@ Mais les changement sont des remplacemnt et pour la conservation on peut se dema
 
 Les ramges comme un fait (wallace chap 2)
 des espèces avec des larges avec des grandes ranges
-
 Loddigésie admirable (*Loddigesia mirabilis*) seul collibris de son genre vs Lièvre variable (*Lepus timidus*)
-
 nomnbre d'espèce dans un genre vaire beaucoup => un autre indice de solution pas fructifiées...
-
 Pithacia Monathus vs Pithecia pythecia separé par une rivière
-
-
 Geographical Ecology => patterns in the distribution of spceies
-
-L'auvrage de MacArthur de
-
-<!-- Island  life p10 -->
-
 2 espèces proches des ranges très séparéed =>  species
 Bonobo et cChimpanzés
 
 L'évolution = le hasard et la nécessité est un moteur de la répartiton mais aussi la composante historiqe de la biologie. Cette dimension fascinante implique aussi nous focalisé sur des explications singulière souvent pas évident qui permettent de conformer le type de facteurs impliqué dans la variation des ranges mais nous amène pas encore à trouver des règles précices.
 
 Wallace conclut :28 qu'une théorie générale doit tenir compte des variation range et proximité des espèces porches et des overlapp.
-
 
 > Both competition and predation appear now to be much more important in biogeography than peopl had formely guesses
 
@@ -579,17 +508,41 @@ Parallèle entre information des traits sur le régime allimentaire et l'informa
 la question a été pourquoi il y a autant d'espèces mais je pense qu'un equestion légèremnetn différentes n'a pas été assez invextie : pourquoi peuvent-elles être si nombreuse....
 La limite est toujours OK si assez pour 2 ou plus.
 
+## Interactions écologique et TIB
+
+Wilson grand entoogist spécialistes des fourmis et MacArthur mathématicien + biologuste très oiseaux sont pleinemnt conscience et même comporteemntau que peut avoir la biogéographie c'est même souvent evoquer dans la théorie mais jamais inclu aisni la théorie des
 
 
 
 
-<!-- décire les objectfs de ma thèse revenir en détail sur le contexte de la thèse  -->
+## Une question d'échelle
 
-# Le rôle des interactions dans la distributiondes espàces {-}
+Se problème est d'une grande importance. L'écologie porte sur l'ensemble du monde vivant quelquees soiten leur taille mais les différent champs ne sont pas toutes relatoves à la m^me échelle alors il y a bien els échelles de temps, les echelles spatiales mais il y a le lével d'organisation. Il est bien inportant de comprendre celad !
+
+Un scéhma avec des variables qui émergenet ave différemts paramères et quelques éxemelpme de théorie! (DEB Evolution foodweb...) et l'action de
+
+Repartition des especes des passges histroqiere dans l'origin des espèces et dans Wallace.
+Le principe même de l'écologie (la definition de ecologie).On arrive à l'idée de ;la niche.
+Exemple histriques. Dans son ouvrage, le grand biogéographe Wallace reconait en introduction le caractère facinant de la réaortition de la biodiversité des îles avec des faot intriguant wuant à la faune et la flore. Ainsi il constate qu'il peut y avir plus deux différence entre île très éloigné et deux île s très proche. Il écrit que la faune et la flore sont plus dissimilaire entre ldeles deux piles des Galapagos Bali et Lombik qu'entre Hokaido (Yesso) et La grand bretagne ouy encore la Nouvelle Zéland et l'Australie,
+
+Exemple classique de grinnel et des Trasher + evolution avec les charcter displacement.
+
+Nous accumulons des évidences quand aux impact du changement anthropique. A diiférentes échelles la diminution de la biodiversité, chngemnt en compoisiton @Taranu2015
+@DeRoos2008
+
+
+> (:154) "Does the environment dictate the structure of the community, or are the species a fairly random assemblage?
+
+> A few decades ago it as fashionable for ecologist to study communities in the artic on the grounds that these would be very simple communities and hence easy to understand. Many excellent ecologists still follow this belied, but there are others who feel that it may be easier to understand the extremely complex communities. This sounds paradoxical: How can a more complex communities by easier to understand? A possible answer might be that complex community has has strong interactions among species so that the lives of the separate species are less independent than in a simple community. Where there is greter interdeoendance, patterns may be more conspicious."
+
 
 ## Oubli de ce facteur important de
 
 Ls SMDS...
+
+Les interactions intra et inter spécifiques constituent un facteur rapidement pressenti comme responsable de la distribution spatiale des espèces \cite{Levin1974}. L'interdépendance des espèces conditionne, en effet, l'aspect favorable de l'environnement au sens large (biotique et abiotique). Ainsi Godsoe \textit{et al.} 2012, mettent en équations le caractère favorable de l'environnement pour une espèce donnée en terme de probabilité de présence d'une autre espèce et de la nature de leur interaction \cite{Godsoe2012}. De même, Holt et Barfield 2009 montrent l'impact de la prédation sur la répartition d'espèces en compétition \cite{Holt2009} insistant ainsi sur le rôle majeur des interactions. Davis \textit{et al.} 1998 ont montrés que, pour trois drosophiles en compétition, l'effet d'un parasitoïde n'est pas le même le long d'un gradient selon que les espèces sont seules ou ensemble \cite{Davis1998}. Récemment, des efforts ont été réalisés pour mettre en évidence l'importance de l'interdépendance des espèces dans les données aux larges échelles spatiales \cite{Gotelli2010}. On trouve actuellement dans la littérature une grande motivation pour les intégrer dans les modèles de distribution d'espèces \cite{Kissling2011, Guisan2011}. Des efforts théoriques sont encore nécessaires pour arriver à de telles approches. Néanmoins, rapprocher différents champs de l'écologie peut s'avérer d'une utilité majeure. Jabot et Bascompte \cite{Jabot2012} 2012, ont d'ailleurs montré l'importance des interactions pour comprendre la distribution des espèces en rapprochant écologie des réseaux et un modèle de metacommunauté. De même Gravel \textit{et al.} 2011 \cite{Gravel2011b} introduise l'interdépendance proie-prédateur dans le modèle classique de MacArthur et Wilson menant aux prémices d'une théorie trophique de la biogéographie des îles.
+
+L'ajout des interactions dans un modèle incluant l'environnement abiotique interroge la relation que les deux processus entretiennent. Si les espèces n'ont pas les mêmes performances dans différents milieux du fait de leur physiologie, pour les mêmes espèces considérées, les réseaux n'ont pas de raison d'être identiques d'un milieu à un autre. C'est sur ce fait que Poisot \textit{et al.} 2012 ont proposé une mesure de dissimilarité des réseaux \cite{Poisot2012}. Defossez \textit{et al.} montrent que les interactions négatives entre l'hêtre commun (\textit{Fagus Sylvaitca}) et les micro-organismes du sol diminuent avec l'altitude  \cite{Defossez2011}. Ainsi, les contraintes biotiques sont à relier à l'environnement \cite{Brooker2006,Canham2006} et un modèle intégratif doit donner un cadre cohérent à ces rétroactions entre processus. Enfin, l'importance des interactions est à mettre en relation avec l'échelle considérée \cite{Peterson2011}. Pour deux espèces en interaction, plus l'échelle d'étude est large, moins les effets des interactions locales sont susceptibles d'être capturés, le pouvoir explicatif de la présence d'une espèce sur l'autre peut être alors discutable \cite{Araujo2007}. Comprendre quels sont les processus à prendre en compte aux différentes échelles spatio-temporelles et comprendre comment le changement d'échelle affecte nous prédictions est aussi un véritable challenge en biogéographie \cite{Martinez2012}.
 
 
 ## Une question d'échelle
@@ -652,6 +605,9 @@ gecko australien généraliste  *Heteronotia binoei* => alors peut être que ç
 
 # Aller de l'avant  {-}
 
+## DEB
+
+C'est impressionnant de voir comment un auteur en repartant de simple considération telle que la taile le volume peut arriver à construire une théorie à la fois simple, fondée et predictive. mettant de la cohérence dansune accumulation de fait.
 
 
 
