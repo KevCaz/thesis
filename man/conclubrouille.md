@@ -88,3 +88,11 @@ Les conséquences sont compliqués des changements climatiques sont nombreuses e
 Wallace n'aurait-il pas eu plus de mal à comprndre les zones aujourd'hui. Si naïvemnt on réduit aux villes, l'homogénéité ++ mais avec les espèces invasive le signal est fortemnt briollé aussi !
 
 Je pense qu'on est a un tournant de la biogoe vers un chamgemnt de paradigme communaité centré qui ne nit pas les travaux précédant mais les suit.
+
+
+## Des classes d'esèces ?
+
+La défense des modèle climqtaiur bioclimate enveloppe de Pearson comme une dpremière approximation utilise se faitt sur 3 exemple de plantes @Pearson2003
+
+## Prédire des communautés
+=> des interactions changer de paradigme 
