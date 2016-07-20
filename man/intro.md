@@ -7,9 +7,7 @@ header-includes:
     - \usepackage{lineno}
 ---
 
-<!-- Question fondamentale -->
-
-
+<!-- Questions fondamentales -->
 
 
 # Des îles et des espèces {-}
@@ -19,7 +17,7 @@ header-includes:
 
 Dans l'introduction de son livre "Island Life" paru en 1881, le célèbre naturaliste Alfred Russel Wallace nous rapporte deux faits important qui justifient l'importance de l'examen de la répartition géographique des espèces [@wallace1881island]. Premièrement, il montre, à travers un grand nombre d'exemple, que l'éloignemnet de deux régions du monde n'est pas suffiant pour conclure quand à l'éloignement de leur composition faunistique et floristique. Ainsi, bien que séparés par des miliers de kilomètres, la compoisiton taxonomiques des arbres et oiseaux du Japon sont bien plus porches que les compositions taxonomiques des îles îles indonesiennes Bali et Lombok séparées pourtant de quelques dizaines de kilomètres seulement. De plus, en s'appuyant les différences des faunes brésiliennes et africanes sous des latitudes similaires, il souligne la faiblesse du pouvoir préductif des variables climatiques pour décire les compositions fauniques. Au-dela des faits, ces comparaisons incitent à la reflexion : en deux points de la Terre, quels sont les mécanismes qui amènent à une ressembblandce ou non des écosystème dans leur compousiotn taxonomique. Son ouvrage se réclame d'une tentative de compréhension des raisons sous-jacentes à ces faits et il reconnait toujours dans cette introduction la difficulté majeure pour arriver à une telle compréhension :
 
-> \guillemotleft Many years study of this class of subjects has convinced me that there is no short abd easy method of dealing with them; because they are, in their very nature, the visible outcome and residual product of the whole past history of the earth. \guillemotright
+>  &laquo; Many years study of this class of subjects has convinced me that there is no short abd easy method of dealing with them; because they are, in their very nature, the visible outcome and residual product of the whole past history of the earth. &raquo;
 
 
 La réponse apportée par Wallace est la suivante : une connaissance encyclopédique de la distribution des êtres vivants à travers le monde permet de relier les différents îles aux grands ensembles régionnaux biologiques (que nous appelons aujourd'hui écozones). Il est intéressant de noter que le nom de Wallace est associé à la ligne séparant l'écozone indomalaise de l'écozone australienne (qui sépare notamment Bali et Lomonk citées plus haut) à la suite de ces travaux publiés en 1860 [@Wallace1860]. Ces regroupemnets géographiques fondés sur la proximité taxonimique est la traduction que les distributions des espèces renflètent en partie une phylogénie des êtres vivants et sont alors autant d'arguments en faveur de la théorie de l'évolution [^chrono]. L'éclaircissement substantiel des répartitions géogrpahiques des êtres vivants par l'évolution se double d'un obstacle épistémologique important : si l'explication ultime de la présence d'une espèce en un point donné est le produit d'une série de contingences historiques, sur quoi bâtir une théorie de la biogéographie? Comment s'abstraire des singularités pour trouver des règles? Pour aller chercher ces règles, il fallut attendre les travaux du milieu du XX^ème^ et particulièrement la fructuseuse rencontre du mathématicien et biologiste Robert Helmer MacArthur et de l'enthomologiste Edward Osborne Wilson qui conduit à l'élaboration d'une théorie de la biogéographie insulaire publiée en 1967 sur laquelle je reviendrai abondammnent tout au long de mon introduction [@MacArthur1967]. Leurs travaux théoriques ont été menés afin de dépasser les explications de la distribution uniquement en terme d'histoire naturelle comme ils l'indiquent eux même au dernier chapitre de leur livre de 1967 :
@@ -48,13 +46,13 @@ Il y a une intrication profonde entre l'écologie et l'évolution qui sont deux 
 
 > \guillemotleft Dobzhansky notoriously said in 1964: Nothing in biology makes sense except in the light of evolution.  \guillemotright
 
-> \guillemotleft This was supplanted half a century later by Grant and Grant’s(2): Nothing in evolutionary biology makes sense except in the light of ecology. \guillemotright
+>  &laquo; This was supplanted half a century later by Grant and Grant’s(2): Nothing in evolutionary biology makes sense except in the light of ecology. &raquo;
 
-> Pelletier et al.(12) quickly followed with “Nothing in evolution or ecology makes sense except in the light of the other. \guillemotright
+> Pelletier et al.(12) quickly followed with  &laquo; Nothing in evolution or ecology makes sense except in the light of the other. &raquo;
 
 La conpréhension de l'écologie ne peut être faite sans une compréhension de l'évolution et inversement. Un parallèle fort existe entre l'histoire et la biogéographie et il est difficile de faire une bonne histoire sans comprendre les contraintes géographiques qui sont souvent le moteur de cette derrnière. L'écologie est à la biologie ce que l'écologie est aux sciences humaine de même que l'évolution est la partie historque de la biogéogrpahiqeu : il est très riche de croiser les regards. Cette vision spatiale de l'écology est ancrée dans la pensée de MacArthur et Wilson dans la préfcae de 1967 :
 
-> \guillemotleft Now we both call ourselves biogeographers and are unable to see any real distinction between biogeography and ecology. \guillemotright
+> &laquo; Now we both call ourselves biogeographers and are unable to see any real distinction between biogeography and ecology. &raquo;
 
 Pour des questions d'échelles il y a une dstcintion avec la biogeographies car les règles comportenemtales d'une sous papitlation ne sont pas étudiées au même échelle que la distribution d'écehlles. Néanmoins il existe une très grande variabilités de la taille des sistirbution pour des individus de tailles ne variant pas d'un grand nomdre d'ordre de grandeur on parleera de macroécologie même sir écoogie global (*Global ecology and Biogeography* est le titre d'un des journaux prestigieux de la discipline et je ne m'explique pas la différence entre les deux termes)
 
@@ -122,7 +120,7 @@ Il y a différent niveau la modelisation a pour but de donner une idée mais n'o
 
 Dans la préface de son livre *Food webs* Kevin McCann écrit :
 
-> It just so happens that some people find it easier to think about things in terms of x's and y's, and other in terms rabbits of and lynx. (Préface, @mccann2011food)
+> \guillemotleft It just so happens that some people find it easier to think about things in terms of x's and y's, and other in terms rabbits of and lynx. \guillemotright (Préface, @mccann2011food)
 
 et on ne doit pas utiliser les mathématqiues pour se cacher derrière un jargon dans la seul valeur serait d'être ésotérique et d'être attentif [@May2004]. Juste our développer
 
@@ -154,17 +152,45 @@ J'explore quelques dualié propre à l'acte de modélisation que j'applique ulti
 
 
 
-
-
 # Distributions d'espèces, les forces en présence {-}
 
 
-## Biogéographie historique
+## Biogéographie historique {-}
 
-La dominante du livre de Wallabce est la dérivation et dès que le cadre concpetuel de l'écolution est sur bien tout semble faire grand sens. Le cadre majeur de l'interpreétation est le résulats de porcessus profone et long les même indices que Wegener pour faire le théorie des plaques : la ressemblance d'espèce très éloignées. L'études des îles à aussi de deéterminer quelles îles apparyienne écozone ()littéralement la région indienne et australienne) [@Wallace1860] c'est ainsi que la ligne décozones que sont l'indomalais et l'australasien
+La dominante du livre de Wallace est la dérivation et dès que le cadre concpetuel de l'écolution est sur bien tout semble faire grand sens. Le cadre majeur de l'interpreétation est le résulats de porcessus profone et long les même indices que Wegener pour faire le théorie des plaques : la ressemblance d'espèce très éloignées. L'études des îles à aussi de deéterminer quelles îles apparyienne écozone ()littéralement la région indienne et australienne) [@Wallace1860] c'est ainsi que la ligne décozones que sont l'indomalais et l'australasien. Il s'agit en fait de la toile de fond du cardre dans lequel se passe 'hitroie avant de comprnr quel et quel queles sont les grands mouvment qui ont ét en présence depuis les miliers d'années qui ont vu la dérive des continents jusqu'aux compréhension de Wegener de la tectonique des plaques. Dans un article pau en 2011, Joachim Hortal et collègue ont démontrés que l'abondance d warm-adapted group for whom temperature is a well- known constrain
 
-On fait des atlas des 2 des entités avec un einertoie historqiue mas est-ce là important pour comprendre le réseuax ?
-@Hortal2011
+Biensur l'histoir ce décline à différentes échelle stemporelle et pour comprendre les discturbution on peut ademttre une certaine histoire commune sans pour autant dire que la compréhension fine va pkus loin que la représention de différents taxons radiation et c'est finalemnt ce qui strucvutr le pool d'espèces. Parlons de l'histoire à l'échelle depuis la dernière glaciation, elle laisse son empreinte et alors qu'il du dernier Maximum glacier qui a occuré il ya 21000 ans est rpofindément marqueé dans la diversité des bouzier [@Hortal2011] limite actuelle avec le 0°C montre. Aisi il y avait un ensemble d'espèce de bouzier concentré réfugié qau sud et qui se sont dispoersé vers el nord et l'examen pylogénétique montre un groupe particulier qui clairemnt identifié par des reuves phylogénétique.
+
+
+## Capactés de dispersion et structure du payasage et échanges de gènes  {-}
+
+
+La vie telle que nous la connaissons pérennise l'information accumulée au cours du temps via à un support moléculaire, l'ADN. Cette molécule peut 1- renfermer une plasticité phénotypique offrant aux espèces des possibilités pour faire face aux stress environnementaux et 2- subir des altérations, des mutations, dont le relative avantage apporté peut assurer une survie accrue. Les espèces sont donc elles-mêmes porteuses potentielles de réponses face aux changement actuels \cite{Parmesan2006,Lavergne2010}. La plasticité phénotypique permet une réaction rapide des espèces à des changements environnementaux soudains. Tingley \textit{et al.} 2009 ont ainsi montré que sur 53 espèces d'oiseaux étudiés dans la Sierra Nevada, 48 ont colonisé de nouveaux sites où les conditions de température et de précipitations leur étaient plus favorables \cite{Tingley2009}. Les mutations sont quant à elles des évènements relativement rares qui interviennent potentiellement à chaque génération, leur fréquence est donc dépendante, en premier  lieu du temps de génération mais aussi de la tolérance des systèmes de réplication du matériel génétique. Pour des espèces aux temps de génération court, les processus micro-évolutifs peuvent donc être déterminants. Ainsi, Balanyá \textit{et al.} 2009 ont montré des changements notables dans le génotype de \textit{Drosophila subobscura} en 24 années avec des génotypes de basses latitudes plus répandus en réponses au changements climatiques.
+
+Il est capital de ne pas oublier les processus évolutifs dans un modèle de biogéographie afin d'envisager correctement la biodiversité de demain \cite{Sexton2009,Lavergne2010}. La nature des processus à prendre en compte est dépendante de l'échelle de temps considérée. Ainsi, si l'on souhaite retracer l'histoire évolutive d'une région, les aspects adaptatifs relevant de la micro-évolution sont moins pertinents que les processus évolutifs de longue portée modifiant profondément les espèces. Il faut, à ce propos, rappeler que l'évolution peut conduire à un enrichissement du pool d'espèce d'une région donnée \cite{Rosindell2011,MacArthur1967}. Les mutations accumulées dans une population isolée géographiquement peuvent conduire à une incompatibilité reproductive avec les populations du pool dont elle est issue. Il y a alors spéciation,  la biodiversité est augmentée. A court terme, les processus longs de spéciation peuvent être occultés mais prendre en compte les phénomènes d'adaptation et les processus d'évolution des espèces au temps de générations court est important. Il est aussi important de distinguer les réponses phénotypiques des réponses évolutives, les premières pouvant être plus rapide mais à porter moindre que les secondes plus lentes \cite{Gienapp2008}.
+
+Il ne s'agit pas simplement du reflet des capacités individuelles de mouvement mais bien d'une propriété à l'échelle de l'espèces
+
+De manière générale, l'espèce doit pouvoir répondre à l'ensemble de ses dépenses énergétiques pour survivre et éventuellement se reproduire \cite{Holt2009a}. La dernière condition n'est pas indispensable : la présence d'une espèce peut résulter d'une permanente colonisation \cite{Leibold2004}. Cet espace des variables environnementales dans lequel une survie d'une population est possible, nous l'appellerons niche écologique. Ce terme est l'objet de vif débat \cite{Chase2003} que nous éviterons en rappelant la définition employé. Nous palerons ici de niche fondamentale pour désigner l'ensemble des variables \textit{scenopoetiques} et niche réalisée lorsque la composante biotique intervient, même indirectement.
+
+- L'engoument pour les îles est aussi une facilité dans le comprendre les ocntraintes et relié clairemnt les îles aux continent
+
+- Metapopultion ont montré que différents porblème oour abirder [@Leibold2004]
+
+- Par essence stochatique
+
+- diversité => crombie crombie 1946 diversité d'habitat and coexitence (article repis dan MacArthur).
+=> faarine and tube + broken caripopse  de blé
+
+- expéreice de défoliation expérience reprise
+
+- exemple des bonobs
+
+Toujour dans ce sont finalement des
+
+
+Structure fine
+
 
 ## Environnement abiotique et distribution des espèces {-}
 
@@ -193,34 +219,10 @@ Il y a cependant deux problémes majeurs
 
 
 
-
-## Capactés de dispersion et structure du payasge {-}
-
-De manière générale, l'espèce doit pouvoir répondre à l'ensemble de ses dépenses énergétiques pour survivre et éventuellement se reproduire \cite{Holt2009a}. La dernière condition n'est pas indispensable : la présence d'une espèce peut résulter d'une permanente colonisation \cite{Leibold2004}. Cet espace des variables environnementales dans lequel une survie d'une population est possible, nous l'appellerons niche écologique. Ce terme est l'objet de vif débat \cite{Chase2003} que nous éviterons en rappelant la définition employé. Nous palerons ici de niche fondamentale pour désigner l'ensemble des variables \textit{scenopoetiques} et niche réalisée lorsque la composante biotique intervient, même indirectement.
-
-- L'engoument pour les îles est aussi une facilité dans le comprendre les ocntraintes et relié clairemnt les îles aux continent
-
-- Metapopultion ont montré que différents porblème oour abirder [@Leibold2004]
-
-- Par essence stochatioque
-
-- diversité => crombie crombie 1946 diversité d'habitat and coexitence (article repis dan MacArthur).
-=> faarine and tube + broken caripopse  de blé
-
-- expéreice de défoliation expérience reprise
-
-
-
-## Plasticité phénotypique et processus micro-évolutifs {-}
-
-La vie telle que nous la connaissons pérennise l'information accumulée au cours du temps via à un support moléculaire, l'ADN. Cette molécule peut 1- renfermer une plasticité phénotypique offrant aux espèces des possibilités pour faire face aux stress environnementaux et 2- subir des altérations, des mutations, dont le relative avantage apporté peut assurer une survie accrue. Les espèces sont donc elles-mêmes porteuses potentielles de réponses face aux changement actuels \cite{Parmesan2006,Lavergne2010}. La plasticité phénotypique permet une réaction rapide des espèces à des changements environnementaux soudains. Tingley \textit{et al.} 2009 ont ainsi montré que sur 53 espèces d'oiseaux étudiés dans la Sierra Nevada, 48 ont colonisé de nouveaux sites où les conditions de température et de précipitations leur étaient plus favorables \cite{Tingley2009}. Les mutations sont quant à elles des évènements relativement rares qui interviennent potentiellement à chaque génération, leur fréquence est donc dépendante, en premier  lieu du temps de génération mais aussi de la tolérance des systèmes de réplication du matériel génétique. Pour des espèces aux temps de génération court, les processus micro-évolutifs peuvent donc être déterminants. Ainsi, Balanyá \textit{et al.} 2009 ont montré des changements notables dans le génotype de \textit{Drosophila subobscura} en 24 années avec des génotypes de basses latitudes plus répandus en réponses au changements climatiques.
-
-Il est capital de ne pas oublier les processus évolutifs dans un modèle de biogéographie afin d'envisager correctement la biodiversité de demain \cite{Sexton2009,Lavergne2010}. La nature des processus à prendre en compte est dépendante de l'échelle de temps considérée. Ainsi, si l'on souhaite retracer l'histoire évolutive d'une région, les aspects adaptatifs relevant de la micro-évolution sont moins pertinents que les processus évolutifs de longue portée modifiant profondément les espèces. Il faut, à ce propos, rappeler que l'évolution peut conduire à un enrichissement du pool d'espèce d'une région donnée \cite{Rosindell2011,MacArthur1967}. Les mutations accumulées dans une population isolée géographiquement peuvent conduire à une incompatibilité reproductive avec les populations du pool dont elle est issue. Il y a alors spéciation,  la biodiversité est augmentée. A court terme, les processus longs de spéciation peuvent être occultés mais prendre en compte les phénomènes d'adaptation et les processus d'évolution des espèces au temps de générations court est important. Il est aussi important de distinguer les réponses phénotypiques des réponses évolutives, les premières pouvant être plus rapide mais à porter moindre que les secondes plus lentes \cite{Gienapp2008}.
+Retro action des processus évolutifs vers une synthèse @Schoener2011
 
 Les processus évolutifs peuvent être favorisés par les changements environnementaux mais également par les interactions entre espèces \cite{Tingley2009}. Les étroites relations entre espèces peuvent favoriser ou contraindre les réponses évolutifs, qui elles-mêmes peuvent altérées ces interactions, il existe de fait des rétroactions permanentes entre évolution et écologie \cite{Post2009}. Yoshida \textit{et al.} 2003 montrent que la réponse des algues vertes unicellulaires \textit{Chlorella vulgaris} aux rotifères \textit{Brachionus calyciflorus} conduit à un changement dans la fréquence et la phase des cycles de la dynamiques proie prédateur \cite{Yoshida2003}. L'ensemble des trois éléments jusqu'ici évoqués (environnement abiotique, interaction, évolution) peuvent également être étroitement associé. Grant et Grant 2006 rapportent le cas de la compétition entre trois espèces de pinsons (dits de Darwin) sur l'ile de Daphne (Galapagos) qui engendre une modification de la taille de leurs becs. Cette évolution liée à la compétition est elle même reliée à l'environnement abiotique car, par l'abondance ou l'absence de précipitations, il détermine la disponibilité des ressources et donc l'intensité de la compétition \cite{Grant2006}. A travers cet exemple, nous comprenons l'importance d'inclure l'ensemble des différents processus pour construire un modèle intégratif en biogéographie. Un tel modèle serait capable, par exemple, de renseigner les risques d'exclusion compétitive dans l'exemple décrit par Grant et Grant.
 
-Exemple histroqies les Pinsons de darwin (cdf mon devis.)
-Les processus évolutifs peuvent être favorisés par les changements environnementaux mais également par les interactions entre espèces \cite{Tingley2009}. Les étroites relations entre espèces peuvent favoriser ou contraindre les réponses évolutifs, qui elles-mêmes peuvent altérées ces interactions, il existe de fait des rétroactions permanentes entre évolution et écologie \cite{Post2009}. Yoshida \textit{et al.} 2003 montrent que la réponse des algues vertes unicellulaires \textit{Chlorella vulgaris} aux rotifères \textit{Brachionus calyciflorus} conduit à un changement dans la fréquence et la phase des cycles de la dynamiques proie prédateur \cite{Yoshida2003}. L'ensemble des trois éléments jusqu'ici évoqués (environnement abiotique, interaction, évolution) peuvent également être étroitement associé. Grant et Grant 2006 rapportent le cas de la compétition entre trois espèces de pinsons (dits de Darwin) sur l'ile de Daphne (Galapagos) qui engendre une modification de la taille de leurs becs. Cette évolution liée à la compétition est elle même reliée à l'environnement abiotique car, par l'abondance ou l'absence de précipitations, il détermine la disponibilité des ressources et donc l'intensité de la compétition \cite{Grant2006}. A travers cet exemple, nous comprenons l'importance d'inclure l'ensemble des différents processus pour construire un modèle intégratif en biogéographie. Un tel modèle serait capable, par exemple, de renseigner les risques d'exclusion compétitive dans l'exemple décrit par Grant et Grant.
 
 
 
@@ -228,7 +230,11 @@ vers une systhèse @Schoener2011 => interaction de ces processus.
 
 
 
-## Sythèse des mécanismes et des enjeux autour d'un exemple récent {-}
+## Interactions des forces Sythèse des mécanismes et des enjeux autour d'un exemple récent {-}
+
+Exemple histroqies les Pinsons de darwin (cdf mon devis.)
+Les processus évolutifs peuvent être favorisés par les changements environnementaux mais également par les interactions entre espèces \cite{Tingley2009}. Les étroites relations entre espèces peuvent favoriser ou contraindre les réponses évolutifs, qui elles-mêmes peuvent altérées ces interactions, il existe de fait des rétroactions permanentes entre évolution et écologie \cite{Post2009}. Yoshida \textit{et al.} 2003 montrent que la réponse des algues vertes unicellulaires \textit{Chlorella vulgaris} aux rotifères \textit{Brachionus calyciflorus} conduit à un changement dans la fréquence et la phase des cycles de la dynamiques proie prédateur \cite{Yoshida2003}. L'ensemble des trois éléments jusqu'ici évoqués (environnement abiotique, interaction, évolution) peuvent également être étroitement associé. Grant et Grant 2006 rapportent le cas de la compétition entre trois espèces de pinsons (dits de Darwin) sur l'ile de Daphne (Galapagos) qui engendre une modification de la taille de leurs becs. Cette évolution liée à la compétition est elle même reliée à l'environnement abiotique car, par l'abondance ou l'absence de précipitations, il détermine la disponibilité des ressources et donc l'intensité de la compétition \cite{Grant2006}. A travers cet exemple, nous comprenons l'importance d'inclure l'ensemble des différents processus pour construire un modèle intégratif en biogéographie. Un tel modèle serait capable, par exemple, de renseigner les risques d'exclusion compétitive dans l'exemple décrit par Grant et Grant.
+
 
 Avant de nouer tous ces mécanimses dont on bien comprendre je vais nouer leur interacton autour d'un exemple Je vais illustrer mon propos avec 2 (3?) récurrent exemple (mais d'autres aussi) le cas du Frelon asiqtieu (anglais : Yellow-legged horne, *Vespa velutina*). Importance pour impact dans sur les abaeilles domestiques mais très peu sur la faune locale et les oiseaux migrateurs dans le nord
 
@@ -248,13 +254,13 @@ Un problème d'identification.
 classique experience de perte de la biodiv => et hope une histoire différenteds
 
 
-CCL internediaire : information dans les ranges / on peut maintenat essayer de passé au cadre interpretatifs de la thèse.
-
 
 Ce sont ce que sont appelées le modèle de distribution qui furent un temps appelé enveloppe climatque
 En guise de réponse, les SDM deviennent plus intégrateurs et de nouvelles approches émergent \cite{Kissling2011}. Ainsi, Guisan et Rahbek 2011 proposent une démarche alliant les prédictions faîtes par les MDE sur un ensemble d'espèces et celles données par une approche de modélisation macroécologiques s'appuyant sur des règles de coexistence dans une unité géographique donnée \cite{Guisan2011}.
 
 
+
+Difficulté de lier l'ensemble des facteurs en poésence.
 
 
 
@@ -267,58 +273,17 @@ En guise de réponse, les SDM deviennent plus intégrateurs et de nouvelles appr
 
 # Cadre théorique de la thèse {-}
 
-## Importance des îles en Biogeographie {-}
-
-isolation lux de migraotion simple / assemblage moins nombreux / conséquence d'une manipultion limité à l'île / 5% mais répétable ? / un oacth isolé et peut être que flux au île [@Simberloff1974a]
-
-Les îles qui occupent le coeur de l'ouvrage de Wallace et de MAcArthur et Wilson ont été essentiel poour comprendre les processus qui forme la sitributn des espèces. Elle sosn tproches du continent et peuvent être si différenetes la nature eotique des piles à forcer les auteurs à comprendre l'origine de leur singularit.é et ces sur ces bout de terre isolé qu'ils ont trouv.s des réposnes historques ais ausso spataile qui a parmis d'aller vers des dévelppemnt encore aujourd'hui très actis. La quête de cees honmes et de bien d'autres reste finalemnt de comprendre pourquoi les espèces sont ou elles sont et de comproendre ce qui les amanerner la. Ma thèse s'inscrit dans la poursuite de ces questions sur la distribution des ranges et j'artiuclerai la suirte de mon introduction autour de l'interrogagtion suivante : Quelles infornations renferment les distributions d'espèces. Pour apporter le maximum d'élément de réponse à cette question, je commencerai apr apporter les mécanismes en présence au travers de différérents ecemple avant de passer plus de temps sur la cadre conceptuel en Biogéograohie pour aboutir sur l'importance des interactions sur les distribution d'espèces.
-
-## Grandes théories en Biogeographie
-
-### L'importance des îles en biogéorgaphie
-
-Meilleur explication pour des arrangemnets spatiaux singuliers sont des processus temporels. Faire émerger des règles mon apport amener des interactions
-
-Pourquoi les îles en fait isolé flux et gros contraste mailand - island alors qu'elles sontproches..
-
-<!-- différence avec le climat pas constentwe -->
-
-L'effort théorique nécessaire en biogéographie porte sur l'intégration ordonnée de concepts clés issus de différents champs de l'écologie \cite{Thuiller2013}. Ainsi, alors que les conditions climatiques et plus généralement la géographie physique sont classiquement évoquées pour expliquer la répartition des espèces \cite{Kearney2004}, les interactions entre espèces sont quant à elles souvent occultées. De même, bien que les processus évolutifs soient souvent évoqués comme déterminants majeurs de la diversité des espèces \cite{Rosindell2011}, leurs effets à court terme sont souvent ignorés \cite{Parmesan2006} dans les scénarios décrivant la biodiversité de demain \cite{Lavergne2010}. La difficulté principale est alors de produire des modèles (théoriques en première instance) qui intègrent l'ensemble des processus et les relations qu'ils entretient \cite{Thuiller2013} tout en gardant une relative simplicité. Une théorie intégrative en biogéographie pourrait être le meilleur point d'ancrage pour construire de nouvelles approches appliquées. Avec une telle théorie en main, nous pourrions aller vers l'enjeux majeurs de ces dernières années en biogéographie : relâcher les hypothèses que les modèles classiques de répartitions des espèces d'aujourd'hui utilisent (notamment en occultant les interactions) pour prédire la biodiversité de demain \cite{Guisan2011}.
-
-Dans le projet ici présenté, nous proposons de construire des modèles théoriques plus intégratifs en repartant d'un modèle théorique classique, celui de la théorie de la biogéographie des îles proposée par MacArthur et Wilson \cite{MacArthur1967}. Dans un premier temps, nous y ajoutons les interactions entre espèces et une relation explicite avec l'environnement abiotique au travers d'une approche communauté centrée qui étend le modèle classique. Dans un second temps, nous combinons une approche population centrée et les processus évolutifs pour une biogéographie insulaire plus mécaniste. Enfin, au regard des enjeux que soulève le rôle des interactions entre espèces dans la construction de la biodiversité, nous réfléchissons sur l'inférence d'espèces interdépendantes.
-
-### L'empreinte historique de la La Théorie de la Biogéographie des Iles de MacArthur et Wilson {-}
-
-=> impact enorme sur la conservation et encore aujourd'hui bien que simplifié les calculs permettent de comprendredsimplementr dans quelles directions nous allons [article NewYork Times]
-Malgré la 50 ans de depuis la publication du Livre et premier articles a lasuorise de auiteure eux meme
-=> publications récentes qui repartent de la théorie des îles ; l'ecolet Warren et gravel and all
-
-Dans la réédition de 2001 [] Wilson rappelle que le problème :
-
-> "The flaws of the book lie in its oversimplification and incompleteness, which are endemic to most efforts at theory and synthesis."
+Les développemnents que j'ai entrepris durant ma thèse sont des tentative pour ancréer les interactions entre les epsèces au coeur de la théorie de MacAArthur et Wilson je vais reprendre ici quelques grandes idées théorique en Biogéogaphie autour et des developpments récents. Ma thèse s'inscrit dans la poursuite de ces questions sur la distribution des ranges et j'artiuclerai la suirte de mon introduction autour de l'interrogagtion suivante : Quelles infornations renferment les distributions d'espèces. Pour apporter le maximum d'élément de réponse à cette question, je commencerai apr apporter les mécanismes en présence au travers de différérents ecemple avant de passer plus de temps sur la cadre conceptuel en Biogéograohie pour aboutir sur l'importance des interactions sur les distribution d'espèces.
 
 
-Diminuer la composante historqiue à la recherche de loi et j'ajouterais aussi simple soit elle raffiner par la suite
+### Le coeur de la théorie des îles, une vision puissante de la constituion des distributions d'espèces
 
-### La théorie des métapopulations
-
-=> chapitre de Hanski
-
-### La théorie neutres de l'écologie et le débat qu'elle soulève
-
-Ecological equivalence des individus OK mais peut-être que l'abondance des interactions expliques aussi
-
-=> chapitre dans revisited
+pas tellemnt de math surtout des idées
 
 
-Problème si explication alternatives possibles alors on n'est pas obligé de mettre pour expliquer quoi que ce soit. De plus savons nous si c'est discernable ??? Si le deux relation aire espèce sont différentes d'un groupe à l'autre alors oui... Mais sinon... Non.
+### Hasard et nécessité {-}
 
-
-
-
-## Hasard et nécessité {-}
-
-### Deterministes ou stochastiques
+Deterministes ou stochastiques
 
 Il n'y pas de maeilleur manière
 les stats c'est sur du stochastique et on peut mettre du stochatci avec une variance c'est le r.sultats d'un théorème maus il en est aps moins que variance es quelqeues choses d etrès util et au bour aller des moi
@@ -341,11 +306,17 @@ extinction nécéssité
 apport de la TIB
 area and number $S=CA^z$ ($z \in [0.2,0.35]$) mais des exeptions C taxon dependance similarité avec les eation allometriques sample nom isolé même relation mais z différent
 
-Preston 1962 a lié species abindance et
+
+### Un équilibre dynmaique et ancrée dans l'ècologie {-}
+
+### Une vision des espèces en boîte brise
+
+
+### Relation aire espèce et conservation
 
 
 
-## La TIB : un modèle simple donnant une vision puissante
+### Artciulation avec la théorie
 
 
 Le travail remarquable de MacArthur et Wilson \cite{MacArthur1967} est l'un des cadres les plus robustes de la biogéographie actuelle. Plus de 40 ans après la parution de leur livre, la Théorie de la Biogéographie des Iles (abrégée dans la suite TBI) est encore une entrée bien adaptée en biogéographie et le point de départ de nombreux travaux \cite{Gravel2011b,Ryberg2007,Rosindell2011}. L'idée majeure de la TBI est simple et puissante : étant donné une île colonisable par un ensemble d'espèces depuis un continent voisin, la diversité locale résulte de la balance entre 1- la colonisation depuis le continent et 2- les extinctions locales. La TBI est une métaphore, le cas simple d'un territoire isolé (l'île) où les flux d'individus depuis le pool d'espèce régional (le continent) sont facilement représentables. Le modèle peut être étendu à de nombreux cas où un territoire isolé est colonisé par les organismes à proximité, par exemple après un incendie ou une fragmentation de l'habitat \cite{Cook2002}. Plus généralement, on peut adapter un tel modèle à un territoire quelconque avec l'hypothèse que le pool régional d'espèces est indépendant des conditions locales (aucune rétroaction de la communauté locale sur le pool régional). Ainsi, ce modèle a déjà été utilisé avec succès par Gravel \textit{et al.} 2011 pour l'élaboration de leur théorie trophique de la biogéographie des îles \cite{Gravel2011b}.
@@ -360,11 +331,67 @@ La TIB tient également sa notoriété des nombreuses prédictions supportées p
 
 De part son pouvoir explicatif et son élégance, le modèle de MacArthur et Wilson est un point de départ approprié pour construire des modèles plus intégratifs en intégrant explicitement des processus écologiques et évolutifs. Cette idée n'est pas nouvelle et les auteurs de la TIB ont étudié un certain nombre de processus écologiques. Notamment, ils ont intégré les phénomènes de spéciation \cite{MacArthur1967} et réfléchis sur l'importance des interactions quant à la répartition des espèces \cite{MacArthur1984}. Néanmoins, dans le modèle classique, l'ensemble de ces aspects sont absents, l'idée que les processus écologiques importent peu aux larges échelles domine. Nous allons, dans ce projet, à l'encontre de cette idée et proposons de construire des modèles intégratifs qui étendent la TIB.
 
+isolation / faune particulière des îles
+
+
 
 
 ![**La Théorie de la biogéographie des Iles.** L'évolution des taux de colonisation et d'extinction est présentée pour deux îles aux caractéristiques différentes. Les tailles relatives des îles et les distances qui les séparent du continent sont schématisées à droite du graphique, les couleurs associent les îles à leurs courbes respectives. Le pool d'espèce régional ($P$) est constitué de 100 espèces, les taux de colonisation et d'extinction sont exprimés en terme de probabilité d'évènement. Les points où colonisation et extinction s'équilibrent sont marqué par les symboles en gris.](fig/fig1.pdf){#fig:figMW}
 
 
+
+
+
+## L'empreinte historique de la Théorie de la Biogéographie des Iles de MacArthur et Wilson {-}
+
+Dans leur livre *The Theory of Island Biogeography*, MacArthur et Wilson indique dans leur préface qu'il ne pensait pas que leur résisterait longtemps surtout quand elle serait testé empiriquement :
+
+> We do not seriously believe that that the particular formulations advanced in in the chapters to follow will fit for very long the exacting results of future empirical invesitgation. (péface de l'édition de 1967)
+
+Et pourtant fort près de 50 ans après la parution de leur ouvrage, la vision distilé est toujours aussi vive en témoigne le livre paru en 2010 *The Theory of Island Biogeography Revisited*  [@Losos2010] et la reve par Warren et collègue [@Warren2015] qui montre bien que les île ont servie de moèdeles et que la vision est un point les travaux sont capitale.
+
+Le terme des îles est centraledmais il s'agit bien d'une théorie de la biogéogroahie. reflète aussi l'importance des îles dans l'édification d'une théorie  isolation lux de migraotion simple / assemblage moins nombreux / conséquence d'une manipultion limité à l'île / 5% mais répétable ? / un oacth isolé et peut être que flux au île [@Simberloff1974a] Pourquoi les îles en fait isolé flux et gros contraste mailand - island alors qu'elles sontproches.. Les îles qui occupent le coeur de l'ouvrage de Wallace et de MAcArthur et Wilson ont été essentiel poour comprendre les processus qui forme la sitributn des espèces. Elle sosn tproches du continent et peuvent être si différenetes la nature eotique des piles à forcer les auteurs à comprendre l'origine de leur singularit.é et ces sur ces bout de terre isolé qu'ils ont trouv.s des réposnes historques ais ausso spataile qui a parmis d'aller vers des dévelppemnt encore aujourd'hui très actis. La quête de cees honmes et de bien d'autres reste finalemnt de comprendre pourquoi les espèces sont ou elles sont et de comproendre ce qui les amanerner la. Meilleur explication pour des arrangemnets spatiaux singuliers sont des processus temporels. Faire émerger des règles mon apport amener des interactions.
+
+Mettre les espèces en gris pour es rassembler et savoir ou les particluarisé dans l'explication fine...
+On rassemble mais on peut partcularis.
+
+ <!-- http://www.nytimes.com/2016/03/13/opinion/sunday/the-global-solution-to-extinction.html -->
+
+
+
+
+<!-- différence avec le climat pas constentwe -->
+
+
+Preston 1962 a lié species abindance et
+=> impact enorme sur la conservation et encore aujourd'hui bien que simplifié les calculs permettent de comprendredsimplementr dans quelles directions nous allons [article NewYork Times]
+Malgré la 50 ans de depuis la publication du Livre et premier articles a lasuorise de auiteure eux meme
+=> publications récentes qui repartent de la théorie des îles ; l'ecolet Warren et gravel and all
+
+Dans la réédition de 2001 [] Wilson rappelle que le problème :
+
+> "The flaws of the book lie in its oversimplification and incompleteness, which are endemic to most efforts at theory and synthesis."
+
+
+Diminuer la composante historqiue à la recherche de loi et j'ajouterais aussi simple soit elle raffiner par la suite
+
+vivaccité
+
+
+### La théorie des métapopulations
+
+=> chapitre de Hanski
+
+### La théorie neutres de l'écologie et le débat qu'elle soulève
+
+Ecological equivalence des individus OK mais peut-être que l'abondance des interactions expliques aussi
+
+=> chapitre dans revisited
+
+
+Problème si explication alternatives possibles alors on n'est pas obligé de mettre pour expliquer quoi que ce soit. De plus savons nous si c'est discernable ??? Si le deux relation aire espèce sont différentes d'un groupe à l'autre alors oui... Mais sinon... Non.
+
+Oppositon à la niche.
 
 
 
@@ -377,11 +404,14 @@ vers le fonctionnemt des ecosystèmes levier d'action vers une approche plus uti
 
 
 
+# Aller plus loin, Enjeux théoriques
 
 
+L'effort théorique nécessaire en biogéographie porte sur l'intégration ordonnée de concepts clés issus de différents champs de l'écologie \cite{Thuiller2013}. Ainsi, alors que les conditions climatiques et plus généralement la géographie physique sont classiquement évoquées pour expliquer la répartition des espèces \cite{Kearney2004}, les interactions entre espèces sont quant à elles souvent occultées. De même, bien que les processus évolutifs soient souvent évoqués comme déterminants majeurs de la diversité des espèces \cite{Rosindell2011}, leurs effets à court terme sont souvent ignorés \cite{Parmesan2006} dans les scénarios décrivant la biodiversité de demain \cite{Lavergne2010}. La difficulté principale est alors de produire des modèles (théoriques en première instance) qui intègrent l'ensemble des processus et les relations qu'ils entretient \cite{Thuiller2013} tout en gardant une relative simplicité. Une théorie intégrative en biogéographie pourrait être le meilleur point d'ancrage pour construire de nouvelles approches appliquées. Avec une telle théorie en main, nous pourrions aller vers l'enjeux majeurs de ces dernières années en biogéographie : relâcher les hypothèses que les modèles classiques de répartitions des espèces d'aujourd'hui utilisent (notamment en occultant les interactions) pour prédire la biodiversité de demain \cite{Guisan2011}.
 
+Dans le projet ici présenté, nous proposons de construire des modèles théoriques plus intégratifs en repartant d'un modèle théorique classique, celui de la théorie de la biogéographie des îles proposée par MacArthur et Wilson \cite{MacArthur1967}. Dans un premier temps, nous y ajoutons les interactions entre espèces et une relation explicite avec l'environnement abiotique au travers d'une approche communauté centrée qui étend le modèle classique. Dans un second temps, nous combinons une approche population centrée et les processus évolutifs pour une biogéographie insulaire plus mécaniste. Enfin, au regard des enjeux que soulève le rôle des interactions entre espèces dans la construction de la biodiversité, nous réfléchissons sur l'inférence d'espèces interdépendantes.
 
-
+différentes théories pour différentes échelles ??
 
 
 
@@ -467,30 +497,12 @@ La limite est toujours OK si assez pour 2 ou plus.
 
 ## Interactions écologique et TIB
 
-Wilson grand entoogist spécialistes des fourmis et MacArthur mathématicien + biologuste très oiseaux sont pleinemnt conscience et même comporteemntau que peut avoir la biogéographie c'est même souvent evoquer dans la théorie mais jamais inclu aisni la théorie des
 
-
-
-
-## Une question d'échelle
-
-Se problème est d'une grande importance. L'écologie porte sur l'ensemble du monde vivant quelquees soiten leur taille mais les différent champs ne sont pas toutes relatoves à la m^me échelle alors il y a bien els échelles de temps, les echelles spatiales mais il y a le lével d'organisation. Il est bien inportant de comprendre celad !
-
-Un scéhma avec des variables qui émergenet ave différemts paramères et quelques éxemelpme de théorie! (DEB Evolution foodweb...) et l'action de
-
-Repartition des especes des passges histroqiere dans l'origin des espèces et dans Wallace.
-Le principe même de l'écologie (la definition de ecologie).On arrive à l'idée de ;la niche.
-Exemple histriques. Dans son ouvrage, le grand biogéographe Wallace reconait en introduction le caractère facinant de la réaortition de la biodiversité des îles avec des faot intriguant wuant à la faune et la flore. Ainsi il constate qu'il peut y avir plus deux différence entre île très éloigné et deux île s très proche. Il écrit que la faune et la flore sont plus dissimilaire entre ldeles deux piles des Galapagos Bali et Lombik qu'entre Hokaido (Yesso) et La grand bretagne ouy encore la Nouvelle Zéland et l'Australie,
-
-Exemple classique de grinnel et des Trasher + evolution avec les charcter displacement.
-
-Nous accumulons des évidences quand aux impact du changement anthropique. A diiférentes échelles la diminution de la biodiversité, chngemnt en compoisiton @Taranu2015
-@DeRoos2008
 
 
 > (:154) "Does the environment dictate the structure of the community, or are the species a fairly random assemblage?
 
-> A few decades ago it as fashionable for ecologist to study communities in the artic on the grounds that these would be very simple communities and hence easy to understand. Many excellent ecologists still follow this belied, but there are others who feel that it may be easier to understand the extremely complex communities. This sounds paradoxical: How can a more complex communities by easier to understand? A possible answer might be that complex community has has strong interactions among species so that the lives of the separate species are less independent than in a simple community. Where there is greter interdeoendance, patterns may be more conspicious."
+> A few decades ago it as fashionable for ecologist to study communities in the arctic on the grounds that these would be very simple communities and hence easy to understand. Many excellent ecologists still follow this belied, but there are others who feel that it may be easier to understand the extremely complex communities. This sounds paradoxical: How can a more complex communities by easier to understand? A possible answer might be that complex community has has strong interactions among species so that the lives of the separate species are less independent than in a simple community. Where there is greater interdependence, patterns may be more conspicuous."
 
 
 ## Oubli de ce facteur important de
@@ -501,22 +513,6 @@ Les interactions intra et inter spécifiques constituent un facteur rapidement p
 
 L'ajout des interactions dans un modèle incluant l'environnement abiotique interroge la relation que les deux processus entretiennent. Si les espèces n'ont pas les mêmes performances dans différents milieux du fait de leur physiologie, pour les mêmes espèces considérées, les réseaux n'ont pas de raison d'être identiques d'un milieu à un autre. C'est sur ce fait que Poisot \textit{et al.} 2012 ont proposé une mesure de dissimilarité des réseaux \cite{Poisot2012}. Defossez \textit{et al.} montrent que les interactions négatives entre l'hêtre commun (\textit{Fagus Sylvaitca}) et les micro-organismes du sol diminuent avec l'altitude  \cite{Defossez2011}. Ainsi, les contraintes biotiques sont à relier à l'environnement \cite{Brooker2006,Canham2006} et un modèle intégratif doit donner un cadre cohérent à ces rétroactions entre processus. Enfin, l'importance des interactions est à mettre en relation avec l'échelle considérée \cite{Peterson2011}. Pour deux espèces en interaction, plus l'échelle d'étude est large, moins les effets des interactions locales sont susceptibles d'être capturés, le pouvoir explicatif de la présence d'une espèce sur l'autre peut être alors discutable \cite{Araujo2007}. Comprendre quels sont les processus à prendre en compte aux différentes échelles spatio-temporelles et comprendre comment le changement d'échelle affecte nous prédictions est aussi un véritable challenge en biogéographie \cite{Martinez2012}.
 
-
-## Une question d'échelle
-Question d'échelle
-La biogéographie avec au moins 3 problèmes d'échelles
-
-=> spatiale peut-on avoir d
-
-=> temporelle plus on augmente plus l'enpreinte historiques est forte => grands evenemnt géologique (lacitaion mouvement des plques) biogéogrpahies historiqyes mais aussi forme un pool d'espèces
-
-=> Mais aussi l'échelle taxonomique : la relaton aire espèce est décrite à l'intérieru des taxons les relations allométriques à l'inérieur des taxons E O Wilson a commencé à rappporter des relation sur les formis les exemples du livre sont herpeta faun (reptile plus amphibien)
-mecanisme => diversité de milieu
-
-contre exemple des chauves souris
-
-
-rq : ce sont elles qui limites. Rôle des prédateurs. Rôle local majeur.
 
 
 
@@ -558,6 +554,9 @@ gecko australien généraliste  *Heteronotia binoei* => alors peut être que ç
 ## Information dans les distributions  {-}
 
 
+
+
+# Dépasser les questionnemnet sur les espèces
 
 
 # Aller de l'avant {-}
