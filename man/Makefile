@@ -1,7 +1,13 @@
+##-- Introduction
 MD = intro.md
 PDF = ../intro.pdf
 DOCX =../intro.docx
 INTR = intro.tex
+##-- Conclusion
+##-- Introduction
+MDC = conclu.md
+PDFC = ../conclu.pdf
+CCL = conclu.tex
 ##--
 MD3 = /Users/KevCaz/ownCloud/Dom_cooc_inter/ms/ms_cooc.md
 MD3SI = /Users/KevCaz/ownCloud/Dom_cooc_inter/ms/SI_cooc.md
@@ -17,19 +23,15 @@ CSL = elsevier-harvard.csl
 PFLAGS = --filter pandoc-fignos --filter pandoc-tablenos --bibliography=$(REF) --csl=$(CSL) --latex-engine=pdflatex
 
 
-ALL: $(PDF) $(DOCX) $(THES)
+ALL: $(PDF) $(PDFC) $(DOCX) $(THES)
 
-
-$(THES): $(SRC) $(INTR) $(CHP3)
+$(THES): $(SRC) $(INTR) $(CHP3) $(CCL)
 	pdflatex $(SRC)
 
 $(INTR): $(MD)
 	pandoc $< -o $@ $(PFLAGS)
 
-$(PDF): $(MD)
-	pandoc $< -o $@ $(PFLAGS)
-
-$(DOCX): $(MD)
+$(CCL): $(MDC)
 	pandoc $< -o $@ $(PFLAGS)
 
 $(CHP3): $(CHP3MN) $(CHP3SI)
@@ -41,3 +43,12 @@ $(CHP3MN): $(MD3)
 
 $(CHP3SI): $(MD3SI)
 		pandoc $< -o $@ $(PFLAGS)
+
+$(PDF): $(MD)
+	pandoc $< -o $@ $(PFLAGS)
+
+$(DOCX): $(MD)
+	pandoc $< -o $@ $(PFLAGS)
+
+$(PDFC): $(MDC)
+	pandoc $< -o $@ $(PFLAGS)
