@@ -8,12 +8,15 @@ header-includes:
 ---
 
 <!-- Questions fondamentales -->
-
+<!-- La biogéographies est la compréhension de parfois macroécologie parfois macroecologie -->
+<!-- > &laquo; Now we both call ourselves biogeographers and are unable to see any real distinction between biogeography and ecology. &raquo; -->
+<!-- grands hommes Wallace et Darwin dsont des biogeogrphes d'un savoir encyclopédique  -->
+<!-- je m'appuie sur ces grands auteurspour faire un peu le cadre de pensé avnt de revenir avec des exemles pour comprdnre les formes en présence  -->
 
 # Des îles et des espèces {-}
 
 
-## En suivant Wallace, MacArthur et Wilson {-}
+## En suivant Wallace,  {-}
 
 Dans l'introduction de son livre "Island Life" paru en 1881, le célèbre naturaliste Alfred Russel Wallace nous rapporte deux faits étonnant qui justifient pleinement l'examen attentif de la répartition géographique des espèces [@wallace1881island]. Premièrement, la biogéorphe montre avec des exemples multiples que l'éloignemnet de deux régions du monde n'est pas suffiant pour conclure quand à l'éloignement de leur composition faunistique et floristique. Ainsi, comparer les groupes d'oiseaux de l'île japonnaise d'Hokkaido avec ceux de l'Angleterre, pourtant séparés par des miliers de kilomètres, révèle une proximité des paysages ornithologiques bien supérieure à celle constatée entre les îles indonesiennes de Bali et de Lombok distantes de quelques dizaines de kilomètres seulement. Deuxièmement, en s'appuyant sur les différences des faunes brésiliennes et africaines sous des latitudes similaires, Wallace souligne la faiblesse du pouvoir prédictif des variables climatiques pour décire les compositions fauniques. Par la mise en évidence de ces deux éléments, Wallace souligne le besoin de croiser les informations des distributions à la lumière d'une analyse taxonomique. Dans le cadre de la théorie de l'évolution[^chrono], encore toute jeune en 1881, cette analyse taxonomique est en fait une analyse historique. Wallace affirme ainsi que la compréhension d'un problème spatial, celui des aires de répartition de groupes d'espèces proches, n'est possible que par une compréhension temporelle, celle de l'histoire des espèces, cette idée est clairemnt énoncée dans la même introduciton :
 
@@ -22,53 +25,35 @@ Dans l'introduction de son livre "Island Life" paru en 1881, le célèbre natura
 
 Tout au long de son livre, Wallace démontre que la connaissance à l'échelle mondiale de la distribution des êtres vivants à travers le monde permet de relier les différentes îles aux grands ensembles régionnaux biologiques (que nous appelons aujourd'hui écozones) et que ces groupes sont aussi relié par des liens historiques dont la taxonomie révèle les traces. Ce travail de charactérisation d'ensemble géographique conduit Wallace, dans un article de 1860 [@Wallace1860], à tracer la ligne séparant l'écozone indomalaise de l'écozone australienne (qui sépare notamment Bali et Lomonk citées plus haut) qui porte encore aujourd'hui son nom. L'éclaircissement de la géographie par l'histoire est saississant et les exemples de Wallace sont autant de poids données à la théorie de l'évolution. Le discours de Wallac porte sur des processus à des échelles spataile et temporelles très grandes [^age], et bien que l'éclaircissement substantiel des répartitions géogrpahiques des êtres vivants par l'évolution, cette expliqcation se double d'un obstacle épistémologique important : si l'explication ultime de la présence d'une espèce en un point donné est le produit d'une série de contingences historiques, sur quoi bâtir une théorie de la biogéographie? Ce n'est qu'au XX^ème siècle que des réponses convaincaites émergeront avec a fructuseuse rencontre du mathématicien et biologiste Robert Helmer MacArthur et du myrmécologue Edward Osborne Wilson [^eow].
 
+
+## En suivant MacArthur et Wilson
+
 La collaboration de ces deux jeunes biologistes a mené à la formulation d'une théorie de la biogéographie insulaire publiée en 1967 sur laquelle je reviendrai abondammnent tout au long de mon introduction [@MacArthur1967] puisqu'elle est un des piliers de ma thèse. Leur démarche a été de collecter un grand nombres de données sur différents groupe d'espèces sur des îles dispersées un peu partout dans le monde et pour essayer de mettre une cohérence à travers ces faits avec un cadre théorique puissant. Comme indiqué au  au dernier chapitre de leur livre de 1967, ces auteurs souhaite voir la biogéographie entrer dans une nouvelle phase :
 
->  \guillemotleft &nbsp; Biogeography has long remained in a natural history phase, accumulating information about the distribution of species and higher taxa and the taxonomic composition of biotas. Interpretative reasoning has been largely directed to the solution of special problems connected with the histories of individuals taxa and biotas. Without doubt this descriptive activity will continue to be of fundamental importance to the science, one of the most physically adventurous of all scientific entreprises and, in the richness of the detail it unfolds, esthetically pleasing. But biogeography is also in a position to enter an equally interesting experimental and thereotical phase. \guillemotright
+>   &laquo; Biogeography has long remained in a natural history phase, accumulating information about the distribution of species and higher taxa and the taxonomic composition of biotas. Interpretative reasoning has been largely directed to the solution of special problems connected with the histories of individuals taxa and biotas. Without doubt this descriptive activity will continue to be of fundamental importance to the science, one of the most physically adventurous of all scientific entreprises and, in the richness of the detail it unfolds, esthetically pleasing. But biogeography is also in a position to enter an equally interesting experimental and thereotical phase. &raquo;
 
 <!-- La biogéographie est longtemps restée dans une phase d'hitoire naturelle, accumulant des connaissances sur la distribution des espèces et des groupes taxonimique d'ordre supérieur et sur la composition des biotes. Le raisonnemnt interprétatifs a été largement utilisé pour résoudre des problèmes singuliers grâce è l'histoire individuels des taxons et biotes. Cette activité descriptive continura sans ausun doute à être d'une importance fundamentak pour la science et une des aventures de toutes les entreprises scientifiques, et dans la richesse des détails qu'on déroulem plaisant esthétiquement. Mais la biogéographie est aussi dans une position dans une phase tout aussi intéressante d'expériences et de théorie.-->
 
-MacArthur et Wilson affirment que l'étude de la distribution des espèces doit sortir du royaumes des contingences pour devenir un objet de science au sens d'être manipulé aussi bien expérimentalement que par l'abstraction mathématique. La validation expérimentale de la théorie a été menée par Wilson et son étudiant au doctorat de l'époque, devenu depuis le grand écologue Daniel Simberloff, avec une expérience de défaunation de six petits îlots de mangrove dans la Bay de Floride [@Simberloff1969]. La travail d'abstraction mathématique a été conduit par MacArthur dans le livre de 1967 et prolongé dans les annexes de son livre de 1972 [@macarthur1972geographical]. Leurs efforts conjugués ont donné le jour à une vision générale et puissante dans laquelle la richesse spécifique d'une île donnée est le résultat de deux porcessus oposé : un processus de colonisation qui augmente le nombre d'espèce sur l'île et un porcessus d'extinction qui le diminue. En reliant ces processus aux propriétés physiques de l'île (aire et isolation) et interprétant la richesse spécifique des îles en terme d'équilibre entre ces deux processus, les auteurs parviennent à expliquer de manière convaincante les relations observées entre richesse spécifique, taille de l'île et isolement (je reviens amplement sur cette théorie dans le troisième temps de cette introduction).
+MacArthur et Wilson affirment que l'étude de la distribution des espèces doit sortir du royaumes des contingences pour devenir un objet de science au sens d'être manipulé aussi bien expérimentalement que par l'abstraction mathématique. La validation expérimentale de la théorie a été menée par Wilson et son étudiant au doctorat de l'époque, devenu depuis le grand écologue Daniel Simberloff, avec une expérience de défaunation de six petits îlots de mangrove dans la Baie de Floride [@Simberloff1969]. La travail d'abstraction mathématique a été conduit par MacArthur dans le livre de 1967 et prolongé dans les annexes de son livre de 1972 [@macarthur1972geographical]. Leurs efforts conjugués ont donné le jour à une vision puissante de la biogéographie dans laquelle la richesse spécifique d'une île donnée est le résultat de deux porcessus oposés : un processus de colonisation qui augmente le nombre d'espèce sur l'île et un porcessus d'extinction qui le diminue. En reliant ces processus aux propriétés physiques de l'île (aire et isolation) et en interprétant la richesse spécifique des îles en terme d'équilibre entre ces deux processus, les auteurs parviennent à expliquer de manière convaincante les relations observées entre richesse spécifique, taille de l'île et isolement (je reviens amplement sur cette théorie dans le troisième temps de cette introduction).
 
-Les auteurs ancrent en fait la théorie de la biogéorgaphie au carrefoir entre écologie et évolution.
-Leur désir de fonder une biogéographie de l'espèce (terme donnée à l'avant-dernière phrase de leur livre de 1967) est l'aspiration à mettre davantage de processus écologique pour améliorer la connaissance du vivant sans pour atant nier l'importance des processus évolutifs. Comment s'abstraire des singularités pour trouver des règles? des distincion pas si urile
+Le paradigme données par les auteurs est un lègue qui a eu un impact considérable sur les développemnt théorique en écologie [@Warren2015]. Au coeur de la réussite du modèle, il y a la vonlonté de mettre l'espèce au coeur de la biogéographie de ne pas simplemnt parler de grands ensembles régionaux et d'em discuter l'histoire nais aussi de coprendre les mécanismes biologiques plus fins qui sont le moteur essentiel de la variation dans la distribution des espèces. Tout l'intérêt de leur *biogéographie de l'espèce* (terme donné à l'avant-dernière phrase de leur livre de 1967) est dans l'affirmation qu'il faut repgarder les contraintes conjointe de l'évolution (qui met un certain nombre de groupes taxonomiques en présence) et du context écologique qui régit les conditions d'extinction. Cette intrication de l'écologie et de l'évolution est bien inscript dans la pensée de MacArthur et Wilson même si la puissance de leur vision réside dans le fait de les occulter en partie.
 
+Près de 50 and après la parution de leur livre, une des clef en biologie semble être la compréhesion des retro actions l'écologie et de l'évoluton dans les varitions spatiale et temporelles de la biodiversité. On peut reprendre les trois aphorismes cités par @Schoener2011a :
 
-Pour des questions d'échelles il y a une dstcintion avec la biogeographies car les règles comportenemtales d'une sous papitlation ne sont pas étudiées au même échelle que la distribution d'écehlles. Néanmoins il existe une très grande variabilités de la taille des sistirbution pour des individus de tailles ne variant pas d'un grand nomdre d'ordre de grandeur on parleera de macroécologie même sir écoogie global (*Global ecology and Biogeography* est le titre d'un des journaux prestigieux de la discipline et je ne m'explique pas la différence entre les deux termes)
+>  &laquo; Nothing in biology makes sense except in the light of evolution. &raquo; (Dobzhansky, 1964)
 
-La conpréhension de l'écologie ne peut être faite sans une compréhension de l'évolution et inversement. Un parallèle fort existe entre l'histoire et la biogéographie et il est difficile de faire une bonne histoire sans comprendre les contraintes géographiques qui sont souvent le moteur de cette derrnière. L'écologie est à la biologie ce que l'écologie est aux sciences humaine de même que l'évolution est la partie historque de la biogéogrpahiqeu : il est très riche de croiser les regards. Cette vision spatiale de l'écology est ancrée dans la pensée de MacArthur et Wilson dans la préfcae de 1967 :
+>  &laquo; This was supplanted half a century later by (2): Nothing in evolutionary biology makes sense except in the light of ecology. &raquo; (Grant and Grant, 2008)
 
-> &laquo; Now we both call ourselves biogeographers and are unable to see any real distinction between biogeography and ecology. &raquo;
+> &laquo; Nothing in evolution or ecology makes sense except in the light of the other. &raquo; (Pelltier, 2009)
 
-
-
-Il y a une intrication profonde entre l'écologie et l'évolution qui sont deux facettes difficielemnt séparable de la biologie. Les trois aphorismes repris par @Schoener2011a en témoignent dans :
-
->  &laquo; Nothing in biology makes sense except in the light of evolution. &raquo; (Dobzhansky en 1964)
-
->  &laquo; This was supplanted half a century later by Grant and Grant’s(2): Nothing in evolutionary biology makes sense except in the light of ecology. &raquo;
-
-> &laquo; Nothing in evolution or ecology makes sense except in the light of the other. &raquo; (Pelltier )
-
-
-
-La différence que je vois entre le terme écologie et biogéographie est que les travaux portent sur les ranges que l'on peut relier assez aisément à tout autre champ de l'écologie mais que les infornations de l'inforation est une analyse parmis d'autre. On pet par exemle pensé aux développemnt récent de la génétique à l'échelles du paysgae qui donne une infornation très complémetare et révelles beaucoup de chose [@Manel2003].
-
-La compréhension de la répartion géogrpahique des espces s'articlue autour de quatre composante essentielle :
-les variables climatiques / biotiques les capacitésde dispersion l'artciuclation est bien détaillé dans dans la remière partie de @Peterson2011.
+Au sein de la communauté, l'idée qu'il est difficle d'isoler les deux discipline et cela indépendamment de l'échelle cnsidérée semble gagner du terrain. Un parrallèle avec les sciences humaines me semble possible l'écologie serait à la biologie ce que la géographie est aux sciences humaines et aussi que l'évolution serait à la biologie ce que l'histoire est aux sciences humaines. Nous pouvons bien sur étudier l'une sans l'autre, mais le dialogue entre les deux disciplines est indispensable sinon elles avancent en faisant des hypothèses fortes sur l'autre et qui finiront éventuellement par nuire à la compréhension. Aisin supposé que les ressort de la varation sont puremnt des mécanimes écologique alros que dans certains système la variation allélique peut affecter rapidement et formtement la démogrpahie est problématqie [@Pelletier2007]. Néanmoins chaque discipline a des connaissance à apporter pour nourir ce dialogue et la Biogéogrpahie est le champ qui tente de conprendre l'information refermée dans les distributions d'espèces.
 
 
 <!-- 1. **Ecologie** : étude des relations entre les êtres vivants et de leur interaction avec leur habitat et des relations entre elles.
-
 2. **Evolution** : étude des variations temporelle du vivant
-
 3. **Espèces** : un ensemble identifié sur une base génétique qui échange et se reproduit (si sexués)
-
 4. **Populations** : groupe d'individus d'une même espèces
-
 5. **Biogéographie** : étude des distributions des espèces. -->
-
-
 
 
 [^chrono]: Wallace a publié en 1858 un article *On the Tendency of Varieties to Depart Indefinitely From the Original Type* qui témoigne très clairement que ses idées sur les varitions temporelles des espèces étaient très proche de celle de Charles Robert Darwin  a qui il avait d'ailleurs envoyé le manuscipt [@Wallace1858].
@@ -82,18 +67,15 @@ les variables climatiques / biotiques les capacitésde dispersion l'artciuclatio
 
 ## Quelles informations renferment les distributions d'espèces? {-}
 
-Je pense que cette question permet de parcourir l'étude du lien entre le vivant et l'espace qu'est la biogéographie. Non seulemnent elle est une invitation à découvir les raisons de la présence de telle ou telle organisme à tel ou tel endroit, mais elle suggère dans le même temps que certaines informations ne sont pas données par la répartion géogrpahique des espèces. Wallace, MacArthur et Wilson ont apporté des éléments de réponse essentiel à cette question. Wallace a montré que la distribution reflètait au moins partiellement les liens de parenté entre les esèces. MacArthur et Wilson ont suggérés des processus écologiques dynamiques pour expliquer la présence d'une espèce dans un endroit donné. Examiner les distribtions entre espèces est demande alors de s'en nourrir pour ce qu'elles sont mais aussi d'avoir une connassance biologique fine pour envisager les mécanismes qui sont les moteurs des occupations spatiales actuelles.
+Cette question est non seulement une invitation à découvrir les raisons de la présence de tel ou tel organisme en un lieu donné du globe, mais elle suggère ausi que certaines informations ne sont pas obtenue par l'analyse de répartion géographique des espèces. Les grands auteurs mentionnés dans les paragraphes précédents y ont apporté des éléments de réponse essentiels : Wallace a montré que la distribution reflètait en partie les liens de parenté entre les esèces, quant à  MacArthur et Wilson, ils ont suggérés que ces distributions étaient le résultats de  processus écologiques dynamiques. Examiner les aires de répartition, relever les variations spatiales et temporelles, mais aussi détailler la géométrie exacte au regad de variables abiotique ou à la lumière de la géométrie d'autres espèces est une clief pour apprécier les mécanismes sous-jacents.
 
-Cette idée de regarder les distributions d'espèces et de les confronter à la connaisssance biologique est reprise tout au long de son livre de MacArthur de 1972 au chapitre 2 où il propose un cadre mathématique pour comprendre l'impact de la prédation et de la compétition qui fonde des prinicpes sur les conséquences des interactions en termes de ségréaton spatiale avec par exemple l'idée que deux compétiteurs soit ne paeuvent pas co-occuré ou que sur une zone restreinte  séparant leur deux distribution [@macarthur1972geographical]. D'ailleurs il parlera dans se même ouvrage de la distribution en damier (*checkerboard*) des espèces en compétition qui sera approfondie et quantifié par Jared Diamond [@Diamond1975] qui déclenchera le débat sur les outils nécessaires les présence non aléatoires d'espèces [@Connor1979].
+Dans son ouvrange de 1972, MacArthur se livre à un examen approfondi du sujet en examinant des aires de répartition au regard des variables climatiques mais aussi les variations teporelles ou encore les relations qu'il existe entre les distributions d'espèce en compétition. Il propose un cadre mathématique pour comprendre l'impact de la prédation et de la compétition sur lequel repose un prinicpe de ségrégation spatiale d'espèce en compétition : deux compétiteurs ne peuvent pas co-occurer (être trouver au même endroit) sauf éventuellement sur zone très restreinte de leur distribution [@macarthur1972geographical]. Toujours dans ce même ouvrage, MacArthur évoque la distribution en damier (*checkerboard*) que peuvent générer des espèces en compétition. Ce type de disctribution sera approfondie et quantifiée par Jared Diamond [@Diamond1975] qui déclenchera un débat important sur la determination de modèle sul de co-occurrence [@Connor1979].
 
-L'analyse de l'information des distributions est à mener à différentes échelles spatiales et temporelles. Comme le relève MacArthur, c'est en trouvant des phénomènes répétés que l'on peut aller vers la généralisation mais la répétition spatiale et aussi temporelle de de phénomène qui s'exprinent eux même a des échelles diff.rentes ainsi, distributions d'espèces est un repose aussi sur une analyse à différentes échelles
-Quelle est le lien entre le lien entre les variables abiotiqyes et. Il faut avoir alors des s'armées de connaissance relative à différentes échelles les messages sont à checher dans l'évolution (données fossiles) au temps courts (séries temporelles) à des échelles fines et larges. Ces études peuvent réveler que tous les processus ne s'exprinent pas de la même manière à toutes les échelles [@McGill2010]. En tout les points ou une population local parvient à ce maintenir fût-elle éteinte que génération après, il faut reconnaitre que l'ensemble des facteurs présents lui permettent d'y être. Dans ma thèse je propose aussi de regarder la réuniom de certaine distribution comme celui du set de proie. range emboité.
+On peut L'analyse de l'information des distributions est à mener à différentes échelles spatiales et temporelles. Mais aussi si des traces Comme le relève MacArthur, c'est en trouvant des phénomènes répétés que l'on peut aller vers la généralisation mais la répétition spatiale et aussi temporelle de de phénomène qui s'exprinent eux même a des échelles diff.rentes ainsi, distributions d'espèces est un repose aussi sur une analyse à différentes échelles
+Quelle est le lien entre le lien entre les variables abiotiques et. Il faut avoir alors des s'armées de connaissance relative à différentes échelles les messages sont à checher dans l'évolution (données fossiles) au temps courts (séries temporelles) à des échelles fines et larges. Ces études peuvent réveler que tous les processus ne s'exprinent pas de la même manière à toutes les échelles [@McGill2010]. En tout les points ou une population local parvient à ce maintenir fût-elle éteinte que génération après, il faut reconnaitre que l'ensemble des facteurs présents lui permettent d'y être. Dans ma thèse je propose aussi de regarder la réuniom de certaine distribution comme celui du set de proie. range emboité. ma thèse essayes d'apporter des éléments de réponse si oui ou non il y a un un etrace des interactions et j'ai aussi que regarder au interasection de ste de ranegs ++ pour mieux s'amer face aux enjeux de mance acteile sur la biodiversité.
 
 
 
-Wallace conclut :28 qu'une théorie générale doit tenir compte des variation range et proximité des espèces porches et des overlapp.
-
-> Both competition and predation appear now to be much more important in biogeography than peopl had formely guesses
 
 
 
@@ -438,6 +420,11 @@ isolation / faune particulière des îles
 # Le rôle des interactions dans la distribution des espèces {-}
 
 L'objet central de ma thèse est l'introduction de ma thèse est d'essayer de regrader la théorie de la biogéographie et notamment quelles onfornatiosn 'écologie des réseayx peurt ameenr de la lumière sur la théorie. Dans cette dernière partie de mon introduction, je présente avec pkus de délément l'importance de l'intriduction des onteractions dans une théorie de la biogéographie. Cela me permettra d'introduire nes contributions qui seront détaillées dans ma thèse.
+
+
+Wallace conclut :28 qu'une théorie générale doit tenir compte des variation range et proximité des espèces porches et des overlapp.
+
+> Both competition and predation appear now to be much more important in biogeography than people had formely guesses
 
 
 ## Pourquoi les intéractions ne joue-t-elle pas un rôle majeur
