@@ -34,6 +34,7 @@ $(DOCX): $(MD)
 
 $(CHP3): $(CHP3MN) $(CHP3SI)
 	cat  $(CHP3MN) $(CHP3SI) > $@
+	cp -R ~/ownCloud/Dom_cooc_inter/fig chapitre3/
 
 $(CHP3MN): $(MD3)
 		pandoc $< -o $@ $(PFLAGS)

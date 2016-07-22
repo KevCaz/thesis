@@ -28,9 +28,9 @@ colg4="grey75"
 colg5="grey85"
 
 ##-- Figure size (cm)
-wi1=3.42
-wi2=7
-wi12=4.5
+wi1=3.2
+wi2=6.4
+wi12=4.8
 
 
 ##-- Basic par

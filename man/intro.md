@@ -94,6 +94,9 @@ Malgré leurs performances, les modèles de distribution actuels utilisés pour 
 
 Avant d'attaquer dans les détails l'ensemble des forces qui animnent la sistributions des espèces, je tiens à pursuivre de manière générale ma pensée sur l'importance de la théorie et du travail de modèlisation.
 
+in silico. Dans cette introduciotn je ne peux donc pas faore l'impasse sur une mise en contexte générale de la biogéogrpahie avec ces apports historiques ces contraintes mais aussi l'age dans lequel nous sommes et les défis mais aussi toutes les aspects d'ordres computationnelle parler de modélisations de ces enjeux et valoriser les modèles thérqies fondamentaux qui s'éloignent parfois de la éalité mais sans jamsi la déconsidérer.
+
+
 ### Rassembler et intégrer des faits {-}
 
 rassembler des connaisance puis trouver avec un minimum plausuvle rasoir d'Occam et principe de parcimonie
@@ -230,7 +233,7 @@ vers une systhèse @Schoener2011 => interaction de ces processus.
 
 
 
-## Interactions des forces Sythèse des mécanismes et des enjeux autour d'un exemple récent {-}
+## Interactions des forces Synthèse des mécanismes et des enjeux autour d'un exemple récent {-}
 
 Exemple histroqies les Pinsons de darwin (cdf mon devis.)
 Les processus évolutifs peuvent être favorisés par les changements environnementaux mais également par les interactions entre espèces \cite{Tingley2009}. Les étroites relations entre espèces peuvent favoriser ou contraindre les réponses évolutifs, qui elles-mêmes peuvent altérées ces interactions, il existe de fait des rétroactions permanentes entre évolution et écologie \cite{Post2009}. Yoshida \textit{et al.} 2003 montrent que la réponse des algues vertes unicellulaires \textit{Chlorella vulgaris} aux rotifères \textit{Brachionus calyciflorus} conduit à un changement dans la fréquence et la phase des cycles de la dynamiques proie prédateur \cite{Yoshida2003}. L'ensemble des trois éléments jusqu'ici évoqués (environnement abiotique, interaction, évolution) peuvent également être étroitement associé. Grant et Grant 2006 rapportent le cas de la compétition entre trois espèces de pinsons (dits de Darwin) sur l'ile de Daphne (Galapagos) qui engendre une modification de la taille de leurs becs. Cette évolution liée à la compétition est elle même reliée à l'environnement abiotique car, par l'abondance ou l'absence de précipitations, il détermine la disponibilité des ressources et donc l'intensité de la compétition \cite{Grant2006}. A travers cet exemple, nous comprenons l'importance d'inclure l'ensemble des différents processus pour construire un modèle intégratif en biogéographie. Un tel modèle serait capable, par exemple, de renseigner les risques d'exclusion compétitive dans l'exemple décrit par Grant et Grant.
@@ -263,7 +266,7 @@ En guise de réponse, les SDM deviennent plus intégrateurs et de nouvelles appr
 Difficulté de lier l'ensemble des facteurs en poésence.
 
 
-
+La questions derière est quels seront les écosystèmes de demain et on a bsoin d'un cadre théorique puissant pour y arriver.
 
 
 
@@ -273,50 +276,35 @@ Difficulté de lier l'ensemble des facteurs en poésence.
 
 # Cadre théorique de la thèse {-}
 
-Les développemnents que j'ai entrepris durant ma thèse sont des tentative pour ancréer les interactions entre les epsèces au coeur de la théorie de MacAArthur et Wilson je vais reprendre ici quelques grandes idées théorique en Biogéogaphie autour et des developpments récents. Ma thèse s'inscrit dans la poursuite de ces questions sur la distribution des ranges et j'artiuclerai la suirte de mon introduction autour de l'interrogagtion suivante : Quelles infornations renferment les distributions d'espèces. Pour apporter le maximum d'élément de réponse à cette question, je commencerai apr apporter les mécanismes en présence au travers de différérents ecemple avant de passer plus de temps sur la cadre conceptuel en Biogéograohie pour aboutir sur l'importance des interactions sur les distribution d'espèces.
+Les développemnents que j'ai entrepris durant ma thèse sont des tentative pour ancréer les interactions entre les epsèces au coeur de la théorie de MacAArthur et Wilson je vais reprendre ici quelques grandes idées théorique en Biogéogaphie autour et des developpments récents. Ma thèse s'inscrit dans la poursuite de ces questions sur la distribution des ranges et j'artiuclerai la suirte de mon introduction autour de l'interrogagtion suivante : Quelles infornations renferment les distributions d'espèces. Pour apporter le maximum d'élément de réponse à cette question, je commencerai apr apporter les mécanismes en présence au travers de différérents ecemple avant de passer plus de temps sur la cadre conceptuel en Biogéograohie pour aboutir sur l'importance des interactions sur les distribution d'espèces. Dans cette section je dévelope le
 
 
-### Le coeur de la théorie des îles, une vision puissante de la constituion des distributions d'espèces
-
-pas tellemnt de math surtout des idées
+### Le coeur de la théorie des îles, une vision puissante de la génèse des distributions d'espèces
 
 
-### Hasard et nécessité {-}
-
-Deterministes ou stochastiques
-
-Il n'y pas de maeilleur manière
-les stats c'est sur du stochastique et on peut mettre du stochatci avec une variance c'est le r.sultats d'un théorème maus il en est aps moins que variance es quelqeues choses d etrès util et au bour aller des moi
-On peut avoir un modèle détermicites qui explique tout mais
-
-Le hasard est qquelques choses qui est dans le dé ce que Monod dans le hasard et la cnécessité appelle un ahasar opétaionnel certain pense alors que le dé est un faux hazard que la détermination des lois de Newton et des forces inital est totallemnt déterminée et on peut donc prédire que le résulat du dé. Cependant c'est l'ensemble croisé de série de contingence qui amènent au hasrad et dans une partie de Yatz il sera bien difficile d'obtenir un score souhaité... Mais le hasard pur existe-t-il ? Dans l'oeuvre de Momod le hasard existe et c'est l'ADn polymérase à l,origine des mutations qui en est l'expression.  mais l'ensemble des série de combinason
+pas tellemnt de math surtout des idées et surtout le point je décrit pour arriber à l'équation cetrale et montre comment chauqe élément est apporté par la théorie.
 
 
-Lien entre les deux
-Une manière de voir les choses est de donenr par Clark (et repris par Dom) pou on essaye
+La théorie proposée par MacArthur et Wilson est à la fois simple mais particulièremnet puissante. Considérons un large territoir, un continent et une île. Sur le continent, se trouve un ensemble d'espèces qui peuvent coloniser l'île en question. Une fois sur l'île, une espèce peut aussi s'éteindre. Plus le nombre d'espèce sur l'île est grand plus le nombre d'extinction est élevée.
+Les deux processus se contrebalaçant menant à un équilibre synmaique qui contraint le nombre d'esèce. Ce sont les caractértistques de l'île qui en dicte la richesse de l'île (voir figure).
+
+Il y a une forme de hasard et de nécéssité qui fait echo à l'ouvre de Monod. Alors que ce dernier évoque les mutations comme source de hasard ici l'évènemnent de colonisation peut être interprété comme une évènemnet puremnet stochaistique dans le sens la prédiction qu'on peut en faire est sur la fréquence mais récurent et donc sur lequel on avoir une infornation sur dsa répétition. La nécessité est alors l'insertion éclogique réussi ou non le maintinet de la popultaion locale dans les contraintes écologiques donnée. Les extinctions locales sont donc le résultat de la nécessité.
+
+Le balamncement des forces conduit à un équilibre, il y a donc quelques choses de prédictifs cette idée et forte et qu cet équilibre est finalemnt indépendant de la nature des espèces. En fait c'est une idée forte. IL y a une forme d'équivalence écologique des espèces qui ne nient pas que les espèces sont différentes mais qui prend l'échelle à lauqelle elle suffit pour expliquer ça distriubution une entité qui colonise et s'insère dans des résauex locale. En fait le besoin de plus de caractétristique intervient pour une connaissance plus fine du stystème qui en contre partie empêche une généralisation.
+
+> &laquo; Yet, in the context of their model, species could be treated as “gray boxes” (sensu H. T. Odum, personal communication to MVL, 1977); we know that they are different, but those differences presumably are not essential to explaining patterns in species richness under a hypothesis of dynamic equilibrium. &raquo;
+
+
+Le lien avec l'aire
+area and number $S=CA^z$ ($z \in [0.2,0.35]$) mais des exeptions C taxon dependance similarité avec les relations allometriques sample nom isolé même relation mais z différent ui a eu des conséquence sur la vision de la conservation avec le calcul de la taille des zones de répartition. Mettre les espèces en gris pour es rassembler et savoir ou les particluarisé dans l'explication fine...
+On rassemble mais on peut partcularis.
+
+
+<!-- Le hasard est qquelques choses qui est dans le dé ce que Monod dans le hasard et la cnécessité appelle un ahasar opétaionnel certain pense alors que le dé est un faux hazard que la détermination des lois de Newton et des forces inital est totallemnt déterminée et on peut donc prédire que le résulat du dé. Cependant c'est l'ensemble croisé de série de contingence qui amènent au hasrad et dans une partie de Yatz il sera bien difficile d'obtenir un score souhaité... Mais le hasard pur existe-t-il ? Dans l'oeuvre de Momod le hasard existe et c'est l'ADn polymérase à l,origine des mutations qui en est l'expression.  mais l'ensemble des série de combinason -->
+
+<!-- Une manière de voir les choses est de donenr par Clark (et repris par Dom) pou on essaye
 Clark a suggérez que stochastique n,est pas savoir et que le but c'est de passé du pas au maximum vers le détermiste. Dans elur défendse de la la théroy neutre Rosindell et  al rétoquent que c'est plus subile il y a des modèles dtermisites chatosque (et dont les développemtn avancé font au propriété statistique des attracteurs) quer cela de même Gravel et collègues..  rreprche que. Modèles en plus validée par des stats qui reposent sur des stochsiques. Argument d'Einstien Dieu ne jue pas au dé face à la quantique qui au final alors mêe que le la gravitaté générale sans hazard pure sera fause. Le chat de Shrodinger est peut-être vivant ici mais il est mort dans un autre univers.
-Produire variance et moments d'ordre supérierus... Dans mon premier chapitre je fais appel à une chaîne de Markov qui est elle, un processus aléatroi masus qui peut
-
-
-immigration => haazrd
-extinction nécéssité
-
-
-
-apport de la TIB
-area and number $S=CA^z$ ($z \in [0.2,0.35]$) mais des exeptions C taxon dependance similarité avec les eation allometriques sample nom isolé même relation mais z différent
-
-
-### Un équilibre dynmaique et ancrée dans l'ècologie {-}
-
-### Une vision des espèces en boîte brise
-
-
-### Relation aire espèce et conservation
-
-
-
-### Artciulation avec la théorie
+Produire variance et moments d'ordre supérierus... Dans mon premier chapitre je fais appel à une chaîne de Markov qui est elle, un processus aléatroi masus qui peut -->
 
 
 Le travail remarquable de MacArthur et Wilson \cite{MacArthur1967} est l'un des cadres les plus robustes de la biogéographie actuelle. Plus de 40 ans après la parution de leur livre, la Théorie de la Biogéographie des Iles (abrégée dans la suite TBI) est encore une entrée bien adaptée en biogéographie et le point de départ de nombreux travaux \cite{Gravel2011b,Ryberg2007,Rosindell2011}. L'idée majeure de la TBI est simple et puissante : étant donné une île colonisable par un ensemble d'espèces depuis un continent voisin, la diversité locale résulte de la balance entre 1- la colonisation depuis le continent et 2- les extinctions locales. La TBI est une métaphore, le cas simple d'un territoire isolé (l'île) où les flux d'individus depuis le pool d'espèce régional (le continent) sont facilement représentables. Le modèle peut être étendu à de nombreux cas où un territoire isolé est colonisé par les organismes à proximité, par exemple après un incendie ou une fragmentation de l'habitat \cite{Cook2002}. Plus généralement, on peut adapter un tel modèle à un territoire quelconque avec l'hypothèse que le pool régional d'espèces est indépendant des conditions locales (aucune rétroaction de la communauté locale sur le pool régional). Ainsi, ce modèle a déjà été utilisé avec succès par Gravel \textit{et al.} 2011 pour l'élaboration de leur théorie trophique de la biogéographie des îles \cite{Gravel2011b}.
@@ -329,10 +317,10 @@ Un telle vision imbriquant deux échelles de processus est aujourd'hui bien part
 
 La TIB tient également sa notoriété des nombreuses prédictions supportées par les faits \cite{MacArthur1967}. En reliant la géographie physique des îles aux processus de colonisation et d'extinction, les auteurs démontrent la puissance de leur vision. Pour cela, ils admettent que le taux de colonisation des espèces dépend de la distance entre l'île et le continent. De plus, en considérant que la taille de l'île conditionne les ressources et donc l'extinction. Ils parviennent alors à prédire, pour un groupe d'espèces donné, une relation pertinente entre taille de l'île, distance de l'île et richesse spécifique \cite{MacArthur1967}. Pour une île dont la superficie et la distance au continent sont connues, au cours du temps, le nombre d'espèces sur l'île accroît, de fait le nombre de nouvelles espèces potentielles diminuent ($P$ étant constant), la colonisation diminue donc. De même, la richesse de l'île étant accrue, le risque d'extinction est plus élevé. Les forces d'extinction et de colonisation s'annulent alors pour un nombre d'espèce précis : la richesse spécifique à l'équilibre (figure \ref{fig1}). L'idée que la biodiversité atteint un équilibre à relier à la taille du territoire considéré a également été massivement utilisée en biologie de la conservation. En augmentant progressivement la taille de l'île, on obtient effectivement une relation entre aire et diversité \cite{MacArthur1967, Lomolino2000a}. Cette relation a été appliquée pour estimer la richesse spécifique de divers territoires \cite{May1988}, déterminer ainsi des aires de protection \cite{Neigel2003,Desmet2004} et estimer des taux d'extinction \cite{He2011}.  
 
-De part son pouvoir explicatif et son élégance, le modèle de MacArthur et Wilson est un point de départ approprié pour construire des modèles plus intégratifs en intégrant explicitement des processus écologiques et évolutifs. Cette idée n'est pas nouvelle et les auteurs de la TIB ont étudié un certain nombre de processus écologiques. Notamment, ils ont intégré les phénomènes de spéciation \cite{MacArthur1967} et réfléchis sur l'importance des interactions quant à la répartition des espèces \cite{MacArthur1984}. Néanmoins, dans le modèle classique, l'ensemble de ces aspects sont absents, l'idée que les processus écologiques importent peu aux larges échelles domine. Nous allons, dans ce projet, à l'encontre de cette idée et proposons de construire des modèles intégratifs qui étendent la TIB.
 
-isolation / faune particulière des îles
 
+
+## Validation de la théorie  {-}
 
 
 
@@ -350,20 +338,15 @@ Dans leur livre *The Theory of Island Biogeography*, MacArthur et Wilson indique
 
 Et pourtant fort près de 50 ans après la parution de leur ouvrage, la vision distilé est toujours aussi vive en témoigne le livre paru en 2010 *The Theory of Island Biogeography Revisited*  [@Losos2010] et la reve par Warren et collègue [@Warren2015] qui montre bien que les île ont servie de moèdeles et que la vision est un point les travaux sont capitale.
 
-Le terme des îles est centraledmais il s'agit bien d'une théorie de la biogéogroahie. reflète aussi l'importance des îles dans l'édification d'une théorie  isolation lux de migraotion simple / assemblage moins nombreux / conséquence d'une manipultion limité à l'île / 5% mais répétable ? / un oacth isolé et peut être que flux au île [@Simberloff1974a] Pourquoi les îles en fait isolé flux et gros contraste mailand - island alors qu'elles sontproches.. Les îles qui occupent le coeur de l'ouvrage de Wallace et de MAcArthur et Wilson ont été essentiel poour comprendre les processus qui forme la sitributn des espèces. Elle sosn tproches du continent et peuvent être si différenetes la nature eotique des piles à forcer les auteurs à comprendre l'origine de leur singularit.é et ces sur ces bout de terre isolé qu'ils ont trouv.s des réposnes historques ais ausso spataile qui a parmis d'aller vers des dévelppemnt encore aujourd'hui très actis. La quête de cees honmes et de bien d'autres reste finalemnt de comprendre pourquoi les espèces sont ou elles sont et de comproendre ce qui les amanerner la. Meilleur explication pour des arrangemnets spatiaux singuliers sont des processus temporels. Faire émerger des règles mon apport amener des interactions.
+Le terme des îles est centraled mais il s'agit bien d'une théorie de la biogéogroahie. reflète aussi l'importance des îles dans l'édification d'une théorie  isolation lux de migraotion simple / assemblage moins nombreux / conséquence d'une manipultion limité à l'île / 5% mais répétable ? / un oacth isolé et peut être que flux au île [@Simberloff1974a] Pourquoi les îles en fait isolé flux et gros contraste mailand - island alors qu'elles sontproches.. Les îles qui occupent le coeur de l'ouvrage de Wallace et de MAcArthur et Wilson ont été essentiel poour comprendre les processus qui forme la sitributn des espèces. Elle sosn tproches du continent et peuvent être si différenetes la nature eotique des piles à forcer les auteurs à comprendre l'origine de leur singularit.é et ces sur ces bout de terre isolé qu'ils ont trouv.s des réposnes historques ais ausso spataile qui a parmis d'aller vers des dévelppemnt encore aujourd'hui très actis. La quête de cees honmes et de bien d'autres reste finalemnt de comprendre pourquoi les espèces sont ou elles sont et de comproendre ce qui les amanerner la. Meilleur explication pour des arrangemnets spatiaux singuliers sont des processus temporels. Faire émerger des règles mon apport amener des interactions.
 
-Mettre les espèces en gris pour es rassembler et savoir ou les particluarisé dans l'explication fine...
-On rassemble mais on peut partcularis.
 
  <!-- http://www.nytimes.com/2016/03/13/opinion/sunday/the-global-solution-to-extinction.html -->
 
 
 
-
 <!-- différence avec le climat pas constentwe -->
-
-
-Preston 1962 a lié species abindance et
+Preston 1962 a lié species abundance et
 => impact enorme sur la conservation et encore aujourd'hui bien que simplifié les calculs permettent de comprendredsimplementr dans quelles directions nous allons [article NewYork Times]
 Malgré la 50 ans de depuis la publication du Livre et premier articles a lasuorise de auiteure eux meme
 => publications récentes qui repartent de la théorie des îles ; l'ecolet Warren et gravel and all
@@ -375,14 +358,13 @@ Dans la réédition de 2001 [] Wilson rappelle que le problème :
 
 Diminuer la composante historqiue à la recherche de loi et j'ajouterais aussi simple soit elle raffiner par la suite
 
-vivaccité
 
 
 ### La théorie des métapopulations
 
 => chapitre de Hanski
 
-### La théorie neutres de l'écologie et le débat qu'elle soulève
+### La théorie neutre de l'écologie et le débat qu'elle soulève
 
 Ecological equivalence des individus OK mais peut-être que l'abondance des interactions expliques aussi
 
@@ -404,7 +386,7 @@ vers le fonctionnemt des ecosystèmes levier d'action vers une approche plus uti
 
 
 
-# Aller plus loin, Enjeux théoriques
+## Aller plus loin, Enjeux théoriques
 
 
 L'effort théorique nécessaire en biogéographie porte sur l'intégration ordonnée de concepts clés issus de différents champs de l'écologie \cite{Thuiller2013}. Ainsi, alors que les conditions climatiques et plus généralement la géographie physique sont classiquement évoquées pour expliquer la répartition des espèces \cite{Kearney2004}, les interactions entre espèces sont quant à elles souvent occultées. De même, bien que les processus évolutifs soient souvent évoqués comme déterminants majeurs de la diversité des espèces \cite{Rosindell2011}, leurs effets à court terme sont souvent ignorés \cite{Parmesan2006} dans les scénarios décrivant la biodiversité de demain \cite{Lavergne2010}. La difficulté principale est alors de produire des modèles (théoriques en première instance) qui intègrent l'ensemble des processus et les relations qu'ils entretient \cite{Thuiller2013} tout en gardant une relative simplicité. Une théorie intégrative en biogéographie pourrait être le meilleur point d'ancrage pour construire de nouvelles approches appliquées. Avec une telle théorie en main, nous pourrions aller vers l'enjeux majeurs de ces dernières années en biogéographie : relâcher les hypothèses que les modèles classiques de répartitions des espèces d'aujourd'hui utilisent (notamment en occultant les interactions) pour prédire la biodiversité de demain \cite{Guisan2011}.
@@ -414,10 +396,9 @@ Dans le projet ici présenté, nous proposons de construire des modèles théori
 différentes théories pour différentes échelles ??
 
 
+De part son pouvoir explicatif et son élégance, le modèle de MacArthur et Wilson est un point de départ approprié pour construire des modèles plus intégratifs en intégrant explicitement des processus écologiques et évolutifs. Cette idée n'est pas nouvelle et les auteurs de la TIB ont étudié un certain nombre de processus écologiques. Notamment, ils ont intégré les phénomènes de spéciation \cite{MacArthur1967} et réfléchis sur l'importance des interactions quant à la répartition des espèces \cite{MacArthur1984}. Néanmoins, dans le modèle classique, l'ensemble de ces aspects sont absents, l'idée que les processus écologiques importent peu aux larges échelles domine. Nous allons, dans ce projet, à l'encontre de cette idée et proposons de construire des modèles intégratifs qui étendent la TIB.
 
-
-
-
+isolation / faune particulière des îles
 
 
 
@@ -435,15 +416,7 @@ différentes théories pour différentes échelles ??
 
 # Le rôle des interactions dans la distributiondes espèces {-}
 
-
-
-L'objet de ma thèse est sur la sidtibution des espèces et les interactions et ce que la comjonction de tout ça. Elle est le plus souvent des articles qui sont de mon point de cue plus une reflexion des iudées et pas nécesairemnt des démonstrations formelles et fermées mais la tentative de trouer des ouvertires d'appliquer des outils de msnière un petit peu différete pour donner, ce que cherche ltous doc àdonner de l'originalté é mon traviell. Chemin faisant j'ai passé  bien du tenmsp derrière l'ordi pour lere anayser faore des modèles mathématiques ensuite implémenté in silico. Dans cette introduciotn je ne peux donc pas faore l'impasse sur une mise en contexte générale de la biogéogrpahie avec ces apports historiques ces contraintes mais aussi l'age dans lequel nous sommes et les défis mais aussi toutes les aspects d'ordres computationnelle parler de modélisations de ces enjeux et valoriser les modèles thérqies fondamentaux qui s'éloignent parfois de la éalité mais sans jamsi la déconsidérer.
-
-Les paragraphes sont pour l'instant mis à titre indicatif avec aucune contrainte en terme de taille c'est juste pour y mettre les idées qui me viennent.
-
-Dans la premièr partie de cette introduciton je fais un tour très large de notion d'horizon biogéogrpahie / pilier théoriqe / besoind d'hypothèse en biogéograohie et finir sur la modélisation. Pour dans un deuxième temps les articuler autour de questions précises
-
-
+L'objet central de ma thèse est l'introduction de ma thèse est d'essayer de regrader la théorie de la biogéographie et notamment quelles onfornatiosn 'écologie des réseayx peurt ameenr de la lumière sur la théorie. Dans cette dernière partie de mon introduction, je présente avec pkus de délément l'importance de l'intriduction des onteractions dans une théorie de la biogéographi. Cela me permettra d'introduire nes contributions qui seront détaillées dans ma thèse.
 
 
 
@@ -556,7 +529,7 @@ gecko australien généraliste  *Heteronotia binoei* => alors peut être que ç
 
 
 
-# Dépasser les questionnemnet sur les espèces
+# Dépasser les questionnemnet sur les espèces {-}
 
 
 # Aller de l'avant {-}
