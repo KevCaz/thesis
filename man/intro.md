@@ -56,7 +56,7 @@ La conpréhension de l'écologie ne peut être faite sans une compréhension de 
 
 Pour des questions d'échelles il y a une dstcintion avec la biogeographies car les règles comportenemtales d'une sous papitlation ne sont pas étudiées au même échelle que la distribution d'écehlles. Néanmoins il existe une très grande variabilités de la taille des sistirbution pour des individus de tailles ne variant pas d'un grand nomdre d'ordre de grandeur on parleera de macroécologie même sir écoogie global (*Global ecology and Biogeography* est le titre d'un des journaux prestigieux de la discipline et je ne m'explique pas la différence entre les deux termes)
 
-La différence que je vois entre le terme écologie et biogégrpahie est que les travuax portent sur les ranges que l'on peut relier assez aisément à tout autre champ de l'écologie mais que les infornations de l'inforation est une analyse parmis d'autre. On pet par exemle pensé aux développemnt récent de la génétique à l'échelles du paysgae qui donne une infornation très complémetare et révelles beaucoup de chose [@Manel2003].
+La différence que je vois entre le terme écologie et biogéographie est que les travaux portent sur les ranges que l'on peut relier assez aisément à tout autre champ de l'écologie mais que les infornations de l'inforation est une analyse parmis d'autre. On pet par exemle pensé aux développemnt récent de la génétique à l'échelles du paysgae qui donne une infornation très complémetare et révelles beaucoup de chose [@Manel2003].
 
 La compréhension de la répartion géogrpahique des espces s'articlue autour de quatre composante essentielle :
 les variables climatiques / biotiques les capacitésde dispersion l'artciuclation est bien détaillé dans dans la remière partie de @Peterson2011.
@@ -75,6 +75,11 @@ Cette idée de regarder les distributions d'espèces et de les confronter à la 
 L'analyse de l'information des distributions est à mener à différentes échelles spatiales et temporelles. Comme le relève MacArthur, c'est en trouvant des phénomènes répétés que l'on peut aller vers la généralisation mais la répétition spatiale et aussi temporelle de de phénomène qui s'exprinent eux même a des échelles diff.rentes ainsi, distributions d'espèces est un repose aussi sur une analyse à différentes échelles
 Quelle est le lien entre le lien entre les variables abiotiqyes et. Il faut avoir alors des s'armées de connaissance relative à différentes échelles les messages sont à checher dans l'évolution (données fossiles) au temps courts (séries temporelles) à des échelles fines et larges. Ces études peuvent réveler que tous les processus ne s'exprinent pas de la même manière à toutes les échelles [@McGill2010]. En tout les points ou une population local parvient à ce maintenir fût-elle éteinte que génération après, il faut reconnaitre que l'ensemble des facteurs présents lui permettent d'y être. Dans ma thèse je propose aussi de regarder la réuniom de certaine distribution comme celui du set de proie. range emboité.
 
+
+
+Wallace conclut :28 qu'une théorie générale doit tenir compte des variation range et proximité des espèces porches et des overlapp.
+
+> Both competition and predation appear now to be much more important in biogeography than peopl had formely guesses
 
 
 
@@ -359,6 +364,7 @@ Dans la réédition de 2001 [] Wilson rappelle que le problème :
 Diminuer la composante historqiue à la recherche de loi et j'ajouterais aussi simple soit elle raffiner par la suite
 
 
+### théorie de la niche
 
 ### La théorie des métapopulations
 
@@ -374,8 +380,6 @@ Ecological equivalence des individus OK mais peut-être que l'abondance des inte
 Problème si explication alternatives possibles alors on n'est pas obligé de mettre pour expliquer quoi que ce soit. De plus savons nous si c'est discernable ??? Si le deux relation aire espèce sont différentes d'un groupe à l'autre alors oui... Mais sinon... Non.
 
 Oppositon à la niche.
-
-
 
 (Chapitre 8 TIB first paragraph)
 
@@ -411,45 +415,24 @@ isolation / faune particulière des îles
 
 
 
+
+
+
 <!-- décire les objectfs de ma thèse revenir sur le contexte technologique de la thèse  -->
 <!-- Obstacle modelisaion -->
 
-# Le rôle des interactions dans la distributiondes espèces {-}
+# Le rôle des interactions dans la distribution des espèces {-}
 
-L'objet central de ma thèse est l'introduction de ma thèse est d'essayer de regrader la théorie de la biogéographie et notamment quelles onfornatiosn 'écologie des réseayx peurt ameenr de la lumière sur la théorie. Dans cette dernière partie de mon introduction, je présente avec pkus de délément l'importance de l'intriduction des onteractions dans une théorie de la biogéographi. Cela me permettra d'introduire nes contributions qui seront détaillées dans ma thèse.
-
-
-
-> However, it is argued that applying bio-climatic models at macro-scales, where climatic influences on species distributions are shown to be dominant, can minimize the impact of biotic interactions. Indeed, the fact that a
-number of bioclimatic models have been highly successful at simulating current species distributions at certain scales is in fundamental disagreement with the proposition that species distributions cannot be adequately defined by climatic factors alone. [@Pearson2003]
-
->  We will never be able to predict the future with accuracy, but we need a strategy for using
-existing knowledge and bioclimatic modeling to improve understanding of the likely effects of future climate on biodiversity. [@Araujo2006].
+L'objet central de ma thèse est l'introduction de ma thèse est d'essayer de regrader la théorie de la biogéographie et notamment quelles onfornatiosn 'écologie des réseayx peurt ameenr de la lumière sur la théorie. Dans cette dernière partie de mon introduction, je présente avec pkus de délément l'importance de l'intriduction des onteractions dans une théorie de la biogéographie. Cela me permettra d'introduire nes contributions qui seront détaillées dans ma thèse.
 
 
-## Interaction et biogeographie
+## Pourquoi les intéractions ne joue-t-elle pas un rôle majeur
 
-Accent sur les cascading effect est surtout un problème de l'instabiilté @Zarnetske2012 Il ya aussi l'article perturbant de @Saterberg2013 qui montre que le fait qu'une espèce soit (ex. pêche) peut conduirte à des extinctions d'autres espèces lié dans le réseau... Ces deux exemple montrent que les interactions peuvent mener à des problèmes de prédicitons et donc porblèmes sur prévoir les services ecosystémiques et c'est appuyer par @Cahill2013 qui nous indique en somme que le changemnr des interactiosn bioiqtess ets la voie privilégié d'extintionciton dans un contexte de chanegnmtn climatique
+### La théorie de la biogéograohie ne les nient pas bien au contraire
 
-On nous fait miroiter que finalement que l'érosion de la biodiversité est dramatiques et le ressort actuel pour faire un levier face à cela c'est les services ecosystémiques qui sont actuelelemet l'argument choc pour renforcer la production de la nature. Il y a un côté pervers qui est la financiarisation et la substituabilité l'argent oeut alors être utilisée pour intervertir ou alors remplacer un type d'écisystème par un autre ailleurs... En fait on a l'impressonq ue c'est pus un principe de précaution qui erst invoquer et ultimement il est vraisemblable que la destruction de la nature tel que nous la connaissons soit dans le future un générateur de conflit.... et uttiment on a a craindre de faire un panete invivable pour nous mêm.
+La théorie de la Biogéographie des îles (et il en va de même pour la théorie neutre) est certes une théorie qui ne s'articule pas sur les interactions et fais une forme d'équivalence écologique, les idées sont clairemnent oser que localemnt les raisons profindes de l'extinciton locale. La question que l'on peut alors se poser est de savoir si les c'est si on peut aller plus loin qu'une simple enonciation des proncipes tout en gardante une cohérence. Aiinsi i lsemble omportant que la théorie de la Biog.éogrpahie doit intégrer des résultats précis en terme de réseaux. Dans le premier chapitre j'ai poursuivi cette idées et est montré qu'une approche communait centrés pouvat être prpoposé. Ne pas considéere mdes espèces mais des aassembalges est une bonne échelle pour aborder des problèmes des conséquences écologques des transients. Il est aussi int.ressant que cela nous a fait glissé vers la compréhension des résulats qu'om doit avoir dans les données de co-occurrene.
 
-Mais les changement sont des remplacemnt et pour la conservation on peut se demander les startégie. Dans son arctile 'Don't juge a species on their origin' Mark Davis prend à revers un sertain nombre d'idée recu et souligne qye les effects des invedeurs peuvent être positives @Davis2011.
-
-
-Les ramges comme un fait (wallace chap 2)
-des espèces avec des larges avec des grandes ranges
-Loddigésie admirable (*Loddigesia mirabilis*) seul collibris de son genre vs Lièvre variable (*Lepus timidus*)
-nomnbre d'espèce dans un genre vaire beaucoup => un autre indice de solution pas fructifiées...
-Pithacia Monathus vs Pithecia pythecia separé par une rivière
-Geographical Ecology => patterns in the distribution of spceies
-2 espèces proches des ranges très séparéed =>  species
-Bonobo et cChimpanzés
-
-L'évolution = le hasard et la nécessité est un moteur de la répartiton mais aussi la composante historiqe de la biologie. Cette dimension fascinante implique aussi nous focalisé sur des explications singulière souvent pas évident qui permettent de conformer le type de facteurs impliqué dans la variation des ranges mais nous amène pas encore à trouver des règles précices.
-
-Wallace conclut :28 qu'une théorie générale doit tenir compte des variation range et proximité des espèces porches et des overlapp.
-
-> Both competition and predation appear now to be much more important in biogeography than peopl had formely guesses
+Accent sur les cascading effect est surtout un problème de l'instabiilté @Zarnetske2012 Il ya aussi l'article perturbant de @Saterberg2013 qui montre que le fait qu'une espèce soit (ex. pêche) peut conduirte à des extinctions d'autres espèces lié dans le réseau... Ces deux exemple montrent que les interactions peuvent mener à des problèmes de prédicitons et donc porblèmes sur prévoir les services ecosystémiques et c'est appuyer par @Cahill2013 qui nous indique en somme que le changemment des interactiosn biotiques ets la voie privilégiée d'extintionciton dans un contexte de changement climatique.
 
 chap 2 geographical ecology
 
@@ -459,126 +442,108 @@ il prend comme exemple la compétition entre oiseau et un manque de ressource po
 
 Distributiin des fauvettes *Crateroscelis robusta* et  *C.runa*
 
- Mais le porblème étant que le signal n'est visible que si on a des données sur 20and.
-
-Le problème
-
-Parallèle entre information des traits sur le régime allimentaire et l'information dans les ranegs est-ce cela qui conduit les ecologistes à être des statisticuencs. et l'info dans l'ADN
-
-la question a été pourquoi il y a autant d'espèces mais je pense qu'un equestion légèremnetn différentes n'a pas été assez invextie : pourquoi peuvent-elles être si nombreuse....
-La limite est toujours OK si assez pour 2 ou plus.
-
-## Interactions écologique et TIB
+ Mais le p
 
 
 
+### Problème d'échelle
 
-> (:154) "Does the environment dictate the structure of the community, or are the species a fairly random assemblage?
-
-> A few decades ago it as fashionable for ecologist to study communities in the arctic on the grounds that these would be very simple communities and hence easy to understand. Many excellent ecologists still follow this belied, but there are others who feel that it may be easier to understand the extremely complex communities. This sounds paradoxical: How can a more complex communities by easier to understand? A possible answer might be that complex community has has strong interactions among species so that the lives of the separate species are less independent than in a simple community. Where there is greater interdependence, patterns may be more conspicuous."
-
-
-## Oubli de ce facteur important de
-
-Ls SMDS...
+Oubli de ce facteur important de Ls SMDS...
 
 Les interactions intra et inter spécifiques constituent un facteur rapidement pressenti comme responsable de la distribution spatiale des espèces \cite{Levin1974}. L'interdépendance des espèces conditionne, en effet, l'aspect favorable de l'environnement au sens large (biotique et abiotique). Ainsi Godsoe \textit{et al.} 2012, mettent en équations le caractère favorable de l'environnement pour une espèce donnée en terme de probabilité de présence d'une autre espèce et de la nature de leur interaction \cite{Godsoe2012}. De même, Holt et Barfield 2009 montrent l'impact de la prédation sur la répartition d'espèces en compétition \cite{Holt2009} insistant ainsi sur le rôle majeur des interactions. Davis \textit{et al.} 1998 ont montrés que, pour trois drosophiles en compétition, l'effet d'un parasitoïde n'est pas le même le long d'un gradient selon que les espèces sont seules ou ensemble \cite{Davis1998}. Récemment, des efforts ont été réalisés pour mettre en évidence l'importance de l'interdépendance des espèces dans les données aux larges échelles spatiales \cite{Gotelli2010}. On trouve actuellement dans la littérature une grande motivation pour les intégrer dans les modèles de distribution d'espèces \cite{Kissling2011, Guisan2011}. Des efforts théoriques sont encore nécessaires pour arriver à de telles approches. Néanmoins, rapprocher différents champs de l'écologie peut s'avérer d'une utilité majeure. Jabot et Bascompte \cite{Jabot2012} 2012, ont d'ailleurs montré l'importance des interactions pour comprendre la distribution des espèces en rapprochant écologie des réseaux et un modèle de metacommunauté. De même Gravel \textit{et al.} 2011 \cite{Gravel2011b} introduise l'interdépendance proie-prédateur dans le modèle classique de MacArthur et Wilson menant aux prémices d'une théorie trophique de la biogéographie des îles.
 
 L'ajout des interactions dans un modèle incluant l'environnement abiotique interroge la relation que les deux processus entretiennent. Si les espèces n'ont pas les mêmes performances dans différents milieux du fait de leur physiologie, pour les mêmes espèces considérées, les réseaux n'ont pas de raison d'être identiques d'un milieu à un autre. C'est sur ce fait que Poisot \textit{et al.} 2012 ont proposé une mesure de dissimilarité des réseaux \cite{Poisot2012}. Defossez \textit{et al.} montrent que les interactions négatives entre l'hêtre commun (\textit{Fagus Sylvaitca}) et les micro-organismes du sol diminuent avec l'altitude  \cite{Defossez2011}. Ainsi, les contraintes biotiques sont à relier à l'environnement \cite{Brooker2006,Canham2006} et un modèle intégratif doit donner un cadre cohérent à ces rétroactions entre processus. Enfin, l'importance des interactions est à mettre en relation avec l'échelle considérée \cite{Peterson2011}. Pour deux espèces en interaction, plus l'échelle d'étude est large, moins les effets des interactions locales sont susceptibles d'être capturés, le pouvoir explicatif de la présence d'une espèce sur l'autre peut être alors discutable \cite{Araujo2007}. Comprendre quels sont les processus à prendre en compte aux différentes échelles spatio-temporelles et comprendre comment le changement d'échelle affecte nous prédictions est aussi un véritable challenge en biogéographie \cite{Martinez2012}.
 
 
+### Un problème d'échelle ?
+
+Comment les varitions démogrpahiques interactions se propagent-t-elle à travers les échelles spatiale.
 
 
-# Intégrations des contraintes biotiques et de la théorie à la recherche de signaux de d'intéraction {-}
+> However, it is argued that applying bio-climatic models at macro-scales, where climatic influences on species distributions are shown to be dominant, can minimize the impact of biotic interactions. Indeed, the fact that a number of bioclimatic models have been highly successful at simulating current species distributions at certain scales is in fundamental disagreement with the proposition that species distributions cannot be adequately defined by climatic factors alone. [@Pearson2003]
 
-Dans ma thèse j'ai oassé du temps à essayer de mettre au point un modèke qui donnait de la substace aux idées de MacArthur et Wilson een etandant le travai initié par Gravel et collègues pour aller plus loin dans la compréhension des effets joints des interactions et des contraintes abiotiques. C'est aussi ce qui m'a animé pour en mettre en place la compréhesin dans les données de co-occurrence avant d'aller m'y confronter frongalemnet. Ma dernière intergtaion a Été de trouver des pistes pour allerr plus loin dans la théorie et explorer des pistes que je n'avais pas encore dxplorer mais qui seront à court terme les directions que je souhaite explorer.
-
-
-## Étendre la théorie de MacArthur et Wilson {-}
-
-
-
-## Comprendre les conséquence en terme de co-occurrece {-}
-
-
-### Abondance des données  {-}
-
-Les atouts actuels de la biogéographie sont 1- une quantité importante d'information relative aux présences d'espèces et au climat et 2- des modèles corrélatifs puissants qui décrivent précisément le lien entre l'espèce et son environnement abiotique. Le terme abiotique peut prêter à confusion dans la mesure où les espèces elles-mêmes peuvent modifier des variables dîtes abiotiques. Par exemple, les végétaux peuvent avoir un grand impact sur les variables abiotiques locales comme la température et l'humidité du sol \cite{Breshears1998}. Certains auteurs font une distinction précise en utilisant les termes de \textit{scenopoetiques} pour les variables environnementales sur lesquels les espèces ne peuvent influer et de \textit{dynamiquement liées} pour les autres \cite{Peterson2011}. Nous occulterons volontairement ces-dernières, l'environnement abiotique dont il est ici question n'est donc pas dynamiquement lié aux espèces.   
+>  We will never be able to predict the future with accuracy, but we need a strategy for using
+existing knowledge and bioclimatic modeling to improve understanding of the likely effects of future climate on biodiversity. [@Araujo2006].
 
 
 
-### Potential interactions  {-}
-
-Vespa aussi au Amérqieu la densit. des traffic...
-
-Multi couche de distrobution dans le cas du frelon asiatique Villemant et al. @Villeman ont montrés que superposition du genre *Vespa* et notamment au niveau asiatique énormément aisin l'inférence se fait sur des données qui comporte une empreinte de condition et localemnt éteinte alors que possiblement comtraite qui ne seront pas en France...
-
-
-
-Décrire l'organisation spatiale des êtres vivants et en comprendre les mécanismes sous-jacents, tels sont les objectifs ambitieux de la biogéographie \cite{MacArthur1967}. Cette discipline a récemment percolée au sein de la société civile via le concept de biodiversité. Le regard des citoyens se posent attentivement sur le devenir de la biodiversité dans le contexte actuel des changements globaux. La biogéographie, par son essence, peut apporter des réponses à ce questionnement ambiant \cite{Whittaker2005}. Cependant, pour y parvenir, des défis techniques et théoriques majeurs restent à surmonter \cite{Beck2012}.
-
+Les ranges comme un fait (wallace chap 2)
+des espèces avec des larges avec des grandes ranges
+Loddigésie admirable (*Loddigesia mirabilis*) seul collibris de son genre vs Lièvre variable (*Lepus timidus*)
+nomnbre d'espèce dans un genre vaire beaucoup => un autre indice de solution pas fructifiées...
+Pithacia Monathus vs Pithecia pythecia separé par une rivière
+Geographical Ecology => patterns in the distribution of spceies
+2 espèces proches des ranges très séparéed =>  species
+Bonobo et cChimpanzés
 
 
-## Chercher des signaux de co-occurrence  {-}
+orblème étant que le signal n'est visible que si on a des données sur 20and.
 
-gecko australien généraliste  *Heteronotia binoei* => alors peut être que ça marche bien mais sur une espèce spécialiste ??
+Le problème
 
-
-## Information dans les distributions  {-}
+Parallèle entre information des traits sur le régime allimentaire et l'information dans les ranegs est-ce cela qui conduit les ecologistes à être des statisticuencs. et l'info dans l'ADN
 
 
 
 
-# Dépasser les questionnemnet sur les espèces {-}
-
-
-# Aller de l'avant {-}
-
-## DEB
-
-## Espoir sur la
-
-Le travail de Gotelli \textit{et al.} est également un exemple de démarche intégrative où un nombre important de processus peuvent être inclus via un système de combinaison de scénarios et tester par simulations stochastiques \cite{Gotelli2009}. Enfin, en construisant des réseaux basés sur la cooccurrence des espèces, Araújo \textit{et al.} revisitent le problème de l'interdépendance des espèces \cite{Araujo2011} : ils s'interrogent sur la résistance des réseaux de cooccurrence obtenus face aux futurs changement climatiques, ils mettent ainsi en évidence des risques accrus de perte des espèces les moins connectés (celles qui cooccurent moins). Ces travaux témoignent de la volonté d'une biogéographie intégrative.
-
-
-C'est impressionnant de voir comment un auteur en repartant de simple considération telle que la taile le volume peut arriver à construire une théorie à la fois simple, fondée et predictive. mettant de la cohérence dansune accumulation de fait.
+## Faire un questionnement des intersections des ranges et des règles
 
 
 
-=> problème SDMS quand inférencefait sur les données d'espèces la force c'est d'avoir des mesures ++ et indépendante quelquee part c'est vrai mais la source d'inforation est très brouillé et on peut se demander se que l'on peut obtenir comme infornation....
-
-
-## Traits fonctionnels {-}
-
-Les traits fonctionnels sont des propriétés mesurables sur les organismes en relation avec leurs performances et leur rôle dans l'écosystème \cite{McGill2006}. Les traits étudiés peuvent être de différentes natures, 1-morphologiques : taille de différentes parties du corps, position des yeux, taille des oeufs chez les organismes ovipares, taille des graines pour les végétaux, 2- physiologiques : taux métaboliques de bases, stœchiométrie (rapport de la concentration entre divers éléments qui compose l'organismes) \cite{McGill2006,Albouy2011,Litchman2008}. Un ensemble approprié de ces propriétés peut être un outil puissant pour décrire un ensemble d'espèce dans un même espace. Leur proximité dans l'espace des traits est alors un indice précieux d'une proximité fonctionnelle. Ainsi, à l'aide de 13 traits ecomorphlogiques, Albouy \textit{et al.} 2011 parviennent à prédire les guildes trophiques de 35 espèces de poissons de la Méditerranée \cite{Albouy2011}. Edwards \textit{et al.} 2013 montrent que l'effet saisonnier sur une communauté de phytoplancton dans la Manche peut être capturé à l'aide de traits décrivant : le taux maximal de croissance, la compétitivité pour la lumière et l'azote \cite{Edwards2013}. La distribution des traits fonctionnels au sein de la biodiversité est aussi une entrée de choix pour réfléchir quand à la fragilité potentielle des fonctions remplies par les écosystèmes \cite{Mouillot2013}.
-%DG: je comprends cette citation de Mouillot, mais juste une mise en garde contre ce type de référence. Mouillot se base sur l'hypothèse que les traits nous informent du fonctionnement, sans jamais documenter cette relation. Ce qui est souvent le cas, et par conséquent contribue à bâtir des mythes dans la littérature qui à l'occasion ne sont pas toujours bien appuyés. L'approche par traits est un bel exemple, on a édifié rapidement une structure conceptuelle sur les traits, mais on n'a pas solidement appuyé le concept sur de bonnes bases empiriques.
-
-L'approche de la biodiversité par les traits fonctionnels est plus quantitative que l'approche taxonomique et permet de déduire un grand nombre de propriétés en se passant de la connaissance de leur identité. Ainsi McGill, dans son article d'opinion de 2006, propose une approche nouvelle de l'écologie des communautés qui transforme les questions centrées autour des espèces par des questions qui interrogent la répartition et la variabilité des traits \cite{McGill2006}. L'emploi des traits fonctionnels est en fait un appel à une écologie plus mécaniste, qui se penche sur la physiologie des organismes, en prend les faits les plus importants (relativement au problème traité) pour les placer dans un espace de traits commun. Cette approche est aussi en lien avec la controversée théorie métabolique en écologie \cite{Brown2004, Price2012}. Dans cette théorie un certain nombre de grandeurs (comme le taux métabolique) sont reliées à la biomasse corporelles de l'adulte, fournissant ainsi en un seul trait de nombreuses relations pour des groupes d'organismes très différents. Par ces nouvelles approches, l'espérance de s'extraire de la seule identité des espèces est accrue, l'idée d'avoir des règles générales se concrétise.
-
-Dans une théorie intégrative de la biogéographie, les traits fonctionnels peuvent être un pivot très intéressant pour rassembler les différents concepts que nous avons développés dans les paragraphes précédents. Les traits peuvent tout d'abord être mis en relation avec le milieu abiotique. Le taux métabolique ou encore la sensibilité à la sécheresse sont des indices performant pour décrire la survie dans un milieu donné \cite{Kearney2004,Engelbrecht2007} que l'on peut capturer sous forme de traits. Kearney \textit{et al.} 2010 propose une approche prometteuse dans laquelle, l'environnement physique, la disponibilité des ressources et la dynamique énergétique sont reliées par les traits fonctionnelles le tout aboutissant à un modèle de distribution très mécanistes. La structure d'un réseaux peut également être dérivée à partir de l'espace des traits. Dans leur méthode proposée cette année, Gravel \textit{et al.} infèrent les paramètres du modèle de niche de Williams et Martinez \cite{Williams2000} à partir des relations de masse du corps entre proie et prédateurs \cite{Gravel2013}. Ils sont alors en mesure de dériver un réseau global pour un ensemble d'espèce donné. Enfin, en tant qu'expression phénotypique, les traits fonctionnels sont soumis aux processus évolutifs. Sur les temps longs, l'expression de l'évolution résulte en la modification progressive des traits qui se répercute sur l'ensemble des propriétés qui en découle. Ainsi la considération d'une modification des traits est une approche simple et réaliste pour introduire les processus évolutifs et leurs conséquences \cite{Guill2008,Loeuille2005}.
-
-
-La niche c'est quoi on en a deux definition ultr classique mais elles sont très porblématiques.
-Il y a des tentatives de synthèse mais le problèmes est toujours là.
-
-Partir du development de la niche et des hypotheses clef comme l'heterogeneité spatiale qui peut accroitre la biodiversité un exemple c'est les ecoulemnents à petites faible echelles de l'hydrologie niche hdrologique à fable échelles @Letten2015 repartition hydrologique les hypothèses sont que  qui explique celon les différentes besoin des espèces (principes de la niche) que besoin différemtes me répartition des espèces. Cette idées est
-
-
-
-A large espes répartition de la biodiversité on quantifie la différence depuis les mesures classiques
-Simpson, alpha gamma beta qui sont étendues au réseau @Poisot2012. Mais quand on chnage d'echelle on arrive rarement à quelques choses de concluant pour l'integration des interactions. Pourtant il ya des exemples convaicant comme celui de Gitelli.
-
-Les interactions c'est quoi ce qu'on en fait.
-Les interactions quelles pourrait être leur conséquence à large échelle ?
-
-Mais au-dela de cela il yt a un besoin de règles. L,écoligies cherche ces règles et essayes de faire le max sans trip de succès. Les traits sont un gran despoir.
-On a besoinde rule on reste descriptive il y a des relation EH-Bioversité, SAR, Diversité-équilibre diversité fonctionnenemnt qui sont partielelemnt reliées et des théries débat theories neutre theéor de la niche @Stein2014. Dans cette review @Stein2014 montre que vegettaion est inportnates ce qui eimplique des inbteractions. Théorie allométrique prometteuse en ce sens qu'elle loi physiques. Différents concept autrour d'une même notion sur plusieurs paradigme pour une même notion sur les metacommunity @Leibold2004 il peuvent co-exister mais faudrait les savoir ce qui fait qu'on a pus l'un ou l'autr.
-
+On a besoinde rule on reste descriptive il y a des relation EH-Bioversité, SAR, Diversité-équilibre diversité fonctionnenemnt qui sont partielelemnt reliées et des théries débat theories neutre theéor de la niche @Stein2014. Dans cette review @Stein2014 montre que vegetaiton est inportnates ce qui eimplique des inbteractions. Théorie allométrique prometteuse en ce sens qu'elle loi physiques. Différents concept autrour d'une même notion sur plusieurs paradigme pour une même notion sur les metacommunity @Leibold2004 il peuvent co-exister mais faudrait les savoir ce qui fait qu'on a pus l'un ou l'autr.
 
 La puissance de la Biogéographie est aussi sont implications dans des cas très concrets @Cirtwill2015 mais aussi ne puissance exploratoire théoriques @Gravel2011c @Cazelles2015b des îles
 l'idée des interactions à déjà montré ça pertinence sur plusieurs exemples. @Cirtwill2015
 
-La bonne unité d'analyse ? D'où parti r?
 
+Les interactions quelles pourrait être leur conséquence à large échelle ?
+
+
+> (:154) "Does the environment dictate the structure of the community, or are the species a fairly random assemblage?
+
+
+Cette id.e aussi est données par
+
+> A few decades ago it as fashionable for ecologist to study communities in the arctic on the grounds that these would be very simple communities and hence easy to understand. Many excellent ecologists still follow this belied, but there are others who feel that it may be easier to understand the extremely complex communities. This sounds paradoxical: How can a more complex communities by easier to understand? A possible answer might be that complex community has has strong interactions among species so that the lives of the separate species are less independent than in a simple community. Where there is greater interdependence, patterns may be more conspicuous."
+
+
+Information dans les distributions
+gecko australien généraliste  *Heteronotia binoei* => alors peut être que ça marche bien mais sur une espèce spécialiste ??
 
 > Generalist consumers should typically be weakly coupled to any one of their prey populations because, when feeding on many different species, they cannot be strongly coupled to any one of them @Murdoch2002
+
+
+
+Intégrations des contraintes biotiques et de la théorie à la recherche de signaux de d'intéraction
+
+Dans ma thèse j'ai oassé du temps à essayer de mettre au point un modèke qui donnait de la substace aux idées de MacArthur et Wilson een etandant le travai initié par Gravel et collègues pour aller plus loin dans la compréhension des effets joints des interactions et des contraintes abiotiques. C'est aussi ce qui m'a animé pour en mettre en place la compréhesin dans les données de co-occurrence avant d'aller m'y confronter frongalemnet. Ma dernière intergtaion a Été de trouver des pistes pour allerr plus loin dans la théorie et explorer des pistes que je n'avais pas encore dxplorer mais qui seront à court terme les directions que je souhaite explorer.
+
+
+Abondance des données  Les atouts actuels de la biogéographie sont 1- une quantité importante d'information relative aux présences d'espèces et au climat et 2- des modèles corrélatifs puissants qui décrivent précisément le lien entre l'espèce et son environnement abiotique. Le terme abiotique peut prêter à confusion dans la mesure où les espèces elles-mêmes peuvent modifier des variables dîtes abiotiques. Par exemple, les végétaux peuvent avoir un grand impact sur les variables abiotiques locales comme la température et l'humidité du sol \cite{Breshears1998}. Certains auteurs font une distinction précise en utilisant les termes de \textit{scenopoetiques} pour les variables environnementales sur lesquels les espèces ne peuvent influer et de \textit{dynamiquement liées} pour les autres \cite{Peterson2011}. Nous occulterons volontairement ces-dernières, l'environnement abiotique dont il est ici question n'est donc pas dynamiquement lié aux espèces.   
+
+Partir du development de la niche et des hypotheses clef comme l'heterogeneité spatiale qui peut accroitre la biodiversité un exemple c'est les ecoulemnents à petites faible echelles de l'hydrologie niche hdrologique à fable échelles @Letten2015 repartition hydrologique les hypothèses sont qui explique celon les différentes besoin des espèces (principes de la niche) que besoin différemtes me répartition des espèces. Cette idées est
+
+
+
+Mais une espèce généraliste autant que sécialiste @Poisot2015c
+
+
+A large espes répartition de la biodiversité on quantifie la différence depuis les mesures classiques. Simpson, alpha gamma beta qui sont étendues au réseau @Poisot2012. Mais quand on chnage d'echelle on arrive rarement à quelques choses de concluant pour l'integration des interactions. Pourtant il ya des exemples convaicant comme celui de Gitelli.
+
+
+-- conclure en repartant sur l'exemple détaillé.
+Vespa aussi au Amérqieu la densit. des traffic...
+Multi couche de distrobution dans le cas du frelon asiatique Villemant et al. @Villeman ont montrés que superposition du genre *Vespa* et notamment au niveau asiatique énormément aisin l'inférence se fait sur des données qui comporte une empreinte de condition et localemnt éteinte alors que possiblement comtraite qui ne seront pas en France...
+Essyer de faire des cartes de risques plutôt que de constater après coup...
+Après avoir fait un retour sur plus de biologie je m,intergoge sur lesquelle dans la suiste
+Dépasser les questionnemnet sur les espèces la contrainte il me semble qu'une piste c'est aouverte avec des questions énergétique on se rencontre qu'il y a des base én.ergétiqe dcommunet et que c'est ancrage sit beaoup...
+
+
+
+
+
+## Au dela desinteractioms
+
+La bonne unité d'analyse ? D'où parti r?
+la question a été pourquoi il y a autant d'espèces mais je pense qu'un equestion légèremnetn différentes n'a pas été assez invextie : pourquoi peuvent-elles être si nombreuse....
+La limite est toujours OK si assez pour 2 ou plus. Et pourquoi pas une pourquoi pas une espèce de taille ++
