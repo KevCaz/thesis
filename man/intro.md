@@ -91,43 +91,40 @@ Actuellement, les outils de prédictions des aires de répartition future repose
 
 ## Travail théorique et modélisation {-}
 
-Avant d'attaquer avec des exemple concrets l'ensemble des forces qui sutendent la répartition géographique d'une espèce, je tiens à péciser de manière générale ma pensée sur l'importance de la théorie et du travail de modèlisation qui est centrale dans ma thèse.
+Avant d'énumérer, avec des exemples concrets, l'ensemble des forces qui régissent la répartition géogrpahique d'une espèce, je précise dans cette partir l'importance du travail de théorie et de modélisation qui tient une place importante dans ma thèse.
 <!-- J'évoquerai égalemnt le contexte technologique et quelques aspects d'ordres computationnelle parler de modélisations de ces enjeux et valoriser les modèles thérqies fondamentaux qui s'éloignent parfois de la éalité mais sans jamsi la déconsidérer. -->
 
 
 ### Rassembler et intégrer des faits {-}
 
-Le travil de théorie est avant tout la mise en cohésion d'un certaiment de faits ..
-
-rassembler des connaisance puis trouver avec un minimum plausuvle rasoir d'Occam et principe de parcimonie
-ce ne veut pas dire que c'est simple une hypothèse en plus essayer qu'elle explique plus d efait. Des approches corrélatives passé du cadre corrélative au mécanisme
-
-Finalemnt se problème est aussi lié au problème d'échelle de travail ! il y a un problème d'échelle
-
-Quand on se tourne vers les sciences de l'écomomie il y a un bon jeus de mots que j'ai entendu sous deux formes :
-- Les physiciens oont 5 règles pour expliquer 95% univers et les 95 rèle pour 5%
-- Les économistes ont pédit 12 des trois dernière crises éconimoqe
-et une compléxité une légère jalousie des physiciens se serait qui ont des théories qui ont prédi des objets à une époque où pas les moyens de faire les intslallation surtout avec les triomphes récents de la découverte expéimentale Boson de Higgs et de la double détection des ondes grvitationelles
-Rassurons nous les physiciens ont encore bien des parties sonmbres àexplorer : matière noire et energie noire et du boulot en masse pour ecologues / economistes peut-être que les foralimes que nous empreintons à ces disciplines ne sont pas les bons... Comme dit le phylodophe Sachs dans sa biodiversité c'est trop historiques qu'un concepte comme le fitness n,est peutêtre pas bien mis en equation dans une forme physique
-
-### Cadre de dévelopement des idées {-}
+Le travail de théorie est avant tout la mise en cohésion d'un certain nombre de faits. Dans leur théorie de la Biogéograohie des îles, les auteurs parviennet à montrer que les relations en terme de richesse spécifique s'exlique bien, dans les données qu'ils possèdent, par la connaissance combiner de l'isolement des îles et de leur taille. Il y a également deux principes principes qui encadrent la construction d'une théorie scientifique : elle demeur valide lorsqu'elle n'est pas prouvé fausse et qu'une alternative ne la supplante pas, elle doit être parcimonieuse, ne pas invoquer de multiple processus sans raison, c'est ce que l'on appelle parfois le Rasoir d'Ockham. C'est qu'une boutade, dont je ne suis pas capable de rapporter son auteur, indique que les physiciens expliquent 95% de l'univers avec 5 règle alors que les économistes expliquent 5% des phénomènes qu'ils étudient avec 95 règles [^var]. Le problème n'est pas tant de dénigrer une discipline mais de constater la puissance prédictive d'une théorie  problèmes que posent actuellement la prédictions en économie. C'est peut-être le reflet d'une maturité pour la physique il n'en demeure pas moins que des défis majeur et de grands questionnement la traverse. La théorie est une construction mentale qui permet de donner un cadre de penser et ce dernier peut être explorer à travers des modèles.
 
 
-Un acte d'abstarction pour des défis très concret
-
-ce n'est pas objectif, c'est se placer dans un cadre et c'est une façon de contruire le raisonemet.
-Exemple on peut vouloir modéliser la robabiliter d'interaction et alors uon peut commenceer par une probabilité de rencontre qui est simplemnt la probabiliter de se detecter mais qui pourrait être calcluer de manière complexe ou alors juste un paramètre.
-
-Il y a différent niveau la modelisation a pour but de donner une idée mais n'oublions as qu'il existe une progression, un raffinement et qu'ultimement, le réalisme de la simulation permet d'obetnir préscisement le phénomène données et on peut aller très loin à partor d'imagination d'un aller retour entre le réel et l'espace dans lequel on se place pour modéliser.
 
 
-Dans la préface de son livre *Food webs* Kevin McCann écrit :
+[^var]: On peut trouver une variante énonçant que les économistes ont pédit 12 des trois dernières crises économiques. Je pense qu'au point de vue de la qualité des prédictions en biogéogrpahie, nous nous apparentons plus aux economistes qu'aux physiciens.
 
-> \guillemotleft It just so happens that some people find it easier to think about things in terms of x's and y's, and other in terms rabbits of and lynx. \guillemotright (Préface, @mccann2011food)
 
-et on ne doit pas utiliser les mathématqiues pour se cacher derrière un jargon dans la seul valeur serait d'être ésotérique et d'être attentif [@May2004]. Juste our développer
+### Des modèles pour explorer la théorie {-}
+
+Le terme de modèle signifit simplement que l'objet en question à des propriétés bien connu. Ainsi un organisme modèle est un organisme sur lequel souvent facile à elever et maniupluler sur lequel beaucoup de connaissance nt été établis et qui sert d'unité empirique à travers un ouo plusierus laboratoires. Quand on travail sur des modèles statisique, on connait exactement le type de correlation que l'on entreprend. De même pour un travail de modellisation mathématique, la description du modèle est contenu dans une série d'équations. Un modèle est souvent perçu comme une simplification de la réalité, en effet, comment prétendre que les mécanismes biologiques décelés chez *Arabidopsis Thaliana*[^arabi] sont les mênes pour l'ensemble des plantes à fleurs? Pour combien de système proie-prédateur le modèle de Lotka-Volterra est-il pertinent?
+
+Les limites des modèles doivent être reconnues mais il ne faut pas nier l'apport de ces derniers. Ainsi les modèles sont autant de chance pour explorer une ou plusiers prédiction d'une théorie. Le choix du modèle est laissé au chercheur, comme le rappelle Kevin McCann dans la préface de son livre *Food Webs* [ @mccann2011food]:
+
+> &laquo; It just so happens that some people find it easier to think about things in terms of x's and y's, and other in terms rabbits of and lynx. &raquo;
+
+En d'autres termes, certains on plus de faciliter pour penser en termes mathématiques et d'autres en termes expirimentaux. Je suis plutôt dans la première catégorie de personne, je pense que les mathématiques sont un cadre de penser très puissant comme l'indique le grand écologue Robert McCredie May  [@May2004]:
 
 > the virtue of mathematics in such a context is that it forces clarity and precision upon the conjecture, thus enabling meaningful comparison between the consequences of basics assumptions and the empirical facts. Here mathematics is seen in its quintesence : no more, but no less, than a way to think clealy.”(p. 791, [@May2004])
+
+Dans ma thèse j'ai essayé d'utilisé les mathématiques pour développer des modèles qui sont surtout parti de reflexion collective autour du rôle que pouvaient jouer les interactions dans les distrbution d'espèce. Cette reflexion m'a parmis d'établir des prédictions dont certaines semblent être vérifiées.  
+
+
+
+[^arabi]: Il s'agit de la plante modèle par excellence le génome le permier à être séquencé chez les plantes [@TheArabidopsisGenomeInitiative2000].
+
+
+
 
 ### Nouvelles prédictions {-}
 
@@ -142,7 +139,8 @@ approhe modulaire => rupture de symétrie
 
 J'explore quelques dualié propre à l'acte de modélisation que j'applique ultiment au champd e la biogéogroahie
 
-
+surtout avec les triomphes récents de la découverte expéimentale Boson de Higgs et de la double détection des ondes grvitationelles
+Rassurons nous les physiciens ont encore bien des parties sonmbres àexplorer : matière noire et energie noire et du boulot en masse pour ecologues / economistes peut-être que les foralimes que nous empreintons à ces disciplines ne sont pas les bons... Comme dit le phylodophe Sachs dans sa biodiversité c'est trop historiques qu'un concepte comme le fitness n,est peutêtre pas bien mis en equation dans une forme physique
 
 
 

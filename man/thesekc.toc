@@ -10,9 +10,9 @@
 \contentsline {subsection}{En suivant Wallace,}{1}{section*.6}
 \contentsline {subsection}{\numberline {0.0.1}En suivant MacArthur et Wilson}{3}{subsection.0.0.1}
 \contentsline {subsection}{Quelles informations renferment les distributions d'esp\IeC {\`e}ces?}{5}{section*.7}
-\contentsline {subsection}{Enjeux de la connaisssance de la r\IeC {\'e}partition g\IeC {\'e}ographique des esp\IeC {\`e}ces}{7}{section*.8}
+\contentsline {subsection}{Enjeux de la connaisssance de la r\IeC {\'e}partition g\IeC {\'e}ographique des esp\IeC {\`e}ces}{6}{section*.8}
 \contentsline {subsection}{Travail th\IeC {\'e}orique et mod\IeC {\'e}lisation}{8}{section*.9}
-\contentsline {subsubsection}{Rassembler et int\IeC {\'e}grer des faits}{9}{section*.10}
+\contentsline {subsubsection}{Rassembler et int\IeC {\'e}grer des faits}{8}{section*.10}
 \contentsline {subsubsection}{Cadre de d\IeC {\'e}velopement des id\IeC {\'e}es}{9}{section*.11}
 \contentsline {subsubsection}{Nouvelles pr\IeC {\'e}dictions}{10}{section*.12}
 \contentsline {section}{Distributions d'esp\IeC {\`e}ces, les forces en pr\IeC {\'e}sence}{11}{section*.13}
