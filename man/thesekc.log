@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  25 JUL 2016 11:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  25 JUL 2016 12:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1021,348 +1021,342 @@ Overfull \hbox (440.87901pt too wide) in paragraph at lines 397--397
  []
 
 [10] [11]
-
-Package natbib Warning: Citation `Parmesan2006' on page 12 undefined on input l
-ine 460.
-
-
-Package natbib Warning: Citation `Lavergne2010' on page 12 undefined on input l
-ine 460.
-
-
-Package natbib Warning: Citation `Tingley2009' on page 12 undefined on input li
-ne 465.
-
-[12]
-
-Package natbib Warning: Citation `Sexton2009' on page 13 undefined on input lin
-e 478.
-
-
-Package natbib Warning: Citation `Lavergne2010' on page 13 undefined on input l
-ine 478.
-
-
-Package natbib Warning: Citation `Rosindell2011' on page 13 undefined on input 
-line 485.
-
-
-Package natbib Warning: Citation `MacArthur1967' on page 13 undefined on input 
-line 485.
-
-
-Package natbib Warning: Citation `Gienapp2008' on page 13 undefined on input li
-ne 494.
-
-
-Overfull \hbox (7.40115pt too wide) in paragraph at lines 476--495
-\OT1/txr/m/n/12 court est im-por-tant. Il est aussi im-por-tant de dis-tin-guer
- les r[]eponses ph[]enotypiques des r[]eponses
+Overfull \hbox (2.44662pt too wide) in paragraph at lines 437--454
+\OT1/txr/m/n/12 fois qu'il s'est d[]eroul[]e. Cela dit, en re-gar-dant des []ev
+[]enemnets plus r[]ecents, cer-tains m[]ecanimes
  []
 
-
-Package natbib Warning: Citation `Holt2009a' on page 13 undefined on input line
- 501.
-
-
-Package natbib Warning: Citation `Leibold2004' on page 13 undefined on input li
-ne 503.
-
-
-Package natbib Warning: Citation `Chase2003' on page 13 undefined on input line
- 505.
-
-[13]
-LaTeX Font Info:    Try loading font information for OML+txr on input line 521.
-
- (/usr/local/texlive/2016/texmf-dist/tex/latex/txfonts/omltxr.fd
-File: omltxr.fd 2000/12/15 v3.1
-)
-LaTeX Font Info:    Font shape `OML/txr/m/n' in size <12> not available
-(Font)              Font shape `OML/txmi/m/it' tried instead on input line 521.
-
-
-Overfull \hbox (5.24876pt too wide) in paragraph at lines 539--565
+[12]
+Overfull \hbox (5.24876pt too wide) in paragraph at lines 490--516
 \OT1/txr/m/n/12 http ://www.itis.gov/servlet/SingleRpt/SingleRpt ?search[]topic
 =TSN&search[]value=506151).
  []
 
-[14]
-LaTeX Font Info:    Try loading font information for OT1+txtt on input line 578
+[13]
+LaTeX Font Info:    Try loading font information for OT1+txtt on input line 529
 .
  (/usr/local/texlive/2016/texmf-dist/tex/latex/txfonts/ot1txtt.fd
 File: ot1txtt.fd 2000/12/15 v3.1
 )
 
-Package natbib Warning: Citation `Thomas2004' on page 15 undefined on input lin
-e 586.
+Package natbib Warning: Citation `Thomas2004' on page 14 undefined on input lin
+e 537.
 
 
-Package natbib Warning: Citation `Thuiller2011' on page 15 undefined on input l
-ine 586.
+Package natbib Warning: Citation `Thuiller2011' on page 14 undefined on input l
+ine 537.
 
-[15] [16]
+[14] [15]
 
-Package natbib Warning: Citation `Sole2006' on page 17 undefined on input line 
-655.
+Package natbib Warning: Citation `Sole2006' on page 16 undefined on input line 
+606.
+
+
+Package natbib Warning: Citation `Tingley2009' on page 16 undefined on input li
+ne 621.
+
+
+Package natbib Warning: Citation `Post2009' on page 16 undefined on input line 
+624.
+
+
+Package natbib Warning: Citation `Yoshida2003' on page 16 undefined on input li
+ne 629.
+
+
+Package natbib Warning: Citation `Grant2006' on page 16 undefined on input line
+ 637.
+
+[16]
+LaTeX Font Info:    Try loading font information for OML+txr on input line 643.
+
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/txfonts/omltxr.fd
+File: omltxr.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Font shape `OML/txr/m/n' in size <12> not available
+(Font)              Font shape `OML/txmi/m/it' tried instead on input line 643.
+
+
+
+Package natbib Warning: Citation `Parmesan2006' on page 17 undefined on input l
+ine 653.
+
+
+Package natbib Warning: Citation `Lavergne2010' on page 17 undefined on input l
+ine 653.
 
 
 Package natbib Warning: Citation `Tingley2009' on page 17 undefined on input li
-ne 667.
-
-
-Package natbib Warning: Citation `Post2009' on page 17 undefined on input line 
-670.
-
-
-Package natbib Warning: Citation `Yoshida2003' on page 17 undefined on input li
-ne 675.
-
-
-Package natbib Warning: Citation `Grant2006' on page 17 undefined on input line
- 683.
+ne 658.
 
 [17]
 
+Package natbib Warning: Citation `Sexton2009' on page 18 undefined on input lin
+e 671.
+
+
+Package natbib Warning: Citation `Lavergne2010' on page 18 undefined on input l
+ine 671.
+
+
+Package natbib Warning: Citation `Rosindell2011' on page 18 undefined on input 
+line 678.
+
+
+Package natbib Warning: Citation `MacArthur1967' on page 18 undefined on input 
+line 678.
+
+
+Package natbib Warning: Citation `Gienapp2008' on page 18 undefined on input li
+ne 687.
+
+
+Overfull \hbox (7.40115pt too wide) in paragraph at lines 669--688
+\OT1/txr/m/n/12 court est im-por-tant. Il est aussi im-por-tant de dis-tin-guer
+ les r[]eponses ph[]enotypiques des r[]eponses
+ []
+
+
 Package natbib Warning: Citation `Tingley2009' on page 18 undefined on input li
-ne 700.
+ne 697.
 
 
 Package natbib Warning: Citation `Post2009' on page 18 undefined on input line 
-704.
+701.
 
 
 Package natbib Warning: Citation `Yoshida2003' on page 18 undefined on input li
-ne 709.
+ne 706.
 
 
 Package natbib Warning: Citation `Grant2006' on page 18 undefined on input line
- 717.
+ 714.
 
 [18]
 
 Package natbib Warning: Citation `Kissling2011' on page 19 undefined on input l
-ine 748.
+ine 745.
 
 
 Package natbib Warning: Citation `Guisan2011' on page 19 undefined on input lin
-e 752.
+e 749.
 
 [19]
-Overfull \hbox (5.0096pt too wide) in paragraph at lines 781--784
+Overfull \hbox (5.0096pt too wide) in paragraph at lines 778--781
 []\OT1/txr/m/n/12 pas tel-lemnt de math sur-tout des id[]ees et sur-tout le poi
 nt je d[]ecrit pour ar-ri-ber []a l'[]equation
  []
 
-[20]
+[20] [21]
 
-Package natbib Warning: Citation `MacArthur1967' on page 21 undefined on input 
-line 831.
-
-
-Package natbib Warning: Citation `Gravel2011b' on page 21 undefined on input li
-ne 836.
+Package natbib Warning: Citation `MacArthur1967' on page 22 undefined on input 
+line 828.
 
 
-Package natbib Warning: Citation `Ryberg2007' on page 21 undefined on input lin
-e 836.
+Package natbib Warning: Citation `Gravel2011b' on page 22 undefined on input li
+ne 833.
 
 
-Package natbib Warning: Citation `Rosindell2011' on page 21 undefined on input 
-line 836.
+Package natbib Warning: Citation `Ryberg2007' on page 22 undefined on input lin
+e 833.
 
 
-Package natbib Warning: Citation `Cook2002' on page 21 undefined on input line 
-845.
+Package natbib Warning: Citation `Rosindell2011' on page 22 undefined on input 
+line 833.
 
 
-Package natbib Warning: Citation `Gravel2011b' on page 21 undefined on input li
-ne 851.
+Package natbib Warning: Citation `Cook2002' on page 22 undefined on input line 
+842.
 
-[21]
+
+Package natbib Warning: Citation `Gravel2011b' on page 22 undefined on input li
+ne 848.
+
 
 Package natbib Warning: Citation `Ricklefs1987' on page 22 undefined on input l
-ine 872.
+ine 869.
 
 
 Package natbib Warning: Citation `Leibold2004' on page 22 undefined on input li
-ne 872.
+ne 869.
+
+[22]
+
+Package natbib Warning: Citation `MacArthur1967' on page 23 undefined on input 
+line 872.
 
 
-Package natbib Warning: Citation `MacArthur1967' on page 22 undefined on input 
-line 875.
+Package natbib Warning: Citation `MacArthur1967' on page 23 undefined on input 
+line 880.
 
 
-Package natbib Warning: Citation `MacArthur1967' on page 22 undefined on input 
-line 883.
+Package natbib Warning: Citation `MacArthur1967' on page 23 undefined on input 
+line 891.
 
 
-Package natbib Warning: Citation `MacArthur1967' on page 22 undefined on input 
-line 894.
+Package natbib Warning: Citation `Lomolino2000a' on page 23 undefined on input 
+line 891.
 
 
-Package natbib Warning: Citation `Lomolino2000a' on page 22 undefined on input 
-line 894.
+Package natbib Warning: Citation `May1988' on page 23 undefined on input line 8
+92.
 
 
-Package natbib Warning: Citation `May1988' on page 22 undefined on input line 8
-95.
+Package natbib Warning: Citation `Neigel2003' on page 23 undefined on input lin
+e 893.
 
 
-Package natbib Warning: Citation `Neigel2003' on page 22 undefined on input lin
-e 896.
+Package natbib Warning: Citation `Desmet2004' on page 23 undefined on input lin
+e 893.
 
 
-Package natbib Warning: Citation `Desmet2004' on page 22 undefined on input lin
-e 896.
+Package natbib Warning: Citation `He2011' on page 23 undefined on input line 89
+4.
 
-
-Package natbib Warning: Citation `He2011' on page 22 undefined on input line 89
-7.
-
-[22] <fig/fig1.pdf, id=636, 461.725pt x 461.725pt>
+<fig/fig1.pdf, id=636, 461.725pt x 461.725pt>
 File: fig/fig1.pdf Graphic file (type pdf)
  <use fig/fig1.pdf>
-Package pdftex.def Info: fig/fig1.pdf used on input line 905.
+Package pdftex.def Info: fig/fig1.pdf used on input line 902.
 (pdftex.def)             Requested size: 461.72388pt x 461.72388pt.
 
-Overfull \hbox (17.86072pt too wide) in paragraph at lines 905--914
+Overfull \hbox (17.86072pt too wide) in paragraph at lines 902--911
  [][] 
  []
 
-[23] [24 <./fig/fig1.pdf>] [25]
+[23] [24 <./fig/fig1.pdf>] [25] [26]
 
-Package natbib Warning: Citation `Thuiller2013' on page 26 undefined on input l
-ine 1014.
-
-
-Package natbib Warning: Citation `Kearney2004' on page 26 undefined on input li
-ne 1016.
+Package natbib Warning: Citation `Thuiller2013' on page 27 undefined on input l
+ine 1011.
 
 
-Package natbib Warning: Citation `Rosindell2011' on page 26 undefined on input 
-line 1019.
+Package natbib Warning: Citation `Kearney2004' on page 27 undefined on input li
+ne 1013.
 
 
-Package natbib Warning: Citation `Parmesan2006' on page 26 undefined on input l
-ine 1020.
+Package natbib Warning: Citation `Rosindell2011' on page 27 undefined on input 
+line 1016.
 
 
-Package natbib Warning: Citation `Lavergne2010' on page 26 undefined on input l
+Package natbib Warning: Citation `Parmesan2006' on page 27 undefined on input l
+ine 1017.
+
+
+Package natbib Warning: Citation `Lavergne2010' on page 27 undefined on input l
+ine 1018.
+
+
+Package natbib Warning: Citation `Thuiller2013' on page 27 undefined on input l
 ine 1021.
 
 
-Package natbib Warning: Citation `Thuiller2013' on page 26 undefined on input l
-ine 1024.
+Package natbib Warning: Citation `Guisan2011' on page 27 undefined on input lin
+e 1028.
 
 
-Package natbib Warning: Citation `Guisan2011' on page 26 undefined on input lin
-e 1031.
-
-
-Overfull \hbox (14.70563pt too wide) in paragraph at lines 1012--1032
+Overfull \hbox (14.70563pt too wide) in paragraph at lines 1009--1029
 []\OT1/txr/m/n/12 L'effort th[]eorique n[]ecessaire en biog[]eographie porte su
 r l'int[]egration or-donn[]ee de concepts
  []
 
-[26]
 
 Package natbib Warning: Citation `MacArthur1967' on page 27 undefined on input 
-line 1036.
+line 1033.
 
 
-Overfull \hbox (3.34161pt too wide) in paragraph at lines 1033--1045
+Overfull \hbox (3.34161pt too wide) in paragraph at lines 1030--1042
 \OT1/txr/m/n/12 int[]egratifs en re-par-tant d'un mod[]ele th[]eorique clas-siq
 ue, ce-lui de la th[]eorie de la biog[]eographie
  []
 
+[27]
 
-Package natbib Warning: Citation `MacArthur1967' on page 27 undefined on input 
-line 1053.
+Package natbib Warning: Citation `MacArthur1967' on page 28 undefined on input 
+line 1050.
 
 
-Package natbib Warning: Citation `MacArthur1984' on page 27 undefined on input 
-line 1055.
+Package natbib Warning: Citation `MacArthur1984' on page 28 undefined on input 
+line 1052.
 
-[27] [28] [29]
+[28] [29]
 
 Package natbib Warning: Citation `Levin1974' on page 30 undefined on input line
- 1137.
+ 1134.
 
 
 Package natbib Warning: Citation `Godsoe2012' on page 30 undefined on input lin
-e 1142.
+e 1139.
 
 
 Package natbib Warning: Citation `Holt2009' on page 30 undefined on input line 
-1144.
+1141.
 
 
 Package natbib Warning: Citation `Davis1998' on page 30 undefined on input line
- 1147.
+ 1144.
 
 
 Package natbib Warning: Citation `Gotelli2010' on page 30 undefined on input li
-ne 1150.
+ne 1147.
 
 
 Package natbib Warning: Citation `Kissling2011' on page 30 undefined on input l
-ine 1152.
+ine 1149.
 
 
 Package natbib Warning: Citation `Guisan2011' on page 30 undefined on input lin
-e 1152.
+e 1149.
 
 
 Package natbib Warning: Citation `Jabot2012' on page 30 undefined on input line
- 1155.
+ 1152.
 
 
 Package natbib Warning: Citation `Gravel2011b' on page 30 undefined on input li
-ne 1159.
+ne 1156.
+
+[30]
+
+Package natbib Warning: Citation `Poisot2012' on page 31 undefined on input lin
+e 1166.
 
 
-Package natbib Warning: Citation `Poisot2012' on page 30 undefined on input lin
-e 1169.
+Package natbib Warning: Citation `Defossez2011' on page 31 undefined on input l
+ine 1169.
 
 
-Package natbib Warning: Citation `Defossez2011' on page 30 undefined on input l
-ine 1172.
+Package natbib Warning: Citation `Brooker2006' on page 31 undefined on input li
+ne 1170.
 
 
-Package natbib Warning: Citation `Brooker2006' on page 30 undefined on input li
-ne 1173.
+Package natbib Warning: Citation `Canham2006' on page 31 undefined on input lin
+e 1170.
 
 
-Package natbib Warning: Citation `Canham2006' on page 30 undefined on input lin
-e 1173.
+Package natbib Warning: Citation `Peterson2011' on page 31 undefined on input l
+ine 1173.
 
 
-Package natbib Warning: Citation `Peterson2011' on page 30 undefined on input l
-ine 1176.
+Package natbib Warning: Citation `Araujo2007' on page 31 undefined on input lin
+e 1177.
 
 
-Package natbib Warning: Citation `Araujo2007' on page 30 undefined on input lin
-e 1180.
+Package natbib Warning: Citation `Martinez2012' on page 31 undefined on input l
+ine 1180.
 
 
-Package natbib Warning: Citation `Martinez2012' on page 30 undefined on input l
-ine 1183.
-
-
-Overfull \hbox (7.38557pt too wide) in paragraph at lines 1163--1184
+Overfull \hbox (7.38557pt too wide) in paragraph at lines 1160--1181
 \OT1/txr/m/n/12 mances dans diff[]erents mi-lieux du fait de leur phy-sio-lo-gi
 e, pour les m[]emes esp[]eces consid[]er[]ees,
  []
 
-[30] [31]
-Overfull \hbox (1.79715pt too wide) in paragraph at lines 1231--1241
+[31]
+Overfull \hbox (1.79715pt too wide) in paragraph at lines 1228--1238
 \OT1/txr/m/n/12 montre que ve-ge-tai-ton est in-port-nates ce qui eim-plique de
 s inb-te-rac-tions. Th[]eorie al-lom[]etrique
  []
 
 [32]
-Overfull \hbox (13.03755pt too wide) in paragraph at lines 1271--1274
+Overfull \hbox (13.03755pt too wide) in paragraph at lines 1268--1271
 []\OT1/txr/m/n/12 Information dans les dis-tri-bu-tions ge-cko aus-tra-lien g[]
 en[]eraliste \OT1/txr/m/it/12 He-te-ro-no-tia bi-noei \OT1/txr/m/n/12 =\OML/txm
 i/m/it/12 > \OT1/txr/m/n/12 alors
@@ -1371,99 +1365,103 @@ i/m/it/12 > \OT1/txr/m/n/12 alors
 [33]
 
 Package natbib Warning: Citation `Breshears1998' on page 34 undefined on input 
-line 1303.
+line 1300.
 
 
 Package natbib Warning: Citation `Peterson2011' on page 34 undefined on input l
-ine 1306.
+ine 1303.
 
 [34]
-Overfull \hbox (3.31279pt too wide) in paragraph at lines 1343--1348
+Overfull \hbox (3.31279pt too wide) in paragraph at lines 1340--1345
 []\OT1/txr/m/n/12 La bonne unit[]e d'ana-lyse ? D'o[]u parti r ? la ques-tion a
  []et[]e pour-quoi il y a au-tant d'esp[]eces
  []
 
 
-Overfull \hbox (9.5564pt too wide) in paragraph at lines 1361--1364
+Overfull \hbox (9.5564pt too wide) in paragraph at lines 1358--1361
 []\OT1/txr/m/n/12 Araujo, M.B., Rah-bek, C., 2006. How Does Cli-mate Change Af-
 fect Bio-di-ver-sity ? Science
  []
 
 [35]
-Overfull \hbox (1.81416pt too wide) in paragraph at lines 1379--1383
+Overfull \hbox (1.81416pt too wide) in paragraph at lines 1376--1380
 \OT1/txr/m/n/12 cli-mate change on the fu-ture of bio-di-ver-sity. Eco-logy let
 -ters 15, 365--377. doi :[][]10.1111/j.1461-
  []
 
-
-Overfull \hbox (8.24617pt too wide) in paragraph at lines 1414--1423
+[36]
+Overfull \hbox (8.24617pt too wide) in paragraph at lines 1411--1420
 \OT1/txr/m/n/12 spe-cies' dis-tri-bu-tions from oc-cur-rence data. Eco-gra-phy 
 29, 129--151. doi :[][]10.1111/j.2006.0906-
  []
 
-[36]
-Overfull \hbox (1.87288pt too wide) in paragraph at lines 1456--1461
+
+Overfull \hbox (9.293pt too wide) in paragraph at lines 1434--1438
+\OT1/txr/m/n/12 C., 2013. A Mi-to-ge-no-mic Phy-lo-geny of Li-ving Pri-mates. P
+LoS ONE 8, 1--10. doi :[][]10.1371/jour-
+ []
+
+[37]
+Overfull \hbox (1.87288pt too wide) in paragraph at lines 1459--1464
 []\OT1/txr/m/n/12 Hortal, J., Diniz-Filho, J.A.F., Bini, L.M., Rodr[]^^Pguez, M
 .[]A., Ba-selga, A., Nogu[]es-Bravo,
  []
 
 
-Overfull \hbox (25.25017pt too wide) in paragraph at lines 1456--1461
+Overfull \hbox (25.25017pt too wide) in paragraph at lines 1459--1464
 \OT1/txr/m/n/12 and di-ver-sity pat-terns of Eu-ro-pean dung beetles. Eco-logy 
 Let-ters 14, 741--748. doi :[][]10.1111/j.1461-
  []
 
-[37] [38]
-Overfull \hbox (41.84067pt too wide) in paragraph at lines 1543--1545
+[38]
+Overfull \hbox (41.84067pt too wide) in paragraph at lines 1546--1548
 []\OT1/txr/m/n/12 McCann, K.S., 2000. The diversity-stability de-bate. Na-ture 
 405, 228--33. doi :[][]10.1038/35012234[][] 
  []
 
 
-Overfull \hbox (41.93448pt too wide) in paragraph at lines 1553--1557
+Overfull \hbox (41.93448pt too wide) in paragraph at lines 1556--1560
 \OT1/txr/m/n/12 2002. Single-species mo-dels for many-species food webs. Na-tur
 e 417, 541--543. doi :[][]10.1038/417541a[][] 
  []
 
-
-Overfull \hbox (2.959pt too wide) in paragraph at lines 1569--1573
+[39]
+Overfull \hbox (2.959pt too wide) in paragraph at lines 1572--1576
 \OT1/txr/m/n/12 evo-lu-tio-nary de-mo-gra-phy of eco-lo-gi-cal change : Lin-kin
 g trait va-ria-tion and po-pu-la-tion growth.
  []
 
 
-Overfull \hbox (5.06616pt too wide) in paragraph at lines 1575--1579
+Overfull \hbox (5.06616pt too wide) in paragraph at lines 1578--1582
 \OT1/txr/m/n/12 si-mi-la-rity of spe-cies in-ter-ac-tion net-works. Eco-logy le
 t-ters 15, 1353--61. doi :[][]10.1111/ele.12002[][] 
  []
 
-[39]
-Overfull \hbox (29.24692pt too wide) in paragraph at lines 1597--1601
+
+Overfull \hbox (29.24692pt too wide) in paragraph at lines 1606--1610
 \OT1/txr/m/n/12 nary and eco-lo-gi-cal dy-na-mics. Science (New York, N.Y.) 331
 , 426--9. doi :[][]10.1126/science.1193954[][] 
  []
 
 
-Overfull \hbox (16.55786pt too wide) in paragraph at lines 1603--1606
+Overfull \hbox (16.55786pt too wide) in paragraph at lines 1612--1615
 \OT1/txr/m/n/12 nual Re-view of Eco-logy and Sys-te-ma-tics 5, 161--182. doi :[
 ][]10.1146/an-nu-rev.es.05.110174.001113[][] 
  []
 
-
-Overfull \hbox (71.87015pt too wide) in paragraph at lines 1613--1617
+[40]
+Overfull \hbox (71.87015pt too wide) in paragraph at lines 1622--1626
 \OT1/txr/m/n/12 tion sa-guaro range ex-pan-sion. Jour-nal of Arid En-vi-ron-men
 ts 116, 57--62. doi :[][]10.1016/j.jaridenv.2015.02.004[][] 
  []
 
-[40]
-Overfull \hbox (9.36217pt too wide) in paragraph at lines 1646--1650
+
+Overfull \hbox (9.36217pt too wide) in paragraph at lines 1655--1659
 \OT1/txr/m/n/12 of the Pro-cee-dings of the Lin-nean So-ciety of Lon-don. Zoo-l
 ogy 4, 172--184. doi :[][]10.1111/j.1096-
  []
 
-) [41] [42
-
-]
+[41]) [42]
 Package cleveref Info: loaded `english' language definitions on input line 133.
 
  (./chapitre1/chap1.tex
@@ -1479,6 +1477,7 @@ vi-sion tr[]es puis-sante de la biog[]eographie
  []
 
 [43
+
 
 ] [44]
 
@@ -1861,7 +1860,7 @@ Overfull \hbox (1.56554pt too wide) in paragraph at lines 258--259
 -nectance gra-di-ents. \OT1/txr/m/n/12 We com-
  []
 
-[71] <./chapitre1/table1.pdf, id=1026, 538.60861pt x 124.20102pt>
+[71] <./chapitre1/table1.pdf, id=1033, 538.60861pt x 124.20102pt>
 File: ./chapitre1/table1.pdf Graphic file (type pdf)
 
 <use ./chapitre1/table1.pdf>
@@ -1882,7 +1881,7 @@ Package epstopdf Info: Source file: <./chapitre1/fig1.eps>
 rted-to.pdf ./chapitre1/fig1.eps>
 (epstopdf)             \includegraphics on input line 285.
 Package epstopdf Info: Output file is already uptodate.
-<./chapitre1/fig1-eps-converted-to.pdf, id=1027, 650.43pt x 198.7425pt>
+<./chapitre1/fig1-eps-converted-to.pdf, id=1034, 650.43pt x 198.7425pt>
 File: ./chapitre1/fig1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./chapitre1/fig1-eps-converted-to.pdf>
@@ -1900,7 +1899,7 @@ rted-to.pdf ./chapitre1/fig2.eps>
 (epstopdf)             \includegraphics on input line 297.
 Package epstopdf Info: Output file is already uptodate.
 
-<./chapitre1/fig2-eps-converted-to.pdf, id=1028, 433.62pt x 389.455pt>
+<./chapitre1/fig2-eps-converted-to.pdf, id=1035, 433.62pt x 389.455pt>
 File: ./chapitre1/fig2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./chapitre1/fig2-eps-converted-to.pdf>
@@ -1919,7 +1918,7 @@ Package epstopdf Info: Source file: <./chapitre1/fig3.eps>
 rted-to.pdf ./chapitre1/fig3.eps>
 (epstopdf)             \includegraphics on input line 309.
 Package epstopdf Info: Output file is already uptodate.
-<./chapitre1/fig3-eps-converted-to.pdf, id=1091, 433.62pt x 389.455pt>
+<./chapitre1/fig3-eps-converted-to.pdf, id=1102, 433.62pt x 389.455pt>
 File: ./chapitre1/fig3-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./chapitre1/fig3-eps-converted-to.pdf>
@@ -1938,7 +1937,7 @@ rted-to.pdf ./chapitre1/fig4.eps>
 (epstopdf)             \includegraphics on input line 321.
 Package epstopdf Info: Output file is already uptodate.
 
-<./chapitre1/fig4-eps-converted-to.pdf, id=1110, 650.43pt x 216.81pt>
+<./chapitre1/fig4-eps-converted-to.pdf, id=1121, 650.43pt x 216.81pt>
 File: ./chapitre1/fig4-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./chapitre1/fig4-eps-converted-to.pdf>
@@ -1957,7 +1956,7 @@ rted-to.pdf ./chapitre1/fig5.eps>
 (epstopdf)             \includegraphics on input line 333.
 Package epstopdf Info: Output file is already uptodate.
 
-<./chapitre1/fig5-eps-converted-to.pdf, id=1129, 650.43pt x 230.8625pt>
+<./chapitre1/fig5-eps-converted-to.pdf, id=1141, 650.43pt x 230.8625pt>
 File: ./chapitre1/fig5-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./chapitre1/fig5-eps-converted-to.pdf>
@@ -2302,7 +2301,7 @@ Package epstopdf Info: Source file: <./chapitre2/fig1.eps>
 rted-to.pdf ./chapitre2/fig1.eps>
 (epstopdf)             \includegraphics on input line 539.
 Package epstopdf Info: Output file is already uptodate.
-<./chapitre2/fig1-eps-converted-to.pdf, id=1273, 1156.32pt x 317.185pt>
+<./chapitre2/fig1-eps-converted-to.pdf, id=1286, 1156.32pt x 317.185pt>
 File: ./chapitre2/fig1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./chapitre2/fig1-eps-converted-to.pdf>
@@ -2732,9 +2731,9 @@ Overfull \hbox (5.52486pt too wide) in paragraph at lines 263--274
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.285 \hypertarget{refs}{}
+l.288 \hypertarget{refs}{}
                           
-Overfull \hbox (74.32588pt too wide) in paragraph at lines 295--300
+Overfull \hbox (74.32588pt too wide) in paragraph at lines 298--303
 \OT1/txr/m/n/12 Na-tio-nal Aca-demy of Sciences of the Uni-ted States of Ame-ri
 ca 105, 13930--5. doi :[][]10.1073/pnas.0803834105[][] 
  []
@@ -2743,9 +2742,9 @@ pdfTeX warning (ext4): destination with the same identifier (name{ref-Pearson20
 03}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.307 \hypertarget{ref-Pearson2003}{}
+l.310 \hypertarget{ref-Pearson2003}{}
                                      
-Overfull \hbox (3.15816pt too wide) in paragraph at lines 319--323
+Overfull \hbox (3.15816pt too wide) in paragraph at lines 322--326
 \OT1/txr/m/n/12 do-cu-men-ting spe-cies de-clines. Trends in Eco-logy & Evo-lu-
 tion 13, 27--30. doi :[][]10.1016/S0169-
  []
@@ -2779,45 +2778,78 @@ Package rerunfilecheck Warning: File `thesekc.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `thesekc.out':
-(rerunfilecheck)             Before: E511D52F8D796B1F37DB1D06C0EE7A2B;6706
-(rerunfilecheck)             After:  47EA40D2AF6B7E78DD326A801F2B7615;6726.
+(rerunfilecheck)             Before: 47EA40D2AF6B7E78DD326A801F2B7615;6726
+(rerunfilecheck)             After:  D2A889A605DD854ABFF2068F03E6F94C;6765.
 
 LaTeX Warning: There were multiply-defined labels.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 177.
  ) 
 Here is how much of TeX's memory you used:
- 16130 strings out of 493014
- 249489 string characters out of 6133351
+ 16142 strings out of 493014
+ 249646 string characters out of 6133351
  406183 words of memory out of 5000000
- 18895 multiletter control sequences out of 15000+600000
+ 18893 multiletter control sequences out of 15000+600000
  36580 words of font info for 86 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  37i,17n,38p,2392b,954s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
-exlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/te
-xlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/texl
-ive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texli
-ve/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive
-/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2
-016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2016
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/
-texmf-dist/fonts/type1/public/txfonts/rtcxb.pfb></usr/local/texlive/2016/texmf-
-dist/fonts/type1/public/txfonts/rtxb.pfb></usr/local/texlive/2016/texmf-dist/fo
-nts/type1/public/txfonts/rtxi.pfb></usr/local/texlive/2016/texmf-dist/fonts/typ
-e1/public/txfonts/rtxmi.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/pub
-lic/txfonts/rtxr.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/txf
-onts/txex.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/txfonts/tx
-sy.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/txfonts/txsyb.pfb
-></usr/local/texlive/2016/texmf-dist/fonts/type1/public/txfonts/txtt.pfb></usr/
-local/texlive/2016/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texl
-ive/2016/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2016/
-texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist
-/fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesekc.pdf (162 pages, 1451396 bytes).
+pdfTeX warning (dest): name{figure.caption.54} has been referenced but does n
+ot exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{table.caption.52} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.45} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.43} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.41} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.39} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{table.caption.35} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.37} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.68} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.58} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.22} has been referenced but does not exist
+, replaced by a fixed one
+
+{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/tex
+live/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texl
+ive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/texliv
+e/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive
+/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2
+016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/201
+6/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2016/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/te
+xmf-dist/fonts/type1/public/txfonts/rtcxb.pfb></usr/local/texlive/2016/texmf-di
+st/fonts/type1/public/txfonts/rtxb.pfb></usr/local/texlive/2016/texmf-dist/font
+s/type1/public/txfonts/rtxi.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1
+/public/txfonts/rtxmi.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/publi
+c/txfonts/rtxr.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/txfon
+ts/txex.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/txfonts/txsy
+.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/txfonts/txsyb.pfb><
+/usr/local/texlive/2016/texmf-dist/fonts/type1/public/txfonts/txtt.pfb></usr/lo
+cal/texlive/2016/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texliv
+e/2016/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2016/te
+xmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/f
+onts/type1/urw/times/utmri8a.pfb>
+Output written on thesekc.pdf (162 pages, 1453672 bytes).
 PDF statistics:
- 1705 PDF objects out of 1728 (max. 8388607)
- 1463 compressed objects within 15 object streams
- 421 named destinations out of 1000 (max. 500000)
+ 1727 PDF objects out of 1728 (max. 8388607)
+ 1485 compressed objects within 15 object streams
+ 435 named destinations out of 1000 (max. 500000)
  734 words of extra memory for PDF output out of 10000 (max. 10000000)
 
