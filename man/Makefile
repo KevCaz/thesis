@@ -23,7 +23,7 @@ CSL = elsevier-harvard.csl
 PFLAGS = --filter pandoc-fignos --filter pandoc-tablenos --bibliography=$(REF) --csl=$(CSL) --latex-engine=pdflatex
 
 
-ALL: $(PDF) $(PDFC) $(DOCX) #$(THES)
+ALL: $(PDF) $(PDFC) $(DOCX) $(THES)
 
 $(THES): $(SRC) $(INTR) $(CHP3) $(CCL)
 	pdflatex $(SRC)

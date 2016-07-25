@@ -13,9 +13,9 @@
 \contentsline {subsection}{Enjeux de la connaisssance de la r\IeC {\'e}partition g\IeC {\'e}ographique des esp\IeC {\`e}ces}{6}{section*.8}
 \contentsline {subsection}{Travail th\IeC {\'e}orique et mod\IeC {\'e}lisation}{8}{section*.9}
 \contentsline {subsubsection}{Rassembler et int\IeC {\'e}grer des faits}{8}{section*.10}
-\contentsline {subsubsection}{Cadre de d\IeC {\'e}velopement des id\IeC {\'e}es}{9}{section*.11}
+\contentsline {subsubsection}{Des mod\IeC {\`e}les pour explorer la th\IeC {\'e}orie}{9}{section*.11}
 \contentsline {subsubsection}{Nouvelles pr\IeC {\'e}dictions}{10}{section*.12}
-\contentsline {section}{Distributions d'esp\IeC {\`e}ces, les forces en pr\IeC {\'e}sence}{11}{section*.13}
+\contentsline {section}{R\IeC {\'e}partition g\IeC {\'e}ographiques des esp\IeC {\`e}ces, les forces en pr\IeC {\'e}sence}{11}{section*.13}
 \contentsline {subsection}{Biog\IeC {\'e}ographie historique}{11}{section*.14}
 \contentsline {subsection}{Capact\IeC {\'e}s de dispersion et structure du payasage et \IeC {\'e}changes de g\IeC {\`e}nes}{12}{section*.15}
 \contentsline {subsection}{Environnement abiotique et distribution des esp\IeC {\`e}ces}{14}{section*.16}
