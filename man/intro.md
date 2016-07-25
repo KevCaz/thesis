@@ -123,27 +123,17 @@ Dans ma thèse j'ai essayé d'utilisé les mathématiques pour développer des m
 
 [^arabi]: Il s'agit de la plante modèle par excellence le génome le permier à être séquencé chez les plantes [@TheArabidopsisGenomeInitiative2000].
 
+<!-- 'The types of questions we pose and the types of observations we make bear witness to our preconceptions. There is no way to get rid of them. There is nothing wrong with this, but we should be aware of it. When we look around us we actually see mirrors of our ideas. We can try to change ourselves on the basis of what we see, but we cannot do without the projections we impose on reality. Observations and statements span the full range from facts via interpretation to abstract ideas. The more abstract the idea, the more important the mirror effect.' Kojjman -->
 
 
 
 ### Nouvelles prédictions {-}
 
-La développement théorique des évidences c'est le triomphe de Higgs et de Einstein si les premiers developemnts sont corrcetes alors on devrait avoir pour corrolaire ça ca et ça. Ma démarche un peu différente mais aussi prédiction qui semnble marcher.
-
-
-'The types of questions we pose and the types of observations we make bear witness to our preconceptions. There is no way to get rid of them. There is nothing wrong with this, but we should be aware of it. When we look around us we actually see mirrors of our ideas. We can try to change ourselves on the basis of what we see, but we cannot do without the projections we impose on reality. Observations and statements span the full range from facts via interpretation to abstract ideas. The more abstract the idea, the more important the mirror effect.' Kojjman
-
-Tentatove de modéliser toutes les espèces à l'échelles de la terre entière alors qu'on est capable de généres dynamiques chaotiques à partir d'une seule espèces. Attention je ne veux pas dire que les premières tentatives sont vaines et je ne méprends pas sur la dynamqiue chaotique, j'indique simplement que s'il y a des cas de population isolés où a dynaqieu ne peut être connu à sans une précision initiale sur les coniditon initiales on peut se demander comment cela peut être extrapoller. Mais la enocre il y qeulques chsoses d'intéressant cconneitre abondance compotioon excate peucvent être connu à une èchelle de temps courte = métérolge alors peut-être qu'au échelle plus large des entité plus grande = climatologie de la biodiversité !
-
-approhe modulaire => rupture de symétrie
-
-J'explore quelques dualié propre à l'acte de modélisation que j'applique ultiment au champd e la biogéogroahie
-
-surtout avec les triomphes récents de la découverte expéimentale Boson de Higgs et de la double détection des ondes grvitationelles
-Rassurons nous les physiciens ont encore bien des parties sonmbres àexplorer : matière noire et energie noire et du boulot en masse pour ecologues / economistes peut-être que les foralimes que nous empreintons à ces disciplines ne sont pas les bons... Comme dit le phylodophe Sachs dans sa biodiversité c'est trop historiques qu'un concepte comme le fitness n,est peutêtre pas bien mis en equation dans une forme physique
+Après l'établissent d'un théorie suportée par un certain nombre de fait, le cadre conceptuel qu'elle propose étant travailler autour de travaux expérimentaux et de modélisations, de nouvelles prédictions émergent. La vérificaton des prédictions autour de nouvelles expérience et si elles sont vérfiée la théorie en sera renforcer. Ces dernières années, la physique nous a donnée des exemples très importants ces dernières années de vérification de théorie énoncée bien avant que les outils permettant de mettre au point leur vérification existent : la détection, validée en 2012, du Boson de Higgs dont l'éxistence a été prédite énoncée en 1964[^det] et la détection des ondes gravitationelles cette année soit 100 ans après qu'Einstein en ait prédit l'existence [@Waldrop2016]. Dans le cadre de la biogéographie, la validation d'une théorie puissant em Biogéogrpahie pourrait être possible si les aires de répartition futurtee sont préditcte correctment et si les pertes d'espèces, les conséquence de l'introduction de telles ou telle espèces sont validées. Pour y parvenir, cela demande d'être en mesure de connaître l'ensemble des nécanimses qui interviennet dans le tracé des aires de répartiton, comment ces pricessus interagissent et quels sont leurs imprtances relatives. 
 
 
 
+[^det]: Pour plus de détail au bulletin du CERN  [http://cds.cern.ch/journal/CERNBulletin/2012/28/News%20Articles/1459456?ln=fr][http://cds.cern.ch/journal/CERNBulletin/2012/28/News%20Articles/1459456?ln=fr]
 
 
 
