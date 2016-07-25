@@ -154,19 +154,18 @@ Les processus de grande amplitude temporelle sont cependant dominés par le poid
 
 
 
-## Capactés de dispersion et structure du payasage {-}
+## Capactés de dispersion {-}
 <!-- et échanges de gènes  -->
 
-La remonté nordique des bouziers depuis le dernier maximum glacier signalé au pargraphe précédent est sans doute lié à des évènemnets de dispersion à l'échelle individuel. Le mouvement des individus les conduit au fil des générations à se disperser et si le milieu est favorable à y perdurer. Ces mouvements individules ont des répercusssions à l'échelles de l'espèce.  Il s'agit là d'un moteur essentiel de la répartition des espèces : le lien à l'espace. Même les espèces sessile omt des capacit.s de dispersion par la production de semence disséminé par toute sorte de mécanisme. La diffusion des organimes est inévitable comme une forme d'entropie, cette comparaison est intéressante car elle montre que des mouvements stochaistqies conduisent à une forme de dispersion assez prévisible.
+La remonté nordique des bouziers depuis le dernier maximum glacier signalé au pargraphe précédent est sans doute liée à des évènemnets de dispersion individuel. Au cours de leur vie, les bouziers parcourent de grandes distances à la recherche de nouriture, s'ils établissent leur terrier un peu plus au nord au fil des générations, l'aire de répartition s'étendra également plus au nord à condition que les mouvements individuels soient assez abindant pour permettre à une population de se péreiniser en ces nouvelles latitudes. Ce qui est vrai pour ce groupe d'espèce mobile l'est égalemnt pour des espèces sessiles commes les plantes qui possèdent égalemnt des capacités de disperion liée à la dissimination de leurs semences par des mécanimes très diversifiés. Ce rapport à l'espace des différents organismes est une forme de diffusion: des mouvements stpchastiques qui aboutissent pour des questions de probabilités à une augmentation de la répartition, mais cette diffusion n'est pas complètemnet libre.
 
-Le cadre de diffusion est néanmoins cintraint par la structure du paysage. On peut parler de conraintes physique : vallé encastré autour de montanges difficiles à passée, une rivière, des vents ou des courants dominants qui dirigent les mouvemnets de dispersion. Mais aussi le climat dans arrivés, les différentes espèces en présene. Aussi contraintes les échemnges entre population et modelée les flux de gènes qui traversent les popylatons (Metapopultion ont montré que différents porblème oour abirder [@Leibold2004]).
+Plusieurs type de contraintes limitent l'élargissemnt de l'aire de répartition d'une espèce. Si on se focalisent sur une espèces terrestres, les mers et les océans sont des obstacles majeurs à la colonisation de nuvelles terres. A l'échelle du régionale, les rivivères, les haits reliefs peuvent limiter fornatemnt la dispersion d'une espèce. De même pour les plantes dissiminat par le vent, ces derniers peuvent fortemnt influencer le vitesses et direction de la propagation des espcèes. Enfin à l'échelle du paysage, il existe très souvent une mosaique d'habitat squi sont plus ou moins favorables à la dispersion d'un espèce. Toutes ces possibilités sont complexes à intégrer et c'est en partie pour cela que la théorie en Biogéographie a été fondé sur les îles : les flux de colonisateurs sont plus faciles à identifier.
 
-Mais des conséquence prévisibles expérice de d.foliation. Après avoir défolié
+L'expérience historique de Simberloff et Wilson dans laquelle ils ont éradiqué la faune de six îlots de mangrove rouge dans la Baie de Floride à montrer qu'en une année, la richesse spécifique en insecte était similaire à celle constatée avant de commencer l'expérience [@Simberloff1969a]. Ainsi, les évènemnents de colonisation bien qu'individuel peuvent être assez fréquents pour et conduire à l'établissement de population et même d'une communauté locale d'insecte. Cette abondance des migrants est aussi à traduire en terme génétique car plus il et fort pus il conduit au brassage de la communauté locale avec la communauté régionale, les espèces ont donc des probabilités moindres de se séparer.
 
+A l'échelle d'un continent, malgré les divers obstacles physiques existant, il est très probable qu'une espèce donnée puisse, en un temps plus ou moins long, atteindre n'importe quelle zone du continent. Cependant, le plus souvent, les aires de répartition des espèces sont le plus souvent limitée à une portion du continent. Pour comprendre ces restrictions, il faut invoquer des différences d'adaptation des espèces aux différentes conditions environnementales.
 
-
-
-<!-- De manière générale, l'espèce doit pouvoir répondre à l'ensemble de ses dépenses énergétiques pour survivre et éventuellement se reproduire \cite{Holt2009a}. La dernière condition n'est pas indispensable : la présence d'une espèce peut résulter d'une permanente colonisation \cite{Leibold2004}. Cet espace des variables environnementales dans lequel une survie d'une population est possible, nous l'appellerons niche écologique. Ce terme est l'objet de vif débat \cite{Chase2003} que nous éviterons en rappelant la définition employé. Nous palerons ici de niche fondamentale pour désigner l'ensemble des variables \textit{scenopoetiques} et niche réalisée lorsque la composante biotique intervient, même indirectement. -->
+<!-- De manière générale, l'espèce doit pouvoir répondre à l'ensemble de ses dépenses énergétiques pour survivre et éventuellement se reproduire \cite{Holt2009a}. La dernière condition n'est pas indispensable : la présence d'une espèce peut résulter d'une permanente colonisation \cite{Leibold2004}.  -->
 
 <!--
 - diversité => crombie crombie 1946 diversité d'habitat and coexitence (article repis dan MacArthur).
@@ -174,7 +173,7 @@ Mais des conséquence prévisibles expérice de d.foliation. Après avoir défol
 
 
 
-## Environnement abiotique et distribution des espèces {-}
+## Contraintes abiotiques et niche fondamentale {-}
 
 Dans le chapitre 6 de son livre de 1972 *Geographical Ecology* @macarthur1972geographical présente l'importance des contraintes climatiques à travers l'exemple de l'aire de répartition du cactus Saguaro (*Cereus giganteus* dans le livre mais aujourd'hui *Carnegiea gigantea*,  http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=506151). Ce résident du désert de Sonora est sensible au gel et ne peut resister à une exposition de quelques dizaines d'heures au gel. Cette contrainte physiologique explique bien les limites nord et est de sa répartition. Pour la limite sud (la limite à l'ouest étant l'océan pacifique), il semble que l'abondance des pluie hivernale ne lui soit pas favorable. Ces résulats semble confirmer ar des travaux récents qui prédise un changement et ajoutent que le l'augnetation du feu pourrait avoir des conséquences négatives sur cette expansion [@Springer2015]. Cette démarche de recherche active des limites climatiques recoupée aux limites phuysiologiques est la détermination de la niche fundamnetal. Cette approche a été poussé à son paroxysme dans l'article de Kearney et Porter sur le petit gecko australien nocturne *Heteronotia binoei* [@Kearney2004]. Ils ont montrés qu'en combinant des mesures physiologiques (dont le taux métaboliques au repos, le température cumulées nécessaire au bon développement des oeufs et des mesures de températures charactéristiques) avec des données climatiques, les rpobbailités d'observations et les obsevatuons corrélaient et que cela fondait la démarche prédictive de s'apuyer sur les scénarios de changement climatiques pour aller essayer de comprender les réaprtitions futures.
 
@@ -182,6 +181,7 @@ Cette approche s'apparentent à la recherche de facteurs limitants qui sont le r
 
 
 La niche fundamnetale est une contrainte de premier plan dircetemnt lié aux relation des un ancrage important de la biogéographie. La théorie doit non seulement permettre de comprendre mais aussi les articluations avec les autres composante de la biogéographie que je détaille ci-dessous. Importance théorique
+Cet espace des variables environnementales dans lequel une survie d'une population est possible, nous l'appellerons niche écologique. Ce terme est l'objet de vif débat \cite{Chase2003} que nous éviterons en rappelant la définition employé. Nous palerons ici de niche fondamentale pour désigner l'ensemble des variables \textit{scenopoetiques} et niche réalisée lorsque la composante biotique intervient, même indirectement.
 
 
 ## Réseaux d'interactions : interdépendance des espèces {-}
@@ -201,7 +201,7 @@ Il y a cependant deux problémes majeurs
 
 
 
-## Eco-evo dynamqieu {-}
+## Eco-evo dynamique {-}
 
 Retro action des processus évolutifs vers une synthèse @Schoener2011
 
