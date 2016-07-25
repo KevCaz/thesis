@@ -163,3 +163,8 @@ C'est impressionnant de voir comment un auteur en repartant de simple considéra
 => problème SDMS quand inférencefait sur les données d'espèces la force c'est d'avoir des mesures ++ et indépendante quelquee part c'est vrai mais la source d'inforation est très brouillé et on peut se demander se que l'on peut obtenir comme infornation....
 
 Nous contraignons énormément les ranges d'espèces alors nous sort de tout ça...
+
+
+<!-- L'ensemble des trois éléments jusqu'ici évoqués (environnement abiotique, interaction, évolution) peuvent également être étroitement associé. Grant et Grant 2006 rapportent le cas de la compétition entre trois espèces de pinsons (dits de Darwin) sur l'ile de Daphne (Galapagos) qui engendre une modification de la taille de leurs becs. Cette évolution liée à la compétition est elle même reliée à l'environnement abiotique car, par l'abondance ou l'absence de précipitations, il détermine la disponibilité des ressources et donc l'intensité de la compétition \cite{Grant2006}. A travers cet exemple, nous comprenons l'importance d'inclure l'ensemble des différents processus pour construire un modèle intégratif en biogéographie. Un tel modèle serait capable, par exemple, de renseigner les risques d'exclusion compétitive dans l'exemple décrit par Grant et Grant.
+
+ -->

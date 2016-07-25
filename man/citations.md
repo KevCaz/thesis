@@ -8,3 +8,5 @@ Et le petit prince ajouta :
 
 
 la modestie sied au savant, mais pas aux idées qui l'habitent et qu'il doit défendre (Jacques Monod dans la préface du hasard et de la nécessité)
+
+> In the first place we must remember that new species can only be formed when and where there is room for them. (Wallace :56)
