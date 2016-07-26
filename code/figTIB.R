@@ -42,12 +42,12 @@ addLetter <- function(n, lower=FALSE, side=3, adj=0, ...){
 }
 
 
-cex_let <- 1.4
+cex_let <- 1.6
 ##-- Figure
 pdf(filename, height=wi2, width=wi2)
 
-  layout(matrix(c(3,3,4,4,1,1,1,2), nrow=2, byrow=TRUE), heights=c(.8,1))
-  par(mar=c(4,4,1,.5), mgp=c(1.8,0.6,0))
+  layout(matrix(c(1,1,1,2,3,3,4,4), nrow=2, byrow=TRUE), heights=c(1,0.8))
+  par(mar=c(4,4,3,.5), mgp=c(1.8,0.6,0))
   ##
   plot0(c(0,100),c(0,0.44))
   mycol <- c(colb1,colg3)
@@ -61,7 +61,7 @@ pdf(filename, height=wi2, width=wi2)
   points(c(16.53,82.92), c(0.08,0.08), col=c(colb1,colg3), cex=2.2, pch=19)
   legend("top", c("Colonisation", "Extinction"), cex=1.5, lty=c(1,4), ncol=1, bty="n", col=colg3, lwd=3, seg.len=4)
   # axis(1,at=c(16.53,82.92), lwd=0, lwd.ticks=1, labels=c("1", "2"), tck=.04, cex.axis=1.8)
-  addLetter(3, cex=cex_let)
+  addLetter(1, cex=cex_let)
   ##
   par(mar=c(4,0,1,.5))
   plot0(c(0,10),c(0,10))
@@ -74,9 +74,9 @@ pdf(filename, height=wi2, width=wi2)
 
   par(mar=c(1,1,3,.5))
   plotImage(file="./code/fig4MW.png")
-  addLetter(1, cex=cex_let)
+  addLetter(2, cex=cex_let)
   ##
   plotImage(file="./code/fig5MW.png")
-  addLetter(2,cex=cex_let)
+  addLetter(3,cex=cex_let)
 
 dev.off()

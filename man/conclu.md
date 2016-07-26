@@ -168,3 +168,9 @@ Nous contraignons énormément les ranges d'espèces alors nous sort de tout ça
 <!-- L'ensemble des trois éléments jusqu'ici évoqués (environnement abiotique, interaction, évolution) peuvent également être étroitement associé. Grant et Grant 2006 rapportent le cas de la compétition entre trois espèces de pinsons (dits de Darwin) sur l'ile de Daphne (Galapagos) qui engendre une modification de la taille de leurs becs. Cette évolution liée à la compétition est elle même reliée à l'environnement abiotique car, par l'abondance ou l'absence de précipitations, il détermine la disponibilité des ressources et donc l'intensité de la compétition \cite{Grant2006}. A travers cet exemple, nous comprenons l'importance d'inclure l'ensemble des différents processus pour construire un modèle intégratif en biogéographie. Un tel modèle serait capable, par exemple, de renseigner les risques d'exclusion compétitive dans l'exemple décrit par Grant et Grant.
 
  -->
+
+
+
+ <!-- Une manière de voir les choses est de donenr par Clark (et repris par Dom) pou on essaye
+ Clark a suggérez que stochastique n,est pas savoir et que le but c'est de passé du pas au maximum vers le détermiste. Dans leur défense de la la théroy neutre Rosindell et al rétoquent que c'est plus subile il y a des modèles détermisites chatosque (et dont les développemtn avancé font au propriété statistique des attracteurs) quer cela de même Gravel et collègues.. Modèles en plus validée par des stats qui reposent sur des stochsiques.
+  -->
