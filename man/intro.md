@@ -217,39 +217,24 @@ La vie, telle que nous la connaissons, pérennise l'information accumulée au co
 
 Cela étant dit, les cause de la divergence de l'ADN sont multiples mais ce qui m'intéresse ici, ce sont que les variations puissent engendrer un différentiel démographique possitive dans un milieu nouvellement exploré par une population alors que cette même variation dans un autre milieu ne l'était pas. La vitesse des mécanimes semble bien plus rapide au point qu'il puissent être clef dans les changements climatiques [@Lavergne2010]. En 2009, Joan Balanyá et collègues puclient un article dans lequel ils comparent la composition génétique de la mouche *Drosophila subobscura* entre des échantillons contemporains et des échantillons prélevé 24 années auparavant en Europe et Amérique (où elle a été introduite accidentellement). Leurs résultats montrent que dans les zones de réchauffement climatique avéré, il y a aussi un changement de la composition génotypique avec une plus grande importance des génômes adaptés au  température plus chaudes [@Balanya2006].
 
-La preuve des conséquences des variations génétiques rapides et des conséquence sur la démographies des populations poussent les chercheurs à se demander si négliger ces processus dans les travaux de dynamiques de populations n'est pas porblématique [@Pelletier2009, @Post2009, @Schoener2011]. Takehito Yoshida et collègues montrent que la réponse des algues vertes unicellulaires *Chlorella vulgaris* aux rotifères *Brachionus calyciflorus* conduit à un changement dans la fréquence et la phase des cycles de la dynamiques proie prédateur [@Yoshida2003]. En 2009, une étude basée sur un suivi de plus de 20 ans d'une population de moutons Soay sur l'île d'Hirta dans l'archipel de Saint-Kilda (au nord-est de l'Écosse), Fanie Pelletier et collèges établissent les variations dans la taille corporelle des ovins, d'origine génétique, et les variation dans leur survie et leur reporduction, ils démontrent alors que les facteurs génétiques peuvent contribué jusqu'à 20% de la croissance de la population certaine année. Les conséquences des dynamique eco-evolutive et l'intégration des flux d'information génétiques sont certainemnt capitaux pour comprendre la biodiversité de demain [@Sexton2009, @Lavergne2010], nous sommes face à un enjeu appliqué important et pourtant nos connaissancse fondamentales resten insufisantes. Pour illustrer ces lacunes et l'urgence dans laquelle nous nus trouvons, je discute d'un exemple concret : l'invation européenne du frelon asiatique.
+La preuve des conséquences des variations génétiques rapides et des conséquence sur la démographies des populations poussent les chercheurs à se demander si négliger ces processus dans les travaux de dynamiques de populations n'est pas porblématique [@Pelletier2009, @Post2009, @Schoener2011]. Takehito Yoshida et collègues montrent que la réponse des algues vertes unicellulaires *Chlorella vulgaris* aux rotifères *Brachionus calyciflorus* conduit à un changement dans la fréquence et la phase des cycles de la dynamiques proie prédateur [@Yoshida2003]. En 2009, une étude basée sur un suivi de plus de 20 ans d'une population de moutons Soay sur l'île d'Hirta dans l'archipel de Saint-Kilda (au nord-est de l'Écosse), Fanie Pelletier et collèges établissent les variations dans la taille corporelle des ovins, d'origine génétique, et les variation dans leur survie et leur reporduction, ils démontrent alors que les facteurs génétiques peuvent contribué jusqu'à 20% de la croissance de la population certaine année. Les conséquences des dynamique eco-evolutive et l'intégration des flux d'information génétiques sont certainemnt capitaux pour comprendre la biodiversité de demain [@Sexton2009, @Lavergne2010], nous sommes face à un enjeu appliqué important et pourtant nos connaissancse fondamentales resten insufisantes. Pour illustrer ces lacunes et l'urgence dans laquelle nous nus trouvons, je discute d'un exemple concret : l'invasion européenne du frelon asiatique.
 
 
 
-## Le frelon asiatique  {-}
+## L'invasion européenne du frelon asiatique  {-}
 
+*Vespa velutina* est une espèce présente depuis le nord-est de l'inde jusqu'à l'est de la Chine et  frelon asiatique est présente du nord est de l'inde et sur une bande est ouest du nord de
+l’Inde à la Chine et de la péninsule et de l'indochinoise à l’archipel indonésien [@Villemant2006]. Dix sous-espèces sous identifié dont *Vespa velutina nigrithorax* qui a été observé pour la preière fois en France en 2004 dans le Lot-et-Garonne chez un producteur de bonzaï qui importe régulièremnt des poteries du Yunnan [@Villemant2006]. Ce frelon se nourrit d'abeilles qu'il plaque au sol lors de leur retour à la ruche chargées de pollen. Les conséquences sont désastreuses et ce même dans les zones d'origine. L’abeille asiatique (*Apis cerana*) est certes capables de tuer un frelon en l'entourant et le tuant en hyperthermie augentant la suphicant en augmentant la température mais les attaques répétées affaiblissent la ruche car les ourières se consacrent moins à la recherche de pollen. L'abeille européenne (*Apis mellifera*) est capable d'utiliser la même  stratégie de défense mais avec une effacicité moindre [@Villemant2006]. Ce frelon représente un danger pour l'entomofaune mais aussi menace un secteur déjà affaiblie, l'apiculture. Le problème est de connaître les zones ptentiels et essayer de mettre en place des mesure de prévention et d'éradication de cette espèce invasive.  
 
-Avant de nouer tous ces mécanimses dont on bien comprendre je vais nouer leur interacton autour d'un exemple Je vais illustrer mon propos avec 2 (3?) récurrent exemple (mais d'autres aussi) le cas du Frelon asiqtieu (anglais : Yellow-legged horne, *Vespa velutina*). Importance pour impact dans sur les abaeilles domestiques mais très peu sur la faune locale et les oiseaux migrateurs dans le nord
-
-L'introduction aux chapitres de ma thèse sera articulée autour de la question fondamnetal esuivant
-de variation de co-variation / difficultés d'apprécier la proportions relative des différents mécanismes / mécanismes de coexistence
-coexistence vs co-occurrence
-variabilité quelle espoir de généralisation
-Crombie repris dans Macarthur => coexistence
-Problème de coexistence
-=> non reproductibilité des ranges / stochasticité des ranges Frelon asiatiques
-=> degat sur la nouvelle faune local msiaune augmentation ++ du nombre de liens...
-reconfigurations des réseaux locaux.
-=> ou est le cuyrseur dans l'hstoire (evolution) ou la geographie (l'ecologie)
-<!-- > biogeography of the species’ requires both theory and experiments that must be in large part novel -->
-A quel point est-il pertinent d'évaluer le range d'une espèce sur juste une île.
-Un problème d'identification.
-classique experience de perte de la biodiv => et hope une histoire différenteds
-
-
-
-Ce sont ce que sont appelées le modèle de distribution qui furent un temps appelé enveloppe climatque
-En guise de réponse, les SDM deviennent plus intégrateurs et de nouvelles approches émergent \cite{Kissling2011}. Ainsi, Guisan et Rahbek 2011 proposent une démarche alliant les prédictions faîtes par les MDE sur un ensemble d'espèces et celles données par une approche de modélisation macroécologiques s'appuyant sur des règles de coexistence dans une unité géographique donnée \cite{Guisan2011}.
+En 2006, le frelon s'étendait largement en Aquitaine et voyait son aire de répartition s’étendre sur une bande de 300 km du nord au sud et de 150 km d’est en ouest [@Villemant2006] et cela malgré l'éradication systématique des nids détectés. Alors que 2 nids étaient observés en 2004, 1636 nids ont été observé en 2009 et en 2013 près des trois quarts des départements étaient affectés [@Robinet2016]. Des travaux récents tentent de charactériser la niche fondamentale des espèces pour comrprendre queles sont les zones à l'échelle modiale suceptible compredre et montrenet qu'une large partie du bassin malgré des différences davec la zone actuels. Un autre phénomène intéressant est que dans le même temsp l'espèce à coloniser le Corée du Sud avec un succès de colonisation. On a donc un évènment de colonisatio vraisembalblement rare si ce n'est unique qui arrive à une colonsation mais sur des zines ou pas si porbable et des différence entre deux pays. L'exolication plausible est la différence de comporsiiton speécifique notammment en espèce appreneté il n'y aqu'un frelon (*V. crabro*) et près de six en Corée du Sud dont *(V. mandarinia)* dominante [@Villemant2011]. Montre bien que c'est un carrefour entre histoire condition climatique et biotique, mais aussi certaine variété pourraitent ajuster leur stratégie face au prédatur qui de surcorit en bottle neck génétique. Complexité du sujet demande un cadre théorique puissant. 
 
 
 
 
-comment déterminer l'invasibiilté savoir pourquoi il peut imâcter.
+
+
+
+
 
 
 
