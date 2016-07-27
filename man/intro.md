@@ -26,6 +26,9 @@ Dans l'introduction de son livre "Island Life" paru en 1881, le célèbre natura
 Tout au long de son livre, Wallace démontre que la connaissance à l'échelle mondiale de la distribution des êtres vivants à travers le monde permet de relier les différentes îles aux grands ensembles régionnaux biologiques (que nous appelons aujourd'hui écozones) et que ces groupes sont aussi relié par des liens historiques dont la taxonomie révèle les traces. Ce travail de charactérisation d'ensemble géographique conduit Wallace, dans un article de 1860 [@Wallace1860], à tracer la ligne séparant l'écozone indomalaise de l'écozone australienne (qui sépare notamment Bali et Lomonk citées plus haut) qui porte encore aujourd'hui son nom. L'éclaircissement de la géographie par l'histoire est saississant et les exemples de Wallace sont autant de poids données à la théorie de l'évolution. Le discours de Wallac porte sur des processus à des échelles spataile et temporelles très grandes [^age], et bien que l'éclaircissement substantiel des répartitions géogrpahiques des êtres vivants par l'évolution, cette expliqcation se double d'un obstacle épistémologique important : si l'explication ultime de la présence d'une espèce en un point donné est le produit d'une série de contingences historiques, sur quoi bâtir une théorie de la biogéographie? Ce n'est qu'au XX^ème siècle que des réponses convaincaites émergeront avec a fructuseuse rencontre du mathématicien et biologiste Robert Helmer MacArthur et du myrmécologue Edward Osborne Wilson [^eow].
 
 
+<!-- Les ranges comme un fait (wallace chap 2) des espèces avec des larges avec des grandes ranges
+Loddigésie admirable (*Loddigesia mirabilis*) seul collibris de son genre vs Lièvre variable (*Lepus timidus*) -->
+
 ## En suivant MacArthur et Wilson {-}
 
 La collaboration de ces deux jeunes biologistes a mené à la formulation d'une théorie de la biogéographie insulaire publiée en 1967 sur laquelle je reviendrai abondammnent tout au long de mon introduction [@MacArthur1967] puisqu'elle est un des piliers de ma thèse. Leur démarche a été de collecter un grand nombres de données sur différents groupe d'espèces sur des îles dispersées un peu partout dans le monde et pour essayer de mettre une cohérence à travers ces faits avec un cadre théorique puissant. Comme indiqué au  au dernier chapitre de leur livre de 1967, ces auteurs souhaite voir la biogéographie entrer dans une nouvelle phase :
@@ -227,7 +230,8 @@ La preuve des conséquences des variations génétiques rapides et des conséque
 *Vespa velutina* est une espèce présente depuis le nord-est de l'inde jusqu'à l'est de la Chine et  frelon asiatique est présente du nord est de l'inde et sur une bande est ouest du nord de
 l’Inde à la Chine et de la péninsule et de l'indochinoise à l’archipel indonésien [@Villemant2006]. Dix sous-espèces sous identifié dont *Vespa velutina nigrithorax* qui a été observé pour la preière fois en France en 2004 dans le Lot-et-Garonne chez un producteur de bonzaï qui importe régulièremnt des poteries du Yunnan [@Villemant2006]. Ce frelon se nourrit d'abeilles qu'il plaque au sol lors de leur retour à la ruche chargées de pollen. Les conséquences sont désastreuses et ce même dans les zones d'origine. L’abeille asiatique (*Apis cerana*) est certes capables de tuer un frelon en l'entourant et le tuant en hyperthermie augentant la suphicant en augmentant la température mais les attaques répétées affaiblissent la ruche car les ourières se consacrent moins à la recherche de pollen. L'abeille européenne (*Apis mellifera*) est capable d'utiliser la même  stratégie de défense mais avec une effacicité moindre [@Villemant2006]. Ce frelon représente un danger pour l'entomofaune mais aussi menace un secteur déjà affaiblie, l'apiculture. Le problème est de connaître les zones ptentiels et essayer de mettre en place des mesure de prévention et d'éradication de cette espèce invasive.  
 
-En 2006, le frelon s'étendait largement en Aquitaine et voyait son aire de répartition s’étendre sur une bande de 300 km du nord au sud et de 150 km d’est en ouest [@Villemant2006] et cela malgré l'éradication systématique des nids détectés. Alors que 2 nids étaient observés en 2004, 1636 nids ont été observé en 2009 et en 2013 près des trois quarts des départements étaient affectés [@Robinet2016]. Des travaux récents tentent de charactériser la niche fondamentale des espèces pour comrprendre queles sont les zones à l'échelle modiale suceptible compredre et montrenet qu'une large partie du bassin malgré des différences davec la zone actuels. Un autre phénomène intéressant est que dans le même temsp l'espèce à coloniser le Corée du Sud avec un succès de colonisation. On a donc un évènment de colonisatio vraisembalblement rare si ce n'est unique qui arrive à une colonsation mais sur des zines ou pas si porbable et des différence entre deux pays. L'exolication plausible est la différence de comporsiiton speécifique notammment en espèce appreneté il n'y aqu'un frelon (*V. crabro*) et près de six en Corée du Sud dont *(V. mandarinia)* dominante [@Villemant2011]. Montre bien que c'est un carrefour entre histoire condition climatique et biotique, mais aussi certaine variété pourraitent ajuster leur stratégie face au prédatur qui de surcorit en bottle neck génétique. Complexité du sujet demande un cadre théorique puissant.
+En 2006, le frelon s'étendait largement en Aquitaine et voyait son aire de répartition s’étendre sur une bande de 300 km du nord au sud et de 150 km d’est en ouest [@Villemant2006] et cela malgré l'éradication systématique des nids détectés. Alors que 2 nids étaient observés en 2004, 1636 nids ont été observé en 2009 et en 2013 près des trois quarts des départements étaient affectés [@Robinet2016]. Des travaux récents tentent de charactériser la niche fondamentale des espèces pour comrprendre queles sont les zones à l'échelle modiale suceptible compredre et montrenet qu'une large partie du bassin malgré des différences davec la zone actuels. Un autre phénomène intéressant est que dans le même temps l'espèce à coloniser le Corée du Sud avec un succès de colonisation. On a donc un évènment de colonisatio vraisembalblement rare si ce n'est unique qui arrive à une colonsation mais sur des zines ou pas si porbable et des différence entre deux pays. L'exolication plausible est la différence de comporsiiton speécifique notammment en espèce appreneté il n'y aqu'un frelon (*V. crabro*) et près de six en Corée du Sud dont *(V. mandarinia)* dominante [@Villemant2011]. Montre bien que c'est un carrefour entre histoire condition climatique et biotique, mais aussi certaine variété pourraitent ajuster leur stratégie face au prédatur qui de surcorit en bottle neck génétique. Complexité du sujet demande un cadre théorique puissant.
+
 
 
 
@@ -249,7 +253,8 @@ En 2006, le frelon s'étendait largement en Aquitaine et voyait son aire de rép
 
 # Cadre théorique de la thèse {-}
 
-Les développements que j'ai entrepris durant ma thèse sont des tentatives pour ancréer les interactions entre les espèces dans la théorie de la biogéographie des îles de MacArthur et Wilson dont j'ai déjà abondamment. Je vais maintenant revenir sur cette théorie plus en détail pour expliquer pouquoi elle a marqué durablement l'écologie.
+Les développements entrepris durant ma thèse sont des tentatives d'encrage des interactions écologiques dans la théorie de la biogéographie des îles de MacArthur et Wilson. Je vais maintenant revenir sur cette théorie plus en détail pour expliquer pouquoi elle a marqué durablement l'écologie.
+Je signale qu'il y a deux autres découvertes indépendantes des idées de la. James Brown et Mark Lomolino  ont montré qu e Eugene Gordon Munroe avait formulé des idées similaire sur 5 pages de sa dissertation de 555 pages publiée en 1948 [@Brown1989, @Lomolino2009]. Enfin, dans leur article de 1963,
 
 
 
@@ -374,121 +379,52 @@ Ainsi, ce modèle a déjà été utilisé avec succès par Gravel \textit{et al.
 
 
 
-<!-- décire les objectfs de ma thèse revenir sur le contexte technologique de la thèse  -->
-<!-- Obstacle modelisaion -->
-
 # Le rôle des interactions dans la distribution des espèces {-}
 
-Ma thèse a pour objectif de trouver des leviers pour comprendre comment les interactions peuvent affecter les distributions d'espèce et de comprendre où chercher les traces qu'elles pourraient laisser dans les données d'occurrence des espèce. Comme je l'ai mentionnée auparavant cette idée est très ancienne, je cite volontier Wallace qui écrit dès l'introduction de son livre écrit :
+Ma thèse a pour objectif de trouver des leviers pour comprendre comment les interactions peuvent affecter la pépartition géographique des espèces et de comprendre où chercher les traces qu'elles pourraient laisser dans les données d'occurrence des espèce. Comme je l'ai mentionnée auparavant, cette idée est très ancienne, je cite volontier Wallace qui écrit dès l'introduction de son livre écrit de 1881:
 
-> &laquo; Both competition and predation appear now to be much more important in biogeography than people had formely guesses (@Wallace1860:28) &raquo;
+> &laquo; Both competition and predation appear now to be much more important in biogeography than people had formely guesses &raquo; (@Wallace1881 :28)
 
 Le problème auquel ce sont vraissemblablememnt est le caractère singulier des relations qui unissent les être vivant et que dans la recherche de point commun il n'est pas pu mettre au point une théorique de la biogéographie des piles intégrant les interactions. Néanmoins, au vie des développemnt de son dernier livre, on peut faire spéculer que MacArthur ouvait réfléchir à une telle intégration [@macarthur1972geographical]. C'est dans lobjectif d'aller vers une théorie plus intégrative mais toute aussi élégante qyue j'ai mené ma thèse qui apporte quelques pistes.
 
 
+
+
 ## Importance des interactions dans la distribution {-}
 
-Dans la théorie de la biogéographie des îles, les interactions sont très souvent mentionnées. Le moteur des extinctions locales étant écologique, elles ont une place privilégiée. Cepndant, elles sont de présentent de manière implicite dans al
+Dans la théorie de la biogéographie des îles, les interactions sont très souvent mentionnées. Le moteur des extinctions locales étant de nature écologique, elles ooccupent une place de premier plan. Cependant, elles ne sont présentent qu'implicitement, cachés dans un taux d'extinction. Comme je le montre à la figure @fig:figMW, la différence dans l'allure des courbes déssinées par MacArthur et Wilson et celles obtenues en suposant un taux d'immigration et de colonisation sont différentes. Selon les auteurs, L'immigration devient plus difficile lorsque les espèces s'accumulent sur l'île et les extinctions de plus en plus fréquentes du à l'intensification des interactions. Pour parler en terme de réseau d'interaction, l'accumulation d'espèce sur l'île sature le réseau local et rend difficile l'intégration d'une nouvelle espèce et le rend de plus en plus instable. J'ai été tès interpelé de voir que ce constat sur les courbes ait été le même que celui de Hubbell qui montre que les firmes des courbes sont explicable par la théorie neutre [@ref].
 
+Depuis les années 60, la litérature théorique a continuer à discuter l'importance des interactions intra et inter spécifique dans la distribution spatiale des espèces [@Levin1974]. Il est reconnu que l'interdépendance des espèces conditionne, en effet, l'aspect favorable de l'environnement au sens large (biotique et abiotique). En 2012, William Godsoe et Luke Harmon Godsoe mettent en équations le caractère favorable de l'environnement pour une espèce donnée en terme de probabilité de présence d'une autre espèce et de la nature de leur interaction [@Godsoe2012]. De même, Holt et Barfield 2009 montrent l'impact de la prédation sur la répartition d'espèces en compétition insistant ainsi sur le rôle majeur des interactions [@Holt2009]. Mais le triomphe des SDMs à la fin du siècle dernier, a relégués au second plan ce rôle en démontrant que la corrélation avec les variables climatiques étaient peut-être suffisante, au moins en première approximation [@Pearson2003], et acceptant ainsi l'hypoythèse d'indépendance des espèces [@Jeschke2008]. Pourtant, dès 1998, le travial précurseur d'Andrew Davis et collègues montrent que les interactions pourraient affectées nos prédictions [@Davis1998]. Leur travaux consitent à regrader l'abondance de trois espèces de dorspohile pour les différentes combnaisons possibles de ces trois mouches (1, 2 ou 3 espèces) mais aussi en présence ou en absence d'un parasito^ïdes, leurs résultats ne fnt pas de toutes que compétition et paraitsisme affectent draistquement la survie le long du gradient de température, il semble donc capitale de prendre en compte les interactions.
 
+Plus récemment, on constate une grande motivation pour intégrer les relations écologiques dans les modèles de distribution d'espèces [@Kissling2011, @Guisan2011]. Une méhodologuie récente appelée JSDM intègre par ezxemple les correltaion dans la précsence des espèces pour améliorer les distrbution actuelles [@Pollock2014]. Néanmoins, ces efforts se heurtent à un manque de maturité des modèles et théories qui cherchent à rassembler interactions et distributions. Franck Jabot et Jordi Bascompte ont montré en 2012 l'importance des interactions pour comprendre la distribution des espèces en rapprochant écologie des réseaux et un modèle de metacommunautés [@Jabot2012]. De même Dominique Gravel et collègues introduisent en 2011 l'interdépendance proie-prédateur dans le modèle classique de MacArthur et Wilson menant aux prémices d'une théorie trophique de la biogéographie des îles [@Gravel2011b] préfiguré par Holt [@ref].
 
-Dans le premier chapitre j'ai poursuivi cette idées et est montré qu'une approche communait centrés pouvat être prpoposé. Ne pas considéere mdes espèces mais des aassembalges est une bonne échelle pour aborder des problèmes des conséquences écologques des transients. Il est aussi int.ressant que cela nous a fait glissé vers la compréhension des résulats qu'om doit avoir dans les données de co-occurrene.
+C'est dans la lignée de ces développemnts théoriques récents que s'inscrit mon premier chapitre de thèse. L'effort a été porté sur l'intégration du concpet de la niche et une reconnaissance explicite des faicilité des variations de niches. La nouveauté de mon travil détailé au chapitre 1 est è la fois d'envisager que les interactions peuvent joué dans des forces contracdictoire, affecté ;a présence des espèces. Elle soulève aussi une difficulté pour aller vers des messages génnéraux mais il y a à mon sensn deux idées intéressante. Envisagé la TIB sous forme d'assemblage plutôt que espèce une à une cMest porbablement une voie pour une quantitfication plus explicte de l'extinction locale et montré que raisonneé enporcessu stichasique (comme dans le TIB originelle), est une déconstruction pertinent pour ajouter des espèces.
 
-
- Mais le p
 
 
 
 ## Un problème d'échelle? {-}
 
-Oubli de ce facteur important de Ls SMDS...
+En repartant de l'exemple classique de la ségrégations spatiales des tamias [@Brown1971], j'ai mis en évidence d'une infornation sur les interactions contenus dans les interactions. Il y a cependant deux caractéristiques iporntantes qui peuvent faire obstacle à l'abondance de ce type de lecture : la singularité de l'interaction, le caractère locale. Je reviens un peu plus bas sur la première prpopriété et m'arrête ici sur la seconde. Une idée forte reltive aux interactions est leur rôle majeur à l'échelle locale qui a des conséquences de moins en moins perceptibe au fur et à mesure que l'on cosidère des échelles spatiales de plus en plus grande (voir l'unique figure de @McGill2010). Du point de vue théorique c'est tout à fait ce qui est décrit dans la théorie des îles car c'est à l'échelle locale que les interactions influencent l'extinsion. Néanmoins ces conséquences locales sont présentent sur l'ensemble de la distribution de l'espèce il est alors pertient de se demander pourquoi nous ne sommes pas capables de detecter les interactions en oscultant les distributions d'espèces. En fait, nous avons des preuves que cela est possible dans certains cas. En 2010, Nicholas Gotelli et collègues divisent l'avifaune danoise en différentes catoégorie écologiques et montre que les espèces 'une même catégorie sont très souvent significativement en ségrégation satiael entre elles [@Gotelli2010]. De même pour qutre espèce de hibous, Risto Heikkinen et collègues obtienent une meilleur explication de leur répartition en intégrant la répartition de six espèce de pics [@Heikkinen2007]. Dans cette même étude, le signal est plus fort quand les données sont sur de 10*10km que 40*40km en faveur d'une dépendance à l'échelle, récemment supportée par d'autres travaux [@Belmaker2015].
 
-Les interactions intra et inter spécifiques constituent un facteur rapidement pressenti comme responsable de la distribution spatiale des espèces \cite{Levin1974}. L'interdépendance des espèces conditionne, en effet, l'aspect favorable de l'environnement au sens large (biotique et abiotique). Ainsi Godsoe \textit{et al.} 2012, mettent en équations le caractère favorable de l'environnement pour une espèce donnée en terme de probabilité de présence d'une autre espèce et de la nature de leur interaction \cite{Godsoe2012}. De même, Holt et Barfield 2009 montrent l'impact de la prédation sur la répartition d'espèces en compétition \cite{Holt2009} insistant ainsi sur le rôle majeur des interactions. Davis \textit{et al.} 1998 ont montrés que, pour trois drosophiles en compétition, l'effet d'un parasitoïde n'est pas le même le long d'un gradient selon que les espèces sont seules ou ensemble \cite{Davis1998}. Récemment, des efforts ont été réalisés pour mettre en évidence l'importance de l'interdépendance des espèces dans les données aux larges échelles spatiales \cite{Gotelli2010}. On trouve actuellement dans la littérature une grande motivation pour les intégrer dans les modèles de distribution d'espèces \cite{Kissling2011, Guisan2011}. Des efforts théoriques sont encore nécessaires pour arriver à de telles approches. Néanmoins, rapprocher différents champs de l'écologie peut s'avérer d'une utilité majeure. Jabot et Bascompte \cite{Jabot2012} 2012, ont d'ailleurs montré l'importance des interactions pour comprendre la distribution des espèces en rapprochant écologie des réseaux et un modèle de metacommunauté. De même Gravel \textit{et al.} 2011 \cite{Gravel2011b} introduise l'interdépendance proie-prédateur dans le modèle classique de MacArthur et Wilson menant aux prémices d'une théorie trophique de la biogéographie des îles.
+En fait la dépendance spatiale est évidente dans la mesure ou en analysant des données de présence en analysant des grains de plus en plus grossier on n'arrive à accumulée de plus en plus d'espèces et perdre de l'information contenu dans les infornations. Le questionnament est intéressant c'est aussi que la nature des interctions est importante. Ainsi, en 2014, Miguel Araújo and Alejandro Rozenfeld ont démontré que les M. D'un point de vue théoriques les interactions positive (mutualisme) se propageait davantage que les imtéactions négative [@Araujo2014]. Ils indiquent alors que la nature d'une interaction peut influencer la perte d'information en augnentant l'échelle spatiale de l'analyse. Suite à mes travaux sur l'intégrations des inteactions, je me suis penché sur un autre aspect qui peut rendre lMinfornation cinfuse et nous faire perdre la trace des interactions dans les données de présence : l'abondance des interactions. Au chapitre deux, je développe un cadre concpetuel pour réflécchir sur les interaction : avec mes ciauteus nus avons nontré que les interactions directes et indirecte affactent les donn.es de distrubtuiont mais aussi plus les interactions étaient abondante ou plus les espèces étaient éloigées au sein d'un réseau d'interaction plus se signal s'évaporte. Ce qui est encore plus int.éressant et que nous avns trouvé un certains nombre d,indice dans des données de présene et d'absence qui semble confirmer un certains nombre de nos prédictions et en moduleer certaines autres. Cette recherche dans des donn.es réellees est l'objet de mon troisième chapitre dans lequel je montre par ailleurs qu'un set de proie peut faire sens sur la pr.sence d,un prédateurs. Je montre que la validité des SDMs est peut être possible si les interactions sont abondantes :
 
-L'ajout des interactions dans un modèle incluant l'environnement abiotique interroge la relation que les deux processus entretiennent. Si les espèces n'ont pas les mêmes performances dans différents milieux du fait de leur physiologie, pour les mêmes espèces considérées, les réseaux n'ont pas de raison d'être identiques d'un milieu à un autre. C'est sur ce fait que Poisot \textit{et al.} 2012 ont proposé une mesure de dissimilarité des réseaux \cite{Poisot2012}. Defossez \textit{et al.} montrent que les interactions négatives entre l'hêtre commun (\textit{Fagus Sylvaitca}) et les micro-organismes du sol diminuent avec l'altitude  \cite{Defossez2011}. Ainsi, les contraintes biotiques sont à relier à l'environnement \cite{Brooker2006,Canham2006} et un modèle intégratif doit donner un cadre cohérent à ces rétroactions entre processus. Enfin, l'importance des interactions est à mettre en relation avec l'échelle considérée \cite{Peterson2011}. Pour deux espèces en interaction, plus l'échelle d'étude est large, moins les effets des interactions locales sont susceptibles d'être capturés, le pouvoir explicatif de la présence d'une espèce sur l'autre peut être alors discutable \cite{Araujo2007}. Comprendre quels sont les processus à prendre en compte aux différentes échelles spatio-temporelles et comprendre comment le changement d'échelle affecte nous prédictions est aussi un véritable challenge en biogéographie \cite{Martinez2012}.
+> A few decades ago it as fashionable for ecologist to study communities in the arctic on the grounds that these would be very simple communities and hence easy to understand. Many excellent ecologists still follow this belied, but there are others who feel that it may be easier to understand the extremely complex communities. This sounds paradoxical: How can a more complex communities by easier to understand? A possible answer might be that complex community has has strong interactions among species so that the lives of the separate species are less independent than in a simple community. Where there is greater interdependence, patterns may be more conspicuous.
 
+Constater que les interactions snt peu être le moeteur esentiel de la ditribution mais quel'inférence pas faite somme il faut...
+La synthése de ces deux chapitres amènent à discuter d'un autres problème d'échelle partiellemnt discuté dans la litérature : quelle est l'échelle écologique pertinente pour l'étude des distribution?
 
-### Un problème d'échelle ?
-
-Comment les varitions démogrpahiques interactions se propagent-t-elle à travers les échelles spatiale.
-
-
-> However, it is argued that applying bio-climatic models at macro-scales, where climatic influences on species distributions are shown to be dominant, can minimize the impact of biotic interactions. Indeed, the fact that a number of bioclimatic models have been highly successful at simulating current species distributions at certain scales is in fundamental disagreement with the proposition that species distributions cannot be adequately defined by climatic factors alone. [@Pearson2003]
-
->  We will never be able to predict the future with accuracy, but we need a strategy for using
-existing knowledge and bioclimatic modeling to improve understanding of the likely effects of future climate on biodiversity. [@Araujo2006].
-
-
-
-Les ranges comme un fait (wallace chap 2)
-des espèces avec des larges avec des grandes ranges
-Loddigésie admirable (*Loddigesia mirabilis*) seul collibris de son genre vs Lièvre variable (*Lepus timidus*)
-nomnbre d'espèce dans un genre vaire beaucoup => un autre indice de solution pas fructifiées...
-Pithacia Monathus vs Pithecia pythecia separé par une rivière
-Geographical Ecology => patterns in the distribution of spceies
-2 espèces proches des ranges très séparéed =>  species
-Bonobo et cChimpanzés
-
-
-orblème étant que le signal n'est visible que si on a des données sur 20and.
-
-Le problème
-
-Parallèle entre information des traits sur le régime allimentaire et l'information dans les ranegs est-ce cela qui conduit les ecologistes à être des statisticuencs. et l'info dans l'ADN
-
-
-
-
-## Faire un questionnement des intersections des ranges et des règles
-
-On a besoinde rule on reste descriptive il y a des relation EH-Bioversité, SAR, Diversité-équilibre diversité fonctionnenemnt qui sont partielelemnt reliées et des théries débat theories neutre theéor de la niche @Stein2014. Dans cette review @Stein2014 montre que vegetaiton est inportnates ce qui eimplique des inbteractions. Théorie allométrique prometteuse en ce sens qu'elle loi physiques. Différents concept autrour d'une même notion sur plusieurs paradigme pour une même notion sur les metacommunity @Leibold2004 il peuvent co-exister mais faudrait les savoir ce qui fait qu'on a pus l'un ou l'autr.
-
-La puissance de la Biogéographie est aussi sont implications dans des cas très concrets @Cirtwill2015 mais aussi ne puissance exploratoire théoriques @Gravel2011c @Cazelles2015b des îles
-l'idée des interactions à déjà montré ça pertinence sur plusieurs exemples. @Cirtwill2015
-
-
-Les interactions quelles pourrait être leur conséquence à large échelle ?
-
-
-> (:154) "Does the environment dictate the structure of the community, or are the species a fairly random assemblage?
-
-
-Cette id.e aussi est données par
-
-> A few decades ago it as fashionable for ecologist to study communities in the arctic on the grounds that these would be very simple communities and hence easy to understand. Many excellent ecologists still follow this belied, but there are others who feel that it may be easier to understand the extremely complex communities. This sounds paradoxical: How can a more complex communities by easier to understand? A possible answer might be that complex community has has strong interactions among species so that the lives of the separate species are less independent than in a simple community. Where there is greater interdependence, patterns may be more conspicuous."
+> Generalist consumers should typically be weakly coupled to any one of their prey populations because, when feeding on many different species, they cannot be strongly coupled to any one of them @Murdoch2002
 
 
 Information dans les distributions
 gecko australien généraliste  *Heteronotia binoei* => alors peut être que ça marche bien mais sur une espèce spécialiste ??
 
-> Generalist consumers should typically be weakly coupled to any one of their prey populations because, when feeding on many different species, they cannot be strongly coupled to any one of them @Murdoch2002
 
 
 
-Intégrations des contraintes biotiques et de la théorie à la recherche de signaux de d'intéraction
+## Vers une biogéographie énergétique {-}
 
-Dans ma thèse j'ai oassé du temps à essayer de mettre au point un modèke qui donnait de la substace aux idées de MacArthur et Wilson een etandant le travai initié par Gravel et collègues pour aller plus loin dans la compréhension des effets joints des interactions et des contraintes abiotiques. C'est aussi ce qui m'a animé pour en mettre en place la compréhesin dans les données de co-occurrence avant d'aller m'y confronter frongalemnet. Ma dernière intergtaion a Été de trouver des pistes pour allerr plus loin dans la théorie et explorer des pistes que je n'avais pas encore dxplorer mais qui seront à court terme les directions que je souhaite explorer.
+Le porblème d'échelle écologique est aussi un problme de catgorisation de l'espèce. Nous avons en fait suggérer que les pédiction sétaient plus facile opour des espèce généralistes que spécialistes. Malheusuement il n'y a pas tellement de ègle mais plutot un continum d'espèces hyperséccilaitse de de'autres très généraliste [@Poisot2015c]. On peut espérer que certaines propriétés comme la topologi des réseaux puissent avoir une imoact sur nos capcité de prédations et obtenir un ensemble de règles pour conprendre comment les interactions sont importantes ou non à prendre en compte. D'autres voie sontà explorer pour amener plus de mécanime tout en limitant l'importnace du pionds historiques, c'est-à-dire des singularité des espèce en présence.
 
-
-Abondance des données  Les atouts actuels de la biogéographie sont 1- une quantité importante d'information relative aux présences d'espèces et au climat et 2- des modèles corrélatifs puissants qui décrivent précisément le lien entre l'espèce et son environnement abiotique. Le terme abiotique peut prêter à confusion dans la mesure où les espèces elles-mêmes peuvent modifier des variables dîtes abiotiques. Par exemple, les végétaux peuvent avoir un grand impact sur les variables abiotiques locales comme la température et l'humidité du sol \cite{Breshears1998}. Certains auteurs font une distinction précise en utilisant les termes de \textit{scenopoetiques} pour les variables environnementales sur lesquels les espèces ne peuvent influer et de \textit{dynamiquement liées} pour les autres \cite{Peterson2011}. Nous occulterons volontairement ces-dernières, l'environnement abiotique dont il est ici question n'est donc pas dynamiquement lié aux espèces.   
-
-Partir du development de la niche et des hypotheses clef comme l'heterogeneité spatiale qui peut accroitre la biodiversité un exemple c'est les ecoulemnents à petites faible echelles de l'hydrologie niche hdrologique à fable échelles @Letten2015 repartition hydrologique les hypothèses sont qui explique celon les différentes besoin des espèces (principes de la niche) que besoin différemtes me répartition des espèces. Cette idées est
-
-
-
-Mais une espèce généraliste autant que sécialiste @Poisot2015c
-
-
-A large espes répartition de la biodiversité on quantifie la différence depuis les mesures classiques. Simpson, alpha gamma beta qui sont étendues au réseau @Poisot2012. Mais quand on chnage d'echelle on arrive rarement à quelques choses de concluant pour l'integration des interactions. Pourtant il ya des exemples convaicant comme celui de Gitelli.
-
-
--- conclure en repartant sur l'exemple détaillé.
-Vespa aussi au Amérqieu la densit. des traffic...
-Multi couche de distrobution dans le cas du frelon asiatique Villemant et al. @Villeman ont montrés que superposition du genre *Vespa* et notamment au niveau asiatique énormément aisin l'inférence se fait sur des données qui comporte une empreinte de condition et localemnt éteinte alors que possiblement comtraite qui ne seront pas en France...
-Essyer de faire des cartes de risques plutôt que de constater après coup...
-Après avoir fait un retour sur plus de biologie je m,intergoge sur lesquelle dans la suiste
-Dépasser les questionnemnet sur les espèces la contrainte il me semble qu'une piste c'est aouverte avec des questions énergétique on se rencontre qu'il y a des base én.ergétiqe dcommunet et que c'est ancrage sit beaoup...
-
-
-
-# annexes
+Une voie pour prolonger la recherche des propriété est d'aller chercher dan la pnature profonde des espèces : ce sont des sytèmes énergétique qui se perpétuent. La lecture de la théorie de la dynamique du budget énergétique de Sebatsian [@Kooijman2000a] a été très éclairante non pas tant pour les développemnts mathématiques dont je n'ai pas encore intégr. l'ensemble des subtilit. mais sur l'.élciremnet sur la cosomation énéergétique en terme écologique. L'iudée des morphes et de relié un certain nombre de propriété à la consomation énerg.tqieu est essentielle et bien que je pense que l'extrapolation des résiltas de Koojmas prendre du temsp ils pourront éventielelmnt menée à une compréhenison plus forte des dynamiques de poplutaion et donc de sistributions,. En attentdant les relation allntétrique justifiée par cette théorie et la théorie métaboloqie sont des relations de premeir plan. Relié la masse à un certain nomnbre de proppriéeé est une opportunit. par essayé d'ajouté des gradients de masse dans la TIB avec un facteur suppléentaire qui ne nie pas la disversit mais observe à travers un angle résuit, la masse bien utile oour aller vers des généralisations peut-être un peu plus proche de la réalité malgré les problèmes soulevés. Ces reflions sur le sujet snt pr.senté au chapitre 4 de ma thèse qui se veut aussi comme louverture faire la suite de mes projets de recherche que je souhaite entreprendre en vue de poursuivre une biogéogrophique énergétique.

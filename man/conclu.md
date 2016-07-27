@@ -7,7 +7,10 @@ header-includes:
     - \usepackage{lineno}
 ---
 
-# Quelles unités pour la biogéographie ?
+
+
+
+# Quelles type de prédicions pouvons nous faire ?
 
 Bon objet et ce qui la concerne ou pas
 
@@ -174,3 +177,13 @@ Nous contraignons énormément les ranges d'espèces alors nous sort de tout ça
  <!-- Une manière de voir les choses est de donenr par Clark (et repris par Dom) pou on essaye
  Clark a suggérez que stochastique n,est pas savoir et que le but c'est de passé du pas au maximum vers le détermiste. Dans leur défense de la la théroy neutre Rosindell et al rétoquent que c'est plus subile il y a des modèles détermisites chatosque (et dont les développemtn avancé font au propriété statistique des attracteurs) quer cela de même Gravel et collègues.. Modèles en plus validée par des stats qui reposent sur des stochsiques.
   -->
+
+
+  L'ajout des interactions dans un modèle incluant l'environnement abiotique interroge la relation que les deux processus entretiennent. Si les espèces n'ont pas les mêmes performances dans différents milieux du fait de leur physiologie, pour les mêmes espèces considérées, les réseaux n'ont pas de raison d'être identiques d'un milieu à un autre. C'est sur ce fait que Poisot \textit{et al.} 2012 ont proposé une mesure de dissimilarité des réseaux \cite{Poisot2012}. Defossez \textit{et al.} montrent que les interactions négatives entre l'hêtre commun (\textit{Fagus Sylvaitca}) et les micro-organismes du sol diminuent avec l'altitude  \cite{Defossez2011}. Ainsi, les contraintes biotiques sont à relier à l'environnement \cite{Brooker2006,Canham2006} et un modèle intégratif doit donner un cadre cohérent à ces rétroactions entre processus. Enfin, l'importance des interactions est à mettre en relation avec l'échelle considérée \cite{Peterson2011}. Pour deux espèces en interaction, plus l'échelle d'étude est large, moins les effets des interactions locales sont susceptibles d'être capturés, le pouvoir explicatif de la présence d'une espèce sur l'autre peut être alors discutable \cite{Araujo2007}. Comprendre quels sont les processus à prendre en compte aux différentes échelles spatio-temporelles et comprendre comment le changement d'échelle affecte nous prédictions est aussi un véritable challenge en biogéographie \cite{Martinez2012}.
+
+
+A large espes répartition de la biodiversité on quantifie la différence depuis les mesures classiques. Simpson, alpha gamma beta qui sont étendues au réseau @Poisot2012. Mais quand on chnage d'echelle on arrive rarement à quelques choses de concluant pour l'integration des interactions. Pourtant il ya des exemples convaicant comme celui de Gitelli.
+
+
+
+Le travail le plus dur devient d'utiliser un ensmeble de connaisance pur déterminer des cartes de zone à risuqe mais la qualité des cartes est théorie dépendant mais comprendre eavce pus de fiabiité les prochaines zone ou *Vespa* sera...
