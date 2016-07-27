@@ -210,6 +210,7 @@ L'écologie des réseaux est traversé de débat dont le plus important est vrai
 
 Et pour appuyer cette phrase dans son entièreté, je développe un certain nombre d'idées relatives à l'importance des échanges génétiques.
 
+<!-- Distributiin des fauvettes *Crateroscelis robusta* et  *C.runa* -->
 
 ## Echanges d'informations génétiques et processus micro-evolutifs {-}
 
@@ -299,15 +300,27 @@ De manière plus générale, la théorie fournit une explication à la relation 
 ### L'importance de la TIB dans des déveloopemnt théoriques plus récents {-}
 
 
-### La théorie des métapopulations
+### La théorie des métapopulations {-}
 
-Bien que ne représentant que cinq pourcents des teres émergeés, le developement théoriques autour des piles est vraisembalblment lié au caractère répétables de ces îles : elles sont nombreuses et reltivemnt aisée à acractéris, la relative simplicité des assemblages spécifiques et comme je l'ai évoqué auparavant, une isolation des flux [@Simberloff1974a]. Cette hypothèse bien que propice à la conpréhension doit être levée quand on s'intéresse à des populations continentales (et même à des îles de grandes taille, on avec des structure en stepping stones). La théorie des métapoputaion est justeemnt une réponse à cela.
+Bien que ne représentant que cinq pourcents des teres émergeés, ce sont bine l'observations des îles qui ont mené à une vision paradigmatique de la biogéograaphie. IL est porbable que cela soit lié au caractère à leur relative abondance, leur disparité, leur diversité, la relative simplicité biologiques qu'on y trouve et très certianenment, comme je l'ai évoqué précedemment, une lecture claire des flux de migration [@Simberloff1974a]. Cette dernière propriété est souvent absente pour des populations continentales (et dès qu'on est en précence d'un archipel). La théorie des métapopulations s'intéresse justement aux populations reliées par des flux de migrations [@Hanski]. C'est Richard Levins qui a utilisé le premier le terme en 1970 [@ref]. En considérant des patch favorable, il détermine la proportion de ces patchs occupés par une espèce donnée $p$ en fonction de ces capaicté de dispersion $c$ et la probabilité d'extinction $p$ :
+\begin{eqnarray}
+\label{eqMW}
+\frac{dp}{dt} = cp(1-p)-ep
+\end{eqnarray}
+Le taux de migration est proportionel à la proportion de pactch déjà occupé. La théorie des metapopulations est aujourd'hui d'un certains nombres de paradigmes [@Leibold2004] et a montré sa pertinence sur un certains nombre d'exemple concrets. Papillon Hanski 1998 / Hyloak et bact.ir. /Matter 2092. et pour rebondire McPeek & Brown (2000) have investigated differences between competing damselfly species and finds rather little difference among some species, leaving the neutral paradigm as a potential explanation for high species diversity in this groups of insect. opposition à la niche set de traits particuliers
 
 
-### La théorie neutre de l'écologie et le débat qu'elle soulève
 
-Ecological equivalence des individus OK mais peut-être que l'abondance des interactions expliques aussi
-Problème si explication alternatives possibles alors on n'est pas obligé de mettre pour expliquer quoi que ce soit. De plus savons nous si c'est discernable ??? Si le deux relation aire espèce sont différentes d'un groupe à l'autre alors oui... Mais sinon... Non.
+
+### La théorie neutre de la biogéographie et le débat qu'elle soulève {-}
+
+La théorie neutre postule une équivalence écologique entre les individus de différentes espèces et formalise l'idée d'un replacement perpétuel d'un individu mort par un autre espèce morte par une autre, à la manière de replacement par de nouveaux jeune arbres suite d'un chablis [@Hubbell1999]. Dans l'article fondateur de cette théorie, Stephen Hubbell décrit um tirage aléatoire régit par l'abndance dans la communauté locale et la colonisation d'un individu extérieur dont la probabilité dépend de son abondance à l'échelle régionale. Cette théorie partage beaucoup de charactéristiques avec la TIB, on y trouve un principe d'équivalence décologique, une imbrication des échelles régionale et locales et un accent sur le chacractère aléatoire des colonisaion mais aussi des configuration locale des communautés. Comme le fait remaquer Hubbell en 2010 dans le chapitre qu'il écrit dans le livre mentionné plus haut, *The Theory of Island Biogeography Revisited*, la théorie neutre place l'équivalence au niveau des individus et non plus au niveau des espèces [@ref]. Cette théorie a été très souvent attaqué (par exemple [@McGill2003]) pour le postulat déquivalence alors même que la TIB ne l'a pas été (tout du moins pas au même niveau). Néanmoins il n,est pas étonnat que cette idée est été poussé un cran plus loin que dans la TIB pour justemnt voir ce que l'on peut dire en faisant un minimu d'hypothèse sur la snglatiré
+
+> The symmetry assumption is equivalent to asking how many of the properties of ecological communities are captured by the mean, ignoring species differences.
+
+Pour les defenseurs de la théorie neutre, elle est aussi utile autant vrai que fausse [@Rosindell2012], c'est une jauge pur montrer si les processus de processu domine ou pas [@John2007]. Pour certains auteur, il s'agut d'un d.bat classique entre les r.alistes et les inttrumentaliste, les uns d.taill. un bout de picture une image globale flou mais les deux devrait beneficier [@Wennekes2012] surtout quand mathématqiuemnt il y a un pas entre les deux [@Gravel2006a]. Quoiqu'il en soit encore besoin de commaisance et essayer plus loin ce que l'on peut particulariser notamment sur l'introduction des interactions. Opposition à la niche mais que faire...
+
+
 
 
 <!-- Preston 1962 a lié species abundance et
@@ -316,8 +329,17 @@ Malgré la 50 ans de depuis la publication du Livre et premier articles a lasuor
 => publications récentes qui repartent de la théorie des îles ; l'ecolet Warren et gravel and all
  -->
 
+ <!--
+The literature on population dynamics stresses the competitive exclusion principle: the
+number of competing species cannot exceed the number of substrates at steady state. The
+theoretical value of the result is limited, however. Real steady states are rare; complex
+systems easily have cyclical behaviour, even in homogeneous environments. Changes in
+feeding conditions come with changes in biomass composition, and the number of substrates
+is actually large, even if the number of species is small. Lack of sustainable diversity in
+community models is only problematic in models with simplistic views on chemical aspects. -->
 
-### Vers une théorie plus intégrative
+
+<!-- ### Vers une théorie plus intégrative
 
  Dans la réédition de 2001 [] Wilson rappelle que le problème :
 
@@ -336,7 +358,7 @@ De part son pouvoir explicatif et son élégance, le modèle de MacArthur et Wil
 isolation / faune particulière des îles
 
 Ainsi, ce modèle a déjà été utilisé avec succès par Gravel \textit{et al.} 2011 pour l'élaboration de leur théorie trophique de la biogéographie des îles \cite{Gravel2011b}.
-
+ -->
 
 
 
@@ -357,35 +379,27 @@ Ainsi, ce modèle a déjà été utilisé avec succès par Gravel \textit{et al.
 
 # Le rôle des interactions dans la distribution des espèces {-}
 
-L'objet central de ma thèse est l'introduction de ma thèse est d'essayer de regrader la théorie de la biogéographie et notamment quelles onfornatiosn 'écologie des réseayx peurt ameenr de la lumière sur la théorie. Dans cette dernière partie de mon introduction, je présente avec pkus de délément l'importance de l'intriduction des onteractions dans une théorie de la biogéographie. Cela me permettra d'introduire nes contributions qui seront détaillées dans ma thèse.
+Ma thèse a pour objectif de trouver des leviers pour comprendre comment les interactions peuvent affecter les distributions d'espèce et de comprendre où chercher les traces qu'elles pourraient laisser dans les données d'occurrence des espèce. Comme je l'ai mentionnée auparavant cette idée est très ancienne, je cite volontier Wallace qui écrit dès l'introduction de son livre écrit :
+
+> &laquo; Both competition and predation appear now to be much more important in biogeography than people had formely guesses (@Wallace1860:28) &raquo;
+
+Le problème auquel ce sont vraissemblablememnt est le caractère singulier des relations qui unissent les être vivant et que dans la recherche de point commun il n'est pas pu mettre au point une théorique de la biogéographie des piles intégrant les interactions. Néanmoins, au vie des développemnt de son dernier livre, on peut faire spéculer que MacArthur ouvait réfléchir à une telle intégration [@macarthur1972geographical]. C'est dans lobjectif d'aller vers une théorie plus intégrative mais toute aussi élégante qyue j'ai mené ma thèse qui apporte quelques pistes.
 
 
-Wallace conclut :28 qu'une théorie générale doit tenir compte des variation range et proximité des espèces porches et des overlapp.
+## Importance des interactions dans la distribution {-}
 
-> Both competition and predation appear now to be much more important in biogeography than people had formely guesses
+Dans la théorie de la biogéographie des îles, les interactions sont très souvent mentionnées. Le moteur des extinctions locales étant écologique, elles ont une place privilégiée. Cepndant, elles sont de présentent de manière implicite dans al
 
 
-## Pourquoi les intéractions ne joue-t-elle pas un rôle majeur
 
-### La théorie de la biogéograohie ne les nient pas bien au contraire
+Dans le premier chapitre j'ai poursuivi cette idées et est montré qu'une approche communait centrés pouvat être prpoposé. Ne pas considéere mdes espèces mais des aassembalges est une bonne échelle pour aborder des problèmes des conséquences écologques des transients. Il est aussi int.ressant que cela nous a fait glissé vers la compréhension des résulats qu'om doit avoir dans les données de co-occurrene.
 
-La théorie de la Biogéographie des îles (et il en va de même pour la théorie neutre) est certes une théorie qui ne s'articule pas sur les interactions et fais une forme d'équivalence écologique, les idées sont clairemnent oser que localemnt les raisons profindes de l'extinciton locale. La question que l'on peut alors se poser est de savoir si les c'est si on peut aller plus loin qu'une simple enonciation des proncipes tout en gardante une cohérence. Aiinsi i lsemble omportant que la théorie de la Biog.éogrpahie doit intégrer des résultats précis en terme de réseaux. Dans le premier chapitre j'ai poursuivi cette idées et est montré qu'une approche communait centrés pouvat être prpoposé. Ne pas considéere mdes espèces mais des aassembalges est une bonne échelle pour aborder des problèmes des conséquences écologques des transients. Il est aussi int.ressant que cela nous a fait glissé vers la compréhension des résulats qu'om doit avoir dans les données de co-occurrene.
-
-Accent sur les cascading effect est surtout un problème de l'instabiilté @Zarnetske2012 Il ya aussi l'article perturbant de @Saterberg2013 qui montre que le fait qu'une espèce soit (ex. pêche) peut conduirte à des extinctions d'autres espèces lié dans le réseau... Ces deux exemple montrent que les interactions peuvent mener à des problèmes de prédicitons et donc porblèmes sur prévoir les services ecosystémiques et c'est appuyer par @Cahill2013 qui nous indique en somme que le changemment des interactiosn biotiques ets la voie privilégiée d'extintionciton dans un contexte de changement climatique.
-
-chap 2 geographical ecology
-
-il prend comme exemple la compétition entre oiseau et un manque de ressource pour une année partiuculièremnet sévère et que 19 and pas assez pour voir et il conclut que
-
-> This is the main reason most evidence for competition is from biogepgraphers.
-
-Distributiin des fauvettes *Crateroscelis robusta* et  *C.runa*
 
  Mais le p
 
 
 
-### Problème d'échelle
+## Un problème d'échelle? {-}
 
 Oubli de ce facteur important de Ls SMDS...
 

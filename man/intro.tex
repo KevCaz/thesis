@@ -287,8 +287,8 @@ potentiel invasof seulemnet a posyteriori. Ces porblèmes de qualit. de
 distribution sont le reflet de lacune théorique qui amène les chercheurs
 à se positionnier en faveurs d'un renouvellemnt théorique avec l'objecif
 de la création d'une biogéographie intégrative capable de préiction
-fiables (Lomolino, 2000, Beck et al. (2012), Thuiller et al. (2013)).
-Biensur ces appels soulèvent des défis techniques et théoriques
+fiables (M. V. Lomolino, 2000, Beck et al. (2012), Thuiller et al.
+(2013)). Biensur ces appels soulèvent des défis techniques et théoriques
 importants dont on ne peut qu'espèrer qu'il soit relevé au plus vite en
 dépit de l'urgence.
 
@@ -808,8 +808,10 @@ théorie de la biogéographie des îles de MacArthur et Wilson dont j'ai
 déjà abondamment. Je vais maintenant revenir sur cette théorie plus en
 détail pour expliquer pouquoi elle a marqué durablement l'écologie.
 
-\subsubsection{Une vision puissante de la dynamique des distributions
+\subsubsection*{Une vision puissante de la dynamique des distributions
 d'espèces}\label{une-vision-puissante-de-la-dynamique-des-distributions-despuxe8ces}
+\addcontentsline{toc}{subsubsection}{Une vision puissante de la
+dynamique des distributions d'espèces}
 
 Dans leur livre \emph{The Theory of Island Biogeography}, MacArthur et
 Wilson doutent les idées qui y sont présentées résisteraientt longtemps
@@ -880,8 +882,10 @@ processus essentiel au dela des singularité. Une connaissance plus fine
 et trop particulière serait vraissemblablement un obstacle à une
 généralisation (Lomolino and Brown, 2009).
 
-\subsubsection{Le modèle mathématique et les prédicitons de la
+\subsubsection*{Le modèle mathématique et les prédicitons de la
 TIB}\label{le-moduxe8le-mathuxe9matique-et-les-pruxe9dicitons-de-la-tib}
+\addcontentsline{toc}{subsubsection}{Le modèle mathématique et les
+prédicitons de la TIB}
 
 Je ne souhaite pas rentrer dans des détails mathématiques du modèle, je
 les ai abordé dans la version la plus simple dans un article de
@@ -893,6 +897,7 @@ ces événments de colonisation peuvent être contrebalancé par des
 extinctions dont le taux est noté \(e\):
 
 \begin{eqnarray}
+\label{eqMW}
 \frac{dS}{dt} = c(P-S)-eS
 \end{eqnarray}
 
@@ -912,195 +917,171 @@ est la variation de cet équilibre avec les caractéristiques de l'île
 Wilson présentent la taille de l'île comme un un facteur affectant le
 taux d'extinction : plus l'île est grande, moins le risque d'extinction
 est grand. De même, ils supopsent que l'isolement de l'île en affecte le
-flux de migrant : une île isolée
+flux de migrant : une île isolée est difficilement accesible et donc le
+flux de migratoire est plus faible que celui d'une île proche du
+continent (voir la figure ({\textbf{???}})). La théorie est aisni une
+explication à l'ensemble des relations des diversités retrouvées sur les
+îles et distillé dans le livre de 1967. Notamment celle de
+l'augmentation du nombre d'espèce de l'herpetofaune dans les caraibes
+(West idndies) présemtéen en ouverture du chapitre 2.
 
-Le lien avec l'aire area and number \(S=CA^z\) (\(z \in [0.2,0.35]\))
-mais des exeptions C taxon dependance similarité avec les relations
-allometriques sample nom isolé même relation mais z différent ui a eu
-des conséquence sur la vision de la conservation avec le calcul de la
-taille des zones de répartition. Mettre les espèces en gris pour es
-rassembler et savoir ou les particluarisé dans l'explication
-fine\ldots{} On rassemble mais on peut partcularis. Cette relation a été
-appliquée pour estimer la richesse spécifique de divers territoires
-\cite{May1988}, déterminer ainsi des aires de protection
-\cite{Neigel2003,Desmet2004} et estimer des taux d'extinction
-\cite{He2011}.
+De manière plus générale, la théorie fournit une explication à la
+relation aire-espèce qui est une des plus discutée en écologie (M.
+Lomolino, 2000). Il s'agit de l'étude de l'augmentation de la richesse
+spécifique (\(S\)) lorsqu'on augmente la surface d'échantillonage
+(\(A\)). La question fondamentale derrière ces courbes est de comprendre
+les mécanimes qui la déssinent et quels sont les causes de variation
+régionales. La théorie de la biogéogrpahie des îles apporte une
+explication pour une courbe de la forme \(S=CA^z\) qui colle bien au
+données avec des valeurs de Z comprise entre .2 et 0.35 pour les îles et
+plutot autour de 0.15 oour le continent et un ajustement taxonomique
+etrégionale pour \(C\) (MacArthur and Wilson, 1967). Cette relation est
+surtout connu pour ces application en conservation\footnote{En echo
+  actuel Wilson se base sur cette relation pour savoir la portion de la
+  terre à préserver
+  {[}http://www.nytimes.com/2016/03/13/opinion/sunday/the-global-solution-to-extinction.html{]}{[}http://www.nytimes.com/2016/03/13/opinion/sunday/the-global-solution-to-extinction.html{]}.}
+car elle pernet de justifiée la taille qu'une zone de protection pour
+obetnir un objectif chiffré en nombre d'espèce à sauvegrarer (Neigel,
+2003, Desmet and Cowling (2004)) et égalemnt pour estimer estimer des
+taux d'extinction (He and Hubbell, 2011).
 
 \begin{figure}[htbp]
 \centering
 \includegraphics{fig/fig1.pdf}
-\caption{\textbf{La Théorie de la biogéographie des Iles.} A et B
-respectivement les figures 4 et 5 que j'ai extrait de l'article de 1963
-et qui livre le même message que j'ai illustré en-dessous (MacArthur and
-Wilson, 1963). L'évolution des taux de colonisation et d'extinction est
-présentée pour deux îles aux caractéristiques différentes. Les tailles
-relatives des îles et les distances qui les séparent du continent sont
-schématisées à droite du graphique, les couleurs associent les îles à
-leurs courbes respectives. Le pool d'espèce régional (\(P\)) est
-constitué de 100 espèces, les taux de colonisation et d'extinction sont
-exprimés en terme de probabilité d'évènement. Les points où colonisation
-et extinction s'équilibrent sont marqué par les symboles en
-gris.\label{fig:figMW}}
+\caption{\textbf{La Théorie de la biogéographie des Iles.} (A)
+L'évolution des taux de colonisation et d'extinction est présentée pour
+deux îles aux caractéristiques différentes. Les tailles relatives des
+îles et les distances qui les séparent du continent sont schématisées à
+droite du graphique, les couleurs associent les îles à leurs courbes
+respectives. Le pool d'espèce régional (\(P\)) est constitué de 100
+espèces, les taux de colonisation et d'extinction sont exprimés en terme
+de probabilité d'évènement. Les points où colonisation et extinction
+s'équilibrent sont marqué par les symboles en gris. (B) et (C) sont
+respectivement les figures 4 et 5 extraites de l'article de 1963 de
+MacArthur et Wilson qui livre essentiellemnt le même message illustré en
+(A) (MacArthur and Wilson, 1963). La forme convexe des courbes de 1963
+sont justifiées par des facteurs biologiques qui ne sont pas intégrés
+dans l'équation \label{eqMW} qui donne une forne concave comme montré en
+(A).\label{fig:figMW}}
 \end{figure}
 
-\subsection*{L'empreinte historique de la Théorie de la Biogéographie
-des Iles de MacArthur et
-Wilson}\label{lempreinte-historique-de-la-thuxe9orie-de-la-bioguxe9ographie-des-iles-de-macarthur-et-wilson}
-\addcontentsline{toc}{subsection}{L'empreinte historique de la Théorie
-de la Biogéographie des Iles de MacArthur et Wilson}
+\subsubsection*{L'importance de la TIB dans des déveloopemnt théoriques
+plus
+récents}\label{limportance-de-la-tib-dans-des-duxe9veloopemnt-thuxe9oriques-plus-ruxe9cents}
+\addcontentsline{toc}{subsubsection}{L'importance de la TIB dans des
+déveloopemnt théoriques plus récents}
 
-Le terme des îles est centraled mais il s'agit bien d'une théorie de la
-biogéogroahie. reflète aussi l'importance des îles dans l'édification
-d'une théorie isolation lux de migraotion simple / assemblage moins
-nombreux / conséquence d'une manipultion limité à l'île / 5\% mais
-répétable ? / un oacth isolé et peut être que flux au île (Simberloff,
-1974) Pourquoi les îles en fait isolé flux et gros contraste mailand -
-island alors qu'elles sontproches.. Les îles qui occupent le coeur de
-l'ouvrage de Wallace et de MAcArthur et Wilson ont été essentiel poour
-comprendre les processus qui forme la sitributn des espèces. Elle sosn
-tproches du continent et peuvent être si différenetes la nature eotique
-des piles à forcer les auteurs à comprendre l'origine de leur
-singularit.é et ces sur ces bout de terre isolé qu'ils ont trouv.s des
-réposnes historques ais ausso spataile qui a parmis d'aller vers des
-dévelppemnt encore aujourd'hui très actis. La quête de cees honmes et de
-bien d'autres reste finalemnt de comprendre pourquoi les espèces sont ou
-elles sont et de comproendre ce qui les amanerner la. Meilleur
-explication pour des arrangemnets spatiaux singuliers sont des processus
-temporels. Faire émerger des règles mon apport amener des interactions.
+\subsubsection*{La théorie des
+métapopulations}\label{la-thuxe9orie-des-muxe9tapopulations}
+\addcontentsline{toc}{subsubsection}{La théorie des métapopulations}
 
-Preston 1962 a lié species abundance et =\textgreater{} impact enorme
-sur la conservation et encore aujourd'hui bien que simplifié les calculs
-permettent de comprendredsimplementr dans quelles directions nous allons
-{[}article NewYork Times{]} Malgré la 50 ans de depuis la publication du
-Livre et premier articles a lasuorise de auiteure eux meme
-=\textgreater{} publications récentes qui repartent de la théorie des
-îles ; l'ecolet Warren et gravel and all
+Bien que ne représentant que cinq pourcents des teres émergeés, ce sont
+bine l'observations des îles qui ont mené à une vision paradigmatique de
+la biogéograaphie. IL est porbable que cela soit lié au caractère à leur
+relative abondance, leur disparité, leur diversité, la relative
+simplicité biologiques qu'on y trouve et très certianenment, comme je
+l'ai évoqué précedemment, une lecture claire des flux de migration
+(Simberloff, 1974). Cette dernière propriété est souvent absente pour
+des populations continentales (et dès qu'on est en précence d'un
+archipel). La théorie des métapopulations s'intéresse justement aux
+populations reliées par des flux de migrations ({\textbf{???}}). C'est
+Richard Levins qui a utilisé le premier le terme en 1970
+({\textbf{???}}). En considérant des patch favorable, il détermine la
+proportion de ces patchs occupés par une espèce donnée \(p\) en fonction
+de ces capaicté de dispersion \(c\) et la probabilité d'extinction \(p\)
+:
 
-Dans la réédition de 2001 {[}{]} Wilson rappelle que le problème :
+\begin{eqnarray}
+\label{eqMW}
+\frac{dp}{dt} = cp(1-p)-ep
+\end{eqnarray}
+
+Le taux de migration est proportionel à la proportion de pactch déjà
+occupé. La théorie des metapopulations est aujourd'hui d'un certains
+nombres de paradigmes (Leibold et al., 2004) et a montré sa pertinence
+sur un certains nombre d'exemple concrets. Papillon Hanski 1998 / Hyloak
+et bact.ir. /Matter 2092. et pour rebondire McPeek \& Brown (2000) have
+investigated differences between competing damselfly species and finds
+rather little difference among some species, leaving the neutral
+paradigm as a potential explanation for high species diversity in this
+groups of insect. opposition à la niche set de traits particuliers
+
+\subsubsection*{La théorie neutre de la biogéographie et le débat
+qu'elle
+soulève}\label{la-thuxe9orie-neutre-de-la-bioguxe9ographie-et-le-duxe9bat-quelle-souluxe8ve}
+\addcontentsline{toc}{subsubsection}{La théorie neutre de la
+biogéographie et le débat qu'elle soulève}
+
+La théorie neutre postule une équivalence écologique entre les individus
+de différentes espèces et formalise l'idée d'un replacement perpétuel
+d'un individu mort par un autre espèce morte par une autre, à la manière
+de replacement par de nouveaux jeune arbres suite d'un chablis (Hubbell,
+1999). Dans l'article fondateur de cette théorie, Stephen Hubbell décrit
+um tirage aléatoire régit par l'abndance dans la communauté locale et la
+colonisation d'un individu extérieur dont la probabilité dépend de son
+abondance à l'échelle régionale. Cette théorie partage beaucoup de
+charactéristiques avec la TIB, on y trouve un principe d'équivalence
+décologique, une imbrication des échelles régionale et locales et un
+accent sur le chacractère aléatoire des colonisaion mais aussi des
+configuration locale des communautés. Comme le fait remaquer Hubbell en
+2010 dans le chapitre qu'il écrit dans le livre mentionné plus haut,
+\emph{The Theory of Island Biogeography Revisited}, la théorie neutre
+place l'équivalence au niveau des individus et non plus au niveau des
+espèces ({\textbf{???}}). Cette théorie a été très souvent attaqué (par
+exemple (McGill and Collins, 2003)) pour le postulat déquivalence alors
+même que la TIB ne l'a pas été (tout du moins pas au même niveau).
+Néanmoins il n,est pas étonnat que cette idée est été poussé un cran
+plus loin que dans la TIB pour justemnt voir ce que l'on peut dire en
+faisant un minimu d'hypothèse sur la snglatiré
 
 \begin{quote}
-``The flaws of the book lie in its oversimplification and
-incompleteness, which are endemic to most efforts at theory and
-synthesis.''
+The symmetry assumption is equivalent to asking how many of the
+properties of ecological communities are captured by the mean, ignoring
+species differences.
 \end{quote}
 
-Diminuer la composante historqiue à la recherche de loi et j'ajouterais
-aussi simple soit elle raffiner par la suite
-
-\subsubsection{théorie de la niche}\label{thuxe9orie-de-la-niche}
-
-\subsubsection{La théorie des
-métapopulations}\label{la-thuxe9orie-des-muxe9tapopulations}
-
-=\textgreater{} chapitre de Hanski
-
-\subsubsection{La théorie neutre de l'écologie et le débat qu'elle
-soulève}\label{la-thuxe9orie-neutre-de-luxe9cologie-et-le-duxe9bat-quelle-souluxe8ve}
-
-Ecological equivalence des individus OK mais peut-être que l'abondance
-des interactions expliques aussi
-
-=\textgreater{} chapitre dans revisited
-
-Problème si explication alternatives possibles alors on n'est pas obligé
-de mettre pour expliquer quoi que ce soit. De plus savons nous si c'est
-discernable ??? Si le deux relation aire espèce sont différentes d'un
-groupe à l'autre alors oui\ldots{} Mais sinon\ldots{} Non.
-
-Oppositon à la niche.
-
-(Chapitre 8 TIB first paragraph)
-
-Le concept récent de biodiversité. However ecological equivalence in
-``the niche is a mapping of population dynamics onto this space''
-({\textbf{???}}) vers le fonctionnemt des ecosystèmes levier d'action
-vers une approche plus utilitariste mais qui donne uns certaine
-proximité avec les eécosytèmes Loreau et al. (2001)
-
-\subsection{Aller plus loin, Enjeux
-théoriques}\label{aller-plus-loin-enjeux-thuxe9oriques}
-
-L'effort théorique nécessaire en biogéographie porte sur l'intégration
-ordonnée de concepts clés issus de différents champs de l'écologie
-\cite{Thuiller2013}. Ainsi, alors que les conditions climatiques et plus
-généralement la géographie physique sont classiquement évoquées pour
-expliquer la répartition des espèces \cite{Kearney2004}, les
-interactions entre espèces sont quant à elles souvent occultées. De
-même, bien que les processus évolutifs soient souvent évoqués comme
-déterminants majeurs de la diversité des espèces \cite{Rosindell2011},
-leurs effets à court terme sont souvent ignorés \cite{Parmesan2006} dans
-les scénarios décrivant la biodiversité de demain \cite{Lavergne2010}.
-La difficulté principale est alors de produire des modèles (théoriques
-en première instance) qui intègrent l'ensemble des processus et les
-relations qu'ils entretient \cite{Thuiller2013} tout en gardant une
-relative simplicité. Une théorie intégrative en biogéographie pourrait
-être le meilleur point d'ancrage pour construire de nouvelles approches
-appliquées. Avec une telle théorie en main, nous pourrions aller vers
-l'enjeux majeurs de ces dernières années en biogéographie : relâcher les
-hypothèses que les modèles classiques de répartitions des espèces
-d'aujourd'hui utilisent (notamment en occultant les interactions) pour
-prédire la biodiversité de demain \cite{Guisan2011}.
-
-Dans le projet ici présenté, nous proposons de construire des modèles
-théoriques plus intégratifs en repartant d'un modèle théorique
-classique, celui de la théorie de la biogéographie des îles proposée par
-MacArthur et Wilson \cite{MacArthur1967}. Dans un premier temps, nous y
-ajoutons les interactions entre espèces et une relation explicite avec
-l'environnement abiotique au travers d'une approche communauté centrée
-qui étend le modèle classique. Dans un second temps, nous combinons une
-approche population centrée et les processus évolutifs pour une
-biogéographie insulaire plus mécaniste. Enfin, au regard des enjeux que
-soulève le rôle des interactions entre espèces dans la construction de
-la biodiversité, nous réfléchissons sur l'inférence d'espèces
-interdépendantes.
-
-différentes théories pour différentes échelles ??
-
-De part son pouvoir explicatif et son élégance, le modèle de MacArthur
-et Wilson est un point de départ approprié pour construire des modèles
-plus intégratifs en intégrant explicitement des processus écologiques et
-évolutifs. Cette idée n'est pas nouvelle et les auteurs de la TIB ont
-étudié un certain nombre de processus écologiques. Notamment, ils ont
-intégré les phénomènes de spéciation \cite{MacArthur1967} et réfléchis
-sur l'importance des interactions quant à la répartition des espèces
-\cite{MacArthur1984}. Néanmoins, dans le modèle classique, l'ensemble de
-ces aspects sont absents, l'idée que les processus écologiques importent
-peu aux larges échelles domine. Nous allons, dans ce projet, à
-l'encontre de cette idée et proposons de construire des modèles
-intégratifs qui étendent la TIB.
-
-isolation / faune particulière des îles
-
-Ainsi, ce modèle a déjà été utilisé avec succès par Gravel
-\textit{et al.} 2011 pour l'élaboration de leur théorie trophique de la
-biogéographie des îles \cite{Gravel2011b}.
+Pour les defenseurs de la théorie neutre, elle est aussi utile autant
+vrai que fausse (Rosindell et al., 2012), c'est une jauge pur montrer si
+les processus de processu domine ou pas (John et al., 2007). Pour
+certains auteur, il s'agut d'un d.bat classique entre les r.alistes et
+les inttrumentaliste, les uns d.taill. un bout de picture une image
+globale flou mais les deux devrait beneficier (Wennekes et al., 2012)
+surtout quand mathématqiuemnt il y a un pas entre les deux (Gravel et
+al., 2006). Quoiqu'il en soit encore besoin de commaisance et essayer
+plus loin ce que l'on peut particulariser notamment sur l'introduction
+des interactions. Opposition à la niche mais que faire\ldots{}
 
 \section*{Le rôle des interactions dans la distribution des
 espèces}\label{le-ruxf4le-des-interactions-dans-la-distribution-des-espuxe8ces}
 \addcontentsline{toc}{section}{Le rôle des interactions dans la
 distribution des espèces}
 
-L'objet central de ma thèse est l'introduction de ma thèse est d'essayer
-de regrader la théorie de la biogéographie et notamment quelles
-onfornatiosn 'écologie des réseayx peurt ameenr de la lumière sur la
-théorie. Dans cette dernière partie de mon introduction, je présente
-avec pkus de délément l'importance de l'intriduction des onteractions
-dans une théorie de la biogéographie. Cela me permettra d'introduire nes
-contributions qui seront détaillées dans ma thèse.
-
-Wallace conclut :28 qu'une théorie générale doit tenir compte des
-variation range et proximité des espèces porches et des overlapp.
+Ma thèse a pour objectif de trouver des leviers pour comprendre comment
+les interactions peuvent affecter les distributions d'espèce et de
+comprendre où chercher les traces qu'elles pourraient laisser dans les
+données d'occurrence des espèce. Comme je l'ai mentionnée auparavant
+cette idée est très ancienne, je cite volontier Wallace qui écrit dès
+l'introduction de son livre écrit :
 
 \begin{quote}
-Both competition and predation appear now to be much more important in
-biogeography than people had formely guesses
+« Both competition and predation appear now to be much more important in
+biogeography than people had formely guesses (({\textbf{???}})) »
 \end{quote}
 
-\subsection{Pourquoi les intéractions ne joue-t-elle pas un rôle
-majeur}\label{pourquoi-les-intuxe9ractions-ne-joue-t-elle-pas-un-ruxf4le-majeur}
+Le problème auquel ce sont vraissemblablememnt est le caractère
+singulier des relations qui unissent les être vivant et que dans la
+recherche de point commun il n'est pas pu mettre au point une théorique
+de la biogéographie des piles intégrant les interactions. Néanmoins, au
+vie des développemnt de son dernier livre, on peut faire spéculer que
+MacArthur ouvait réfléchir à une telle intégration (MacArthur, 1972).
+C'est dans lobjectif d'aller vers une théorie plus intégrative mais
+toute aussi élégante qyue j'ai mené ma thèse qui apporte quelques
+pistes.
 
-\subsubsection{La théorie de la biogéograohie ne les nient pas bien au
-contraire}\label{la-thuxe9orie-de-la-bioguxe9ograohie-ne-les-nient-pas-bien-au-contraire}
+\subsection*{Importance des interactions dans la
+distribution}\label{importance-des-interactions-dans-la-distribution}
+\addcontentsline{toc}{subsection}{Importance des interactions dans la
+distribution}
 
 La théorie de la Biogéographie des îles (et il en va de même pour la
 théorie neutre) est certes une théorie qui ne s'articule pas sur les
@@ -1143,7 +1124,8 @@ Distributiin des fauvettes \emph{Crateroscelis robusta} et \emph{C.runa}
 
 Mais le p
 
-\subsubsection{Problème d'échelle}\label{probluxe8me-duxe9chelle}
+\subsection*{Un problème d'échelle?}\label{un-probluxe8me-duxe9chelle}
+\addcontentsline{toc}{subsection}{Un problème d'échelle?}
 
 Oubli de ce facteur important de Ls SMDS\ldots{}
 
@@ -1198,7 +1180,7 @@ comprendre comment le changement d'échelle affecte nous prédictions est
 aussi un véritable challenge en biogéographie \cite{Martinez2012}.
 
 \subsubsection{Un problème d'échelle
-?}\label{un-probluxe8me-duxe9chelle}
+?}\label{un-probluxe8me-duxe9chelle-1}
 
 Comment les varitions démogrpahiques interactions se propagent-t-elle à
 travers les échelles spatiale.
@@ -1427,6 +1409,10 @@ matrix effects and species richness patterns in habitat fragments.
 Ecology Letters 5, 619--623.
 doi:\href{https://doi.org/10.1046/j.1461-0248.2002.00366.x}{10.1046/j.1461-0248.2002.00366.x}
 
+\hypertarget{ref-Desmet2004}{}
+Desmet, P., Cowling, R., 2004. Using the species-area relationship to
+set baseline targets for conservation. Ecology And Society 9, 1--39.
+
 \hypertarget{ref-Diamond1975}{}
 Diamond, J.M., 1975. Assembly of species communities, in: Cody, M.L.,
 Diamond, J.M. (Eds.), Ecology and Evolution of Communities. Harvard
@@ -1467,6 +1453,12 @@ Mouquet, N., 2011. Experimental niche evolution alters the strength of
 the diversity--productivity relationship. Nature 469, 89--92.
 doi:\href{https://doi.org/10.1038/nature09592}{10.1038/nature09592}
 
+\hypertarget{ref-Gravel2006a}{}
+Gravel, D., Canham, C.D., Beaudet, M., Messier, C., 2006. Reconciling
+niche and neutrality: the continuum hypothesis. Ecology letters 9,
+399--409.
+doi:\href{https://doi.org/10.1111/j.1461-0248.2006.00884.x}{10.1111/j.1461-0248.2006.00884.x}
+
 \hypertarget{ref-Grinnell1917a}{}
 Grinnell, J., 1917. The Niche-Relationships of the California Thrasher.
 The Auk 34, 427--433.
@@ -1478,6 +1470,11 @@ Tabor, G., Zhi, L., Marquet, P.a., Hijmans, R.J., 2013. Climate change,
 wine, and conservation. Proceedings of the National Academy of Sciences
 110, 6907--6912.
 doi:\href{https://doi.org/10.1073/pnas.1210127110}{10.1073/pnas.1210127110}
+
+\hypertarget{ref-He2011}{}
+He, F., Hubbell, S.P., 2011. Species-area relationships always
+overestimate extinction rates from habitat loss. Nature 473, 368--71.
+doi:\href{https://doi.org/10.1038/nature09985}{10.1038/nature09985}
 
 \hypertarget{ref-Hijmans2005}{}
 Hijmans, R.J., Cameron, S.E., Parra, J.L., Jones, P.G., Jarvis, A.,
@@ -1492,11 +1489,24 @@ age climate, evolutionary constraints and diversity patterns of European
 dung beetles. Ecology Letters 14, 741--748.
 doi:\href{https://doi.org/10.1111/j.1461-0248.2011.01634.x}{10.1111/j.1461-0248.2011.01634.x}
 
+\hypertarget{ref-Hubbell1999}{}
+Hubbell, S.P., 1999. Light-Gap Disturbances, Recruitment Limitation, and
+Tree Diversity in a Neotropical Forest. Science 283, 554--557.
+doi:\href{https://doi.org/10.1126/science.283.5401.554}{10.1126/science.283.5401.554}
+
 \hypertarget{ref-Jeschke2008}{}
 Jeschke, J.M., Strayer, D.L., 2008. Usefulness of bioclimatic models for
 studying climate change and invasive species. Annals of the New York
 Academy of Sciences 1134, 1--24.
 doi:\href{https://doi.org/10.1196/annals.1439.002}{10.1196/annals.1439.002}
+
+\hypertarget{ref-John2007}{}
+John, R., Dalling, J.W., Harms, K.E., Yavitt, J.B., Stallard, R.F.,
+Mirabello, M., Hubbell, S.P., Valencia, R., Navarrete, H., Vallejo, M.,
+Foster, R.B., 2007. Soil nutrients influence spatial distributions of
+tropical tree species. Proceedings of the National Academy of Sciences
+104, 864--869.
+doi:\href{https://doi.org/10.1073/pnas.0604666104}{10.1073/pnas.0604666104}
 
 \hypertarget{ref-Kearney2004}{}
 Kearney, M., Porter, W.P., 2004. MAPPING THE FUNDAMENTAL NICHE:
@@ -1544,6 +1554,10 @@ hydrological niche differentiation through the lens of multi-species
 co-occurrence models. Journal of Ecology 103, 1264--1275.
 doi:\href{https://doi.org/10.1111/1365-2745.12428}{10.1111/1365-2745.12428}
 
+\hypertarget{ref-Lomolino2000a}{}
+Lomolino, M., 2000. Ecology's most general, yet protean pattern : the
+species area relationship. Journal of Biogeography 27, 17--26.
+
 \hypertarget{ref-Lomolino2000}{}
 Lomolino, M.V., 2000. A call for a new paradigm of island biogeography.
 Global Ecology and Biogeography 9, 1--6.
@@ -1553,14 +1567,6 @@ doi:\href{https://doi.org/10.1046/j.1365-2699.2000.00185.x}{10.1046/j.1365-2699.
 Lomolino, M.V., Brown, J.H., 2009. The reticulating phylogeny of island
 biogeography theory. Q. Rev. Biol. 84, 357--390.
 doi:\href{https://doi.org/10.1017/CBO9781107415324.004}{10.1017/CBO9781107415324.004}
-
-\hypertarget{ref-Loreau2001}{}
-Loreau, M., Naeem, S., Inchausti, P., Bengtsson, J., Grime, J.P.,
-Hector, a, Hooper, D.U., Huston, M. a, Raffaelli, D., Schmid, B.,
-Tilman, D., Wardle, D. a, 2001. Biodiversity and ecosystem functioning:
-current knowledge and future challenges. Science (New York, N.Y.) 294,
-804--8.
-doi:\href{https://doi.org/10.1126/science.1064088}{10.1126/science.1064088}
 
 \hypertarget{ref-Losos2010}{}
 Losos, J.B., Ricklefs, R.E., 2010. The Theory of Island Biogeography
@@ -1598,11 +1604,22 @@ Princeton University Press.
 McCann, K.S., 2000. The diversity-stability debate. Nature 405, 228--33.
 doi:\href{https://doi.org/10.1038/35012234}{10.1038/35012234}
 
+\hypertarget{ref-McGill2003}{}
+McGill, B., Collins, C., 2003. A unified theory for macroecology based
+on spatial patterns of abundance. Evolutionary Ecology Research 5,
+469--492.
+doi:\href{https://doi.org/10.1038/nature01569.1.}{10.1038/nature01569.1.}
+
 \hypertarget{ref-Murdoch2002}{}
 Murdoch, W.W., Kendall, B.E., Nisbet, R.M., Briggs, C.J., McCauley, E.,
 Bolser, R., 2002. Single-species models for many-species food webs.
 Nature 417, 541--543.
 doi:\href{https://doi.org/10.1038/417541a}{10.1038/417541a}
+
+\hypertarget{ref-Neigel2003}{}
+Neigel, J., 2003. Species-area relatioships and marine conservation.
+Ecological Applications 13, 138--145.
+doi:\href{https://doi.org/10.1890/1051-0761(2003)013\%5B0138:SARAMC\%5D2.0.CO;2}{10.1890/1051-0761(2003)013{[}0138:SARAMC{]}2.0.CO;2}
 
 \hypertarget{ref-Pearson2003}{}
 Pearson, R.G., Dawson, T.P., 2003. Predicting the impacts of climate
@@ -1662,6 +1679,12 @@ invasive yellow-legged hornet in France: the role of human-mediated
 dispersal and the effects of control measures. Journal of Applied
 Ecology.
 doi:\href{https://doi.org/10.1111/1365-2664.12724}{10.1111/1365-2664.12724}
+
+\hypertarget{ref-Rosindell2012}{}
+Rosindell, J., Hubbell, S.P., He, F., Harmon, L.J., Etienne, R.S., 2012.
+The case for ecological neutral theory. Trends in Ecology and Evolution
+27, 203--208.
+doi:\href{https://doi.org/10.1016/j.tree.2012.01.004}{10.1016/j.tree.2012.01.004}
 
 \hypertarget{ref-Saterberg2013}{}
 Säterberg, T., Sellman, S., Ebenman, B., 2013. High frequency of
@@ -1768,6 +1791,11 @@ doi:\href{https://doi.org/10.1111/j.1096-3642.1860.tb00090.x}{10.1111/j.1096-364
 Wallace, A.R., 1858. On the Tendency of Varieties to depart indefinitely
 from the Original Type. Proceedings of the Linnean Society Of London 3,
 53--62.
+
+\hypertarget{ref-Wennekes2012}{}
+Wennekes, P.L., Rosindell, J., Etienne, R.S., 2012. The Neutral---Niche
+Debate: A Philosophical Perspective. Acta Biotheoretica 60, 257--271.
+doi:\href{https://doi.org/10.1007/s10441-012-9144-6}{10.1007/s10441-012-9144-6}
 
 \hypertarget{ref-Yoshida2003}{}
 Yoshida, T., Jones, L.E., Ellner, S.P., Fussmann, G.F., Hairston, N.G.,
