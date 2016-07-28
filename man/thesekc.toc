@@ -25,13 +25,13 @@
 \contentsline {section}{Cadre th\IeC {\'e}orique de la th\IeC {\`e}se}{21}{section*.21}
 \contentsline {subsubsection}{Une vision puissante de la dynamique des distributions d'esp\IeC {\`e}ces}{22}{section*.22}
 \contentsline {subsubsection}{Le mod\IeC {\`e}le math\IeC {\'e}matique et les pr\IeC {\'e}dicitons de la TIB}{24}{section*.23}
-\contentsline {subsubsection}{L'importance de la TIB dans des d\IeC {\'e}veloopemnt th\IeC {\'e}oriques plus r\IeC {\'e}cents}{26}{section*.25}
+\contentsline {subsubsection}{L'importance de la TIB dans des d\IeC {\'e}velopements th\IeC {\'e}oriques plus r\IeC {\'e}cents}{26}{section*.25}
 \contentsline {subsubsection}{La th\IeC {\'e}orie des m\IeC {\'e}tapopulations}{26}{section*.26}
-\contentsline {subsubsection}{La th\IeC {\'e}orie neutre de la biog\IeC {\'e}ographie et le d\IeC {\'e}bat qu'elle soul\IeC {\`e}ve}{28}{section*.27}
-\contentsline {section}{Le r\IeC {\^o}le des interactions dans la distribution des esp\IeC {\`e}ces}{29}{section*.28}
+\contentsline {subsubsection}{La th\IeC {\'e}orie neutre de la biog\IeC {\'e}ographie et le d\IeC {\'e}bat qu'elle soul\IeC {\`e}ve}{29}{section*.27}
+\contentsline {section}{Le r\IeC {\^o}le des interactions dans la distribution des esp\IeC {\`e}ces}{30}{section*.28}
 \contentsline {subsection}{Importance des interactions dans la distribution}{30}{section*.29}
 \contentsline {subsection}{Un probl\IeC {\`e}me d'\IeC {\'e}chelle?}{32}{section*.30}
-\contentsline {subsection}{Vers une biog\IeC {\'e}ographie \IeC {\'e}nerg\IeC {\'e}tique}{34}{section*.31}
+\contentsline {subsection}{Vers une biog\IeC {\'e}ographie \IeC {\'e}nerg\IeC {\'e}tique}{35}{section*.31}
 \select@language {english}
 \contentsline {chapter}{\numberline {\MakeUppercase {article} \MakeUppercase {1}} \\ \MakeUppercase {A PROPOS DES INTERACTIONS BIOTIQUES ET DES CONTRAINTES ENVIRONNMNENTALES A L'ECHELLE BIOGEOGRAPHIQUE}}{47}{chapter.1}
 \contentsline {section}{\numberline {1.1}RESUM\IeC {\'E}}{47}{section.1.1}

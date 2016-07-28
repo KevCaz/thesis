@@ -80,3 +80,26 @@ pdf(filename, height=wi2, width=wi2)
   addLetter(3,cex=cex_let)
 
 dev.off()
+
+
+n = 4000
+mata <- matb <- matrix(0, n, n)
+
+system.time(
+
+  for (i in 1:n){
+    for (j in 1:n){
+      mata[i,j] <- i
+    }
+  }
+
+)
+
+
+system.time(
+
+  for (i in 1:length(matb)){
+    matb[i] <- i
+  }
+
+)
