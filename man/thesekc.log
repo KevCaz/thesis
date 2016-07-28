@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  28 JUL 2016 13:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  28 JUL 2016 15:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1080,169 +1080,189 @@ Overfull \hbox (17.86072pt too wide) in paragraph at lines 987--1004
 
 LaTeX Warning: Float too large for page by 59.87053pt on input line 1005.
 
-[26] [27 <./fig/fig1.pdf>] [28] [29]
-Overfull \hbox (4.37286pt too wide) in paragraph at lines 1128--1137
+[26] [27 <./fig/fig1.pdf>] [28]
+Overfull \hbox (8.26161pt too wide) in paragraph at lines 1072--1092
+[]\OT1/txr/m/n/12 La th[]eorie neutre pos-tule l'[]equivalence []ecologique ent
+re les diff[]erents in-di-vi-dus d'esp[]eces
+ []
+
+
+Overfull \hbox (10.40886pt too wide) in paragraph at lines 1072--1092
+[]\OT1/txr/m/n/12 eventuellement diff[]erentes et d[]ecrit les dy-na-miques po-
+pu-la-tion-nelles re-po-sant sur les diff[]erences
+ []
+
+[29]
+Overfull \hbox (4.37286pt too wide) in paragraph at lines 1144--1153
 \OT1/txr/m/n/12 plorent des pistes pro-me-teuse pour les pr[]edire no-tam-ment 
 sur la base de re-la-tions al-lom[]etriques
  []
 
-[30]
-Overfull \hbox (10.67433pt too wide) in paragraph at lines 1186--1201
+[30] [31]
+Overfull \hbox (10.67433pt too wide) in paragraph at lines 1202--1217
 []\OT1/txr/m/n/12 Plus r[]ecemment, on constate une grande mo-ti-va-tion pour i
 nt[]egrer les re-la-tions []ecologiques
  []
 
 
-Overfull \hbox (11.84818pt too wide) in paragraph at lines 1186--1201
+Overfull \hbox (11.84818pt too wide) in paragraph at lines 1202--1217
 \OT1/txr/m/n/12 Une m[]ehodologuie r[]ecente ap-pel[]ee JSDM int[]egre par ezxe
 mple les cor-rel-taion dans la pr[]ecsence
  []
 
-[31] [32] [33]
-LaTeX Font Info:    Try loading font information for OML+txr on input line 1300
+[32] [33] [34]
+LaTeX Font Info:    Try loading font information for OML+txr on input line 1316
 .
  (/usr/local/texlive/2016/texmf-dist/tex/latex/txfonts/omltxr.fd
 File: omltxr.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Font shape `OML/txr/m/n' in size <12> not available
-(Font)              Font shape `OML/txmi/m/it' tried instead on input line 1300
+(Font)              Font shape `OML/txmi/m/it' tried instead on input line 1316
 .
 
-Overfull \hbox (13.03755pt too wide) in paragraph at lines 1299--1302
+Overfull \hbox (13.03755pt too wide) in paragraph at lines 1315--1318
 []\OT1/txr/m/n/12 Information dans les dis-tri-bu-tions ge-cko aus-tra-lien g[]
 en[]eraliste \OT1/txr/m/it/12 He-te-ro-no-tia bi-noei \OT1/txr/m/n/12 =\OML/txm
 i/m/it/12 > \OT1/txr/m/n/12 alors
  []
 
 
-Overfull \hbox (0.56885pt too wide) in paragraph at lines 1307--1318
+Overfull \hbox (0.56885pt too wide) in paragraph at lines 1323--1334
 \OT1/txr/m/n/12 Nous avons en fait sugg[]erer que les p[]ediction s[]etaient pl
 us fa-cile opour des esp[]ece g[]en[]eralistes
  []
 
-[34] [35]
-Overfull \hbox (1.81416pt too wide) in paragraph at lines 1381--1385
+[35] [36]
+Overfull \hbox (1.81416pt too wide) in paragraph at lines 1397--1401
 \OT1/txr/m/n/12 cli-mate change on the fu-ture of bio-di-ver-sity. Eco-logy let
 -ters 15, 365--377. doi :[][]10.1111/j.1461-
  []
 
-[36]
-Overfull \hbox (8.78618pt too wide) in paragraph at lines 1404--1408
+
+Overfull \hbox (8.78618pt too wide) in paragraph at lines 1420--1424
 \OT1/txr/m/n/12 spe-cies rich-ness pat-terns in ha-bi-tat frag-ments. Eco-logy 
 Let-ters 5, 619--623. doi :[][]10.1046/j.1461-
  []
 
-
-Overfull \hbox (8.24617pt too wide) in paragraph at lines 1425--1434
+[37]
+Overfull \hbox (8.24617pt too wide) in paragraph at lines 1441--1450
 \OT1/txr/m/n/12 spe-cies' dis-tri-bu-tions from oc-cur-rence data. Eco-gra-phy 
 29, 129--151. doi :[][]10.1111/j.2006.0906-
  []
 
-[37]
-Overfull \hbox (9.293pt too wide) in paragraph at lines 1448--1452
+
+Overfull \hbox (9.293pt too wide) in paragraph at lines 1464--1468
 \OT1/txr/m/n/12 C., 2013. A Mi-to-ge-no-mic Phy-lo-geny of Li-ving Pri-mates. P
 LoS ONE 8, 1--10. doi :[][]10.1371/jour-
  []
 
 
-Overfull \hbox (42.8323pt too wide) in paragraph at lines 1465--1469
+Overfull \hbox (42.8323pt too wide) in paragraph at lines 1481--1485
 \OT1/txr/m/n/12 tra-lity : the conti-nuum hy-po-the-sis. Eco-logy let-ters 9, 3
 99--409. doi :[][]10.1111/j.1461-0248.2006.00884.x[][] 
  []
 
 [38]
-Overfull \hbox (18.70468pt too wide) in paragraph at lines 1501--1503
+Overfull \hbox (18.70468pt too wide) in paragraph at lines 1517--1519
 []\OT1/txr/m/n/12 Hanski, I., 1998. Me-ta-po-pu-la-tion dy-na-mics. Na-ture re-
 views 396, 41--49. doi :[][]10.1016/0169-
  []
 
-
-Overfull \hbox (1.87288pt too wide) in paragraph at lines 1529--1534
+[39]
+Overfull \hbox (1.87288pt too wide) in paragraph at lines 1545--1550
 []\OT1/txr/m/n/12 Hortal, J., Diniz-Filho, J.A.F., Bini, L.M., Rodr[]^^Pguez, M
 .[]A., Ba-selga, A., Nogu[]es-Bravo,
  []
 
 
-Overfull \hbox (25.25017pt too wide) in paragraph at lines 1529--1534
+Overfull \hbox (25.25017pt too wide) in paragraph at lines 1545--1550
 \OT1/txr/m/n/12 and di-ver-sity pat-terns of Eu-ro-pean dung beetles. Eco-logy 
 Let-ters 14, 741--748. doi :[][]10.1111/j.1461-
  []
 
-[39] [40] [41]
-Overfull \hbox (41.84067pt too wide) in paragraph at lines 1676--1678
+
+Overfull \hbox (83.57018pt too wide) in paragraph at lines 1563--1567
+\OT1/txr/m/n/12 and its ap-pli-ca-tion to tro-pi-cal rain fo-rests and co-ral r
+eefs. Co-ral Reefs 16, S9--S21. doi :[][]10.1007/s003380050237[][] 
+ []
+
+[40] [41] [42]
+Overfull \hbox (41.84067pt too wide) in paragraph at lines 1704--1706
 []\OT1/txr/m/n/12 McCann, K.S., 2000. The diversity-stability de-bate. Na-ture 
 405, 228--33. doi :[][]10.1038/35012234[][] 
  []
 
 
-Overfull \hbox (13.97668pt too wide) in paragraph at lines 1686--1688
+Overfull \hbox (13.97668pt too wide) in paragraph at lines 1714--1716
 []\OT1/txr/m/n/12 McGill, B.J., 2010. Mat-ters of Scale. Science 328, 575--576.
  doi :[][]10.1126/science.1188528[][] 
  []
 
-LaTeX Font Info:    Try loading font information for OMS+txr on input line 1690
+LaTeX Font Info:    Try loading font information for OMS+txr on input line 1718
 .
 (/usr/local/texlive/2016/texmf-dist/tex/latex/txfonts/omstxr.fd
 File: omstxr.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Font shape `OMS/txr/m/n' in size <12> not available
-(Font)              Font shape `OMS/txsy/m/n' tried instead on input line 1690.
+(Font)              Font shape `OMS/txsy/m/n' tried instead on input line 1718.
 
 
-Overfull \hbox (41.93448pt too wide) in paragraph at lines 1694--1698
+Overfull \hbox (41.93448pt too wide) in paragraph at lines 1722--1726
 \OT1/txr/m/n/12 2002. Single-species mo-dels for many-species food webs. Na-tur
 e 417, 541--543. doi :[][]10.1038/417541a[][] 
  []
 
-[42]
-Overfull \hbox (2.959pt too wide) in paragraph at lines 1711--1715
+
+Overfull \hbox (2.959pt too wide) in paragraph at lines 1739--1743
 \OT1/txr/m/n/12 evo-lu-tio-nary de-mo-gra-phy of eco-lo-gi-cal change : Lin-kin
 g trait va-ria-tion and po-pu-la-tion growth.
  []
 
 [43]
-Overfull \hbox (35.03017pt too wide) in paragraph at lines 1765--1769
+Overfull \hbox (35.03017pt too wide) in paragraph at lines 1797--1801
 \OT1/txr/m/n/12 lo-gi-cal neu-tral theory. Trends in Eco-logy and Evo-lu-tion 2
 7, 203--208. doi :[][]10.1016/j.tree.2012.01.004[][] 
  []
 
-
-Overfull \hbox (29.24692pt too wide) in paragraph at lines 1776--1780
+[44]
+Overfull \hbox (29.24692pt too wide) in paragraph at lines 1808--1812
 \OT1/txr/m/n/12 nary and eco-lo-gi-cal dy-na-mics. Science (New York, N.Y.) 331
 , 426--9. doi :[][]10.1126/science.1193954[][] 
  []
 
 
-Overfull \hbox (16.55786pt too wide) in paragraph at lines 1788--1791
+Overfull \hbox (16.55786pt too wide) in paragraph at lines 1820--1823
 \OT1/txr/m/n/12 nual Re-view of Eco-logy and Sys-te-ma-tics 5, 161--182. doi :[
 ][]10.1146/an-nu-rev.es.05.110174.001113[][] 
  []
 
-[44]
-Overfull \hbox (71.87015pt too wide) in paragraph at lines 1803--1807
+
+Overfull \hbox (71.87015pt too wide) in paragraph at lines 1835--1839
 \OT1/txr/m/n/12 tion sa-guaro range ex-pan-sion. Jour-nal of Arid En-vi-ron-men
 ts 116, 57--62. doi :[][]10.1016/j.jaridenv.2015.02.004[][] 
  []
 
 
-Overfull \hbox (18.74187pt too wide) in paragraph at lines 1820--1825
+Overfull \hbox (18.74187pt too wide) in paragraph at lines 1852--1857
 \OT1/txr/m/n/12 of Sciences of the Uni-ted States of Ame-rica 106 Suppl, 19637-
 -43. doi :[][]10.1073/pnas.0901562106[][] 
  []
 
 [45]
-Overfull \hbox (9.36217pt too wide) in paragraph at lines 1855--1859
+Overfull \hbox (9.36217pt too wide) in paragraph at lines 1887--1891
 \OT1/txr/m/n/12 of the Pro-cee-dings of the Lin-nean So-ciety of Lon-don. Zoo-l
 ogy 4, 172--184. doi :[][]10.1111/j.1096-
  []
 
-)
-Overfull \hbox (14.48616pt too wide) in paragraph at lines 1881--130
+[46])
+Overfull \hbox (14.48616pt too wide) in paragraph at lines 1913--130
 \OT1/txr/m/n/12 lu-tion drives eco-lo-gi-cal dy-na-mics in a predator-prey sys-
 tem. Na-ture 424, 303--6. doi :[][]10.1038/na-
  []
 
-[46]
+[47] [48
+
+]
 Package cleveref Info: loaded `english' language definitions on input line 133.
 
  (./chapitre1/chap1.tex
@@ -1257,185 +1277,184 @@ Overfull \hbox (13.31288pt too wide) in paragraph at lines 5--18
 vi-sion tr[]es puis-sante de la biog[]eographie
  []
 
-[47
+[49
 
+] [50]
 
-] [48]
-
-Package natbib Warning: Citation `Thuiller2013Road' on page 49 undefined on inp
+Package natbib Warning: Citation `Thuiller2013Road' on page 51 undefined on inp
 ut line 52.
 
 
-Package natbib Warning: Citation `Kearney2004Mapping' on page 49 undefined on i
+Package natbib Warning: Citation `Kearney2004Mapping' on page 51 undefined on i
 nput line 52.
 
 
-Package natbib Warning: Citation `Kissling2012Towards' on page 49 undefined on 
+Package natbib Warning: Citation `Kissling2012Towards' on page 51 undefined on 
 input line 52.
 
 
-Package natbib Warning: Citation `Lavergne2010Biodiversity' on page 49 undefine
+Package natbib Warning: Citation `Lavergne2010Biodiversity' on page 51 undefine
 d on input line 52.
 
 
-Package natbib Warning: Citation `Thuiller2013Road' on page 49 undefined on inp
+Package natbib Warning: Citation `Thuiller2013Road' on page 51 undefined on inp
 ut line 52.
-
-[49]
-
-Package natbib Warning: Citation `Ricklefs1987Community' on page 50 undefined o
-n input line 54.
-
-
-Package natbib Warning: Citation `Leibold2004Metacommunity' on page 50 undefine
-d on input line 54.
-
-
-Package natbib Warning: Citation `Urban2008Evolutionary' on page 50 undefined o
-n input line 54.
-
-
-Package natbib Warning: Citation `Massol2011Linking' on page 50 undefined on in
-put line 54.
-
-
-Package natbib Warning: Citation `Gravel2011Trophic' on page 50 undefined on in
-put line 54.
-
-
-Package natbib Warning: Citation `Peterson2011Ecologicala' on page 50 undefined
- on input line 56.
-
-
-Package natbib Warning: Citation `Chase2003Ecological' on page 50 undefined on 
-input line 56.
-
-
-Package natbib Warning: Citation `Holt2009Trophic' on page 50 undefined on inpu
-t line 56.
-
-
-Package natbib Warning: Citation `Jeschke2008Usefulness' on page 50 undefined o
-n input line 56.
-
-
-Package natbib Warning: Citation `Guisan2013Predicting' on page 50 undefined on
- input line 56.
-
-
-Package natbib Warning: Citation `Boulangeat2012Accounting' on page 50 undefine
-d on input line 56.
-
-[50]
-
-Package natbib Warning: Citation `Peterson2003Predicting' on page 51 undefined 
-on input line 58.
-
-
-Package natbib Warning: Citation `Gilman2010Framework' on page 51 undefined on 
-input line 58.
-
-
-Package natbib Warning: Citation `Araujo2014Geographic' on page 51 undefined on
- input line 58.
-
-
-Package natbib Warning: Citation `Jabot2012Bitrophic' on page 51 undefined on i
-nput line 58.
-
-
-Package natbib Warning: Citation `Gotelli2010Macroecological' on page 51 undefi
-ned on input line 58.
-
-
-Package natbib Warning: Citation `Proulx2005Network' on page 51 undefined on in
-put line 58.
-
-
-Package natbib Warning: Citation `Allesina2012Stability' on page 51 undefined o
-n input line 58.
-
-
-Package natbib Warning: Citation `Gravel2011Trophic' on page 51 undefined on in
-put line 58.
-
-
-Package natbib Warning: Citation `Kefi2012More' on page 51 undefined on input l
-ine 58.
-
-
-Package natbib Warning: Citation `Wootton1994Nature' on page 51 undefined on in
-put line 58.
-
-
-Package natbib Warning: Citation `Godsoe2012How' on page 51 undefined on input 
-line 58.
-
-
-Package natbib Warning: Citation `Allesina2012Stability' on page 51 undefined o
-n input line 58.
 
 [51]
 
-Package natbib Warning: Citation `Macarthur1967Theory' on page 52 undefined on 
-input line 60.
-
-
-Package natbib Warning: Citation `Warren2015Islands' on page 52 undefined on in
-put line 60.
-
-
-Package natbib Warning: Citation `Cook2002Island' on page 52 undefined on input
- line 60.
-
-
-Package natbib Warning: Citation `Warren2015Islands' on page 52 undefined on in
-put line 60.
+Package natbib Warning: Citation `Ricklefs1987Community' on page 52 undefined o
+n input line 54.
 
 
 Package natbib Warning: Citation `Leibold2004Metacommunity' on page 52 undefine
-d on input line 60.
+d on input line 54.
 
 
-Package natbib Warning: Citation `Holt2010Toward' on page 52 undefined on input
- line 60.
+Package natbib Warning: Citation `Urban2008Evolutionary' on page 52 undefined o
+n input line 54.
+
+
+Package natbib Warning: Citation `Massol2011Linking' on page 52 undefined on in
+put line 54.
 
 
 Package natbib Warning: Citation `Gravel2011Trophic' on page 52 undefined on in
-put line 60.
+put line 54.
 
 
-Package natbib Warning: Citation `Kemeny1960Finite' on page 52 undefined on inp
-ut line 62.
+Package natbib Warning: Citation `Peterson2011Ecologicala' on page 52 undefined
+ on input line 56.
 
 
-Package natbib Warning: Citation `Black2012Stochastic' on page 52 undefined on 
-input line 62.
+Package natbib Warning: Citation `Chase2003Ecological' on page 52 undefined on 
+input line 56.
+
+
+Package natbib Warning: Citation `Holt2009Trophic' on page 52 undefined on inpu
+t line 56.
+
+
+Package natbib Warning: Citation `Jeschke2008Usefulness' on page 52 undefined o
+n input line 56.
+
+
+Package natbib Warning: Citation `Guisan2013Predicting' on page 52 undefined on
+ input line 56.
+
+
+Package natbib Warning: Citation `Boulangeat2012Accounting' on page 52 undefine
+d on input line 56.
 
 [52]
 
-Package natbib Warning: Citation `Simberloff1969Experimental' on page 53 undefi
-ned on input line 69.
+Package natbib Warning: Citation `Peterson2003Predicting' on page 53 undefined 
+on input line 58.
 
 
-Package natbib Warning: Citation `Schoener2010MacarthurWilson' on page 53 undef
-ined on input line 75.
+Package natbib Warning: Citation `Gilman2010Framework' on page 53 undefined on 
+input line 58.
+
+
+Package natbib Warning: Citation `Araujo2014Geographic' on page 53 undefined on
+ input line 58.
+
+
+Package natbib Warning: Citation `Jabot2012Bitrophic' on page 53 undefined on i
+nput line 58.
+
+
+Package natbib Warning: Citation `Gotelli2010Macroecological' on page 53 undefi
+ned on input line 58.
+
+
+Package natbib Warning: Citation `Proulx2005Network' on page 53 undefined on in
+put line 58.
+
+
+Package natbib Warning: Citation `Allesina2012Stability' on page 53 undefined o
+n input line 58.
 
 
 Package natbib Warning: Citation `Gravel2011Trophic' on page 53 undefined on in
+put line 58.
+
+
+Package natbib Warning: Citation `Kefi2012More' on page 53 undefined on input l
+ine 58.
+
+
+Package natbib Warning: Citation `Wootton1994Nature' on page 53 undefined on in
+put line 58.
+
+
+Package natbib Warning: Citation `Godsoe2012How' on page 53 undefined on input 
+line 58.
+
+
+Package natbib Warning: Citation `Allesina2012Stability' on page 53 undefined o
+n input line 58.
+
+[53]
+
+Package natbib Warning: Citation `Macarthur1967Theory' on page 54 undefined on 
+input line 60.
+
+
+Package natbib Warning: Citation `Warren2015Islands' on page 54 undefined on in
+put line 60.
+
+
+Package natbib Warning: Citation `Cook2002Island' on page 54 undefined on input
+ line 60.
+
+
+Package natbib Warning: Citation `Warren2015Islands' on page 54 undefined on in
+put line 60.
+
+
+Package natbib Warning: Citation `Leibold2004Metacommunity' on page 54 undefine
+d on input line 60.
+
+
+Package natbib Warning: Citation `Holt2010Toward' on page 54 undefined on input
+ line 60.
+
+
+Package natbib Warning: Citation `Gravel2011Trophic' on page 54 undefined on in
+put line 60.
+
+
+Package natbib Warning: Citation `Kemeny1960Finite' on page 54 undefined on inp
+ut line 62.
+
+
+Package natbib Warning: Citation `Black2012Stochastic' on page 54 undefined on 
+input line 62.
+
+[54]
+
+Package natbib Warning: Citation `Simberloff1969Experimental' on page 55 undefi
+ned on input line 69.
+
+
+Package natbib Warning: Citation `Schoener2010MacarthurWilson' on page 55 undef
+ined on input line 75.
+
+
+Package natbib Warning: Citation `Gravel2011Trophic' on page 55 undefined on in
 put line 75.
 
-[53] [54] [55]
+[55] [56] [57]
 
-Package natbib Warning: Citation `Gravel2011Trophic' on page 56 undefined on in
+Package natbib Warning: Citation `Gravel2011Trophic' on page 58 undefined on in
 put line 105.
 
-[56]
+[58]
 
-Package natbib Warning: Citation `Gravel2011Trophic' on page 57 undefined on in
+Package natbib Warning: Citation `Gravel2011Trophic' on page 59 undefined on in
 put line 109.
 
-[57]
+[59]
 Overfull \hbox (8.91933pt too wide) in paragraph at lines 122--123
 \OT1/txr/m/n/12 tion prob-a-bil-i-ties. We de-note the vec-tor of $\OML/txmi/m/
 it/12 n$ \OT1/txr/m/n/12 en-vi-ron-men-tal con-di-tions by $\OT1/txr/bx/n/12 w$
@@ -1443,205 +1462,205 @@ it/12 n$ \OT1/txr/m/n/12 en-vi-ron-men-tal con-di-tions by $\OT1/txr/bx/n/12 w$
  w[]; :::w[]\OT1/txr/m/n/12 )$.
  []
 
-[58] [59]
+[60] [61]
 
-Package natbib Warning: Citation `Williams2000Simple' on page 60 undefined on i
+Package natbib Warning: Citation `Williams2000Simple' on page 62 undefined on i
 nput line 153.
 
-[60] [61] [62] [63]
+[62] [63] [64] [65]
 
-Package natbib Warning: Citation `Wiens2011Niche' on page 64 undefined on input
+Package natbib Warning: Citation `Wiens2011Niche' on page 66 undefined on input
  line 183.
 
 
-Package natbib Warning: Citation `Jabot2012Bitrophic' on page 64 undefined on i
+Package natbib Warning: Citation `Jabot2012Bitrophic' on page 66 undefined on i
 nput line 183.
 
 
-Package natbib Warning: Citation `Godsoe2012How' on page 64 undefined on input 
+Package natbib Warning: Citation `Godsoe2012How' on page 66 undefined on input 
 line 183.
 
 
-Package natbib Warning: Citation `Macarthur1967Theory' on page 64 undefined on 
+Package natbib Warning: Citation `Macarthur1967Theory' on page 66 undefined on 
 input line 183.
 
 
-Package natbib Warning: Citation `Diamond1982Examination' on page 64 undefined 
+Package natbib Warning: Citation `Diamond1982Examination' on page 66 undefined 
 on input line 183.
 
 
-Package natbib Warning: Citation `Levins1971Regional' on page 64 undefined on i
+Package natbib Warning: Citation `Levins1971Regional' on page 66 undefined on i
 nput line 186.
 
 
-Package natbib Warning: Citation `Jabot2012Bitrophic' on page 64 undefined on i
+Package natbib Warning: Citation `Jabot2012Bitrophic' on page 66 undefined on i
 nput line 186.
 
 
-Package natbib Warning: Citation `Calcagno2011Constraints' on page 64 undefined
+Package natbib Warning: Citation `Calcagno2011Constraints' on page 66 undefined
  on input line 186.
-
-[64]
-
-Package natbib Warning: Citation `Thebault2010Stability' on page 65 undefined o
-n input line 188.
-
-
-Package natbib Warning: Citation `Wootton1994Nature' on page 65 undefined on in
-put line 188.
-
-
-Package natbib Warning: Citation `Gravel2011Trophic' on page 65 undefined on in
-put line 188.
-
-
-Package natbib Warning: Citation `Pollock2014Understanding' on page 65 undefine
-d on input line 190.
-
-
-Package natbib Warning: Citation `Pellissier2013Combining' on page 65 undefined
- on input line 190.
-
-
-Package natbib Warning: Citation `Araujo2014Geographic' on page 65 undefined on
- input line 190.
-
-
-Package natbib Warning: Citation `Veech2013Probabilistic' on page 65 undefined 
-on input line 190.
-
-[65]
-
-Package natbib Warning: Citation `Araujo2011Using' on page 66 undefined on inpu
-t line 195.
-
-
-Package natbib Warning: Citation `Boulangeat2012Accounting' on page 66 undefine
-d on input line 195.
-
-
-Package natbib Warning: Citation `Araujo2007Importance' on page 66 undefined on
- input line 195.
-
-
-Package natbib Warning: Citation `Stouffer2007Evidence' on page 66 undefined on
- input line 195.
 
 [66]
 
-Package natbib Warning: Citation `Mcgill2010Ecology' on page 67 undefined on in
-put line 197.
+Package natbib Warning: Citation `Thebault2010Stability' on page 67 undefined o
+n input line 188.
 
 
-Package natbib Warning: Citation `Araujo2014Geographic' on page 67 undefined on
- input line 197.
-
-
-Package natbib Warning: Citation `Pearson2003Predicting' on page 67 undefined o
-n input line 197.
+Package natbib Warning: Citation `Wootton1994Nature' on page 67 undefined on in
+put line 188.
 
 
 Package natbib Warning: Citation `Gravel2011Trophic' on page 67 undefined on in
-put line 197.
-
-
-Package natbib Warning: Citation `Gotelli2010Macroecological' on page 67 undefi
-ned on input line 197.
-
-
-Package natbib Warning: Citation `Pellissier2013Combining' on page 67 undefined
- on input line 197.
+put line 188.
 
 
 Package natbib Warning: Citation `Pollock2014Understanding' on page 67 undefine
-d on input line 197.
+d on input line 190.
 
 
-Package natbib Warning: Citation `Thuiller2013Road' on page 67 undefined on inp
-ut line 199.
+Package natbib Warning: Citation `Pellissier2013Combining' on page 67 undefined
+ on input line 190.
 
 
-Package natbib Warning: Citation `Baskerville2011Spatial' on page 67 undefined 
-on input line 199.
+Package natbib Warning: Citation `Araujo2014Geographic' on page 67 undefined on
+ input line 190.
 
 
-Package natbib Warning: Citation `Ekloef2013Dimensionality' on page 67 undefine
-d on input line 199.
-
-
-Package natbib Warning: Citation `Boulangeat2012Accounting' on page 67 undefine
-d on input line 199.
-
-
-Package natbib Warning: Citation `Boulangeat2012Accounting' on page 67 undefine
-d on input line 199.
-
-
-Package natbib Warning: Citation `Levins1971Regional' on page 67 undefined on i
-nput line 199.
+Package natbib Warning: Citation `Veech2013Probabilistic' on page 67 undefined 
+on input line 190.
 
 [67]
 
-Package natbib Warning: Citation `Schneider2012Body' on page 68 undefined on in
-put line 202.
+Package natbib Warning: Citation `Araujo2011Using' on page 68 undefined on inpu
+t line 195.
 
 
-Package natbib Warning: Citation `Mcgill2006Rebuilding' on page 68 undefined on
- input line 202.
+Package natbib Warning: Citation `Boulangeat2012Accounting' on page 68 undefine
+d on input line 195.
 
 
-Package natbib Warning: Citation `Gravel2013Inferring' on page 68 undefined on 
-input line 202.
+Package natbib Warning: Citation `Araujo2007Importance' on page 68 undefined on
+ input line 195.
 
 
-Package natbib Warning: Citation `Brown2004Toward' on page 68 undefined on inpu
-t line 202.
+Package natbib Warning: Citation `Stouffer2007Evidence' on page 68 undefined on
+ input line 195.
 
 [68]
 
-Package natbib Warning: Citation `Davis1998Making' on page 69 undefined on inpu
+Package natbib Warning: Citation `Mcgill2010Ecology' on page 69 undefined on in
+put line 197.
+
+
+Package natbib Warning: Citation `Araujo2014Geographic' on page 69 undefined on
+ input line 197.
+
+
+Package natbib Warning: Citation `Pearson2003Predicting' on page 69 undefined o
+n input line 197.
+
+
+Package natbib Warning: Citation `Gravel2011Trophic' on page 69 undefined on in
+put line 197.
+
+
+Package natbib Warning: Citation `Gotelli2010Macroecological' on page 69 undefi
+ned on input line 197.
+
+
+Package natbib Warning: Citation `Pellissier2013Combining' on page 69 undefined
+ on input line 197.
+
+
+Package natbib Warning: Citation `Pollock2014Understanding' on page 69 undefine
+d on input line 197.
+
+
+Package natbib Warning: Citation `Thuiller2013Road' on page 69 undefined on inp
+ut line 199.
+
+
+Package natbib Warning: Citation `Baskerville2011Spatial' on page 69 undefined 
+on input line 199.
+
+
+Package natbib Warning: Citation `Ekloef2013Dimensionality' on page 69 undefine
+d on input line 199.
+
+
+Package natbib Warning: Citation `Boulangeat2012Accounting' on page 69 undefine
+d on input line 199.
+
+
+Package natbib Warning: Citation `Boulangeat2012Accounting' on page 69 undefine
+d on input line 199.
+
+
+Package natbib Warning: Citation `Levins1971Regional' on page 69 undefined on i
+nput line 199.
+
+[69]
+
+Package natbib Warning: Citation `Schneider2012Body' on page 70 undefined on in
+put line 202.
+
+
+Package natbib Warning: Citation `Mcgill2006Rebuilding' on page 70 undefined on
+ input line 202.
+
+
+Package natbib Warning: Citation `Gravel2013Inferring' on page 70 undefined on 
+input line 202.
+
+
+Package natbib Warning: Citation `Brown2004Toward' on page 70 undefined on inpu
+t line 202.
+
+[70]
+
+Package natbib Warning: Citation `Davis1998Making' on page 71 undefined on inpu
 t line 204.
 
 
-Package natbib Warning: Citation `Suttle2007Species' on page 69 undefined on in
+Package natbib Warning: Citation `Suttle2007Species' on page 71 undefined on in
 put line 204.
 
 
-Package natbib Warning: Citation `Lavergne2010Biodiversity' on page 69 undefine
+Package natbib Warning: Citation `Lavergne2010Biodiversity' on page 71 undefine
 d on input line 204.
 
 
-Package natbib Warning: Citation `Cahill2013How' on page 69 undefined on input 
+Package natbib Warning: Citation `Cahill2013How' on page 71 undefined on input 
 line 204.
 
 
-Package natbib Warning: Citation `Durance2010Evidence' on page 69 undefined on 
+Package natbib Warning: Citation `Durance2010Evidence' on page 71 undefined on 
 input line 204.
 
 
-Package natbib Warning: Citation `Saavedra2011Strong' on page 69 undefined on i
+Package natbib Warning: Citation `Saavedra2011Strong' on page 71 undefined on i
 nput line 204.
 
 
-Package natbib Warning: Citation `Saeterberg2013High' on page 69 undefined on i
+Package natbib Warning: Citation `Saeterberg2013High' on page 71 undefined on i
 nput line 204.
 
 
-Package natbib Warning: Citation `Lavergne2010Biodiversity' on page 69 undefine
+Package natbib Warning: Citation `Lavergne2010Biodiversity' on page 71 undefine
 d on input line 204.
 
-[69] [70] [71] [72] [73]
+[71] [72] [73] [74] [75]
 
-Package natbib Warning: Citation `Williams2000Simple' on page 74 undefined on i
+Package natbib Warning: Citation `Williams2000Simple' on page 76 undefined on i
 nput line 252.
 
-[74]
+[76]
 Overfull \hbox (1.56554pt too wide) in paragraph at lines 258--259
 []\OT1/txr/bx/n/12 Biodiversity dis-tri-bu-tion along en-vi-ron-men-tal and con
 -nectance gra-di-ents. \OT1/txr/m/n/12 We com-
  []
 
-[75] <./chapitre1/table1.pdf, id=1119, 538.60861pt x 124.20102pt>
+[77] <./chapitre1/table1.pdf, id=1131, 538.60861pt x 124.20102pt>
 File: ./chapitre1/table1.pdf Graphic file (type pdf)
 
 <use ./chapitre1/table1.pdf>
@@ -1662,7 +1681,7 @@ Package epstopdf Info: Source file: <./chapitre1/fig1.eps>
 rted-to.pdf ./chapitre1/fig1.eps>
 (epstopdf)             \includegraphics on input line 285.
 Package epstopdf Info: Output file is already uptodate.
-<./chapitre1/fig1-eps-converted-to.pdf, id=1120, 650.43pt x 198.7425pt>
+<./chapitre1/fig1-eps-converted-to.pdf, id=1132, 650.43pt x 198.7425pt>
 File: ./chapitre1/fig1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./chapitre1/fig1-eps-converted-to.pdf>
@@ -1680,14 +1699,14 @@ rted-to.pdf ./chapitre1/fig2.eps>
 (epstopdf)             \includegraphics on input line 297.
 Package epstopdf Info: Output file is already uptodate.
 
-<./chapitre1/fig2-eps-converted-to.pdf, id=1121, 433.62pt x 389.455pt>
+<./chapitre1/fig2-eps-converted-to.pdf, id=1133, 433.62pt x 389.455pt>
 File: ./chapitre1/fig2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./chapitre1/fig2-eps-converted-to.pdf>
 Package pdftex.def Info: ./chapitre1/fig2-eps-converted-to.pdf used on input li
 ne 297.
 (pdftex.def)             Requested size: 443.86316pt x 398.67694pt.
- [76 <./chapitre1/table1.pdf> <./chapitre1/fig1-eps-converted-to.pdf>] [77 <./c
+ [78 <./chapitre1/table1.pdf> <./chapitre1/fig1-eps-converted-to.pdf>] [79 <./c
 hapitre1/fig2-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <./chapitre1/fig3.eps>
 (epstopdf)                    date: 2015-07-13 10:31:07
@@ -1699,14 +1718,14 @@ Package epstopdf Info: Source file: <./chapitre1/fig3.eps>
 rted-to.pdf ./chapitre1/fig3.eps>
 (epstopdf)             \includegraphics on input line 309.
 Package epstopdf Info: Output file is already uptodate.
-<./chapitre1/fig3-eps-converted-to.pdf, id=1184, 433.62pt x 389.455pt>
+<./chapitre1/fig3-eps-converted-to.pdf, id=1196, 433.62pt x 389.455pt>
 File: ./chapitre1/fig3-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./chapitre1/fig3-eps-converted-to.pdf>
 Package pdftex.def Info: ./chapitre1/fig3-eps-converted-to.pdf used on input li
 ne 309.
 (pdftex.def)             Requested size: 355.09187pt x 318.93918pt.
- [78 <./chapitre1/fig3-eps-converted-to.pdf>]
+ [80 <./chapitre1/fig3-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <./chapitre1/fig4.eps>
 (epstopdf)                    date: 2015-07-29 17:33:23
 (epstopdf)                    size: 201281 bytes
@@ -1718,14 +1737,14 @@ rted-to.pdf ./chapitre1/fig4.eps>
 (epstopdf)             \includegraphics on input line 321.
 Package epstopdf Info: Output file is already uptodate.
 
-<./chapitre1/fig4-eps-converted-to.pdf, id=1202, 650.43pt x 216.81pt>
+<./chapitre1/fig4-eps-converted-to.pdf, id=1215, 650.43pt x 216.81pt>
 File: ./chapitre1/fig4-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./chapitre1/fig4-eps-converted-to.pdf>
 Package pdftex.def Info: ./chapitre1/fig4-eps-converted-to.pdf used on input li
 ne 321.
 (pdftex.def)             Requested size: 443.86316pt x 147.95816pt.
- [79 <./chapitre1/fig4-eps-converted-to.pdf>]
+ [81 <./chapitre1/fig4-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <./chapitre1/fig5.eps>
 (epstopdf)                    date: 2015-07-30 14:58:51
 (epstopdf)                    size: 64680 bytes
@@ -1737,14 +1756,14 @@ rted-to.pdf ./chapitre1/fig5.eps>
 (epstopdf)             \includegraphics on input line 333.
 Package epstopdf Info: Output file is already uptodate.
 
-<./chapitre1/fig5-eps-converted-to.pdf, id=1221, 650.43pt x 230.8625pt>
+<./chapitre1/fig5-eps-converted-to.pdf, id=1234, 650.43pt x 230.8625pt>
 File: ./chapitre1/fig5-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./chapitre1/fig5-eps-converted-to.pdf>
 Package pdftex.def Info: ./chapitre1/fig5-eps-converted-to.pdf used on input li
 ne 333.
 (pdftex.def)             Requested size: 443.86316pt x 157.54803pt.
-) (./chapitre2/chap2.tex [80 <./chapitre1/fig5-eps-converted-to.pdf>]
+) (./chapitre2/chap2.tex [82 <./chapitre1/fig5-eps-converted-to.pdf>]
 article 2.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
@@ -1756,7 +1775,7 @@ Overfull \hbox (10.67291pt too wide) in paragraph at lines 10--11
  du chapitre pr[]ec[]edent sur la mesure de co-occurrence
  []
 
-[81
+[83
 
 ]
 Overfull \hbox (5.2969pt too wide) in paragraph at lines 12--13
@@ -1764,313 +1783,313 @@ Overfull \hbox (5.2969pt too wide) in paragraph at lines 12--13
 tion est dite in-di-recte. Si les cons[]equence
  []
 
-[82] [83] [84]
+[84] [85] [86]
 
-Package natbib Warning: Citation `Diamond1975Assembly' on page 85 undefined on 
+Package natbib Warning: Citation `Diamond1975Assembly' on page 87 undefined on 
 input line 47.
 
 
-Package natbib Warning: Citation `Connor1979Assembly' on page 85 undefined on i
+Package natbib Warning: Citation `Connor1979Assembly' on page 87 undefined on i
 nput line 48.
 
 
-Package natbib Warning: Citation `Stone1990Checkerboard' on page 85 undefined o
-n input line 50.
-
-
-Package natbib Warning: Citation `Gotelli1996Null' on page 85 undefined on inpu
-t line 50.
-
-
-Package natbib Warning: Citation `Legendre2012Numerical' on page 85 undefined o
-n input line 50.
-
-
-Package natbib Warning: Citation `Araujo2011Using' on page 85 undefined on inpu
-t line 50.
-
-
-Package natbib Warning: Citation `Guisan2005Predicting' on page 85 undefined on
- input line 53.
-
-
-Package natbib Warning: Citation `Gotelli2010Macroecological' on page 85 undefi
-ned on input line 53.
-
-
-Package natbib Warning: Citation `Kissling2011Towards' on page 85 undefined on 
-input line 53.
-
-
-Package natbib Warning: Citation `Pellissier2013Combining' on page 85 undefined
- on input line 53.
-
-
-Package natbib Warning: Citation `Hutchinson1957Concluding' on page 85 undefine
-d on input line 57.
-
-
-Package natbib Warning: Citation `Macarthur1972Geographical' on page 85 undefin
-ed on input line 57.
-
-
-Package natbib Warning: Citation `Peterson2011Ecologicala' on page 85 undefined
- on input line 57.
-
-
-Package natbib Warning: Citation `Boulangeat2012Accounting' on page 85 undefine
-d on input line 57.
-
-
-Package natbib Warning: Citation `Davis1998Making' on page 85 undefined on inpu
-t line 60.
-
-
-Package natbib Warning: Citation `Gotelli2010Macroecological' on page 85 undefi
-ned on input line 61.
-
-
-Package natbib Warning: Citation `Araujo2007Importance' on page 85 undefined on
- input line 62.
-
-
-Package natbib Warning: Citation `Araujo2011Using' on page 85 undefined on inpu
-t line 62.
-
-[85]
-
-Package natbib Warning: Citation `Legendre2012Numerical' on page 86 undefined o
-n input line 65.
-
-
-Package natbib Warning: Citation `Clark2014More' on page 86 undefined on input 
-line 65.
-
-
-Package natbib Warning: Citation `Harris2015Estimating' on page 86 undefined on
- input line 65.
-
-
-Package natbib Warning: Citation `Pollock2014Understanding' on page 86 undefine
-d on input line 65.
-
-
-Package natbib Warning: Citation `Baselga2009Individualistic' on page 86 undefi
-ned on input line 65.
-
-
-Package natbib Warning: Citation `Fordham2013Adapted' on page 86 undefined on i
-nput line 65.
-
-
-Package natbib Warning: Citation `Castilla2015Inferring' on page 86 undefined o
-n input line 65.
-
-[86]
-
-Package natbib Warning: Citation `Pielou1968Association' on page 87 undefined o
-n input line 67.
-
-
-Package natbib Warning: Citation `Diamond1975Assembly' on page 87 undefined on 
-input line 68.
-
-
 Package natbib Warning: Citation `Stone1990Checkerboard' on page 87 undefined o
-n input line 72.
-
-
-Package natbib Warning: Citation `Connor1979Assembly' on page 87 undefined on i
-nput line 76.
-
-
-Package natbib Warning: Citation `Diamond1982Examination' on page 87 undefined 
-on input line 77.
+n input line 50.
 
 
 Package natbib Warning: Citation `Gotelli1996Null' on page 87 undefined on inpu
-t line 78.
+t line 50.
 
 
-Package natbib Warning: Citation `Boulangeat2012Accounting' on page 87 undefine
-d on input line 80.
-
-
-Package natbib Warning: Citation `Veech2013Probabilistic' on page 87 undefined 
-on input line 80.
-
-
-Package natbib Warning: Citation `Ulrich2013Pattern' on page 87 undefined on in
-put line 80.
+Package natbib Warning: Citation `Legendre2012Numerical' on page 87 undefined o
+n input line 50.
 
 
 Package natbib Warning: Citation `Araujo2011Using' on page 87 undefined on inpu
+t line 50.
+
+
+Package natbib Warning: Citation `Guisan2005Predicting' on page 87 undefined on
+ input line 53.
+
+
+Package natbib Warning: Citation `Gotelli2010Macroecological' on page 87 undefi
+ned on input line 53.
+
+
+Package natbib Warning: Citation `Kissling2011Towards' on page 87 undefined on 
+input line 53.
+
+
+Package natbib Warning: Citation `Pellissier2013Combining' on page 87 undefined
+ on input line 53.
+
+
+Package natbib Warning: Citation `Hutchinson1957Concluding' on page 87 undefine
+d on input line 57.
+
+
+Package natbib Warning: Citation `Macarthur1972Geographical' on page 87 undefin
+ed on input line 57.
+
+
+Package natbib Warning: Citation `Peterson2011Ecologicala' on page 87 undefined
+ on input line 57.
+
+
+Package natbib Warning: Citation `Boulangeat2012Accounting' on page 87 undefine
+d on input line 57.
+
+
+Package natbib Warning: Citation `Davis1998Making' on page 87 undefined on inpu
+t line 60.
+
+
+Package natbib Warning: Citation `Gotelli2010Macroecological' on page 87 undefi
+ned on input line 61.
+
+
+Package natbib Warning: Citation `Araujo2007Importance' on page 87 undefined on
+ input line 62.
+
+
+Package natbib Warning: Citation `Araujo2011Using' on page 87 undefined on inpu
+t line 62.
+
+[87]
+
+Package natbib Warning: Citation `Legendre2012Numerical' on page 88 undefined o
+n input line 65.
+
+
+Package natbib Warning: Citation `Clark2014More' on page 88 undefined on input 
+line 65.
+
+
+Package natbib Warning: Citation `Harris2015Estimating' on page 88 undefined on
+ input line 65.
+
+
+Package natbib Warning: Citation `Pollock2014Understanding' on page 88 undefine
+d on input line 65.
+
+
+Package natbib Warning: Citation `Baselga2009Individualistic' on page 88 undefi
+ned on input line 65.
+
+
+Package natbib Warning: Citation `Fordham2013Adapted' on page 88 undefined on i
+nput line 65.
+
+
+Package natbib Warning: Citation `Castilla2015Inferring' on page 88 undefined o
+n input line 65.
+
+[88]
+
+Package natbib Warning: Citation `Pielou1968Association' on page 89 undefined o
+n input line 67.
+
+
+Package natbib Warning: Citation `Diamond1975Assembly' on page 89 undefined on 
+input line 68.
+
+
+Package natbib Warning: Citation `Stone1990Checkerboard' on page 89 undefined o
+n input line 72.
+
+
+Package natbib Warning: Citation `Connor1979Assembly' on page 89 undefined on i
+nput line 76.
+
+
+Package natbib Warning: Citation `Diamond1982Examination' on page 89 undefined 
+on input line 77.
+
+
+Package natbib Warning: Citation `Gotelli1996Null' on page 89 undefined on inpu
+t line 78.
+
+
+Package natbib Warning: Citation `Boulangeat2012Accounting' on page 89 undefine
+d on input line 80.
+
+
+Package natbib Warning: Citation `Veech2013Probabilistic' on page 89 undefined 
+on input line 80.
+
+
+Package natbib Warning: Citation `Ulrich2013Pattern' on page 89 undefined on in
+put line 80.
+
+
+Package natbib Warning: Citation `Araujo2011Using' on page 89 undefined on inpu
 t line 81.
 
 
-Package natbib Warning: Citation `Wootton1994Nature' on page 87 undefined on in
+Package natbib Warning: Citation `Wootton1994Nature' on page 89 undefined on in
 put line 85.
 
 
-Package natbib Warning: Citation `Hairston1960Community' on page 87 undefined o
+Package natbib Warning: Citation `Hairston1960Community' on page 89 undefined o
 n input line 86.
 
 
-Package natbib Warning: Citation `Oksanen1981Exploitation' on page 87 undefined
+Package natbib Warning: Citation `Oksanen1981Exploitation' on page 89 undefined
  on input line 86.
 
 
-Package natbib Warning: Citation `Yodzis1988Indeterminacy' on page 87 undefined
+Package natbib Warning: Citation `Yodzis1988Indeterminacy' on page 89 undefined
  on input line 86.
 
 
-Package natbib Warning: Citation `Montoya2009Press' on page 87 undefined on inp
+Package natbib Warning: Citation `Montoya2009Press' on page 89 undefined on inp
 ut line 86.
 
 
-Package natbib Warning: Citation `Holt2009Trophic' on page 87 undefined on inpu
+Package natbib Warning: Citation `Holt2009Trophic' on page 89 undefined on inpu
 t line 86.
 
 
-Package natbib Warning: Citation `Gravel2011Trophic' on page 87 undefined on in
+Package natbib Warning: Citation `Gravel2011Trophic' on page 89 undefined on in
 put line 86.
 
-[87] [88]
+[89] [90]
 
-Package natbib Warning: Citation `Macarthur1967Theory' on page 89 undefined on 
+Package natbib Warning: Citation `Macarthur1967Theory' on page 91 undefined on 
 input line 116.
 
-[89]
+[91]
 
-Package natbib Warning: Citation `Hubbell2001Unified' on page 90 undefined on i
+Package natbib Warning: Citation `Hubbell2001Unified' on page 92 undefined on i
 nput line 155.
 
 
-Package natbib Warning: Citation `Bell2005CoDistribution' on page 90 undefined 
+Package natbib Warning: Citation `Bell2005CoDistribution' on page 92 undefined 
 on input line 158.
 
-[90] [91]
+[92] [93]
 
-Package natbib Warning: Citation `Milo2002Network' on page 92 undefined on inpu
+Package natbib Warning: Citation `Milo2002Network' on page 94 undefined on inpu
 t line 233.
 
 
-Package natbib Warning: Citation `Stouffer2007Evidence' on page 92 undefined on
+Package natbib Warning: Citation `Stouffer2007Evidence' on page 94 undefined on
  input line 233.
 
 
-Package natbib Warning: Citation `Stouffer2010Understanding' on page 92 undefin
+Package natbib Warning: Citation `Stouffer2010Understanding' on page 94 undefin
 ed on input line 233.
 
-[92]
+[94]
 Overfull \hbox (8.47684pt too wide) in paragraph at lines 254--255
 \OT1/txr/m/n/12 study of net-works in-volv-ing three species in-ter-ac-tions, w
 ith species 2 be-ing hid-den by marginal-
  []
 
-[93] [94]
+[95] [96]
 
-Package natbib Warning: Citation `Araujo2011Using' on page 95 undefined on inpu
+Package natbib Warning: Citation `Araujo2011Using' on page 97 undefined on inpu
 t line 359.
 
 
-Package natbib Warning: Citation `Boulangeat2012Accounting' on page 95 undefine
+Package natbib Warning: Citation `Boulangeat2012Accounting' on page 97 undefine
 d on input line 359.
 
 
-Package natbib Warning: Citation `Gravel2011Trophic' on page 95 undefined on in
+Package natbib Warning: Citation `Gravel2011Trophic' on page 97 undefined on in
 put line 372.
-
-[95]
-
-Package natbib Warning: Citation `Gravel2011Trophic' on page 96 undefined on in
-put line 383.
-
-
-Package natbib Warning: Citation `Macarthur1967Theory' on page 96 undefined on 
-input line 386.
-
-
-Package natbib Warning: Citation `Gravel2011Trophic' on page 96 undefined on in
-put line 396.
-
-[96]
-
-Package natbib Warning: Citation `Williams2000Simple' on page 97 undefined on i
-nput line 407.
-
-
-Package natbib Warning: Citation `Berlow2009Simple' on page 97 undefined on inp
-ut line 428.
-
-
-Package natbib Warning: Citation `Williams2000Simple' on page 97 undefined on i
-nput line 437.
-
-
-Package natbib Warning: Citation `Berlow2009Simple' on page 97 undefined on inp
-ut line 442.
 
 [97]
 
-Package natbib Warning: Citation `Holt2009Trophic' on page 98 undefined on inpu
-t line 450.
+Package natbib Warning: Citation `Gravel2011Trophic' on page 98 undefined on in
+put line 383.
 
 
-Package natbib Warning: Citation `Araujo2011Using' on page 98 undefined on inpu
-t line 450.
+Package natbib Warning: Citation `Macarthur1967Theory' on page 98 undefined on 
+input line 386.
+
+
+Package natbib Warning: Citation `Gravel2011Trophic' on page 98 undefined on in
+put line 396.
 
 [98]
 
-Package natbib Warning: Citation `Araujo2014Geographic' on page 99 undefined on
- input line 452.
+Package natbib Warning: Citation `Williams2000Simple' on page 99 undefined on i
+nput line 407.
 
 
-Package natbib Warning: Citation `Boulangeat2012Accounting' on page 99 undefine
-d on input line 454.
+Package natbib Warning: Citation `Berlow2009Simple' on page 99 undefined on inp
+ut line 428.
 
 
-Package natbib Warning: Citation `Veech2013Probabilistic' on page 99 undefined 
-on input line 455.
+Package natbib Warning: Citation `Williams2000Simple' on page 99 undefined on i
+nput line 437.
 
 
-Package natbib Warning: Citation `Araujo2011Using' on page 99 undefined on inpu
-t line 457.
+Package natbib Warning: Citation `Berlow2009Simple' on page 99 undefined on inp
+ut line 442.
 
 [99]
 
-Package natbib Warning: Citation `Gravel2013Inferring' on page 100 undefined on
+Package natbib Warning: Citation `Holt2009Trophic' on page 100 undefined on inp
+ut line 450.
+
+
+Package natbib Warning: Citation `Araujo2011Using' on page 100 undefined on inp
+ut line 450.
+
+[100]
+
+Package natbib Warning: Citation `Araujo2014Geographic' on page 101 undefined o
+n input line 452.
+
+
+Package natbib Warning: Citation `Boulangeat2012Accounting' on page 101 undefin
+ed on input line 454.
+
+
+Package natbib Warning: Citation `Veech2013Probabilistic' on page 101 undefined
+ on input line 455.
+
+
+Package natbib Warning: Citation `Araujo2011Using' on page 101 undefined on inp
+ut line 457.
+
+[101]
+
+Package natbib Warning: Citation `Gravel2013Inferring' on page 102 undefined on
  input line 483.
 
 
-Package natbib Warning: Citation `Castilla2015Inferring' on page 100 undefined 
+Package natbib Warning: Citation `Castilla2015Inferring' on page 102 undefined 
 on input line 483.
 
 
-Package natbib Warning: Citation `Rohr2010Modeling' on page 100 undefined on in
+Package natbib Warning: Citation `Rohr2010Modeling' on page 102 undefined on in
 put line 499.
 
 
-Package natbib Warning: Citation `Ovaskainen2010Modeling' on page 100 undefined
+Package natbib Warning: Citation `Ovaskainen2010Modeling' on page 102 undefined
  on input line 499.
 
 
-Package natbib Warning: Citation `Rohr2010Modeling' on page 100 undefined on in
+Package natbib Warning: Citation `Rohr2010Modeling' on page 102 undefined on in
 put line 503.
 
 
-Package natbib Warning: Citation `Chamberlain2014How' on page 100 undefined on 
+Package natbib Warning: Citation `Chamberlain2014How' on page 102 undefined on 
 input line 521.
 
 
-Package natbib Warning: Citation `Poisot2012Dissimilarity' on page 100 undefine
+Package natbib Warning: Citation `Poisot2012Dissimilarity' on page 102 undefine
 d on input line 521.
 
 
-Package natbib Warning: Citation `Thuiller2013Road' on page 100 undefined on in
+Package natbib Warning: Citation `Thuiller2013Road' on page 102 undefined on in
 put line 523.
 
-[100] [101] [102]
+[102] [103] [104]
 
 LaTeX Warning: File `./chapitre2/fig1.eps' not found on input line 539.
 
@@ -2082,19 +2101,19 @@ Package epstopdf Info: Source file: <./chapitre2/fig1.eps>
 rted-to.pdf ./chapitre2/fig1.eps>
 (epstopdf)             \includegraphics on input line 539.
 Package epstopdf Info: Output file is already uptodate.
-<./chapitre2/fig1-eps-converted-to.pdf, id=1366, 1156.32pt x 317.185pt>
+<./chapitre2/fig1-eps-converted-to.pdf, id=1378, 1156.32pt x 317.185pt>
 File: ./chapitre2/fig1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./chapitre2/fig1-eps-converted-to.pdf>
 Package pdftex.def Info: ./chapitre2/fig1-eps-converted-to.pdf used on input li
 ne 539.
 (pdftex.def)             Requested size: 443.86316pt x 121.75117pt.
- [103 <./chapitre2/fig1-eps-converted-to.pdf>]
+ [105 <./chapitre2/fig1-eps-converted-to.pdf>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) (./chapitre3/chap3.tex [104] [105] [106] [107] [108] [109] [110] [111]
-[112]
+) (./chapitre3/chap3.tex [106] [107] [108] [109] [110] [111] [112] [113]
+[114]
 Overfull \hbox (80.31902pt too wide) in paragraph at lines 294--294
 [] [] 
  []
@@ -2164,7 +2183,7 @@ Overfull \hbox (11.18678pt too wide) in paragraph at lines 392--394
  []|\OT1/txr/m/n/12 Competition|
  []
 
-[113]
+[115]
 
 LaTeX Warning: File `../fig/figConcept.pdf' not found on input line 429.
 
@@ -2178,7 +2197,7 @@ Type  H <return>  for immediate help.
 l.429 \includegraphics{../fig/figConcept.pdf}
                                              
 ? 
-[114]
+[116]
 
 LaTeX Warning: File `../fig/figIntVsNoint.pdf' not found on input line 443.
 
@@ -2192,7 +2211,7 @@ Type  H <return>  for immediate help.
 l.443 \includegraphics{../fig/figIntVsNoint.pdf}
                                                 
 ? 
-[115]
+[117]
 
 LaTeX Warning: File `../fig/figOrder.pdf' not found on input line 464.
 
@@ -2206,7 +2225,7 @@ Type  H <return>  for immediate help.
 l.464 \includegraphics{../fig/figOrder.pdf}
                                            
 ? 
-[116]
+[118]
 
 LaTeX Warning: File `../fig/figdegocc.pdf' not found on input line 478.
 
@@ -2220,7 +2239,7 @@ Type  H <return>  for immediate help.
 l.478 \includegraphics{../fig/figdegocc.pdf}
                                             
 ? 
-[117]pdfTeX warning (ext4): destination with the same identifier (name{refs}) h
+[119]pdfTeX warning (ext4): destination with the same identifier (name{refs}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -2236,13 +2255,13 @@ ed
 <to be read again> 
                    \relax 
 l.509 \hypertarget{ref-Diamond1975}{}
-                                      [118]
+                                      [120]
 Overfull \hbox (21.80402pt too wide) in paragraph at lines 545--555
 \OT1/txtt/m/n/12 onlinelibrary . wiley . com / doi / 10 . 1111 / j . 1466-[]823
 8 . 2010 . 00592 . x / suppinfo$[][]\OT1/txr/m/n/12 . Each
  []
 
-[119] [120] [121] [122]
+[121] [122] [123] [124]
 Overfull \hbox (42.233pt too wide) in alignment at lines 701--706
  [] [] [] [] [] [] [] [] [] [] [] 
  []
@@ -2257,7 +2276,7 @@ Overfull \hbox (42.233pt too wide) in alignment at lines 747--770
  [] [] [] [] [] [] [] [] [] [] [] 
  []
 
-[123]
+[125]
 Overfull \hbox (4.04813pt too wide) in paragraph at lines 772--780
 \OT1/txr/m/n/12 TSN - Tax-o-nomic Se-rial Num-ber de-fined by In-te-grated Tax-
 o-nomic In-for-ma-tion Sys-tem (ITIS),
@@ -2269,7 +2288,7 @@ Overfull \hbox (22.44003pt too wide) in paragraph at lines 772--780
 ley . com / doi / 10 . 1111 / j . 1466-[]8238 . 2010 . 00592 .
  []
 
-[124] [125] [126] [127] [128]
+[126] [127] [128] [129] [130]
 
 LaTeX Warning: File `../fig/figS1.png' not found on input line 874.
 
@@ -2283,7 +2302,7 @@ Type  H <return>  for immediate help.
 l.874 \includegraphics{../fig/figS1.png}
                                         
 ? 
-[129]
+[131]
 
 LaTeX Warning: File `../fig/figS2.pdf' not found on input line 882.
 
@@ -2297,7 +2316,7 @@ Type  H <return>  for immediate help.
 l.882 \includegraphics{../fig/figS2.pdf}
                                         
 ? 
-[130]
+[132]
 
 LaTeX Warning: File `../fig/figS3.pdf' not found on input line 893.
 
@@ -2311,7 +2330,7 @@ Type  H <return>  for immediate help.
 l.893 \includegraphics{../fig/figS3.pdf}
                                         
 ? 
-[131]
+[133]
 
 LaTeX Warning: File `../fig/figS4.pdf' not found on input line 904.
 
@@ -2325,7 +2344,7 @@ Type  H <return>  for immediate help.
 l.904 \includegraphics{../fig/figS4.pdf}
                                         
 ? 
-[132]
+[134]
 
 LaTeX Warning: File `../fig/figS5.pdf' not found on input line 924.
 
@@ -2339,7 +2358,7 @@ Type  H <return>  for immediate help.
 l.924 \includegraphics{../fig/figS5.pdf}
                                         
 ? 
-[133]
+[135]
 
 LaTeX Warning: File `../fig/figS6.pdf' not found on input line 936.
 
@@ -2353,7 +2372,7 @@ Type  H <return>  for immediate help.
 l.936 \includegraphics{../fig/figS6.pdf}
                                         
 ? 
-[134]
+[136]
 
 LaTeX Warning: File `../fig/figS7.pdf' not found on input line 951.
 
@@ -2367,7 +2386,7 @@ Type  H <return>  for immediate help.
 l.951 \includegraphics{../fig/figS7.pdf}
                                         
 ? 
-[135]
+[137]
 
 LaTeX Warning: File `../fig/figS8.pdf' not found on input line 967.
 
@@ -2381,7 +2400,7 @@ Type  H <return>  for immediate help.
 l.967 \includegraphics{../fig/figS8.pdf}
                                         
 ? 
-[136]
+[138]
 
 LaTeX Warning: File `../fig/figS9.pdf' not found on input line 988.
 
@@ -2395,7 +2414,7 @@ Type  H <return>  for immediate help.
 l.988 \includegraphics{../fig/figS9.pdf}
                                         
 ? 
-[137]pdfTeX warning (ext4): destination with the same identifier (name{refs}) h
+[139]pdfTeX warning (ext4): destination with the same identifier (name{refs}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -2405,19 +2424,19 @@ ntifier (name{ref-Rcoreteam2015}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.1011 \hypertarget{ref-Rcoreteam2015}{}
-                                        ) (./chapitre4/chap4.tex [138]
+                                        ) (./chapitre4/chap4.tex [140]
 article 3.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\\' on input line 1.
 
-) [139
+) [141
 
-] [140
+] [142
 
 ]
 Package cleveref Info: loaded `french' language definitions on input line 144.
- (./conclu.tex [141
+ (./conclu.tex [143
 
 ]
 Overfull \hbox (9.5816pt too wide) in paragraph at lines 63--66
@@ -2425,83 +2444,83 @@ Overfull \hbox (9.5816pt too wide) in paragraph at lines 63--66
 pe de Pear-son comme une dpremi[]ere
  []
 
-[142]
+[144]
 
-Package natbib Warning: Citation `McGill2006' on page 143 undefined on input li
+Package natbib Warning: Citation `McGill2006' on page 145 undefined on input li
 ne 118.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/ucs/data/uni-1.def
 File: uni-1.def 2013/05/13 UCS: Unicode data U+0100..U+01FF
 )
 
-Package natbib Warning: Citation `McGill2006' on page 143 undefined on input li
+Package natbib Warning: Citation `McGill2006' on page 145 undefined on input li
 ne 124.
 
 
-Package natbib Warning: Citation `Albouy2011' on page 143 undefined on input li
+Package natbib Warning: Citation `Albouy2011' on page 145 undefined on input li
 ne 124.
 
 
-Package natbib Warning: Citation `Litchman2008' on page 143 undefined on input 
+Package natbib Warning: Citation `Litchman2008' on page 145 undefined on input 
 line 124.
 
 
-Package natbib Warning: Citation `Albouy2011' on page 143 undefined on input li
+Package natbib Warning: Citation `Albouy2011' on page 145 undefined on input li
 ne 130.
 
 
-Package natbib Warning: Citation `Edwards2013' on page 143 undefined on input l
+Package natbib Warning: Citation `Edwards2013' on page 145 undefined on input l
 ine 134.
 
 
-Package natbib Warning: Citation `Mouillot2013' on page 143 undefined on input 
+Package natbib Warning: Citation `Mouillot2013' on page 145 undefined on input 
 line 137.
 
-[143]
+[145]
 
-Package natbib Warning: Citation `McGill2006' on page 144 undefined on input li
+Package natbib Warning: Citation `McGill2006' on page 146 undefined on input li
 ne 153.
 
 
-Package natbib Warning: Citation `Brown2004' on page 144 undefined on input lin
+Package natbib Warning: Citation `Brown2004' on page 146 undefined on input lin
 e 159.
 
 
-Package natbib Warning: Citation `Price2012' on page 144 undefined on input lin
+Package natbib Warning: Citation `Price2012' on page 146 undefined on input lin
 e 159.
 
-[144]
+[146]
 
-Package natbib Warning: Citation `Kearney2004' on page 145 undefined on input l
+Package natbib Warning: Citation `Kearney2004' on page 147 undefined on input l
 ine 173.
 
 
-Package natbib Warning: Citation `Engelbrecht2007' on page 145 undefined on inp
+Package natbib Warning: Citation `Engelbrecht2007' on page 147 undefined on inp
 ut line 173.
 
 
-Package natbib Warning: Citation `Williams2000' on page 145 undefined on input 
+Package natbib Warning: Citation `Williams2000' on page 147 undefined on input 
 line 181.
 
 
-Package natbib Warning: Citation `Gravel2013' on page 145 undefined on input li
+Package natbib Warning: Citation `Gravel2013' on page 147 undefined on input li
 ne 182.
 
 
-Package natbib Warning: Citation `Guill2008' on page 145 undefined on input lin
+Package natbib Warning: Citation `Guill2008' on page 147 undefined on input lin
 e 190.
 
 
-Package natbib Warning: Citation `Loeuille2005' on page 145 undefined on input 
+Package natbib Warning: Citation `Loeuille2005' on page 147 undefined on input 
 line 190.
 
-[145] [146]
+[147] [148]
 
-Package natbib Warning: Citation `Gotelli2009' on page 147 undefined on input l
+Package natbib Warning: Citation `Gotelli2009' on page 149 undefined on input l
 ine 266.
 
 
-Package natbib Warning: Citation `Araujo2011' on page 147 undefined on input li
+Package natbib Warning: Citation `Araujo2011' on page 149 undefined on input li
 ne 269.
 
 
@@ -2510,33 +2529,33 @@ Overfull \hbox (5.52486pt too wide) in paragraph at lines 263--274
  syst[]eme de com-bi-nai-son de sc[]enarios
  []
 
-[147]
+[149]
 
-Package natbib Warning: Citation `Poisot2012' on page 148 undefined on input li
+Package natbib Warning: Citation `Poisot2012' on page 150 undefined on input li
 ne 294.
 
 
-Package natbib Warning: Citation `Defossez2011' on page 148 undefined on input 
+Package natbib Warning: Citation `Defossez2011' on page 150 undefined on input 
 line 297.
 
 
-Package natbib Warning: Citation `Brooker2006' on page 148 undefined on input l
+Package natbib Warning: Citation `Brooker2006' on page 150 undefined on input l
 ine 298.
 
 
-Package natbib Warning: Citation `Canham2006' on page 148 undefined on input li
+Package natbib Warning: Citation `Canham2006' on page 150 undefined on input li
 ne 298.
 
 
-Package natbib Warning: Citation `Peterson2011' on page 148 undefined on input 
+Package natbib Warning: Citation `Peterson2011' on page 150 undefined on input 
 line 301.
 
 
-Package natbib Warning: Citation `Araujo2007' on page 148 undefined on input li
+Package natbib Warning: Citation `Araujo2007' on page 150 undefined on input li
 ne 305.
 
 
-Package natbib Warning: Citation `Martinez2012' on page 148 undefined on input 
+Package natbib Warning: Citation `Martinez2012' on page 150 undefined on input 
 line 308.
 
 
@@ -2545,7 +2564,7 @@ Overfull \hbox (7.38557pt too wide) in paragraph at lines 288--309
 e, pour les m[]emes esp[]eces consid[]er[]ees,
  []
 
-[148]pdfTeX warning (ext4): destination with the same identifier (name{refs}) h
+[150]pdfTeX warning (ext4): destination with the same identifier (name{refs}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -2573,7 +2592,7 @@ Overfull \hbox (3.15816pt too wide) in paragraph at lines 362--366
 tion 13, 27--30. doi :[][]10.1016/S0169-
  []
 
-[149]) [150]
+[151]) [152]
 Package cleveref Info: loaded `english' language definitions on input line 169.
 
 
@@ -2602,10 +2621,10 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 179.
  ) 
 Here is how much of TeX's memory you used:
- 16132 strings out of 493014
- 248975 string characters out of 6133351
+ 16135 strings out of 493014
+ 248876 string characters out of 6133351
  406183 words of memory out of 5000000
- 18850 multiletter control sequences out of 15000+600000
+ 18848 multiletter control sequences out of 15000+600000
  38519 words of font info for 89 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  37i,17n,38p,2392b,930s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2629,10 +2648,10 @@ local/texlive/2016/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texl
 ive/2016/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2016/
 texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist
 /fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesekc.pdf (166 pages, 1471355 bytes).
+Output written on thesekc.pdf (168 pages, 1474021 bytes).
 PDF statistics:
- 1807 PDF objects out of 2073 (max. 8388607)
- 1560 compressed objects within 16 object streams
- 466 named destinations out of 1000 (max. 500000)
+ 1821 PDF objects out of 2073 (max. 8388607)
+ 1572 compressed objects within 16 object streams
+ 471 named destinations out of 1000 (max. 500000)
  718 words of extra memory for PDF output out of 10000 (max. 10000000)
 
