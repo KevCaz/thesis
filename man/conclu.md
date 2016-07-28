@@ -187,3 +187,42 @@ A large espes répartition de la biodiversité on quantifie la différence depui
 
 
 Le travail le plus dur devient d'utiliser un ensmeble de connaisance pur déterminer des cartes de zone à risuqe mais la qualité des cartes est théorie dépendant mais comprendre eavce pus de fiabiité les prochaines zone ou *Vespa* sera...
+
+
+
+<!-- Preston 1962 a lié species abundance et
+=> impact enorme sur la conservation et encore aujourd'hui bien que simplifié les calculs permettent de comprendredsimplementr dans quelles directions nous allons [article NewYork Times]
+Malgré la 50 ans de depuis la publication du Livre et premier articles a lasuorise de auiteure eux meme
+=> publications récentes qui repartent de la théorie des îles ; l'ecolet Warren et gravel and all
+ -->
+
+ <!--
+The literature on population dynamics stresses the competitive exclusion principle: the
+number of competing species cannot exceed the number of substrates at steady state. The
+theoretical value of the result is limited, however. Real steady states are rare; complex
+systems easily have cyclical behaviour, even in homogeneous environments. Changes in
+feeding conditions come with changes in biomass composition, and the number of substrates
+is actually large, even if the number of species is small. Lack of sustainable diversity in
+community models is only problematic in models with simplistic views on chemical aspects. -->
+
+
+<!-- ### Vers une théorie plus intégrative
+
+ Dans la réédition de 2001 [] Wilson rappelle que le problème :
+
+ > "The flaws of the book lie in its oversimplification and incompleteness, which are endemic to most efforts at theory and synthesis."
+
+
+L'effort théorique nécessaire en biogéographie porte sur l'intégration ordonnée de concepts clés issus de différents champs de l'écologie \cite{Thuiller2013}. Ainsi, alors que les conditions climatiques et plus généralement la géographie physique sont classiquement évoquées pour expliquer la répartition des espèces \cite{Kearney2004}, les interactions entre espèces sont quant à elles souvent occultées. De même, bien que les processus évolutifs soient souvent évoqués comme déterminants majeurs de la diversité des espèces \cite{Rosindell2011}, leurs effets à court terme sont souvent ignorés \cite{Parmesan2006} dans les scénarios décrivant la biodiversité de demain \cite{Lavergne2010}. La difficulté principale est alors de produire des modèles (théoriques en première instance) qui intègrent l'ensemble des processus et les relations qu'ils entretient \cite{Thuiller2013} tout en gardant une relative simplicité. Une théorie intégrative en biogéographie pourrait être le meilleur point d'ancrage pour construire de nouvelles approches appliquées. Avec une telle théorie en main, nous pourrions aller vers l'enjeux majeurs de ces dernières années en biogéographie : relâcher les hypothèses que les modèles classiques de répartitions des espèces d'aujourd'hui utilisent (notamment en occultant les interactions) pour prédire la biodiversité de demain \cite{Guisan2011}.
+
+Dans le projet ici présenté, nous proposons de construire des modèles théoriques plus intégratifs en repartant d'un modèle théorique classique, celui de la théorie de la biogéographie des îles proposée par MacArthur et Wilson \cite{MacArthur1967}. Dans un premier temps, nous y ajoutons les interactions entre espèces et une relation explicite avec l'environnement abiotique au travers d'une approche communauté centrée qui étend le modèle classique. Dans un second temps, nous combinons une approche population centrée et les processus évolutifs pour une biogéographie insulaire plus mécaniste. Enfin, au regard des enjeux que soulève le rôle des interactions entre espèces dans la construction de la biodiversité, nous réfléchissons sur l'inférence d'espèces interdépendantes.
+
+différentes théories pour différentes échelles ??
+
+
+De part son pouvoir explicatif et son élégance, le modèle de MacArthur et Wilson est un point de départ approprié pour construire des modèles plus intégratifs en intégrant explicitement des processus écologiques et évolutifs. Cette idée n'est pas nouvelle et les auteurs de la TIB ont étudié un certain nombre de processus écologiques. Notamment, ils ont intégré les phénomènes de spéciation \cite{MacArthur1967} et réfléchis sur l'importance des interactions quant à la répartition des espèces \cite{MacArthur1984}. Néanmoins, dans le modèle classique, l'ensemble de ces aspects sont absents, l'idée que les processus écologiques importent peu aux larges échelles domine. Nous allons, dans ce projet, à l'encontre de cette idée et proposons de construire des modèles intégratifs qui étendent la TIB.
+
+isolation / faune particulière des îles
+
+Ainsi, ce modèle a déjà été utilisé avec succès par Gravel \textit{et al.} 2011 pour l'élaboration de leur théorie trophique de la biogéographie des îles \cite{Gravel2011b}.
+ -->
