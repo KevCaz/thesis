@@ -300,19 +300,19 @@ De manière plus générale, la TIB fournit une explication à la relation aire-
 
 
 
-### L'importance de la TIB dans des déveloopemnt théoriques plus récents {-}
+### L'importance de la TIB dans des dévelopements théoriques plus récents {-}
 
 
 ### La théorie des métapopulations {-}
 
-Bien que ne représentant que cinq pourcents des teres émergeés, ce sont bine l'observations des îles qui ont mené à une vision paradigmatique de la biogéograaphie. IL est porbable que cela soit lié au caractère à leur relative abondance, leur disparité, leur diversité, la relative simplicité biologiques qu'on y trouve et très certianenment, comme je l'ai évoqué précedemment, une lecture claire des flux de migration [@Simberloff1974a]. Cette dernière propriété est souvent absente pour des populations continentales (et dès qu'on est en précence d'un archipel). La théorie des métapopulations s'intéresse justement aux populations reliées par des flux de migrations [@Hanski]. C'est Richard Levins qui a utilisé le premier le terme en 1970 [@ref]. En considérant des patch favorable, il détermine la proportion de ces patchs occupés par une espèce donnée $p$ en fonction de ces capaicté de dispersion $c$ et la probabilité d'extinction $p$ :
+Bien que ne représentant que cinq pourcents des teres émergeés, ce sont bien les observations de la faune des îles qui ont mené à une vision paradigmatique de la biogéographie. L'importance des îles s'expliquent par leur relative abondance, leur disparité, leur diversité, la relative simplicité des assemblages biologiques qu'on y trouve et aussi, comme je l'ai évoqué précedemment, par la clareté des flux de migrations [@Simberloff1974a]. Cette dernière propriété est souvent absente pour des populations continentales[^compl]. La théorie des métapopulations s'intéresse justement aux populations reliées par des flux de migrations [@Hanski]. C'est Richard Levins qui a utilisé le premier le terme en 1970 [@ref]. En considérant des patch favorable, il détermine la proportion de ces patchs occupés par une espèce donnée $p$ en fonction de ces capacictés de dispersion $c$ et la probabilité d'extinction $p$ :
 \begin{eqnarray}
 \label{eqMW}
 \frac{dp}{dt} = cp(1-p)-ep
 \end{eqnarray}
-Le taux de migration est proportionel à la proportion de pactch déjà occupé. La théorie des metapopulations est aujourd'hui d'un certains nombres de paradigmes [@Leibold2004] et a montré sa pertinence sur un certains nombre d'exemple concrets. Papillon Hanski 1998 / Hyloak et bact.ir. /Matter 2092. et pour rebondire McPeek & Brown (2000) have investigated differences between competing damselfly species and finds rather little difference among some species, leaving the neutral paradigm as a potential explanation for high species diversity in this groups of insect. opposition à la niche set de traits particuliers
+Le taux de migration dépend de la proportion de pactch déjà occupé. La théorie des metapopulations est aujourd'hui d'un certains nombres de paradigmes [@Leibold2004] et a montré sa pertinence sur un certains nombre d'exemple concrets. Papillon Hanski 1998 / Hyloak et bact.ir. /Matter 2092. et pour rebondire McPeek & Brown (2000) have investigated differences between competing damselfly species and finds rather little difference among some species, leaving the neutral paradigm as a potential explanation for high species diversity in this groups of insect. opposition à la niche set de traits particuliers
 
-
+[^compl]: Les îles sont cependant souvent dans des archipels où la lecture de ces flux n'est pas si simple.
 
 
 ### La théorie neutre de la biogéographie et le débat qu'elle soulève {-}
@@ -342,12 +342,11 @@ Pour les defenseurs de la théorie neutre, elle est aussi utile autant vrai que 
 
 # Le rôle des interactions dans la distribution des espèces {-}
 
-Ma thèse a pour objectif de trouver des leviers pour comprendre comment les interactions peuvent affecter la pépartition géographique des espèces et de comprendre où chercher les traces qu'elles pourraient laisser dans les données d'occurrence des espèce. Comme je l'ai mentionnée auparavant, cette idée est très ancienne, je cite volontier Wallace qui écrit dès l'introduction de son livre écrit de 1881:
+Ma thèse a pour objectif de trouver des leviers pour comprendre comment les interactions peuvent affecter la répartition géographique des espèces et de comprendre où chercher les traces qu'elles pourraient éventuellement laisser dans les données d'occurrence des espèces. Comme je l'ai mentionné plus haut cette idée est très ancienne, Wallace le remarque dans son livre publié en 1881:
 
 > &laquo; Both competition and predation appear now to be much more important in biogeography than people had formely guesses &raquo; (@Wallace1881 :28)
 
-Le problème auquel ce sont vraissemblablememnt est le caractère singulier des relations qui unissent les être vivant et que dans la recherche de point commun il n'est pas pu mettre au point une théorique de la biogéographie des piles intégrant les interactions. Néanmoins, au vie des développemnt de son dernier livre, on peut faire spéculer que MacArthur ouvait réfléchir à une telle intégration [@macarthur1972geographical]. C'est dans lobjectif d'aller vers une théorie plus intégrative mais toute aussi élégante qyue j'ai mené ma thèse qui apporte quelques pistes.
-
+Le problème de ces relations écologiques est leur spécificité, l'unicité de chacune d'entre elle, dont découle nos difficultés pour les prévoir bien que des travaux récents explorent des pistes prometeuse pour les prédire notamment sur la base de relations allométriques entre proie et prédateur [@Gravel2013a]. Au point de vue théorique et à l'examen des chapitres du dernier livre de MacArthur [@macarthur1972geographical], on peut que l'intégration des interactions est une étape clef pour aller vers une biogéographie intégrative et c'est dans cette direction que j'ai mené ma thèse en essayant d'apporter quelques pistes de reflexion.
 
 
 
