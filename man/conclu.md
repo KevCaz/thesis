@@ -226,3 +226,6 @@ isolation / faune particulière des îles
 
 Ainsi, ce modèle a déjà été utilisé avec succès par Gravel \textit{et al.} 2011 pour l'élaboration de leur théorie trophique de la biogéographie des îles \cite{Gravel2011b}.
  -->
+
+ Information dans les distributions
+ gecko australien généraliste  *Heteronotia binoei* => alors peut être que ça marche bien mais sur une espèce spécialiste ??

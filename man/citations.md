@@ -20,3 +20,6 @@ existing knowledge and bioclimatic modeling to improve understanding of the like
 > (@macarthur1972geographical:154) Does the environment dictate the structure of the community, or are the species a fairly random assemblage?
 
 > The symmetry assumption is equivalent to asking how many of the properties of ecological communities are captured by the mean, ignoring species differences. [hubbel]
+
+
+> Generalist consumers should typically be weakly coupled to any one of their prey populations because, when feeding on many different species, they cannot be strongly coupled to any one of them @Murdoch2002
