@@ -7,27 +7,33 @@ header-includes:
     - \usepackage{lineno}
 ---
 
-<!-- Questions fondamentales -->
-La biogéographie est l'étude de la répartition géographiques des espèces. Aujourd'hui, le terme est parfois remplacé par celui de macroécologie. En fait la distinction est en partie historique mais aussi sur les composante  mais le terme acroécologie est e fait mettent sur les processu écologiques et moins sur les processu qui sont tout autant important pour comprendre la sistribtuon des espécs. Je vais essayer de donné de la richesse de la biogéogrpahie.
-<!-- > &laquo; Now we both call ourselves biogeographers and are unable to see any real distinction between biogeography and ecology. &raquo; -->
-<!-- grands hommes Wallace et Darwin dsont des biogeogrphes d'un savoir encyclopédique  -->
-<!-- je m'appuie sur ces grands auteurspour faire un peu le cadre de pensé avnt de revenir avec des exemles pour comprdnre les formes en présence  -->
+
+La biogéographie est l'étude de la répartition géographiques des espèces. Aujourd'hui, ce terme est souvent remplacé par celui de macroécologie. Outre la distinction historique, ce dernier terme met en avant l'importance du raport des espèces à leur environnement plutôt que la dimension évolutive (tout aussi importante). C'est pour garder à l'esprit la richesse des facteurs qui dessinent les aires de répartition que je garde le terme de biogéographie dont je dresse un portrait dans la présente introduction. J'y abrode aussi bien la complexité de la compréhension de la distribution spatiale des espèces que les cadres théoriques actuels. Chemin faisant, je discute de l'importance du lien qu'il existe entre les interactions écologiques et la répartition des espèces ; cette réflexion est l'essence même de ma thèse.
+
+
+
 
 # Des îles et des espèces {-}
 
 
-## En suivant Wallace,  {-}
+## En suivant Wallace {-}
 
-Dans l'introduction de son livre "Island Life" paru en 1881, le célèbre naturaliste Alfred Russel Wallace nous rapporte deux faits étonnant qui justifient pleinement l'examen attentif de la répartition géographique des espèces [@wallace1881island]. Premièrement, la biogéorphe montre avec des exemples multiples que l'éloignemnet de deux régions du monde n'est pas suffiant pour conclure quand à l'éloignement de leur composition faunistique et floristique. Ainsi, comparer les groupes d'oiseaux de l'île japonnaise d'Hokkaido avec ceux de l'Angleterre, pourtant séparés par des miliers de kilomètres, révèle une proximité des paysages ornithologiques bien supérieure à celle constatée entre les îles indonesiennes de Bali et de Lombok distantes de quelques dizaines de kilomètres seulement. Deuxièmement, en s'appuyant sur les différences des faunes brésiliennes et africaines sous des latitudes similaires, Wallace souligne la faiblesse du pouvoir prédictif des variables climatiques pour décire les compositions fauniques. Par la mise en évidence de ces deux éléments, Wallace souligne le besoin de croiser les informations des distributions à la lumière d'une analyse taxonomique. Dans le cadre de la théorie de l'évolution[^chrono], encore toute jeune en 1881, cette analyse taxonomique est en fait une analyse historique. Wallace affirme ainsi que la compréhension d'un problème spatial, celui des aires de répartition de groupes d'espèces proches, n'est possible que par une compréhension temporelle, celle de l'histoire des espèces, cette idée est clairemnt énoncée dans la même introduciton :
+Dans l'introduction de son livre *Island Life* paru en 1881, le célèbre naturaliste Alfred Russel Wallace nous rapporte deux faits étonnants qui justifient pleinement l'examen attentif de la répartition géographique des espèces [@wallace1881island]. Premièrement, le biogéographe démontre, à l'aide de nombreux exemples, que l'éloignement entre deux régions du monde n'est pas suffisant pour conclure quand à l'éloignement de leur composition faunistique et floristique. Ainsi, la comparaison des avifaunes du l'île japonnaise d'Hokkaido et de l'Angleterre, séparées par des miliers de kilomètres, révèle une proximité des paysages ornithologiques très supérieure à celle constatée quand on compare les oiseaux des îles indonésiennes de Bali et de Lombok pourtant distantes de seulement quelques kilomètres. Deuxièmement, en s'appuyant sur les différences des faunes brésiliennes et africaines, Wallace souligne la faiblesse du pouvoir prédictif des variables climatiques pour décrire les compositions faunistiques présentes sous des latitudes similaires. Ces constatations souligne l'utilité de croiser les informations des distributions à la lumière d'une analyse taxonomique pour y apporter du sens. Dans le cadre de la théorie de l'évolution[^chrono], encore toute jeune en 1881, cette analyse taxonomique est une analyse historique : Wallace montre que la compréhension d'un problème spatial, celui des aires de répartition de groupes d'espèces, n'est possible que par une compréhension temporelle, celle de l'histoire des espèces. Cette idée est clairement énoncée dans la suite de son introduction :
 
 >  &laquo; Many years study of this class of subjects has convinced me that there is no short abd easy method of dealing with them; because they are, in their very nature, the visible outcome and residual product of the whole past history of the earth. &raquo;
+<!-- p.6 -->
+
+Tout au long de son livre, Wallace démontre que la connaissance à l'échelle mondiale de la distribution des êtres vivants permet d'associer les différentes îles aux grands ensembles régionnaux biologiques (que nous appelons aujourd'hui écozones) sur la base des ressemblances biologiques des espèces qui témoignent du lien temporel qui unit différentes zones géographiques de la planète. Ce travail de caractérisation d'ensemble géographiques conduit notamment Wallace, dans un article de 1860 [@Wallace1860], à tracer la ligne éponyme séparant l'écozone indomalaise de l'écozone australienne (séparant les îles de Bali et Lomonk mentionnée au paragraphe précédent). La connaissance apportée à la géographie par l'histoire est saississant et les exemples de Wallace deviennent autant d'argument en faveur de la théorie de l'évolution. Le discours de Wallace porte sur des processus à des échelles spatiales et temporelles très grandes[^age], ce qui apporte certes un éclairage substantiel mais amène également un obstacle épistémologique majeur : si l'explication ultime de la présence d'une espèce en un point donné est le produit d'une série de contingences historiques, quelles peuvent être les fondations d'une théorie de la biogéographie? Ce n'est qu'au XX^ème^ siècle que des réponses convaincantes émergeront avec la très fructuseuse rencontre du mathématicien et biologiste Robert Helmer MacArthur et du myrmécologue Edward Osborne Wilson[^eow].
 
 
-Tout au long de son livre, Wallace démontre que la connaissance à l'échelle mondiale de la distribution des êtres vivants à travers le monde permet de relier les différentes îles aux grands ensembles régionnaux biologiques (que nous appelons aujourd'hui écozones) et que ces groupes sont aussi relié par des liens historiques dont la taxonomie révèle les traces. Ce travail de charactérisation d'ensemble géographique conduit Wallace, dans un article de 1860 [@Wallace1860], à tracer la ligne séparant l'écozone indomalaise de l'écozone australienne (qui sépare notamment Bali et Lomonk citées plus haut) qui porte encore aujourd'hui son nom. L'éclaircissement de la géographie par l'histoire est saississant et les exemples de Wallace sont autant de poids données à la théorie de l'évolution. Le discours de Wallac porte sur des processus à des échelles spataile et temporelles très grandes [^age], et bien que l'éclaircissement substantiel des répartitions géogrpahiques des êtres vivants par l'évolution, cette expliqcation se double d'un obstacle épistémologique important : si l'explication ultime de la présence d'une espèce en un point donné est le produit d'une série de contingences historiques, sur quoi bâtir une théorie de la biogéographie? Ce n'est qu'au XX^ème siècle que des réponses convaincaites émergeront avec a fructuseuse rencontre du mathématicien et biologiste Robert Helmer MacArthur et du myrmécologue Edward Osborne Wilson [^eow].
+[^chrono]: Wallace a publié en 1858 un article *On the Tendency of Varieties to Depart Indefinitely From the Original Type* qui témoigne très clairement que ses idées sur les varitions temporelles des espèces étaient très proche de celle de Charles Robert Darwin  a qui il avait d'ailleurs envoyé le manuscipt [@Wallace1858].
+
+[^age]: L'âge de la terre est très débattu à l'époque. Bien que l'ensemble des savants s'accordent pour aller bien au-delà des 6000 ans bibliques, il n'y a alors pas de concensus. Wallace affirme à la page 212 du chapitre 10 de *Island Life* que la vie se développait il y a au moins 500 millions d'années [@wallace1881island], ce qui est audacieux pour l'époque mais bien en-dessous de de l'âge des derniers fossiles estimée à 3.4 miliards d'années [@Wacey2011].
+
+[^eow]: Cet actuel professeur émérite à l'université d'Harvard est reconnu pour ces apport en biologie et en sociologue, il est notamment l'auteur de 32 livres. C'est pour son immense connaissance des fourmis que j'ai choisi l'adjectif de myrmécologue.
 
 
-<!-- Les ranges comme un fait (wallace chap 2) des espèces avec des larges avec des grandes ranges
-Loddigésie admirable (*Loddigesia mirabilis*) seul collibris de son genre vs Lièvre variable (*Lepus timidus*) -->
+
 
 ## En suivant MacArthur et Wilson {-}
 
@@ -58,12 +64,6 @@ Au sein de la communauté, l'idée qu'il est difficle d'isoler les deux discipli
 4. **Populations** : groupe d'individus d'une même espèces
 5. **Biogéographie** : étude des distributions des espèces. -->
 
-
-[^chrono]: Wallace a publié en 1858 un article *On the Tendency of Varieties to Depart Indefinitely From the Original Type* qui témoigne très clairement que ses idées sur les varitions temporelles des espèces étaient très proche de celle de Charles Robert Darwin  a qui il avait d'ailleurs envoyé le manuscipt [@Wallace1858].
-
-[^age]: L'âge de la terre est très débattu à l'époque bien que de nombreux s'accore que les 6000 ans biblique sont insuffisant, Wallace avance, audacieusemnt, l'age de 500 milians d'année.
-
-[^eow]: Cet actuel professeur émérite à l'université d'Harvard est reconnu pour ces apport en biologie et en sociologue, il est l'auteur de 32 livres mais c'est pour son immense connaissance des fourmis que j'ai choisi l'adjectif de myrmécologue.
 
 
 
@@ -365,7 +365,7 @@ C'est dans la lignée de ces développemnts théoriques récents que s'inscrit m
 
 ![**Intégration des interactions et des containtes abiotiques dans la TIB.** Pour intégrer les interactions j'ai considéré n'on pa un ensmeble d'espèce indépendant mais un des espèce au sein d'un réseau décrit à l'échelle régional (a). Comme dans la TIB ces espèces peuvent être colonisée l'île (b), mais dans le modèle que j'ai développé, les taux de colonisation varient avec le long d'un gradient environemntal (c). Enfin les interactions influencent les taux d'extinction locaux (d).](fig/fig2.pdf){#fig:figGTIB}
 
-
+amke
 
 
 

@@ -229,3 +229,7 @@ Ainsi, ce modèle a déjà été utilisé avec succès par Gravel \textit{et al.
 
  Information dans les distributions
  gecko australien généraliste  *Heteronotia binoei* => alors peut être que ça marche bien mais sur une espèce spécialiste ??
+
+
+ <!-- Les ranges comme un fait (wallace chap 2) des espèces avec des larges avec des grandes ranges
+ Loddigésie admirable (*Loddigesia mirabilis*) seul collibris de son genre vs Lièvre variable (*Lepus timidus*) -->
