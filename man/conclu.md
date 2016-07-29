@@ -7,7 +7,9 @@ header-includes:
     - \usepackage{lineno}
 ---
 
+# Catégorie
 
+Il existe en fait une catégoristaion non déclarée par un de fait. La TIB bne s'intéresse pas au île auand MacArthur s'intéresse au arbres, il en fait des îlesm un cadre de font. Pourrions nous avoir des groupes neutres (coraux arbres) et d,utre pas (OK pour théories neutres), si findé sur un poinds relatifs des processus c'est super good ! Théorie sur la composition ou un trait ! mais il fait savoir ce qui chnage la compositions des traits !!
 
 
 # Quelles type de prédicions pouvons nous faire ?
@@ -233,3 +235,11 @@ Ainsi, ce modèle a déjà été utilisé avec succès par Gravel \textit{et al.
 
  <!-- Les ranges comme un fait (wallace chap 2) des espèces avec des larges avec des grandes ranges
  Loddigésie admirable (*Loddigesia mirabilis*) seul collibris de son genre vs Lièvre variable (*Lepus timidus*) -->
+
+
+
+ <!-- 1. **Ecologie** : étude des relations entre les êtres vivants et de leur interaction avec leur habitat et des relations entre elles.
+ 2. **Evolution** : étude des variations temporelle du vivant
+ 3. **Espèces** : un ensemble identifié sur une base génétique qui échange et se reproduit (si sexués)
+ 4. **Populations** : groupe d'individus d'une même espèces
+ 5. **Biogéographie** : étude des distributions des espèces. -->

@@ -97,18 +97,19 @@
 \contentsline {chapter}{\numberline {\MakeUppercase {article} \MakeUppercase {3}} \\ \MakeUppercase {ISLAND THEORY OF BIOGEOGRAPHY : FROM SPECIES TO FONCTIONNAL TRAITS}}{143}{chapter.3}
 \contentsline {chapter}{\MakeUppercase {Conclusion g\'en\'erale}}{145}{section*.78}
 \select@language {french}
-\contentsline {section}{\numberline {3.1}Quelles type de pr\IeC {\'e}dicions pouvons nous faire ?}{145}{section.3.1}
-\contentsline {subsection}{\numberline {3.1.1}Une question d'\IeC {\'e}chelle}{145}{subsection.3.1.1}
-\contentsline {subsection}{\numberline {3.1.2}Des classes d'es\IeC {\`e}ces ?}{146}{subsection.3.1.2}
-\contentsline {subsection}{\numberline {3.1.3}Pr\IeC {\'e}dire des communaut\IeC {\'e}s}{146}{subsection.3.1.3}
+\contentsline {section}{\numberline {3.1}Cat\IeC {\'e}gorie}{145}{section.3.1}
+\contentsline {section}{\numberline {3.2}Quelles type de pr\IeC {\'e}dicions pouvons nous faire ?}{145}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Une question d'\IeC {\'e}chelle}{145}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Des classes d'es\IeC {\`e}ces ?}{146}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Pr\IeC {\'e}dire des communaut\IeC {\'e}s}{147}{subsection.3.2.3}
 \contentsline {section}{Vers une biog\IeC {\'e}ographie int\IeC {\'e}grative}{147}{section*.79}
-\contentsline {subsection}{\numberline {3.1.4}Les donn\IeC {\'e}es}{147}{subsection.3.1.4}
-\contentsline {subsection}{\numberline {3.1.5}L'abstraction des esp\IeC {\`e}ces}{148}{subsection.3.1.5}
+\contentsline {subsection}{\numberline {3.2.4}Les donn\IeC {\'e}es}{147}{subsection.3.2.4}
+\contentsline {subsection}{\numberline {3.2.5}L'abstraction des esp\IeC {\`e}ces}{148}{subsection.3.2.5}
 \contentsline {subsection}{Traits fonctionnels}{148}{section*.80}
 \contentsline {subsection}{des pr\IeC {\'e}dictions fiables?}{150}{section*.81}
 \contentsline {subsection}{Les dangers d'aller trop vite}{150}{section*.82}
-\contentsline {section}{Un monde en changement : entre espoir et illusion}{150}{section*.83}
-\contentsline {subsection}{Une \IeC {\'e}rosion de la biodiversit\IeC {\'e} affolantes}{150}{section*.84}
-\contentsline {subsection}{Un monde biais\IeC {\'e}?}{150}{section*.85}
-\contentsline {subsection}{\numberline {3.1.6}Avons-nous des espoirs vains ?}{151}{subsection.3.1.6}
-\contentsline {subsection}{\numberline {3.1.7}DEB}{151}{subsection.3.1.7}
+\contentsline {section}{Un monde en changement : entre espoir et illusion}{151}{section*.83}
+\contentsline {subsection}{Une \IeC {\'e}rosion de la biodiversit\IeC {\'e} affolantes}{151}{section*.84}
+\contentsline {subsection}{Un monde biais\IeC {\'e}?}{151}{section*.85}
+\contentsline {subsection}{\numberline {3.2.6}Avons-nous des espoirs vains ?}{151}{subsection.3.2.6}
+\contentsline {subsection}{\numberline {3.2.7}DEB}{152}{subsection.3.2.7}
