@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  28 JUL 2016 15:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  29 JUL 2016 12:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1099,170 +1099,150 @@ sur la base de re-la-tions al-lom[]etriques
  []
 
 [30] [31]
-Overfull \hbox (10.67433pt too wide) in paragraph at lines 1202--1217
+Overfull \hbox (10.67433pt too wide) in paragraph at lines 1208--1223
 []\OT1/txr/m/n/12 Plus r[]ecemment, on constate une grande mo-ti-va-tion pour i
 nt[]egrer les re-la-tions []ecologiques
  []
 
+[32] <fig/fig2.pdf, id=691, 461.725pt x 259.97125pt>
+File: fig/fig2.pdf Graphic file (type pdf)
+ <use fig/fig2.pdf>
+Package pdftex.def Info: fig/fig2.pdf used on input line 1237.
+(pdftex.def)             Requested size: 461.72388pt x 259.97061pt.
 
-Overfull \hbox (11.84818pt too wide) in paragraph at lines 1202--1217
-\OT1/txr/m/n/12 Une m[]ehodologuie r[]ecente ap-pel[]ee JSDM int[]egre par ezxe
-mple les cor-rel-taion dans la pr[]ecsence
+Overfull \hbox (17.86072pt too wide) in paragraph at lines 1237--1245
+ [][] 
  []
 
-[32] [33] [34]
-LaTeX Font Info:    Try loading font information for OML+txr on input line 1316
-.
- (/usr/local/texlive/2016/texmf-dist/tex/latex/txfonts/omltxr.fd
-File: omltxr.fd 2000/12/15 v3.1
-)
-LaTeX Font Info:    Font shape `OML/txr/m/n' in size <12> not available
-(Font)              Font shape `OML/txmi/m/it' tried instead on input line 1316
-.
-
-Overfull \hbox (13.03755pt too wide) in paragraph at lines 1315--1318
-[]\OT1/txr/m/n/12 Information dans les dis-tri-bu-tions ge-cko aus-tra-lien g[]
-en[]eraliste \OT1/txr/m/it/12 He-te-ro-no-tia bi-noei \OT1/txr/m/n/12 =\OML/txm
-i/m/it/12 > \OT1/txr/m/n/12 alors
- []
-
-
-Overfull \hbox (0.56885pt too wide) in paragraph at lines 1323--1334
-\OT1/txr/m/n/12 Nous avons en fait sugg[]erer que les p[]ediction s[]etaient pl
-us fa-cile opour des esp[]ece g[]en[]eralistes
- []
-
-[35] [36]
-Overfull \hbox (1.81416pt too wide) in paragraph at lines 1397--1401
+[33 <./fig/fig2.pdf>] [34] [35] [36]
+Overfull \hbox (1.81416pt too wide) in paragraph at lines 1409--1413
 \OT1/txr/m/n/12 cli-mate change on the fu-ture of bio-di-ver-sity. Eco-logy let
 -ters 15, 365--377. doi :[][]10.1111/j.1461-
  []
 
-
-Overfull \hbox (8.78618pt too wide) in paragraph at lines 1420--1424
+[37]
+Overfull \hbox (8.78618pt too wide) in paragraph at lines 1437--1441
 \OT1/txr/m/n/12 spe-cies rich-ness pat-terns in ha-bi-tat frag-ments. Eco-logy 
 Let-ters 5, 619--623. doi :[][]10.1046/j.1461-
  []
 
-[37]
-Overfull \hbox (8.24617pt too wide) in paragraph at lines 1441--1450
+
+Overfull \hbox (8.24617pt too wide) in paragraph at lines 1458--1467
 \OT1/txr/m/n/12 spe-cies' dis-tri-bu-tions from oc-cur-rence data. Eco-gra-phy 
 29, 129--151. doi :[][]10.1111/j.2006.0906-
  []
 
-
-Overfull \hbox (9.293pt too wide) in paragraph at lines 1464--1468
+[38]
+Overfull \hbox (9.293pt too wide) in paragraph at lines 1481--1485
 \OT1/txr/m/n/12 C., 2013. A Mi-to-ge-no-mic Phy-lo-geny of Li-ving Pri-mates. P
 LoS ONE 8, 1--10. doi :[][]10.1371/jour-
  []
 
 
-Overfull \hbox (42.8323pt too wide) in paragraph at lines 1481--1485
+Overfull \hbox (42.8323pt too wide) in paragraph at lines 1498--1502
 \OT1/txr/m/n/12 tra-lity : the conti-nuum hy-po-the-sis. Eco-logy let-ters 9, 3
 99--409. doi :[][]10.1111/j.1461-0248.2006.00884.x[][] 
  []
 
-[38]
-Overfull \hbox (18.70468pt too wide) in paragraph at lines 1517--1519
+[39]
+Overfull \hbox (18.70468pt too wide) in paragraph at lines 1534--1536
 []\OT1/txr/m/n/12 Hanski, I., 1998. Me-ta-po-pu-la-tion dy-na-mics. Na-ture re-
 views 396, 41--49. doi :[][]10.1016/0169-
  []
 
-[39]
-Overfull \hbox (1.87288pt too wide) in paragraph at lines 1545--1550
+[40]
+Overfull \hbox (1.87288pt too wide) in paragraph at lines 1569--1574
 []\OT1/txr/m/n/12 Hortal, J., Diniz-Filho, J.A.F., Bini, L.M., Rodr[]^^Pguez, M
 .[]A., Ba-selga, A., Nogu[]es-Bravo,
  []
 
 
-Overfull \hbox (25.25017pt too wide) in paragraph at lines 1545--1550
+Overfull \hbox (25.25017pt too wide) in paragraph at lines 1569--1574
 \OT1/txr/m/n/12 and di-ver-sity pat-terns of Eu-ro-pean dung beetles. Eco-logy 
 Let-ters 14, 741--748. doi :[][]10.1111/j.1461-
  []
 
 
-Overfull \hbox (83.57018pt too wide) in paragraph at lines 1563--1567
+Overfull \hbox (83.57018pt too wide) in paragraph at lines 1587--1591
 \OT1/txr/m/n/12 and its ap-pli-ca-tion to tro-pi-cal rain fo-rests and co-ral r
 eefs. Co-ral Reefs 16, S9--S21. doi :[][]10.1007/s003380050237[][] 
  []
 
-[40] [41] [42]
-Overfull \hbox (41.84067pt too wide) in paragraph at lines 1704--1706
+[41] [42] [43]
+Overfull \hbox (41.84067pt too wide) in paragraph at lines 1728--1730
 []\OT1/txr/m/n/12 McCann, K.S., 2000. The diversity-stability de-bate. Na-ture 
 405, 228--33. doi :[][]10.1038/35012234[][] 
  []
 
 
-Overfull \hbox (13.97668pt too wide) in paragraph at lines 1714--1716
+Overfull \hbox (13.97668pt too wide) in paragraph at lines 1738--1740
 []\OT1/txr/m/n/12 McGill, B.J., 2010. Mat-ters of Scale. Science 328, 575--576.
  doi :[][]10.1126/science.1188528[][] 
  []
 
-LaTeX Font Info:    Try loading font information for OMS+txr on input line 1718
+
+Overfull \hbox (46.46616pt too wide) in paragraph at lines 1742--1746
+\OT1/txr/m/n/12 logy from func-tio-nal traits. Trends in eco-logy & evo-lu-tion
+ 21, 178--185. doi :[][]10.1016/j.tree.2006.02.002[][] 
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+txr on input line 1748
 .
 (/usr/local/texlive/2016/texmf-dist/tex/latex/txfonts/omstxr.fd
 File: omstxr.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Font shape `OMS/txr/m/n' in size <12> not available
-(Font)              Font shape `OMS/txsy/m/n' tried instead on input line 1718.
+(Font)              Font shape `OMS/txsy/m/n' tried instead on input line 1748.
 
 
-Overfull \hbox (41.93448pt too wide) in paragraph at lines 1722--1726
-\OT1/txr/m/n/12 2002. Single-species mo-dels for many-species food webs. Na-tur
-e 417, 541--543. doi :[][]10.1038/417541a[][] 
- []
-
-
-Overfull \hbox (2.959pt too wide) in paragraph at lines 1739--1743
+Overfull \hbox (2.959pt too wide) in paragraph at lines 1763--1767
 \OT1/txr/m/n/12 evo-lu-tio-nary de-mo-gra-phy of eco-lo-gi-cal change : Lin-kin
 g trait va-ria-tion and po-pu-la-tion growth.
  []
 
-[43]
-Overfull \hbox (35.03017pt too wide) in paragraph at lines 1797--1801
+[44]
+Overfull \hbox (35.03017pt too wide) in paragraph at lines 1826--1830
 \OT1/txr/m/n/12 lo-gi-cal neu-tral theory. Trends in Eco-logy and Evo-lu-tion 2
 7, 203--208. doi :[][]10.1016/j.tree.2012.01.004[][] 
  []
 
-[44]
-Overfull \hbox (29.24692pt too wide) in paragraph at lines 1808--1812
+[45]
+Overfull \hbox (29.24692pt too wide) in paragraph at lines 1837--1841
 \OT1/txr/m/n/12 nary and eco-lo-gi-cal dy-na-mics. Science (New York, N.Y.) 331
 , 426--9. doi :[][]10.1126/science.1193954[][] 
  []
 
 
-Overfull \hbox (16.55786pt too wide) in paragraph at lines 1820--1823
+Overfull \hbox (16.55786pt too wide) in paragraph at lines 1849--1852
 \OT1/txr/m/n/12 nual Re-view of Eco-logy and Sys-te-ma-tics 5, 161--182. doi :[
 ][]10.1146/an-nu-rev.es.05.110174.001113[][] 
  []
 
 
-Overfull \hbox (71.87015pt too wide) in paragraph at lines 1835--1839
+Overfull \hbox (71.87015pt too wide) in paragraph at lines 1864--1868
 \OT1/txr/m/n/12 tion sa-guaro range ex-pan-sion. Jour-nal of Arid En-vi-ron-men
 ts 116, 57--62. doi :[][]10.1016/j.jaridenv.2015.02.004[][] 
  []
 
 
-Overfull \hbox (18.74187pt too wide) in paragraph at lines 1852--1857
+Overfull \hbox (18.74187pt too wide) in paragraph at lines 1881--1886
 \OT1/txr/m/n/12 of Sciences of the Uni-ted States of Ame-rica 106 Suppl, 19637-
 -43. doi :[][]10.1073/pnas.0901562106[][] 
  []
 
-[45]
-Overfull \hbox (9.36217pt too wide) in paragraph at lines 1887--1891
+[46]
+Overfull \hbox (9.36217pt too wide) in paragraph at lines 1916--1920
 \OT1/txr/m/n/12 of the Pro-cee-dings of the Lin-nean So-ciety of Lon-don. Zoo-l
 ogy 4, 172--184. doi :[][]10.1111/j.1096-
  []
 
-[46])
-Overfull \hbox (14.48616pt too wide) in paragraph at lines 1913--130
+[47])
+Overfull \hbox (14.48616pt too wide) in paragraph at lines 1942--130
 \OT1/txr/m/n/12 lu-tion drives eco-lo-gi-cal dy-na-mics in a predator-prey sys-
 tem. Na-ture 424, 303--6. doi :[][]10.1038/na-
  []
 
-[47] [48
-
-]
+[48]
 Package cleveref Info: loaded `english' language definitions on input line 133.
 
  (./chapitre1/chap1.tex
@@ -1278,6 +1258,7 @@ vi-sion tr[]es puis-sante de la biog[]eographie
  []
 
 [49
+
 
 ] [50]
 
@@ -1660,7 +1641,7 @@ Overfull \hbox (1.56554pt too wide) in paragraph at lines 258--259
 -nectance gra-di-ents. \OT1/txr/m/n/12 We com-
  []
 
-[77] <./chapitre1/table1.pdf, id=1131, 538.60861pt x 124.20102pt>
+[77] <./chapitre1/table1.pdf, id=1145, 538.60861pt x 124.20102pt>
 File: ./chapitre1/table1.pdf Graphic file (type pdf)
 
 <use ./chapitre1/table1.pdf>
@@ -1681,7 +1662,7 @@ Package epstopdf Info: Source file: <./chapitre1/fig1.eps>
 rted-to.pdf ./chapitre1/fig1.eps>
 (epstopdf)             \includegraphics on input line 285.
 Package epstopdf Info: Output file is already uptodate.
-<./chapitre1/fig1-eps-converted-to.pdf, id=1132, 650.43pt x 198.7425pt>
+<./chapitre1/fig1-eps-converted-to.pdf, id=1146, 650.43pt x 198.7425pt>
 File: ./chapitre1/fig1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./chapitre1/fig1-eps-converted-to.pdf>
@@ -1699,7 +1680,7 @@ rted-to.pdf ./chapitre1/fig2.eps>
 (epstopdf)             \includegraphics on input line 297.
 Package epstopdf Info: Output file is already uptodate.
 
-<./chapitre1/fig2-eps-converted-to.pdf, id=1133, 433.62pt x 389.455pt>
+<./chapitre1/fig2-eps-converted-to.pdf, id=1147, 433.62pt x 389.455pt>
 File: ./chapitre1/fig2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./chapitre1/fig2-eps-converted-to.pdf>
@@ -1718,7 +1699,7 @@ Package epstopdf Info: Source file: <./chapitre1/fig3.eps>
 rted-to.pdf ./chapitre1/fig3.eps>
 (epstopdf)             \includegraphics on input line 309.
 Package epstopdf Info: Output file is already uptodate.
-<./chapitre1/fig3-eps-converted-to.pdf, id=1196, 433.62pt x 389.455pt>
+<./chapitre1/fig3-eps-converted-to.pdf, id=1214, 433.62pt x 389.455pt>
 File: ./chapitre1/fig3-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./chapitre1/fig3-eps-converted-to.pdf>
@@ -1737,7 +1718,7 @@ rted-to.pdf ./chapitre1/fig4.eps>
 (epstopdf)             \includegraphics on input line 321.
 Package epstopdf Info: Output file is already uptodate.
 
-<./chapitre1/fig4-eps-converted-to.pdf, id=1215, 650.43pt x 216.81pt>
+<./chapitre1/fig4-eps-converted-to.pdf, id=1233, 650.43pt x 216.81pt>
 File: ./chapitre1/fig4-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./chapitre1/fig4-eps-converted-to.pdf>
@@ -1756,7 +1737,7 @@ rted-to.pdf ./chapitre1/fig5.eps>
 (epstopdf)             \includegraphics on input line 333.
 Package epstopdf Info: Output file is already uptodate.
 
-<./chapitre1/fig5-eps-converted-to.pdf, id=1234, 650.43pt x 230.8625pt>
+<./chapitre1/fig5-eps-converted-to.pdf, id=1253, 650.43pt x 230.8625pt>
 File: ./chapitre1/fig5-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./chapitre1/fig5-eps-converted-to.pdf>
@@ -2101,7 +2082,7 @@ Package epstopdf Info: Source file: <./chapitre2/fig1.eps>
 rted-to.pdf ./chapitre2/fig1.eps>
 (epstopdf)             \includegraphics on input line 539.
 Package epstopdf Info: Output file is already uptodate.
-<./chapitre2/fig1-eps-converted-to.pdf, id=1378, 1156.32pt x 317.185pt>
+<./chapitre2/fig1-eps-converted-to.pdf, id=1398, 1156.32pt x 317.185pt>
 File: ./chapitre2/fig1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./chapitre2/fig1-eps-converted-to.pdf>
@@ -2439,6 +2420,14 @@ Package cleveref Info: loaded `french' language definitions on input line 144.
  (./conclu.tex [143
 
 ]
+LaTeX Font Info:    Try loading font information for OML+txr on input line 42.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/txfonts/omltxr.fd
+File: omltxr.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Font shape `OML/txr/m/n' in size <12> not available
+(Font)              Font shape `OML/txmi/m/it' tried instead on input line 42.
+
 Overfull \hbox (9.5816pt too wide) in paragraph at lines 63--66
 []\OT1/txr/m/n/12 La d[]efense des mod[]ele clim-q-taiur bio-cli-mate en-ve-lop
 pe de Pear-son comme une dpremi[]ere
@@ -2564,13 +2553,20 @@ Overfull \hbox (7.38557pt too wide) in paragraph at lines 288--309
 e, pour les m[]emes esp[]eces consid[]er[]ees,
  []
 
-[150]pdfTeX warning (ext4): destination with the same identifier (name{refs}) h
-as been already used, duplicate ignored
+[150]
+Overfull \hbox (13.03755pt too wide) in paragraph at lines 322--325
+[]\OT1/txr/m/n/12 Information dans les dis-tri-bu-tions ge-cko aus-tra-lien g[]
+en[]eraliste \OT1/txr/m/it/12 He-te-ro-no-tia bi-noei \OT1/txr/m/n/12 =\OML/txm
+i/m/it/12 > \OT1/txr/m/n/12 alors
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{refs}) has be
+en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.322 \hypertarget{refs}{}
+l.326 \hypertarget{refs}{}
                           
-Overfull \hbox (74.32588pt too wide) in paragraph at lines 332--337
+Overfull \hbox (74.32588pt too wide) in paragraph at lines 336--341
 \OT1/txr/m/n/12 Na-tio-nal Aca-demy of Sciences of the Uni-ted States of Ame-ri
 ca 105, 13930--5. doi :[][]10.1073/pnas.0803834105[][] 
  []
@@ -2579,15 +2575,20 @@ pdfTeX warning (ext4): destination with the same identifier (name{ref-Pearson20
 03}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.344 \hypertarget{ref-Pearson2003}{}
+l.348 \hypertarget{ref-Pearson2003}{}
                                      
-Overfull \hbox (5.06616pt too wide) in paragraph at lines 351--355
+Overfull \hbox (5.06616pt too wide) in paragraph at lines 355--359
 \OT1/txr/m/n/12 si-mi-la-rity of spe-cies in-ter-ac-tion net-works. Eco-logy le
 t-ters 15, 1353--61. doi :[][]10.1111/ele.12002[][] 
  []
 
-
-Overfull \hbox (3.15816pt too wide) in paragraph at lines 362--366
+pdfTeX warning (ext4): destination with the same identifier (name{ref-Poisot201
+5}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.360 \hypertarget{ref-Poisot2015}{}
+                                    
+Overfull \hbox (3.15816pt too wide) in paragraph at lines 366--370
 \OT1/txr/m/n/12 do-cu-men-ting spe-cies de-clines. Trends in Eco-logy & Evo-lu-
 tion 13, 27--30. doi :[][]10.1016/S0169-
  []
@@ -2606,52 +2607,91 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 179.
 (./thesekc.aux (./liminaires.aux)
 Package cleveref Info: loaded `french' language definitions on input line 25.
 Package cleveref Info: loaded `french' language definitions on input line 31.
-Package cleveref Info: loaded `english' language definitions on input line 123.
+Package cleveref Info: loaded `english' language definitions on input line 126.
 
-Package cleveref Info: loaded `french' language definitions on input line 549.
+Package cleveref Info: loaded `french' language definitions on input line 552.
 )
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 179.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 179.
-Package rerunfilecheck Info: File `thesekc.out' has not changed.
-(rerunfilecheck)             Checksum: 2EB4F030D18281088D3789E4EFF1E25E;6367.
 
+
+Package rerunfilecheck Warning: File `thesekc.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `thesekc.out':
+(rerunfilecheck)             Before: 2EB4F030D18281088D3789E4EFF1E25E;6367
+(rerunfilecheck)             After:  30A740EF75A8CB5CFF3CD643DC64F15C;6367.
 
 LaTeX Warning: There were multiply-defined labels.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 179.
  ) 
 Here is how much of TeX's memory you used:
- 16135 strings out of 493014
- 248876 string characters out of 6133351
+ 16156 strings out of 493014
+ 249196 string characters out of 6133351
  406183 words of memory out of 5000000
- 18848 multiletter control sequences out of 15000+600000
+ 18855 multiletter control sequences out of 15000+600000
  38519 words of font info for 89 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  37i,17n,38p,2392b,930s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
-exlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/te
-xlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/texl
-ive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texli
-ve/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive
-/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2
-016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2016
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/
-texmf-dist/fonts/type1/public/txfonts/rtcxb.pfb></usr/local/texlive/2016/texmf-
-dist/fonts/type1/public/txfonts/rtxb.pfb></usr/local/texlive/2016/texmf-dist/fo
-nts/type1/public/txfonts/rtxi.pfb></usr/local/texlive/2016/texmf-dist/fonts/typ
-e1/public/txfonts/rtxmi.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/pub
-lic/txfonts/rtxr.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/txf
-onts/txex.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/txfonts/tx
-sy.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/txfonts/txsyb.pfb
-></usr/local/texlive/2016/texmf-dist/fonts/type1/public/txfonts/txtt.pfb></usr/
-local/texlive/2016/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texl
-ive/2016/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2016/
-texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist
-/fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesekc.pdf (168 pages, 1474021 bytes).
+pdfTeX warning (dest): name{figure.caption.62} has been referenced but does n
+ot exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{table.caption.60} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.53} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.51} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.49} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.47} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.45} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{table.caption.43} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.76} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.66} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.30} has been referenced but does not exist
+, replaced by a fixed one
+
+{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/tex
+live/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texl
+ive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/texliv
+e/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive
+/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2
+016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/201
+6/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2016/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/te
+xmf-dist/fonts/type1/public/txfonts/rtcxb.pfb></usr/local/texlive/2016/texmf-di
+st/fonts/type1/public/txfonts/rtxb.pfb></usr/local/texlive/2016/texmf-dist/font
+s/type1/public/txfonts/rtxi.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1
+/public/txfonts/rtxmi.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/publi
+c/txfonts/rtxr.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/txfon
+ts/txex.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/txfonts/txsy
+.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/txfonts/txsyb.pfb><
+/usr/local/texlive/2016/texmf-dist/fonts/type1/public/txfonts/txtt.pfb></usr/lo
+cal/texlive/2016/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texliv
+e/2016/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2016/te
+xmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/f
+onts/type1/urw/times/utmri8a.pfb>
+Output written on thesekc.pdf (168 pages, 1487316 bytes).
 PDF statistics:
- 1821 PDF objects out of 2073 (max. 8388607)
- 1572 compressed objects within 16 object streams
- 471 named destinations out of 1000 (max. 500000)
- 718 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1847 PDF objects out of 2073 (max. 8388607)
+ 1596 compressed objects within 16 object streams
+ 485 named destinations out of 1000 (max. 500000)
+ 723 words of extra memory for PDF output out of 10000 (max. 10000000)
 

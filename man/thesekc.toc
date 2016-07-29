@@ -30,8 +30,8 @@
 \contentsline {subsubsection}{La th\IeC {\'e}orie neutre de la biog\IeC {\'e}ographie et le d\IeC {\'e}bat qu'elle soul\IeC {\`e}ve}{29}{section*.27}
 \contentsline {section}{Le r\IeC {\^o}le des interactions dans la distribution des esp\IeC {\`e}ces}{30}{section*.28}
 \contentsline {subsection}{Importance des interactions dans la distribution}{31}{section*.29}
-\contentsline {subsection}{Un probl\IeC {\`e}me d'\IeC {\'e}chelle?}{33}{section*.30}
-\contentsline {subsection}{Vers une biog\IeC {\'e}ographie \IeC {\'e}nerg\IeC {\'e}tique}{35}{section*.31}
+\contentsline {subsection}{Un probl\IeC {\`e}me d'\IeC {\'e}chelle?}{34}{section*.31}
+\contentsline {subsection}{Vers une biog\IeC {\'e}ographie \IeC {\'e}nerg\IeC {\'e}tique}{36}{section*.32}
 \select@language {english}
 \contentsline {chapter}{\numberline {\MakeUppercase {article} \MakeUppercase {1}} \\ \MakeUppercase {A PROPOS DES INTERACTIONS BIOTIQUES ET DES CONTRAINTES ENVIRONNMNENTALES A L'ECHELLE BIOGEOGRAPHIQUE}}{49}{chapter.1}
 \contentsline {section}{\numberline {1.1}RESUM\IeC {\'E}}{49}{section.1.1}
@@ -72,7 +72,7 @@
 \contentsline {subsection}{\numberline {2.12.2}Box 1}{113}{subsection.2.12.2}
 \contentsline {subsection}{\numberline {2.12.3}Tables}{115}{subsection.2.12.3}
 \contentsline {section}{\numberline {2.13}Figures}{116}{section.2.13}
-\contentsline {section}{Reference}{120}{section*.66}
+\contentsline {section}{Reference}{120}{section*.67}
 \contentsline {section}{\numberline {2.14}Material and methods}{120}{section.2.14}
 \contentsline {subsection}{\numberline {2.14.1}Datasets}{120}{subsection.2.14.1}
 \contentsline {subsubsection}{\numberline {2.14.1.1}Willows leafs network}{121}{subsubsection.2.14.1.1}
@@ -93,22 +93,22 @@
 \contentsline {section}{\numberline {2.15}Supporting Tables}{124}{section.2.15}
 \contentsline {subsubsection}{\numberline {2.15.0.1}R packages used}{124}{subsubsection.2.15.0.1}
 \contentsline {section}{\numberline {2.16}Supporting Figures}{131}{section.2.16}
-\contentsline {section}{Supporting References}{140}{section*.76}
+\contentsline {section}{Supporting References}{140}{section*.77}
 \contentsline {chapter}{\numberline {\MakeUppercase {article} \MakeUppercase {3}} \\ \MakeUppercase {ISLAND THEORY OF BIOGEOGRAPHY : FROM SPECIES TO FONCTIONNAL TRAITS}}{141}{chapter.3}
-\contentsline {chapter}{\MakeUppercase {Conclusion g\'en\'erale}}{143}{section*.77}
+\contentsline {chapter}{\MakeUppercase {Conclusion g\'en\'erale}}{143}{section*.78}
 \select@language {french}
 \contentsline {section}{\numberline {3.1}Quelles type de pr\IeC {\'e}dicions pouvons nous faire ?}{143}{section.3.1}
 \contentsline {subsection}{\numberline {3.1.1}Une question d'\IeC {\'e}chelle}{143}{subsection.3.1.1}
 \contentsline {subsection}{\numberline {3.1.2}Des classes d'es\IeC {\`e}ces ?}{144}{subsection.3.1.2}
 \contentsline {subsection}{\numberline {3.1.3}Pr\IeC {\'e}dire des communaut\IeC {\'e}s}{144}{subsection.3.1.3}
-\contentsline {section}{Vers une biog\IeC {\'e}ographie int\IeC {\'e}grative}{145}{section*.78}
+\contentsline {section}{Vers une biog\IeC {\'e}ographie int\IeC {\'e}grative}{145}{section*.79}
 \contentsline {subsection}{\numberline {3.1.4}Les donn\IeC {\'e}es}{145}{subsection.3.1.4}
 \contentsline {subsection}{\numberline {3.1.5}L'abstraction des esp\IeC {\`e}ces}{146}{subsection.3.1.5}
-\contentsline {subsection}{Traits fonctionnels}{146}{section*.79}
-\contentsline {subsection}{des pr\IeC {\'e}dictions fiables?}{148}{section*.80}
-\contentsline {subsection}{Les dangers d'aller trop vite}{148}{section*.81}
-\contentsline {section}{Un monde en changement : entre espoir et illusion}{148}{section*.82}
-\contentsline {subsection}{Une \IeC {\'e}rosion de la biodiversit\IeC {\'e} affolantes}{148}{section*.83}
-\contentsline {subsection}{Un monde biais\IeC {\'e}?}{148}{section*.84}
+\contentsline {subsection}{Traits fonctionnels}{146}{section*.80}
+\contentsline {subsection}{des pr\IeC {\'e}dictions fiables?}{148}{section*.81}
+\contentsline {subsection}{Les dangers d'aller trop vite}{148}{section*.82}
+\contentsline {section}{Un monde en changement : entre espoir et illusion}{148}{section*.83}
+\contentsline {subsection}{Une \IeC {\'e}rosion de la biodiversit\IeC {\'e} affolantes}{148}{section*.84}
+\contentsline {subsection}{Un monde biais\IeC {\'e}?}{148}{section*.85}
 \contentsline {subsection}{\numberline {3.1.6}Avons-nous des espoirs vains ?}{149}{subsection.3.1.6}
 \contentsline {subsection}{\numberline {3.1.7}DEB}{149}{subsection.3.1.7}

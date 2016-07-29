@@ -63,7 +63,7 @@ pdf(filename, height=wi2, width=wi2)
   # axis(1,at=c(16.53,82.92), lwd=0, lwd.ticks=1, labels=c("1", "2"), tck=.04, cex.axis=1.8)
   addLetter(1, cex=cex_let)
   ##
-  par(mar=c(4,0,1,.5))
+  par(mar=c(4,0,1,1))
   plot0(c(0,10),c(0,10))
   abline(h=8, lwd=2, col=colg3)
   text(0, 9, "CONTINENT", font=2, pos=4, col=colg3, cex=2)
@@ -72,7 +72,7 @@ pdf(filename, height=wi2, width=wi2)
   rect(7.5,3,9.5,1.8, col=colb1, border=NA)
   arrows2(x0=mean(c(7.5,9.5)), y0=8, y1=3, col=colg2, border=NA, prophead=FALSE)
 
-  par(mar=c(1,1,3,.5))
+  par(mar=c(1,1,3,1))
   plotImage(file="./code/fig4MW.png")
   addLetter(2, cex=cex_let)
   ##
@@ -81,25 +81,28 @@ pdf(filename, height=wi2, width=wi2)
 
 dev.off()
 
+#
+# n = 4000
+# mata <- matb <- matrix(0, n, n)
+#
+# system.time(
+#
+#   for (i in 1:n){
+#     for (j in 1:n){
+#       mata[i,j] <- i
+#     }
+#   }
+#
+# )
+#
+#
+# system.time(
+#
+#   for (i in 1:length(matb)){
+#     matb[i] <- i
+#   }
+#
+# )
 
-n = 4000
-mata <- matb <- matrix(0, n, n)
-
-system.time(
-
-  for (i in 1:n){
-    for (j in 1:n){
-      mata[i,j] <- i
-    }
-  }
-
-)
-
-
-system.time(
-
-  for (i in 1:length(matb)){
-    matb[i] <- i
-  }
-
-)
+dat <- as.data.frame(cbind(t(combn(1:100, 2)),0,0,0))
+names(dat) <- c(paste0("ind",1:2), paste0("val",1:3))
