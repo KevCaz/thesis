@@ -23,3 +23,5 @@ existing knowledge and bioclimatic modeling to improve understanding of the like
 
 
 > Generalist consumers should typically be weakly coupled to any one of their prey populations because, when feeding on many different species, they cannot be strongly coupled to any one of them @Murdoch2002
+
+<!-- 'The types of questions we pose and the types of observations we make bear witness to our preconceptions. There is no way to get rid of them. There is nothing wrong with this, but we should be aware of it. When we look around us we actually see mirrors of our ideas. We can try to change ourselves on the basis of what we see, but we cannot do without the projections we impose on reality. Observations and statements span the full range from facts via interpretation to abstract ideas. The more abstract the idea, the more important the mirror effect.' Kojjman -->

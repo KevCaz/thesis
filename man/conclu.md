@@ -10,6 +10,8 @@ header-includes:
 # Catégorie
 
 Il existe en fait une catégoristaion non déclarée par un de fait. La TIB bne s'intéresse pas au île auand MacArthur s'intéresse au arbres, il en fait des îlesm un cadre de font. Pourrions nous avoir des groupes neutres (coraux arbres) et d,utre pas (OK pour théories neutres), si findé sur un poinds relatifs des processus c'est super good ! Théorie sur la composition ou un trait ! mais il fait savoir ce qui chnage la compositions des traits !!
+On ignore le mycorrhix
+il y aura très probablement un résaeux de cette tforme la avec telle conséquence economique
 
 
 # Quelles type de prédicions pouvons nous faire ?
