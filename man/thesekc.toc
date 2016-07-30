@@ -102,8 +102,8 @@
 \contentsline {subsection}{\numberline {3.2.1}Une question d'\IeC {\'e}chelle}{145}{subsection.3.2.1}
 \contentsline {subsection}{\numberline {3.2.2}Des classes d'es\IeC {\`e}ces ?}{146}{subsection.3.2.2}
 \contentsline {subsection}{\numberline {3.2.3}Pr\IeC {\'e}dire des communaut\IeC {\'e}s}{147}{subsection.3.2.3}
-\contentsline {section}{Vers une biog\IeC {\'e}ographie int\IeC {\'e}grative}{147}{section*.79}
-\contentsline {subsection}{\numberline {3.2.4}Les donn\IeC {\'e}es}{147}{subsection.3.2.4}
+\contentsline {section}{Vers une biog\IeC {\'e}ographie int\IeC {\'e}grative}{148}{section*.79}
+\contentsline {subsection}{\numberline {3.2.4}Les donn\IeC {\'e}es}{148}{subsection.3.2.4}
 \contentsline {subsection}{\numberline {3.2.5}L'abstraction des esp\IeC {\`e}ces}{148}{subsection.3.2.5}
 \contentsline {subsection}{Traits fonctionnels}{148}{section*.80}
 \contentsline {subsection}{des pr\IeC {\'e}dictions fiables?}{150}{section*.81}

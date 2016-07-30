@@ -13,6 +13,8 @@ Il existe en fait une catégoristaion non déclarée par un de fait. La TIB bne 
 On ignore le mycorrhix
 il y aura très probablement un résaeux de cette tforme la avec telle conséquence economique
 
+Et si on faisait rien pour le frelo
+
 
 # Quelles type de prédicions pouvons nous faire ?
 
