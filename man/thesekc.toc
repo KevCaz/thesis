@@ -9,15 +9,15 @@
 \contentsline {section}{Des \IeC {\^\i }les et des esp\IeC {\`e}ces}{1}{section*.5}
 \contentsline {subsection}{En suivant Wallace}{1}{section*.6}
 \contentsline {subsection}{En suivant MacArthur et Wilson}{3}{section*.7}
-\contentsline {subsection}{Quelles informations renferment les distributions d'esp\IeC {\`e}ces?}{6}{section*.8}
+\contentsline {subsection}{Quelles informations renferment les distributions d'esp\IeC {\`e}ces?}{5}{section*.8}
 \contentsline {subsection}{Enjeux de la connaisssance de la r\IeC {\'e}partition g\IeC {\'e}ographique des esp\IeC {\`e}ces}{7}{section*.9}
 \contentsline {subsection}{Travail th\IeC {\'e}orique et mod\IeC {\'e}lisation}{9}{section*.10}
 \contentsline {subsubsection}{Rassembler et int\IeC {\'e}grer des faits}{9}{section*.11}
 \contentsline {subsubsection}{Des mod\IeC {\`e}les pour explorer et tester la th\IeC {\'e}orie}{10}{section*.12}
-\contentsline {subsubsection}{Nouvelles pr\IeC {\'e}dictions}{12}{section*.13}
+\contentsline {subsubsection}{Nouvelles pr\IeC {\'e}dictions}{11}{section*.13}
 \contentsline {section}{Les processus qui faconnenet les aires de r\IeC {\'e}partition}{12}{section*.14}
 \contentsline {subsection}{Biog\IeC {\'e}ographie historique}{12}{section*.15}
-\contentsline {subsection}{Capact\IeC {\'e}s de dispersion}{14}{section*.16}
+\contentsline {subsection}{Capact\IeC {\'e}s de dispersion}{13}{section*.16}
 \contentsline {subsection}{Contraintes abiotiques et niche \IeC {\'e}cologique}{15}{section*.17}
 \contentsline {subsection}{R\IeC {\'e}seaux d'interactions : interd\IeC {\'e}pendance des esp\IeC {\`e}ces}{18}{section*.18}
 \contentsline {subsection}{Echanges d'informations g\IeC {\'e}n\IeC {\'e}tiques et processus micro-evolutifs}{19}{section*.19}
