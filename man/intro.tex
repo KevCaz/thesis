@@ -1,3 +1,15 @@
+% Cleveref fakery
+\providecommand{\plusnamesingular}{}
+\providecommand{\starnamesingular}{}
+\providecommand{\cref}{\plusnamesingular~\ref}
+\providecommand{\Cref}{\starnamesingular~\ref}
+\providecommand{\crefformat}[2]{}
+\providecommand{\Crefformat}[2]{}
+
+% Cleveref formatting
+\crefformat{figure}{fig.~#2#1#3}
+\Crefformat{figure}{Figure~#2#1#3}
+
 La biogéographie est l'étude de la répartition géographiques des
 espèces. Aujourd'hui, ce terme est souvent remplacé par celui de
 macroécologie. Outre la distinction historique, ce mot met en avant
@@ -98,7 +110,7 @@ données sur les faunes insulaires de diverses régions du monde, ces
 auteurs ont construit un cadre théorique puissant pour expliquer les
 variations du nombre d'espèce trouvé sur ces îles (MacArthur and Wilson,
 1967). Leur démarche théorique permet de lier des observations a un
-modèle mathématique donnant une explication simple et convaicante des
+modèle mathématique donnant une explication simple et convaincante des
 variations étudiées. Ils font ainsi basculer la discipline dans une ère
 nouvelle, ce dont les auteurs étaient conscients, en atteste le premier
 paragraphe du dernier chapitre de leur livre :
@@ -250,10 +262,10 @@ de répartition. Par exemple, dans ma thèse je propose de regarder
 l'intersection des l'aire associée à un ensemble de proies pour savoir
 ce qu'elle nous apprend sur la distribution de leur prédateur.
 
-\subsection*{Enjeux de la connaisssance de la répartition géographique
+\subsection*{Enjeux de la connaissance de la répartition géographique
 des
-espèces}\label{enjeux-de-la-connaisssance-de-la-ruxe9partition-guxe9ographique-des-espuxe8ces}
-\addcontentsline{toc}{subsection}{Enjeux de la connaisssance de la
+espèces}\label{enjeux-de-la-connaissance-de-la-ruxe9partition-guxe9ographique-des-espuxe8ces}
+\addcontentsline{toc}{subsection}{Enjeux de la connaissance de la
 répartition géographique des espèces}
 
 Les observations et la compréhension des causes profondes de la
@@ -522,8 +534,8 @@ bousiers européens (Hortal et al., 2011).
 \addcontentsline{toc}{subsection}{Capactés de dispersion}
 
 La remonté nordique des bousiers depuis le dernier maximum glacier est
-le résultat d'événemenets de dispersion individuel. Au cours de leur
-vie, les bousiers parcourent de grandes distances à la recherche de
+le résultat d'événements de dispersion individuel. Au cours de leur vie,
+les bousiers parcourent de grandes distances à la recherche de
 nourriture, on peut imaginer qu'au fil des génération, si les conditions
 environnementales le permettent, certains individus établissent des
 populations de plus en plus nordiques. Ce qui est vrai pour ce groupe
@@ -595,10 +607,10 @@ problèmes de définition.\footnote{En 1957, Hutchinson propose de voir la
   dimension) dans lequel une espèce peut se développer. Le problème est
   de savoir quelles sont les dimensions et notamment si les autres
   espèces sont parmi ces dimensions. Pour essayer d'avoir une définition
-  plus claire de la niche écologique, certins auteurs proposent de
+  plus claire de la niche écologique, certains auteurs proposent de
   parler de la niche comme un espace où le taux de croissance net de
   l'espèce est supérieur à 0 (Chase and Leibold, 2003). En dépit de
-  l'aspect plus quantitatif de cette définition, un problème substiste,
+  l'aspect plus quantitatif de cette définition, un problème subsiste,
   celui de trouver une méthode générale pour trouver cet espace.} Afin
 d'éviter ces problèmes, je parlerai de la niche au sens de Joseph
 Grinnel qui en tentant d'expliquer la restriction de la répartition du
@@ -627,12 +639,12 @@ et des mesures de températures caractéristiques) avec des données
 climatiques, ils obtenaient une bonne concordance des probabilités
 d'occurrence et des observations, justifiant ainsi la démarche
 prédictive en s'appuyant sur des scénarios de changements climatiques
-pour aller essayer de comprender les répartitions futures. De manière
+pour aller essayer de comprendreles répartitions futures. De manière
 générale, cette méthode est la recherche de facteurs abiotiques limitant
 le développement d'une espèce et donc sa répartition géographique. Au
 niveau du Panama, par exemple, Engelbrecht et al. (2007) ont montrés que
-les distributions locales et régionales de 48 espèces d'arbres étaint
-bien expliquées par la sensibilité à la sécheresse, donc à une variation
+les distributions locales et régionales de 48 espèces d'arbres
+s'expliquent par la sensibilité à la sécheresse, donc à une variation
 dans la disponibilité d'une ressource. Ces corrélations convaincantes
 fondent les modèles de distributions d'espèces (SDM en référence au
 terme anglais utilisé souvent dans le reste de la thèse) qui sont des
@@ -653,8 +665,8 @@ application grâce à l'abondance des données climatiques et des données
 d'occurence et au partage des implémentations numériques de ces méthodes
 statistiques. Pour le premier type de données, WorldClim illustre cette
 facilité d'accès en proposant des données à l'échelle mondiale
-gratuitement téléchargeables (voir \url{http://worldclim.org}, Hijmans
-et al. (2005)). Pour les données d'occurrence, plusieurs initiatives
+gratuitement téléchargables (voir \url{http://worldclim.org}, Hijmans et
+al. (2005)). Pour les données d'occurrence, plusieurs initiatives
 offrent des données gratuites dont les plus exhaustives sont celles
 disponibles sur le portail de données sur la biodiversité à l'échelle
 mondiale GBIF (\emph{Global Biodiversity Information Facility}, voir
@@ -757,7 +769,7 @@ génétique d'un individu est un ensemble de bases dont la séquence
 renferme l'ensemble de l'information pour assurer le développement de
 l'individu. Néanmoins, le code génétique de certaines cellules de
 l'individu peut être modifiées (des mutations) et si ces cellules sont
-celles qui seront transmises à la desendance, alors ces modifications
+celles qui seront transmises à la descendance, alors ces modifications
 peuvent être transmises à la génération suivant. Sous certaines
 conditions, la mutation peut rester dans la population, c'est le moteur
 de la variation à l'échelle populationnelle du code génétique. Bien loin
@@ -870,33 +882,33 @@ thèse}\label{cadre-thuxe9orique-de-la-thuxe8se}
 \addcontentsline{toc}{section}{Cadre théorique de la thèse}
 
 Les développements entrepris durant ma thèse sont des tentatives
-d'encrage des interactions écologiques dans la théorie de la
-biogéographie des îles de MacArthur et Wilson. Je vais maintenant
+d'encrage des interactions écologiques dans la TIB. Je vais maintenant
 revenir sur cette théorie plus en détail pour expliquer pourquoi elle a
 marqué durablement l'écologie. Je signale d'ailleurs que ces idées
-étaient partagées par d'autres écologues et qu``il y a, à ma
+étaient partagées par d'autres écologues et qu'il y a, à ma
 connaissance, deux autres découvertes indépendantes des idées qui ont
-conduit à la théorie. La première découverte est attribué au spécialiste
-des lépidoptères Eugene Gordon Munroe qui a formulé dès 1948, des idées
-similaires dans 5 des 555 pages de sa dissertation de graduation (Brown
-and Lomolino, 1989, Lomolino and Brown (2009)). La seconde est celle de
-Richard Levins et Harold Heatwole qui publie en 1963, soit la même année
-que l'article fondateur de la TIB (MacArthur and Wilson, 1963), l'idée
-d'un équilibre de la richesse spécifique régit par les mêmes processus
-que ceux décrits par MacArthur et Wilson (Levins and Heatwole, 1963).
+conduit à la théorie. La première découverte est attribuée au
+spécialiste des lépidoptères Eugene Gordon Munroe qui a formulé dès
+1948, des idées similaires dans 5 des 555 pages de sa dissertation de
+graduation (Brown and Lomolino, 1989, Lomolino and Brown (2009)). La
+seconde est celle de Richard Levins et Harold Heatwole qui publie en
+1963, soit la même année que l'article fondateur de la TIB, l'idée d'un
+équilibre de la richesse spécifique régit par les mêmes processus que
+ceux décrits par MacArthur et Wilson (Levins and Heatwole, 1963).
 Néanmoins, ce sont sans aucun doute MacArthur et Wilson qui ont marqués
 les écologues par l'ensemble des développements présentés dans leur
 livre de 1967, \emph{The Theory of Island Biogeography} (MacArthur et
 al., 1967).
 
-\subsubsection*{Une vision puissante de la dynamique des distributions
+\subsection*{Une vision puissante de la dynamique des distributions
 d'espèces}\label{une-vision-puissante-de-la-dynamique-des-distributions-despuxe8ces}
-\addcontentsline{toc}{subsubsection}{Une vision puissante de la
-dynamique des distributions d'espèces}
+\addcontentsline{toc}{subsection}{Une vision puissante de la dynamique
+des distributions d'espèces}
 
-Dans la préface de l'ouvrage de 1967, MacArthur et Wilson doutent les
-idées proposées résisteraient longtemps à l'essort de la biogéographie
-expérimentale dont ils furent des acteurs de premier plan :
+Dans la préface de l'ouvrage de 1967, MacArthur et Wilson doutent que
+les idées proposées résisteraient longtemps à l'essort de la
+biogéographie expérimentale dont ils furent des acteurs de premier plan
+:
 
 \begin{quote}
 « We do not seriously believe that that the particular formulations
@@ -919,66 +931,66 @@ continent) sont facilement représentables. Le modèle peut donc être
 étendu à de nombreux cas où un territoire isolé est colonisé par les
 organismes à proximité, par exemple après un incendie ou une
 fragmentation de l'habitat (Cook et al., 2002). Au chapitre 5 de son
-livre de 1972, MacArthur prend notamment l'exemple des îlots de paramo,
-un type de végétations andins situé au-dessu des forêts mais en-dessous
-des neiges éternelles). De manière générale, le modèle est acceptable
-est très adaptable au prix d'un certains nombre d'hypohèse notamment une
-certaine rigidité du réservoire d'espèces régional (au moins en nombre
+livre de 1972, MacArthur prend notamment l'exemple des îlots de paramo
+(végétation andine située au-dessus des forêts mais en-dessous des
+neiges éternelles). De manière générale, le modèle est acceptable est
+très adaptable au prix d'un certains nombre d'hypothèse notamment une
+certaine rigidité du réservoir d'espèces régional (au moins en nombre
 d'espèce) et une absence de rétroaction dans la communauté locale sur
 celui-ci.
 
 Il y a une forme de hasard et de nécessité qui fait écho à l'oeuvre de
-Jaques Monod (Monod, 1970). Ce prix nobel de médecine présente les
+Jaques Monod (Monod, 1970). Ce prix Nobel de médecine présente les
 mutations au niveau de l'ADN comme une source de hasard dont la
-persistence n'est rendu possible que dans un cadre
+persistance n'est rendu possible que dans un cadre
 physico-chimico-évolutifs précis, la nécessité. Dans les travaux de
 MacArthur et Wilson, l'événement de colonisation peut être interprété
 comme un pourvoyeur de stochasticité alors que les contraintes
-écologiques sont un des limites nécéssaire et régissent l'organisation
-des communautés. Outre le fait que la prédiction de la colonisation ne
-peut se faire qu'en terme de fréquence, le caractère stochastique de
-cette dernière donne une dimension historique aux assemblages
-insulaires. L'arrivée d'une espèce est en fait un tirage aléatoire
-(éventuellement pondéré par les capacités respectives de dispersion)
-dans un réservoire régional d'une singularité historique car l'espèce en
-question à une histoire évolutive propre et des propriétés qui en
-découlent. A son arrivée sur l'île, lson éventuelle insertion est
-déterminée par ces même caractéristique et le contexte biotique et
-abiotique de l'île. Les espèces installée sur une îles ont ainsi passé
-le crible des contraintes écologiques, de cette forme de nécessité qui
-est également modifié à chauqe nouvelle insertion. C'est ainsi que l'on
-peut décrire le moteur de la reconfiguration perpetuelle des réseaux
-écologiques locaux. Une telle dynamique peut être également analysée
-comme une imbrication de deux échelles de processus : régionalement, le
-réservoir d'espèce est façonné par une histoire évolutive de grande
-amplitude lié à des processus climatiques eux aussi de grande échelle,
-alors que les événements insulaires relèvent de processus de plus courte
-portée (Ricklefs, 1987).
+écologiques régissent l'organisation des communautés. Outre le fait que
+la prédiction de la colonisation ne peut se faire qu'en terme de
+fréquence, le caractère stochastique de cette dernière donne une
+dimension historique aux assemblages insulaires. L'arrivée d'une espèce
+est en fait un tirage aléatoire (éventuellement pondéré par les
+capacités respectives de dispersion) dans un réservoir régional d'une
+singularité historique car l'espèce en question à une histoire évolutive
+propre et des singularités physiologiques qui en découlent. A son
+arrivée sur l'île, son éventuelle insertion est déterminée par la
+rencontre des singularités de l'espèce et du contexte biotique et
+abiotique de l'île. Les espèces installées sur une île ont ainsi été
+passées au crible des contraintes écologiques, de cette forme de
+nécessité qui est renouvelée à chaque nouvelle insertion. C'est ainsi
+que l'on peut décrire le moteur de la reconfiguration perpétuelle des
+réseaux écologiques locaux. Une telle dynamique peut être également
+analysée comme une imbrication de deux échelles de processus :
+régionalement, le réservoir d'espèce est façonné par une histoire
+évolutive de grande amplitude lié à des processus climatiques eux aussi
+de grande échelle, alors que les événements insulaires relèvent de
+processus de plus courte portée (Ricklefs, 1987).
 
 Enfin, la TIB, bien que cela soit rarement souligné, fait l'hypothèse de
 l'équivalence écologique des espèces considérées : il n'y a ni plantes
-ni animaux, ni proies ou prédateurs, simplements des espèces qui compte
+ni animaux, ni proies ou prédateurs, simplement des espèces qui compte
 pour un. Étant donné les exemples choisit par les auteurs on peut
-néanmois pensé que la théorie est développé pour des groupes d'espèce au
-rôle écologiques similaires et phylogénétiquement assez proches. Ainsi,
-le premier exemple données est pour l'herpétofaune (amphibiens et
-réptiles) et non sur un invetaire exhaustive de toutes les espèces de
-l'île (MacArthur and Wilson, 1967). Cette hypothèse est à relier aux
-objectifs des auteurs notamment celui d'expliquer les relations
-constatées entre la taille des îles et leur richesse spécifique, pour y
-arriver réduire les espèces à deux caractéristiques est suffisant et
-convénient. La démarche peut néanmoins être perçue comme antithétique
-pour des auteurs qui cherchent à formuler une « biogéographie de
-l'espèce » (Lomolino and Brown, 2009) et de surcroit quand on connait la
-qualité de ces deux naturalistes. Cependant, la forme d'équivalence
-amenée par MacArthur et Wilson ne nie la diversité et la complexité,
-elle est plutôt une abstraction nécessaire pour capturer les processus
-essentiels, pour aller au-delà des singularités des êtres vivants, vers
-des généralisations (Lomolino and Brown, 2009).
+néanmoins penser que la théorie est développé pour des groupes d'espèce
+au rôle écologique similaire et phylogénétiquement proches. Ainsi, le
+premier exemple données est pour l'herpétofaune (amphibiens et réptiles)
+et non sur un inventaire exhaustif de toutes les espèces de l'île
+(MacArthur and Wilson, 1967). Cette hypothèse est à relier aux objectifs
+des auteurs notamment celui d'expliquer les relations constatées entre
+la taille des îles et leur richesse spécifique, pour y arriver réduire
+les espèces à deux caractéristiques est suffisant et convénient. La
+démarche peut néanmoins être perçue comme antithétique pour des auteurs
+qui cherchent à formuler une « biogéographie de l'espèce » et de
+surcroit quand on connait la qualité de ces deux naturalistes (Lomolino
+and Brown, 2009). Cependant, la forme d'équivalence amenée par MacArthur
+et Wilson ne nie la diversité et la complexité, elle est plutôt une
+abstraction nécessaire pour capturer les processus essentiels, pour
+aller au-delà des singularités des êtres vivants, vers des
+généralisations (Lomolino and Brown, 2009).
 
-\subsubsection*{Le modèle mathématique et les prédictions de la
+\subsection*{Le modèle mathématique et les prédictions de la
 TIB}\label{le-moduxe8le-mathuxe9matique-et-les-pruxe9dictions-de-la-tib}
-\addcontentsline{toc}{subsubsection}{Le modèle mathématique et les
+\addcontentsline{toc}{subsection}{Le modèle mathématique et les
 prédictions de la TIB}
 
 Je ne rentre pas ici dans les détails mathématiques du modèle, ils sont
@@ -998,11 +1010,9 @@ mais augmente les risques d'extinctions dont le taux par espèce est noté
 \frac{dS}{dt} = c(P-S)-eS
 \end{eqnarray}
 
-La dynamique ainsi engendrée conduit \(S\) jusqu'à un équlibre
-\(S_{eq}\) pour les varitions temporelles s'annuelent. Il faiut noté que
-cette équilibre est dynamque, il y a toujours des extinctions et des
-colonisation mais la richesses spédifique de l'île varie toujours autour
-de \(S_{eq}\) qui est donné par :
+La dynamique ainsi engendrée conduit \(S\) jusqu'à un équilibre
+\(S_{eq}\) pour lequel les variations temporelles s'annullent, qui est
+donné par :
 
 \begin{eqnarray}
 S_{eq} = P \frac{c}{c+e}
@@ -1018,16 +1028,17 @@ les caractéristiques de l'île. Dès leurs article de 1963, MacArthur et
 Wilson présentent la taille de l'île comme un un facteur affectant le
 taux d'extinction : plus l'île est grande, moins le risque d'extinction
 est grand (MacArthur and Wilson, 1963). De même, ils supposent que
-l'isolement de l'île en affecte le flux de migrants : pls l'île est
-isolée moins les évènements de colonisation sont fréquents. j'ai résumé
-la vision classiqe de la TIB sur la figure ({\textbf{???}}) en y
+l'isolement de l'île en affecte le flux de migrants : plus l'île est
+isolée moins les évènements de colonisation sont fréquents. J'ai résumé
+la vision classique de la TIB sur la figure
+\protect\renewcommand{\plusnamesingular}{fig.}\cref{fig:figMW} en y
 ajoutant les graphiques de l'article de 1963. Cette prédiction de la
 théorie en est aussi l'origine : MacArthur et Wilson expliquent avec ces
 mécanismes que les îles de plus grandes tailles est plus d'espèces mais
-aussi que des exeption liée à l'isolemnet puisse existée. Cette relation
-est d'ailleurs présentée dés le début du chapitre 2 de la TIB avec
-l'augmentation linéaire du nombre d'espèce de l'herpetofaune avec le
-logarithm de la surface des îles de l'ouest des Caraïbes.
+aussi que des exceptions liées à l'isolement puisse exister. Cette
+relation est d'ailleurs présentée dés le début du chapitre 2 de la TIB
+avec l'augmentation linéaire du nombre d'espèce de l'herpetofaune avec
+le logarithme de la surface des îles de l'ouest des Caraïbes.
 
 De manière plus générale, la TIB fournit une explication à la relation
 aire-espèce qui est un des objets les plus discutés de l'écologie (M.
@@ -1037,13 +1048,13 @@ question soulevée par l'étude de ces courbes porte sur la nature des
 mécanismes qui régissent les variations régionales. La TIB propose une
 explication à cette relation et supporte une courbe de la forme
 \(S=CA^z\) avec les observations présentées (MacArthur and Wilson,
-1967). La relation aire-espèce surtout connue pour ses applications dans
-le domaine de la conservation\footnote{Récemment Wilson a répondu à une
-  entrevue dans laquelle il se base sur cette relation pour indiquer la
-  proportion de la Terre qu'il faudrait épargner afin de maximiser la
+1967). La relation aire-espèce est surtout connue pour ses applications
+dans le domaine de la conservation\footnote{Récemment Wilson a répondu à
+  une entrevue dans laquelle il se base sur cette relation pour indiquer
+  la proportion de la Terre qu'il faudrait épargner afin de maximiser la
   sauvegarde des espèce sans pour autant empêcher le développement
   humain
-  {[}http://www.nytimes.com/2016/03/13/opinion/sunday/the-global-solution-to-extinction.html{]}{[}http://www.nytimes.com/2016/03/13/opinion/sunday/the-global-solution-to-extinction.html{]}.}.
+  \url{http://www.nytimes.com/2016/03/13/opinion/sunday/the-global-solution-to-extinction.html}.}.
 Elle permet d'estimer la taille qu'une zone de protection doit avoir
 pour atteindre un objectif de sauvegarde chiffré en nombre d'espèce
 (Neigel, 2003, Desmet and Cowling (2004)). La relation peut être aussi
@@ -1057,50 +1068,52 @@ utilisée dans le sens inverse pour apprécier les taux d'extinction liés
 l'évolution des taux de colonisation et d'extinction est présentée pour
 deux îles aux caractéristiques différentes. Les tailles relatives des
 îles et les distances qui les séparent du continent sont schématisées
-sur la droite, les couleurs associent les îles à leur courbe respective.
-Le pool d'espèce régional (\(P\)) est constitué de 100 espèces, les taux
-de colonisation et d'extinction sont exprimés en terme de probabilité
-d'un évènement (de colonisation ou d'extinction). Les points marquent
-les intersecions entre les courbes d'extinction et de colonisation
-c'est-à-dire lorsuqe ces processus s'équilibrent et pour lesquelles les
-abscisses fournissent les richesses spécifiques de l'île à l'équiibre
-\(S_{eq}\). (B) et (C) sont respectivement les figures 4 et 5 extraites
-de l'article de 1963 de MacArthur et Wilson qui livre essentiellemnt le
-même message que celui illustré en (A) (MacArthur and Wilson, 1963). La
-forme convexe des courbes de 1963 sont justifiées par des facteurs
-biologiques qui ne sont pas intégrés dans l'équation \label{eqMW} qui
-confère une forme concave aux courbes comme vu en (A).\label{fig:figMW}}
+sur la droite, les couleurs associent les îles à leurs courbes
+respectives. Le réservoir d'espèce régional (\(P\)) est constitué de 100
+espèces, les taux de colonisation et d'extinction sont exprimés en terme
+de probabilité d'évènement (de colonisation ou d'extinction). Les points
+marquent les intersections entre les courbes d'extinction et de
+colonisation c'est-à-dire lorsque ces processus s'équilibrent.
+L'abscisse de ces point indique les richesses spécifiques de l'île à
+l'équiibre \(S_{eq}\). (B) et (C) sont respectivement les figures 4 et 5
+extraites de l'article de 1963 de MacArthur et Wilson qui livre
+essentiellement le même message que celui illustré en (A) (MacArthur and
+Wilson, 1963). La forme convexe des courbes de 1963 sont justifiées par
+des facteurs biologiques qui ne sont pas intégrés dans l'équation
+\label{eqMW} qui confère une forme concave aux courbes comme vu en
+(A).\label{fig:figMW}}
 \end{figure}
 
-\subsubsection*{L'importance de la TIB dans des dévelopements théoriques
+\subsection*{L'importance de la TIB dans des développements théoriques
 plus
-récents}\label{limportance-de-la-tib-dans-des-duxe9velopements-thuxe9oriques-plus-ruxe9cents}
-\addcontentsline{toc}{subsubsection}{L'importance de la TIB dans des
-dévelopements théoriques plus récents}
+récents}\label{limportance-de-la-tib-dans-des-duxe9veloppements-thuxe9oriques-plus-ruxe9cents}
+\addcontentsline{toc}{subsection}{L'importance de la TIB dans des
+développements théoriques plus récents}
 
 \subsubsection*{La théorie des
 métapopulations}\label{la-thuxe9orie-des-muxe9tapopulations}
 \addcontentsline{toc}{subsubsection}{La théorie des métapopulations}
 
-Bien que ne représentant que cinq pourcents des teres émergeés, ce sont
-bien les observations de la faune des îles qui ont mené à une vision
-paradigmatique de la biogéographie. L'importance des îles s'expliquent
-par leur relative abondance, leur disparité, leur diversité, la relative
-simplicité des assemblages biologiques qu'on y trouve et aussi, comme je
-l'ai évoqué précedemment, par la clareté des flux de migrations
-(Simberloff, 1974). Cette dernière propriété est souvent absente pour
-des populations continentales\footnote{Les îles sont cependant souvent
-  dans des archipels où la lecture de ces flux n'est pas si simple.}. La
-théorie des métapopulations s'intéresse justement aux populations
-reliées entre elles par des flux de migrations (Hanski, 2010). Le
-premier modèle de métapopulations a été propopsé par Levins\footnote{Richard
-  Levins qui avec Heatwole est un des co-découvreurs des idées de la
-  TIB.} lors d'une réflexion sur le contrôle démographique des ravageurs
-dans les cultures. Pour un ravageur donnée, les îlots de culture sont
-autant de patchs où une population peut se maintenir et dispersé dans
-les autres pacths alentour. Levins montre alors que les mesures de la
-lutte biologique doivent être conduites à large échelle pour en
-augmenter les probabilités de succès donc d'extinction régional du
+Bien que ne représentant que cinq pour-cents des terres émergées, ce
+sont bien les observations de la faune des îles qui ont mené à une
+vision paradigmatique de la biogéographie. L'importance des îles
+s'expliquent par leur relative abondance, leur disparité, leur
+diversité, la relative simplicité des assemblages biologiques qu'on y
+trouve et aussi, comme je l'ai évoqué précédemment, par la clarté des
+flux de migrations (Simberloff, 1974). Cette dernière propriété est
+souvent absente pour des populations continentales\footnote{Les îles
+  sont cependant souvent dans des archipels où la lecture de ces flux
+  n'est pas si simple.}. La théorie des métapopulations s'intéresse
+justement aux populations reliées entre elles par des flux de migrations
+(Hanski, 2010). Le premier modèle de métapopulations a été proposé par
+Levins\footnote{Richard Levins qui avec Heatwole est un des
+  co-découvreurs des idées de la TIB.} lors d'une réflexion sur le
+contrôle démographique des ravageurs dans les cultures (Levins, 1969).
+Pour un ravageur donné, les îlots de culture sont autant de patchs où
+une population peut se maintenir et disperser dans les autres patchs
+alentour. Levins montre alors que les mesures de la lutte biologique
+doivent être conduites à large échelle pour en augmenter les
+probabilités de succès, c'est-à-dire d'extinction régional du
 ravageur~(Levins, 1969). Le modèle est simple et très proche de celui de
 la TIB : l'évolution de la proportion \(p\) est aussi gouvernée par des
 évènements de colonisation \(c\) et d'extinction \(e\) :
@@ -1112,24 +1125,24 @@ la TIB : l'évolution de la proportion \(p\) est aussi gouvernée par des
 
 La différence fondamentale avec la TIB est que la migration dépend de la
 proportion de patchs occupés : plus elle est importante plus la
-migration est importante. Parmis les démonstrations il y a les travaux
+migration est importante. Parmi les démonstrations il y a les travaux
 menés notamment par Ikkha Hanski sur les population du Mélitée du
 plantain (\emph{Melitaea cinxia}) au sud-ouest de la Finland (Hanski,
 1998). En plus de données un cadre de penser plus réaliste en terme de
 configuration spatiale, les dynamiques populationnelles associées sont
-bien expliquée et mènent à des risques d'extinction mieux cerner
+bien comprises et mènent à des risques d'extinction mieux évalués
 (Hanski, 1998). C'est aussi un cadre aproprié pour insérer l'étude des
-flux génétiques liés à l'arragment spatial des populations ainsi,
-toujours sur ces mêmes populations de papillon Ilik Saccheri et
-collègues montre qu'en ajoutant le degrés d'hétérozygotie, ils obteinnet
-des proédictions précise auand à l'extinction locale des populations
-(Saccheri et al., 1998). Les travaux théoriques autour du concept de
-metapopulations proposent un certain nombre de paradigme qui permettent
-d'évaluer le rôle que je joue les processus de colonisation et
-d'extinction dans les variations spatio-temporelle de la démograohie
+flux génétiques liés à l'arrangement spatial des populations. Ainsi,
+toujours sur ces mêmes populations de papillon, Ilik Saccheri et
+collègues montrent qu'en ajoutant le degrés d'hétérozygotie, ils
+obtiennet des prédictions précises quant l'extinction locale des
+populations (Saccheri et al., 1998). Les travaux théoriques autour du
+concept de metapopulations proposent un certain nombre de paradigmes qui
+permettent d'évaluer le rôle que je joue les processus de colonisation
+et d'extinction dans les variations spatio-temporelles de la démographie
 d'une espèce (Leibold et al., 2004). La prépondérance de ces mécanismes
-qui font la force de la TIB et de la théorie des métatpopulation a été
-poussé à son paroxysme dans la théorie neutre de la biogéographie.
+qui font la force de la TIB et de la théorie des métapopulations a été
+poussée à son paroxysme dans la théorie neutre de la biogéographie.
 
 \subsubsection*{La théorie neutre de la biogéographie et le débat
 qu'elle
@@ -1168,29 +1181,29 @@ des individus et non plus au niveau des espèces (Hubbell, 2010). Une
 conséquence directe revendiquée par Hubbell est que cette hypothèse
 explique la forme convexe des courbes de colonisation et d'extinction
 décrites par MacArthur et Wislon mais que n'explique pas leur modèle
-(voir ({\textbf{???}}) et Hubbell (2010)). Le principe d'équivalence et
-la palce importante que semble joué le hasard dans cette théorie a
-soulevé de très vif débat avec des démonstrations à charge contre la
-véracité de la théorie (voir par exemple McGill and Collins (2003) et
-Ricklefs (2003)). A mon sens, l'équivalence écologique doit, comme dans
-le cas de la TIB, être prise pour une abstraction de la sigularité des
-espèces, une simplification de la diversité des systèmes biologiques,
-pour isoler une portion restreinte des phénomènes qui la modifient pour
-en évaluer finalement le pouvoir explicatif. Bien qu'un certain nombre
-de cas d'études permettent de rejeter cette théorie (McGill and Collins,
-2003, John et al. (2007)), les defenseurs de la théorie neutre affirment
-qu'elle est tout aussi utile quand une étude en démontre la fausseté
-(Rosindell et al., 2012). La théorie neutre peut en effet être présentée
-comme une jauge qui mesure sur l'importance des processus de
-différentiation de niches (Wennekes et al., 2012). Ainsi pour certaines
-communauté la dérive écologique est plus importante que dans d'autre et
-du point du vue de formalisme des solutions ont déjà été proposée pour
-dresser un continuum de la théorie neutre vers la théorie de la niche
-écologique (Gravel et al., 2006). Malgrés les possibilités offertent par
-ces deux théories, elles occultent largement les interactions
-écologiques qui sont factuelles; si les observations donnent crédit à
-ces théories, une théorie intégrative de la biogéographie doit expliquer
-pouquoi.
+(voir \protect\renewcommand{\plusnamesingular}{fig.}\cref{fig:figMW} et
+Hubbell (2010)). Le principe d'équivalence et la palce importante que
+semble joué le hasard dans cette théorie a soulevé de très vif débat
+avec des démonstrations à charge contre la véracité de la théorie (voir
+par exemple McGill and Collins (2003) et Ricklefs (2003)). A mon sens,
+l'équivalence écologique doit, comme dans le cas de la TIB, être prise
+pour une abstraction de la sigularité des espèces, une simplification de
+la diversité des systèmes biologiques, pour isoler une portion
+restreinte des phénomènes qui la modifient pour en évaluer finalement le
+pouvoir explicatif. Bien qu'un certain nombre de cas d'études permettent
+de rejeter cette théorie (McGill and Collins, 2003, John et al. (2007)),
+les defenseurs de la théorie neutre affirment qu'elle est tout aussi
+utile quand une étude en démontre la fausseté (Rosindell et al., 2012).
+La théorie neutre peut en effet être présentée comme une jauge qui
+mesure sur l'importance des processus de différentiation de niches
+(Wennekes et al., 2012). Ainsi pour certaines communauté la dérive
+écologique est plus importante que dans d'autre et du point du vue de
+formalisme des solutions ont déjà été proposée pour dresser un continuum
+de la théorie neutre vers la théorie de la niche écologique (Gravel et
+al., 2006). Malgrés les possibilités offertent par ces deux théories,
+elles occultent largement les interactions écologiques qui sont
+factuelles; si les observations donnent crédit à ces théories, une
+théorie intégrative de la biogéographie doit expliquer pouquoi.
 
 \section*{Le rôle des interactions dans la distribution des
 espèces}\label{le-ruxf4le-des-interactions-dans-la-distribution-des-espuxe8ces}
@@ -1228,7 +1241,8 @@ Dans la théorie de la biogéographie des îles, les interactions sont en
 fait omniprésentes car ells sont une des composantes principales du
 processus d'extinction. Cependant dans la formulation du modèle, elles
 ne sont jamis mentionnées explicitement, cachés dans le taux
-d'extinction \(e\). Comme je le montre à la figure ({\textbf{???}}), la
+d'extinction \(e\). Comme je le montre à la figure
+\protect\renewcommand{\plusnamesingular}{fig.}\cref{fig:figMW}, la
 différence dans l'allure des courbes déssinées par MacArthur et Wilson
 et celles obtenues en suposant un taux d'immigration et de colonisation
 sont différentes. D'après les auteurs, l'immigration devient plus
@@ -1280,14 +1294,14 @@ récente appelée JSDM intègre par exemple les corrélations dans la
 présence des espèces pour améliorer les prédictions (Pollock et al.,
 2014). Néanmoins, ces efforts se heurtent à un manque de maturité des
 modèles et théories qui cherchent à rassembler distribution et
-interactions. Parmis les tarvaux récents, Franck Jabot et Jordi
-Bascompte ont rassemblé metacommunautés et écologie des réseaux
-souligner importance des relation écologique dans la répartition
-géogrpahique des espèces (Jabot and Bascompte, 2012). De même, Dominique
-Gravel et collègues introduisent en 2011 l'interdépendance
-proie-prédateur dans le modèle de la TIB menant aux prémices d'une
-théorie trophique de la biogéographie des îles (Gravel et al., 2011)
-préfigurée par Holt (Holt, 2009).
+interactions. Parmi les tarvaux récents, Franck Jabot et Jordi Bascompte
+ont rassemblé metacommunautés et écologie des réseaux souligner
+importance des relation écologique dans la répartition géogrpahique des
+espèces (Jabot and Bascompte, 2012). De même, Dominique Gravel et
+collègues introduisent en 2011 l'interdépendance proie-prédateur dans le
+modèle de la TIB menant aux prémices d'une théorie trophique de la
+biogéographie des îles (Gravel et al., 2011) préfigurée par Holt (Holt,
+2009).
 
 C'est dans la lignée de ces développements théoriques récents que
 s'inscrit mon premier chapitre de thèse. J'y ai montré comment
