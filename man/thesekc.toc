@@ -25,10 +25,10 @@
 \contentsline {section}{\numberline {1.9}Acknowledgment}{28}{section.1.9}
 \contentsline {chapter}{\numberline {\MakeUppercase {article} \MakeUppercase {2}} \\ \MakeUppercase {THEORIE DE CO-OCCURRENCE DES ESPECES DANS LES R\IeC {\'E}SEAUX D'INTERACTION}}{29}{chapter.2}
 \contentsline {section}{\numberline {2.1}R\IeC {\'e}sum\IeC {\'e} en fran\IeC {\c c}ais du deuxi\IeC {\`e}me article}{29}{section.2.1}
-\contentsline {section}{\numberline {2.2}TITLE}{32}{section.2.2}
-\contentsline {section}{\numberline {2.3}AUTHORS}{32}{section.2.3}
-\contentsline {section}{\numberline {2.4}ABSTRACT}{32}{section.2.4}
-\contentsline {section}{\numberline {2.5}KEYWORDS}{33}{section.2.5}
+\contentsline {section}{\numberline {2.2}Titre}{32}{section.2.2}
+\contentsline {section}{\numberline {2.3}Auteurs}{32}{section.2.3}
+\contentsline {section}{\numberline {2.4}R\IeC {\'e}sum\IeC {\'e} en anglais}{32}{section.2.4}
+\contentsline {section}{\numberline {2.5}Mot-clef}{33}{section.2.5}
 \contentsline {section}{\numberline {2.6}Introduction}{33}{section.2.6}
 \contentsline {section}{\numberline {2.7}Definitions}{37}{section.2.7}
 \contentsline {paragraph}{\numberline {2.7.0.0.1}Indirect interactions}{43}{paragraph.2.7.0.0.1}
