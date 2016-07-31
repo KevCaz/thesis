@@ -5,11 +5,12 @@ header-includes:
     - \setstretch{1,5}
     - \usepackage{times}
     - \usepackage{lineno}
+emove-ref-sectio: true
 ---
 
 
-La biogéographie est l'étude de la répartition géographiques des espèces. Aujourd'hui, ce terme est souvent remplacé par celui de macroécologie. Outre la distinction historique, ce mot met en avant l'importance du rapport des espèces à leur environnement (biotique ou abiotique) plutôt que la dimension évolutive pourtant tout aussi importante. C'est pour garder à l'esprit la richesse des facteurs qui dessinent les aires de répartition que je garde le terme de biogéographie, discipline dont je dresse un portrait dans la présente introduction. J'y aborde aussi bien la complexité de la compréhension de la distribution spatiale des espèces que les cadres théoriques associés. Chemin faisant, je discute de l'importance du lien qu'il existe entre les interactions écologiques et la répartition des espèces ; cette réflexion est l'essence même de ma thèse.
 
+La biogéographie est l'étude de la répartition géographiques des espèces. Aujourd'hui, ce terme est souvent remplacé par celui de macroécologie. Outre la distinction historique, ce mot met en avant l'importance du rapport des espèces à leur environnement (biotique ou abiotique) plutôt que la dimension évolutive pourtant tout aussi importante. C'est pour garder à l'esprit la richesse des facteurs qui dessinent les aires de répartition que je garde le terme de biogéographie, discipline dont je dresse un portrait dans la présente introduction. J'y aborde aussi bien la complexité de la compréhension de la distribution spatiale des espèces que les cadres théoriques associés. Chemin faisant, je discute de l'importance du lien qu'il existe entre les interactions écologiques et la répartition des espèces ; cette réflexion est l'essence même de ma thèse.
 
 
 
@@ -47,11 +48,11 @@ Le paradigme de la TIB est un lègue qui a eu un impact considérable sur les d�
 
 Près de 50 ans après la parution de leur livre, une des clef en biologie semble être la compréhension des rétroactions qu'il existe entre écologie et évolution dans les variations spatiales et temporelles de la biodiversité. Je reprend ci-dessous trois aphorismes cités par @Schoener2011a concernant les liens entre biologie, écologie et évolution :
 
-1. >  &laquo; Nothing in biology makes sense except in the light of evolution. &raquo; [@Dobzhansky1973]
+>  &laquo; Nothing in biology makes sense except in the light of evolution. &raquo; [@Dobzhansky1973]
 
-2. >  &laquo; Nothing in evolutionary biology makes sense except in the light of ecology. &raquo;  [@grant2008]
+>  &laquo; Nothing in evolutionary biology makes sense except in the light of ecology. &raquo;  [@grant2008]
 
-3. > &laquo; Nothing in evolution or ecology makes sense except in the light of the other. &raquo; [@Pelletier2009a]
+> &laquo; Nothing in evolution or ecology makes sense except in the light of the other. &raquo; [@Pelletier2009a]
 
 La chronologie de ces citations est un indice de la reconnaissance actuel du besoin (de la nécessité?) de croiser écologie et évolution. Un parallèle avec les sciences humaines me semble possible dans lequel l'écologie serait à la biologie ce que la géographie est aux sciences humaines et l'évolution serait à la biologie ce que l'histoire est aux sciences humaines. Nous pouvons certes étudier l'une sans l'autre, mais le dialogue entre les deux disciplines est indispensable.  En son absence, les disciplines avancent en trainant avec elles des hypothèses fortes sur l'autre qui finiront éventuellement par nuire à une compréhension plus profonde de la biologie. Par exemple, supposer que les variations démographiques ont des origines purement écologiques devient problématique si les variations génétiques sont suffisantes pour expliquer qu'une partie importante de cette variation comme cela l'a été montré sur une population de mutons de Soay [@Pelletier2007]. Je ne cherche pas à nier l'utilité des savoirs acquis de manière autonome par un champ disciplinaire, j'insiste simplement sur l'importance de mettre ces connaissances en commun dans une synthèse indispensable pour décrypter l'information contenue dans les distributions d'espèce.
 

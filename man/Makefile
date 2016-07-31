@@ -4,7 +4,6 @@ PDF = ../intro.pdf
 DOCX =../intro.docx
 INTR = intro.tex
 ##-- Conclusion
-##-- Introduction
 MDC = conclu.md
 PDFC = ../conclu.pdf
 CCL = conclu.tex
@@ -20,29 +19,40 @@ SRC = thesekc.tex
 ##--
 REF = /Users/KevCaz/Documents/library.bib
 CSL = elsevier-harvard.csl
-PFLAGS = --filter pandoc-fignos --filter pandoc-tablenos --bibliography=$(REF) --csl=$(CSL) --latex-engine=pdflatex
+PFLAGS = --filter pandoc-fignos --filter pandoc-tablenos --natbib --bibliography=$(REF) --csl=$(CSL) --latex-engine=pdflatex
 
 
 ALL: $(PDF) $(PDFC) $(DOCX) $(THES)
 
 $(THES): $(SRC) $(INTR) $(CHP3) $(CCL)
 	pdflatex $(SRC)
+	bibtex thesekc
+	bibtex thesekc
+	pdflatex $(SRC)
+	# bibtex chapitre1/chap1
+	# bibtex chapitre1/chap1
+	# bibtex thesekc
+	# bibtex thesekc
+	# pdflatex $(SRC)
+	# pdflatex $(SRC)
+
 
 $(INTR): $(MD)
 	pandoc $< -o $@ $(PFLAGS)
 
 $(CCL): $(MDC)
-	pandoc $< -o $@ $(PFLAGS)
+	pandoc $< -o $@
 
 $(CHP3): $(CHP3MN) $(CHP3SI)
 	cat  $(CHP3MN) $(CHP3SI) > $@
-	cp -R ~/ownCloud/Dom_cooc_inter/fig chapitre3/
+	sed -i -e 's/..\/fig/chapitre3/g' chapitre3/chap3.tex
+	cp ~/ownCloud/Dom_cooc_inter/fig/fig* chapitre3/
 
 $(CHP3MN): $(MD3)
-		pandoc $< -o $@ $(PFLAGS)
+	pandoc $< -o $@ $(PFLAGS)
 
 $(CHP3SI): $(MD3SI)
-		pandoc $< -o $@ $(PFLAGS)
+	pandoc $< -o $@ $(PFLAGS)
 
 $(PDF): $(MD)
 	pandoc $< -o $@ $(PFLAGS)

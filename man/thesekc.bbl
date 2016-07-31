@@ -1,0 +1,558 @@
+\begin{thebibliography}{80}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+
+\bibitem[{Albouy et~al.(2011)Albouy, Guilhaumon, Vill{\'{e}}ger, Mouchet,
+  Mercier, Culioli, Tomasini, {Le Loc'h}, and Mouillot}]{Albouy2011}
+Albouy, C., Guilhaumon, F., Vill{\'{e}}ger, S., Mouchet, M., Mercier, L.,
+  Culioli, J., Tomasini, J., {Le Loc'h}, F., Mouillot, D., aug 2011.
+  {Predicting trophic guild and diet overlap from functional traits:
+  statistics, opportunities and limitations for marine ecology}. Marine Ecology
+  Progress Series 436, 17--28.
+\newline\urlprefix\url{http://www.int-res.com/abstracts/meps/v436/p17-28/}
+
+\bibitem[{Allesina and Tang(2012)}]{Allesina2012a}
+Allesina, S., Tang, S., mar 2012. {Stability criteria for complex ecosystems.}
+  Nature 483~(7388), 205--208.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/22343894}
+
+\bibitem[{Ara{\'{u}}jo and Luoto(2007)}]{Araujo2007}
+Ara{\'{u}}jo, M.~B., Luoto, M., nov 2007. {The importance of biotic
+  interactions for modelling species distributions under climate change}.
+  Global Ecology and Biogeography 16~(6), 743--753.
+\newline\urlprefix\url{http://doi.wiley.com/10.1111/j.1466-8238.2007.00359.x}
+
+\bibitem[{Ara{\'{u}}jo and Rozenfeld(2014)}]{Araujo2014}
+Ara{\'{u}}jo, M.~B., Rozenfeld, A., dec 2014. {The geographic scaling of biotic
+  interactions}. Ecography 37~(5), 406--415.
+\newline\urlprefix\url{http://doi.wiley.com/10.1111/j.1600-0587.2013.00643.x}
+
+\bibitem[{Ara{\'{u}}jo et~al.(2011)Ara{\'{u}}jo, Rozenfeld, Rahbek, and
+  Marquet}]{Araujo2011}
+Ara{\'{u}}jo, M.~B., Rozenfeld, A., Rahbek, C., Marquet, P.~A., dec 2011.
+  {Using species co-occurrence networks to assess the impacts of climate
+  change}. Ecography 34~(6), 897--908.
+\newline\urlprefix\url{http://doi.wiley.com/10.1111/j.1600-0587.2011.06919.x}
+
+\bibitem[{Baskerville et~al.(2011)Baskerville, Dobson, Bedford, Allesina,
+  Anderson, and Pascual}]{Baskerville2011}
+Baskerville, E.~B., Dobson, A.~P., Bedford, T., Allesina, S., Anderson, T.~M.,
+  Pascual, M., dec 2011. {Spatial guilds in the Serengeti food web revealed by
+  a Bayesian group model.} PLoS computational biology 7~(12), e1002321.
+\newline\urlprefix\url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3248389{\&}tool=pmcentrez{\&}rendertype=abstract}
+
+\bibitem[{Black and McKane(2012)}]{Black2012}
+Black, A.~J., McKane, A.~J., jun 2012. {Stochastic formulation of ecological
+  models and their applications.} Trends in ecology {\&} evolution 27~(6),
+  337--345.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/22406194}
+
+\bibitem[{Boulangeat et~al.(2012)Boulangeat, Gravel, and
+  Thuiller}]{Boulangeat2012}
+Boulangeat, I., Gravel, D., Thuiller, W., jun 2012. {Accounting for dispersal
+  and biotic interactions to disentangle the drivers of species distributions
+  and their abundances.} Ecology letters 15~(6), 584--593.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/22462813}
+
+\bibitem[{Brooker(2006)}]{Brooker2006}
+Brooker, R.~W., jan 2006. {Plant-plant interactions and environmental change.}
+  The New phytologist 171~(2), 271--84.
+\newline\urlprefix\url{http://onlinelibrary.wiley.com/doi/10.1111/j.1469-8137.2006.01752.x/full
+  http://www.ncbi.nlm.nih.gov/pubmed/16866935}
+
+\bibitem[{Brown et~al.(2004)Brown, Gillooly, Allen, Savage, and
+  West}]{Brown2004}
+Brown, J.~H., Gillooly, J.~F., Allen, A.~P., Savage, V.~M., West, G.~B., jul
+  2004. {Toward a metabolic theory of ecology}. Ecology 85~(7), 1771--1789.
+\newline\urlprefix\url{http://www.esajournals.org/doi/abs/10.1890/03-9000}
+
+\bibitem[{Cahill et~al.(2013)Cahill, Aiello-Lammens, Fisher-Reid, Hua,
+  Karanewsky, Ryu, Sbeglia, Spagnolo, Waldron, Warsi, and Wiens}]{Cahill2013}
+Cahill, A.~E., Aiello-Lammens, M.~E., Fisher-Reid, M.~C., Hua, X., Karanewsky,
+  C.~J., Ryu, H.~Y., Sbeglia, G.~C., Spagnolo, F., Waldron, J.~B., Warsi, O.,
+  Wiens, J.~J., jan 2013. {How does climate change cause extinction?}
+  Proceedings. Biological sciences / The Royal Society 280~(1750), 20121890.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/23075836
+  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3574421{\&}tool=pmcentrez{\&}rendertype=abstract}
+
+\bibitem[{Calcagno et~al.(2011)Calcagno, Massol, Mouquet, Jarne, and
+  David}]{Calcagno2011}
+Calcagno, V., Massol, F., Mouquet, N., Jarne, P., David, P., oct 2011.
+  {Constraints on food chain length arising from regional metacommunity
+  dynamics.} Proceedings. Biological sciences / The Royal Society 278~(1721),
+  3042--3049.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/21367786}
+
+\bibitem[{Canham et~al.(2006)Canham, Papaik, Uriarte, McWilliams, Jenkins, and
+  Twery}]{Canham2006}
+Canham, C.~D., Papaik, M.~J., Uriarte, M., McWilliams, W.~H., Jenkins, J.~C.,
+  Twery, M.~J., apr 2006. {Neighborhood analyses of canopy tree competition
+  along environmental gradients in New England forests.} Ecological
+  applications : a publication of the Ecological Society of America 16~(2),
+  540--54.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/16711043}
+
+\bibitem[{Chase and Leibold(2003)}]{Chase2003}
+Chase, J.~M., Leibold, M.~A., 2003. {Ecological niches : linking classical and
+  contemporary approaches}.
+\newline\urlprefix\url{http://www.americanbanker.com/issues/179{\_}124/which-city-is-the-next-big-fintech-hub-new-york-stakes-its-claim-1068345-1.html$\backslash$nhttp://www.ncbi.nlm.nih.gov/pubmed/15003161$\backslash$nhttp://cid.oxfordjournals.org/lookup/doi/10.1093/cid/cir991$\backslash$nhttp://www.scielo.cl/pd}
+
+\bibitem[{Connor and Simberloff(1979)}]{Connor1979}
+Connor, E.~F., Simberloff, D., dec 1979. {The Assembly of Species Communities:
+  Chance or Competition?} Ecology 60~(6), 1132.
+\newline\urlprefix\url{http://www.jstor.org/stable/1936961?origin=crossref}
+
+\bibitem[{Cook et~al.(2002)Cook, Lane, Foster, and Holt}]{Cook2002}
+Cook, W.~M., Lane, K.~T., Foster, B.~L., Holt, R.~D., sep 2002. {Island theory,
+  matrix effects and species richness patterns in habitat fragments}. Ecology
+  Letters 5~(5), 619--623.
+\newline\urlprefix\url{http://doi.wiley.com/10.1046/j.1461-0248.2002.00366.x}
+
+\bibitem[{Davis et~al.(1998)Davis, Jenkinson, Lawton, Shorrocks, and
+  Wood}]{Davis1998}
+Davis, A.~J., Jenkinson, L.~S., Lawton, J.~H., Shorrocks, B., Wood, S., feb
+  1998. {Making mistakes when predicting shifts in species range in response to
+  global warming.} Nature 391~(6669), 783--786.
+\newline\urlprefix\url{www.blight.com http://www.ncbi.nlm.nih.gov/pubmed/280836
+  http://www.ncbi.nlm.nih.gov/pubmed/9486646}
+
+\bibitem[{Defossez et~al.(2011)Defossez, Courbaud, Marcais, Thuiller, Granda,
+  and Kunstler}]{Defossez2011}
+Defossez, E., Courbaud, B., Marcais, B., Thuiller, W., Granda, E., Kunstler,
+  G., oct 2011. {Do interactions between plant and soil biota change with
+  elevation? A study on Fagus sylvatica.} Biology letters 7~(5), 699--701.
+\newline\urlprefix\url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3169063{\&}tool=pmcentrez{\&}rendertype=abstract}
+
+\bibitem[{Diamond(1975)}]{Diamond1975}
+Diamond, J.~M., 1975. {Assembly of species communities}. In: Cody, M.~L.,
+  Diamond, J.~M. (Eds.), Ecology and Evolution of Communities. Harvard
+  University Press, Cambridge, Massachusetts, USA., pp. 342--444.
+
+\bibitem[{Diamond and Gilpin(1982)}]{Diamond1982}
+Diamond, J.~M., Gilpin, M.~E., jan 1982. {Examination of the “null” model
+  of connor and simberloff for species co-occurrences on Islands}. Oecologia
+  52~(1), 64--74.
+\newline\urlprefix\url{http://link.springer.com/10.1007/BF00349013}
+
+\bibitem[{Durance and Ormerod(2010)}]{Durance2010}
+Durance, I., Ormerod, S.~J., dec 2010. {Evidence for the role of climate in the
+  local extinction of a cool-water triclad}. Journal of the North American
+  Benthological Society 29~(4), 1367--1378.
+\newline\urlprefix\url{http://www.bioone.org/doi/abs/10.1899/09-159.1}
+
+\bibitem[{Edwards et~al.(2013)Edwards, Litchman, and Klausmeier}]{Edwards2013}
+Edwards, K.~F., Litchman, E., Klausmeier, C.~a., jan 2013. {Functional traits
+  explain phytoplankton community structure and seasonal dynamics in a marine
+  ecosystem.} Ecology letters 16~(1), 56--63.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/23033839}
+
+\bibitem[{Ekl{\"{o}}f et~al.(2013)Ekl{\"{o}}f, Jacob, Kopp, Bosch,
+  Castro-Urgal, Chacoff, Dalsgaard, de~Sassi, Galetti, Guimar{\~{a}}es,
+  Lom{\'{a}}scolo, {Mart{\'{i}}n Gonz{\'{a}}lez}, Pizo, Rader, Rodrigo,
+  Tylianakis, V{\'{a}}zquez, and Allesina}]{Eklof2013}
+Ekl{\"{o}}f, A., Jacob, U., Kopp, J., Bosch, J., Castro-Urgal, R., Chacoff,
+  N.~P., Dalsgaard, B., de~Sassi, C., Galetti, M., Guimar{\~{a}}es, P.~R.,
+  Lom{\'{a}}scolo, S.~B., {Mart{\'{i}}n Gonz{\'{a}}lez}, A.~M., Pizo, M.~A.,
+  Rader, R., Rodrigo, A., Tylianakis, J.~M., V{\'{a}}zquez, D.~P., Allesina,
+  S., may 2013. {The dimensionality of ecological networks.} Ecology letters
+  16~(5), 577--583.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/23438174}
+
+\bibitem[{Engelbrecht et~al.(2007)Engelbrecht, Comita, Condit, Kursar, Tyree,
+  Turner, and Hubbell}]{Engelbrecht2007}
+Engelbrecht, B. M.~J., Comita, L.~S., Condit, R., Kursar, T.~a., Tyree, M.~T.,
+  Turner, B.~L., Hubbell, S.~P., may 2007. {Drought sensitivity shapes species
+  distribution patterns in tropical forests.} Nature 447~(7140), 80--82.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/17476266}
+
+\bibitem[{Fordham et~al.(2013)Fordham, Ak{\c{c}}akaya, Brook, Rodr{\'{i}}guez,
+  Alves, Civantos, Trivi{\~{n}}o, Watts, and Ara{\'{u}}jo}]{Fordham2013}
+Fordham, D.~A., Ak{\c{c}}akaya, H.~R., Brook, B.~W., Rodr{\'{i}}guez, A.,
+  Alves, P.~C., Civantos, E., Trivi{\~{n}}o, M., Watts, M.~J., Ara{\'{u}}jo,
+  M.~B., jul 2013. {Adapted conservation measures are required to save the
+  Iberian lynx in a changing climate}. Nature Climate Change 3~(10), 899--903.
+\newline\urlprefix\url{http://www.nature.com/doifinder/10.1038/nclimate1954}
+
+\bibitem[{Gilman et~al.(2010)Gilman, Urban, Tewksbury, Gilchrist, and
+  Holt}]{Gilman2010}
+Gilman, S.~E., Urban, M.~C., Tewksbury, J., Gilchrist, G.~W., Holt, R.~D., jun
+  2010. {A framework for community interactions under climate change.} Trends
+  in ecology {\&} evolution 25~(6), 325--331.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/20392517}
+
+\bibitem[{Godsoe and Harmon(2012)}]{Godsoe2012}
+Godsoe, W., Harmon, L.~J., sep 2012. {How do species interactions affect
+  species distribution models?} Ecography 35~(9), 811--820.
+\newline\urlprefix\url{http://doi.wiley.com/10.1111/j.1600-0587.2011.07103.x}
+
+\bibitem[{Gotelli et~al.(2009)Gotelli, Anderson, Arita, Chao, Colwell,
+  Connolly, Currie, Dunn, Graves, Green, Grytnes, Jiang, Jetz, {Kathleen
+  Lyons}, McCain, Magurran, Rahbek, Rangel, Sober{\'{o}}n, Webb, and
+  Willig}]{Gotelli2009}
+Gotelli, N.~J., Anderson, M.~J., Arita, H.~T., Chao, A., Colwell, R.~K.,
+  Connolly, S.~R., Currie, D.~J., Dunn, R.~R., Graves, G.~R., Green, J.~L.,
+  Grytnes, J.~A., Jiang, Y.~H., Jetz, W., {Kathleen Lyons}, S., McCain, C.~M.,
+  Magurran, A.~E., Rahbek, C., Rangel, T. F. L. V.~B., Sober{\'{o}}n, J., Webb,
+  C.~O., Willig, M.~R., 2009. {Patterns and causes of species richness: A
+  general simulation model for macroecology}. Ecology Letters 12~(9), 873--886.
+
+\bibitem[{Gotelli and Graves(1996)}]{Gotelli1996}
+Gotelli, N.~J., Graves, G.~R., 1996. {Null models in ecology}. Vol.~14.
+\newline\urlprefix\url{http://books.google.com/books?id=vjsBAAAACAAJ{\&}printsec=frontcover}
+
+\bibitem[{Gotelli et~al.(2010)Gotelli, Graves, and Rahbek}]{Gotelli2010}
+Gotelli, N.~J., Graves, G.~R., Rahbek, C., mar 2010. {Macroecological signals
+  of species interactions in the Danish avifauna}. Proceedings of the National
+  Academy of Sciences 107~(11), 5030--5035.
+\newline\urlprefix\url{http://www.pnas.org/content/107/11/5030.abstract$\backslash$nfile://c/Documents
+  and Settings/Cristina/Meus documentos/My Dropbox/Meu
+  Documentos/Papers/2010/Gotelli etal 2010 PNAS.pdf
+  http://www.pnas.org/cgi/doi/10.1073/pnas.0914089107}
+
+\bibitem[{Gravel et~al.(2011)Gravel, Massol, Canard, Mouillot, and
+  Mouquet}]{Gravel2011}
+Gravel, D., Massol, F., Canard, E., Mouillot, D., Mouquet, N., 2011. {Trophic
+  theory of island biogeography}. Ecology Letters 14~(10), 1010--1016.
+
+\bibitem[{Gravel et~al.(2013)Gravel, Poisot, Albouy, Velez, and
+  Mouillot}]{Gravel2013a}
+Gravel, D., Poisot, T., Albouy, C., Velez, L., Mouillot, D., 2013. {Inferring
+  food web structure from predator-prey body size relationships}. Methods in
+  Ecology and Evolution 4~(11), 1083--1090.
+\newline\urlprefix\url{http://timotheepoisot.fr/reprints/gravel{\_}mee{\_}niche.pdf}
+
+\bibitem[{Guill and Drossel(2008)}]{Guill2008}
+Guill, C., Drossel, B., mar 2008. {Emergence of complexity in evolving
+  niche-model food webs.} Journal of theoretical biology 251~(1), 108--20.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/18164730}
+
+\bibitem[{Guisan et~al.(2013)Guisan, Tingley, Baumgartner, Naujokaitis-Lewis,
+  Sutcliffe, Tulloch, Regan, Brotons, McDonald-Madden, Mantyka-Pringle, Martin,
+  Rhodes, Maggini, Setterfield, Elith, Schwartz, Wintle, Broennimann, Austin,
+  Ferrier, Kearney, Possingham, and Buckley}]{Guisan2013}
+Guisan, A., Tingley, R., Baumgartner, J.~B., Naujokaitis-Lewis, I., Sutcliffe,
+  P.~R., Tulloch, A. I.~T., Regan, T.~J., Brotons, L., McDonald-Madden, E.,
+  Mantyka-Pringle, C., Martin, T.~G., Rhodes, J.~R., Maggini, R., Setterfield,
+  S.~a., Elith, J., Schwartz, M.~W., Wintle, B.~a., Broennimann, O., Austin,
+  M., Ferrier, S., Kearney, M.~R., Possingham, H.~P., Buckley, Y.~M., oct 2013.
+  {Predicting species distributions for conservation decisions.} Ecology
+  letters 16, 1424--1435.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/24134332}
+
+\bibitem[{Hairston et~al.(1960)Hairston, Smith, and Slobodkin}]{Hairston1960}
+Hairston, N.~G., Smith, F.~E., Slobodkin, L.~B., jan 1960. {Community
+  Structure, Population Control, and Competition}. The American Naturalist
+  94~(879), 421.
+\newline\urlprefix\url{http://www.journals.uchicago.edu/doi/abs/10.1086/282146}
+
+\bibitem[{Holt and Barfield(2009)}]{Holt2009}
+Holt, R.~D., Barfield, M., apr 2009. {Trophic interactions and range limits:
+  the diverse roles of predation.} Proceedings. Biological sciences / The Royal
+  Society 276~(1661), 1435--1442.
+\newline\urlprefix\url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2677217{\&}tool=pmcentrez{\&}rendertype=abstract}
+
+\bibitem[{Hutchinson(1957)}]{Hutchinson1957}
+Hutchinson, G.~E., 1957. {Concluding remarks. Cold Spring Harbor Symposium}.
+  Quantitative Biology 22, 415--427.
+
+\bibitem[{Jabot and Bascompte(2012)}]{Jabot2012}
+Jabot, F., Bascompte, J., mar 2012. {Bitrophic interactions shape biodiversity
+  in space.} Proceedings of the National Academy of Sciences of the United
+  States of America 109~(12), 4521--4526.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/22393006
+  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3311373{\&}tool=pmcentrez{\&}rendertype=abstract}
+
+\bibitem[{Jeschke and Strayer(2008)}]{Jeschke2008}
+Jeschke, J.~M., Strayer, D.~L., jan 2008. {Usefulness of bioclimatic models for
+  studying climate change and invasive species.} Annals of the New York Academy
+  of Sciences 1134, 1--24.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/18566088}
+
+\bibitem[{Kearney and Porter(2004)}]{Kearney2004}
+Kearney, M., Porter, W.~P., nov 2004. {MAPPING THE FUNDAMENTAL NICHE:
+  PHYSIOLOGY, CLIMATE, AND THE DISTRIBUTION OF A NOCTURNAL LIZARD}. Ecology
+  85~(11), 3119--3131.
+\newline\urlprefix\url{http://www.esajournals.org/doi/abs/10.1890/03-0820
+  http://doi.wiley.com/10.1890/03-0820}
+
+\bibitem[{K{\'{e}}fi et~al.(2012)K{\'{e}}fi, Berlow, Wieters, Navarrete,
+  Petchey, Wood, Boit, Joppa, Lafferty, Williams, Martinez, Menge, Blanchette,
+  Iles, and Brose}]{Kefi2012}
+K{\'{e}}fi, S., Berlow, E.~L., Wieters, E.~A., Navarrete, S.~A., Petchey,
+  O.~L., Wood, S.~A., Boit, A., Joppa, L.~N., Lafferty, K.~D., Williams, R.~J.,
+  Martinez, N.~D., Menge, B.~A., Blanchette, C.~A., Iles, A.~C., Brose, U., apr
+  2012. {More than a meal{\ldots} integrating non-feeding interactions into
+  food webs}. Ecology Letters 15~(4), 291--300.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/22313549
+  http://doi.wiley.com/10.1111/j.1461-0248.2011.01732.x}
+
+\bibitem[{Kemeny and Snell(1983)}]{kemeny1983finite}
+Kemeny, J.~G., Snell, J.~L., 1983. {Finite Markov Chains: With a New Appendix
+  "Generalization of a Fundamental Matrix"}. Undergraduate Texts in
+  Mathematics. Springer New York.
+\newline\urlprefix\url{https://books.google.ca/books?id=0bTK5uWzbYwC}
+
+\bibitem[{Kissling et~al.(2012)Kissling, Dormann, Groeneveld, Hickler,
+  K{\"{u}}hn, McInerny, Montoya, R{\"{o}}mermann, Schiffers, Schurr, Singer,
+  Svenning, Zimmermann, and O'Hara}]{Kissling2012}
+Kissling, W.~D., Dormann, C.~F., Groeneveld, J., Hickler, T., K{\"{u}}hn, I.,
+  McInerny, G.~J., Montoya, J.~M., R{\"{o}}mermann, C., Schiffers, K., Schurr,
+  F.~M., Singer, A., Svenning, J.-C., Zimmermann, N.~E., O'Hara, R.~B., dec
+  2012. {Towards novel approaches to modelling biotic interactions in
+  multispecies assemblages at large spatial extents}. Journal of Biogeography
+  39~(12), 2163--2178.
+\newline\urlprefix\url{http://doi.wiley.com/10.1111/j.1365-2699.2011.02663.x}
+
+\bibitem[{Lavergne et~al.(2010)Lavergne, Mouquet, Thuiller, and
+  Ronce}]{Lavergne2010}
+Lavergne, S., Mouquet, N., Thuiller, W., Ronce, O., dec 2010. {Biodiversity and
+  Climate Change: Integrating Evolutionary and Ecological Responses of Species
+  and Communities}. Annual Review of Ecology, Evolution, and Systematics
+  41~(1), 321--350.
+\newline\urlprefix\url{http://www.annualreviews.org/doi/abs/10.1146/annurev-ecolsys-102209-144628}
+
+\bibitem[{Leibold et~al.(2004)Leibold, Holyoak, Mouquet, Amarasekare, Chase,
+  Hoopes, Holt, Shurin, Law, Tilman, Loreau, and Gonzalez}]{Leibold2004}
+Leibold, M.~a., Holyoak, M., Mouquet, N., Amarasekare, P., Chase, J.~M.,
+  Hoopes, M.~F., Holt, R.~D., Shurin, J.~B., Law, R., Tilman, D., Loreau, M.,
+  Gonzalez, a., jun 2004. {The metacommunity concept: a framework for
+  multi-scale community ecology}. Ecology Letters 7~(7), 601--613.
+\newline\urlprefix\url{http://doi.wiley.com/10.1111/j.1461-0248.2004.00608.x}
+
+\bibitem[{Litchman and Klausmeier(2008)}]{Litchman2008}
+Litchman, E., Klausmeier, C.~a., dec 2008. {Trait-Based Community Ecology of
+  Phytoplankton}. Annual Review of Ecology, Evolution, and Systematics 39~(1),
+  615--639.
+\newline\urlprefix\url{http://www.annualreviews.org/doi/abs/10.1146/annurev.ecolsys.39.110707.173549}
+
+\bibitem[{Loeuille and Loreau(2005)}]{Loeuille2005}
+Loeuille, N., Loreau, M., apr 2005. {Evolutionary emergence of size-structured
+  food webs.} Proceedings of the National Academy of Sciences of the United
+  States of America 102~(16), 5761--6.
+\newline\urlprefix\url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=556288{\&}tool=pmcentrez{\&}rendertype=abstract}
+
+\bibitem[{MacArthur(1972)}]{Macarthur1972geographical}
+MacArthur, R.~H., 1972. {Geographical Ecology: Patterns in the Distribution of
+  Species}. Biology / [Princeton University Press]. Princeton University Press.
+\newline\urlprefix\url{https://books.google.co.in/books?id=3NAYEKc--WAC}
+
+\bibitem[{MacArthur and Wilson(1967)}]{MacArthur1967}
+MacArthur, R.~H., Wilson, E.~O., 1967. {Theory of Island Biogeography}. Vol.~1
+  of Princeton Landmarks in Biology. Princeton University Press, Princeton, NJ.
+
+\bibitem[{Mart{\'{i}}nez et~al.(2012)Mart{\'{i}}nez, Gonz{\'{a}}lez-Taboada,
+  Wiegand, Camarero, and Guti{\'{e}}rrez}]{Martinez2012}
+Mart{\'{i}}nez, I., Gonz{\'{a}}lez-Taboada, F., Wiegand, T., Camarero, J.~J.,
+  Guti{\'{e}}rrez, E., may 2012. {Dispersal limitation and spatial scale affect
+  model based projections of Pinus uncinata response to climate change in the
+  Pyrenees}. Global Change Biology 18~(5), 1714--1724.
+\newline\urlprefix\url{http://doi.wiley.com/10.1111/j.1365-2486.2012.02660.x}
+
+\bibitem[{Massol et~al.(2011)Massol, Gravel, Mouquet, Cadotte, Fukami, and
+  Leibold}]{Massol2011}
+Massol, F., Gravel, D., Mouquet, N., Cadotte, M.~W., Fukami, T., Leibold,
+  M.~A., mar 2011. {Linking community and ecosystem dynamics through spatial
+  ecology.} Ecology letters 14~(3), 313--323.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/21272182}
+
+\bibitem[{McGill(2010)}]{McGill2010}
+McGill, B.~J., apr 2010. {Matters of Scale}. Science 328~(5978), 575--576.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/20431001
+  http://www.sciencemag.org/cgi/doi/10.1126/science.1188528}
+
+\bibitem[{McGill et~al.(2006)McGill, Enquist, Weiher, and Westoby}]{McGill2006}
+McGill, B.~J., Enquist, B.~J., Weiher, E., Westoby, M., apr 2006. {Rebuilding
+  community ecology from functional traits.} Trends in ecology {\&} evolution
+  21~(4), 178--185.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/16701083}
+
+\bibitem[{Mouillot et~al.(2013)Mouillot, Bellwood, Baraloto, Chave, Galzin,
+  Harmelin-Vivien, Kulbicki, Lavergne, Lavorel, Mouquet, Paine, Renaud, and
+  Thuiller}]{Mouillot2013}
+Mouillot, D., Bellwood, D.~R., Baraloto, C., Chave, J., Galzin, R.,
+  Harmelin-Vivien, M., Kulbicki, M., Lavergne, S., Lavorel, S., Mouquet, N.,
+  Paine, C. E.~T., Renaud, J., Thuiller, W., may 2013. {Rare species support
+  vulnerable functions in high-diversity ecosystems.} PLoS biology 11~(5),
+  e1001569.
+\newline\urlprefix\url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3665844{\&}tool=pmcentrez{\&}rendertype=abstract}
+
+\bibitem[{Pearson and Dawson(2003)}]{Pearson2003}
+Pearson, R.~G., Dawson, T.~P., sep 2003. {Predicting the impacts of climate
+  change on the distribution of species: are bioclimate envelope models
+  useful?} Global Ecology and Biogeography 12~(5), 361--371.
+\newline\urlprefix\url{http://doi.wiley.com/10.1046/j.1466-822X.2003.00042.x}
+
+\bibitem[{Pellissier et~al.(2013)Pellissier, Rohr, Ndiribe, Pradervand,
+  Salamin, Guisan, and Wisz}]{Pellissier2013}
+Pellissier, L., Rohr, R.~P., Ndiribe, C., Pradervand, J.-N., Salamin, N.,
+  Guisan, A., Wisz, M., nov 2013. {Combining food web and species distribution
+  models for improved community projections.} Ecology and evolution 3~(13),
+  4572--4583.
+\newline\urlprefix\url{http://doi.wiley.com/10.1002/ece3.843
+  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3856755{\&}tool=pmcentrez{\&}rendertype=abstract}
+
+\bibitem[{Peterson(2003)}]{Peterson2003}
+Peterson, A.~T., dec 2003. {Predicting the Geography of Species' Invasions via
+  Ecological Niche Modeling}. The Quarterly Review of Biology 78~(4), 419--433.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/14737826
+  http://www.jstor.org/stable/10.1086/378926}
+
+\bibitem[{Peterson et~al.(2011)Peterson, Soberon, Pearson, and
+  Martinez-Meyer}]{Peterson2011}
+Peterson, A.~T., Soberon, J., Pearson, R.~G., Martinez-Meyer, E., 2011.
+  {Ecological Niches and Geographic Distributions}. Vol. 2011. Princeton
+  University Press, Princeton, NJ.
+\newline\urlprefix\url{http://books.google.com/books?id=Q{\_}h9FlvgM6wC{\&}pgis=1}
+
+\bibitem[{Pielou and Pielou(1968)}]{Pielou1968}
+Pielou, D.~P., Pielou, E.~C., nov 1968. {Association among species of
+  infrequent occurrence: the insect and spider fauna of Polyporus betulinus
+  (Bulliard) Fries.} Journal of theoretical biology 21~(2), 202--16.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/5700435}
+
+\bibitem[{Poisot et~al.(2012)Poisot, Canard, Mouillot, Mouquet, Gravel, and
+  Jordan}]{Poisot2012}
+Poisot, T., Canard, E., Mouillot, D., Mouquet, N., Gravel, D., Jordan, F., dec
+  2012. {The dissimilarity of species interaction networks.} Ecology letters
+  15~(12), 1353--61.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/22994257}
+
+\bibitem[{Pollock et~al.(2014)Pollock, Tingley, Morris, Golding, O'Hara,
+  Parris, Vesk, and McCarthy}]{Pollock2014}
+Pollock, L.~J., Tingley, R., Morris, W.~K., Golding, N., O'Hara, R.~B., Parris,
+  K.~M., Vesk, P.~A., McCarthy, M.~A., may 2014. {Understanding co-occurrence
+  by modelling species simultaneously with a Joint Species Distribution Model
+  (JSDM)}. Methods in Ecology and Evolution 5~(5), 397--406.
+\newline\urlprefix\url{http://doi.wiley.com/10.1111/2041-210X.12180}
+
+\bibitem[{Price et~al.(2012)Price, Weitz, Savage, Stegen, Clarke, Coomes,
+  Dodds, Etienne, Kerkhoff, McCulloh, Niklas, Olff, Swenson, and
+  Chave}]{Price2012}
+Price, C.~a., Weitz, J.~S., Savage, V.~M., Stegen, J., Clarke, A., Coomes,
+  D.~a., Dodds, P.~S., Etienne, R.~S., Kerkhoff, A.~J., McCulloh, K., Niklas,
+  K.~J., Olff, H., Swenson, N.~G., Chave, J., dec 2012. {Testing the metabolic
+  theory of ecology.} Ecology letters 15~(12), 1465--74.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/22931542}
+
+\bibitem[{Proulx et~al.(2005)Proulx, Promislow, and Phillips}]{Proulx2005}
+Proulx, S.~R., Promislow, D. E.~L., Phillips, P.~C., jun 2005. {Network
+  thinking in ecology and evolution.} Trends in ecology {\&} evolution 20~(6),
+  345--353.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/16701391}
+
+\bibitem[{Ricklefs(1987)}]{Ricklefs1987}
+Ricklefs, R.~E., jan 1987. {Community diversity: relative roles of local and
+  regional processes.} Science 235~(4785), 167--171.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/17778629}
+
+\bibitem[{Saavedra et~al.(2011)Saavedra, Stouffer, Uzzi, and
+  Bascompte}]{Saavedra2011}
+Saavedra, S., Stouffer, D.~B., Uzzi, B., Bascompte, J., oct 2011. {Strong
+  contributors to network persistence are the most vulnerable to extinction.}
+  Nature 478~(7368), 233--235.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/21918515}
+
+\bibitem[{S{\"{a}}terberg et~al.(2013)S{\"{a}}terberg, Sellman, and
+  Ebenman}]{Saterberg2013}
+S{\"{a}}terberg, T., Sellman, S., Ebenman, B., jul 2013. {High frequency of
+  functional extinctions in ecological networks.} Nature 499~(7459), 468--70.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/23831648}
+
+\bibitem[{Schneider et~al.(2012)Schneider, Scheu, and Brose}]{Schneider2012}
+Schneider, F.~D., Scheu, S., Brose, U., may 2012. {Body mass constraints on
+  feeding rates determine the consequences of predator loss}. Ecology letters
+  15~(5), 436--443.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/22380767
+  http://doi.wiley.com/10.1111/ele.12333}
+
+\bibitem[{Schoener(2010)}]{Schoener2010}
+Schoener, T.~W., 2010. {The MacArthur-Wilson Equilibrium Model}. In: Losos,
+  J.~B., Ricklefs, R.~E. (Eds.), The Theory of Island Biogeography Revisited.
+  Princeton University Press, Princeton, NJ, Ch.~2, pp. 52--87.
+
+\bibitem[{Simberloff and Wilson(1969)}]{Simberloff1969}
+Simberloff, D.~S., Wilson, E.~O., mar 1969. {Experimental Zoogeography of
+  Islands: The Colonization of Empty Islands}. Ecology 50~(2), 278--296.
+\newline\urlprefix\url{http://doi.wiley.com/10.2307/1934856}
+
+\bibitem[{Stone and Roberts(1990)}]{Stone1990}
+Stone, L., Roberts, A., nov 1990. {The checkerboard score and species
+  distributions}. Oecologia 85~(1), 74--79.
+\newline\urlprefix\url{http://link.springer.com/10.1007/BF00317345}
+
+\bibitem[{Stouffer et~al.(2007)Stouffer, Camacho, Jiang, and
+  Amaral}]{Stouffer2007}
+Stouffer, D.~B., Camacho, J., Jiang, W., Amaral, L. A.~N., aug 2007. {Evidence
+  for the existence of a robust pattern of prey selection in food webs.}
+  Proceedings. Biological sciences / The Royal Society 274~(1621), 1931--1940.
+\newline\urlprefix\url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2275185{\&}tool=pmcentrez{\&}rendertype=abstract}
+
+\bibitem[{Suttle et~al.(2007)Suttle, Thomsen, and Power}]{Suttle2007}
+Suttle, K.~B., Thomsen, M.~A., Power, M.~E., feb 2007. {Species interactions
+  reverse grassland responses to changing climate.} Science 315~(5812), 640--2.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/17272720}
+
+\bibitem[{Th{\'{e}}bault and Fontaine(2010)}]{Thebault2010}
+Th{\'{e}}bault, E., Fontaine, C., aug 2010. {Stability of ecological
+  communities and the architecture of mutualistic and trophic networks.}
+  Science 329~(5993), 853--856.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/20705861}
+
+\bibitem[{Thuiller et~al.(2013)Thuiller, M{\"{u}}nkem{\"{u}}ller, Lavergne,
+  Mouillot, Mouquet, Schiffers, and Gravel}]{Thuiller2013}
+Thuiller, W., M{\"{u}}nkem{\"{u}}ller, T., Lavergne, S., Mouillot, D., Mouquet,
+  N., Schiffers, K., Gravel, D., may 2013. {A road map for integrating
+  eco-evolutionary processes into biodiversity models}. Ecology Letters 16,
+  94--105.
+\newline\urlprefix\url{http://doi.wiley.com/10.1111/ele.12104}
+
+\bibitem[{Urban et~al.(2008)Urban, Leibold, Amarasekare, {De Meester},
+  Gomulkiewicz, Hochberg, Klausmeier, Loeuille, de~Mazancourt, Norberg, Pantel,
+  Strauss, Vellend, and Wade}]{Urban2008}
+Urban, M.~C., Leibold, M.~A., Amarasekare, P., {De Meester}, L., Gomulkiewicz,
+  R., Hochberg, M.~E., Klausmeier, C.~A., Loeuille, N., de~Mazancourt, C.,
+  Norberg, J., Pantel, J.~H., Strauss, S.~Y., Vellend, M., Wade, M.~J., jun
+  2008. {The evolutionary ecology of metacommunities.} Trends in ecology {\&}
+  evolution 23~(6), 311--317.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/18439707}
+
+\bibitem[{Veech(2013)}]{Veech2013}
+Veech, J.~A., feb 2013. {A probabilistic model for analysing species
+  co-occurrence}. Global Ecology and Biogeography 22~(2), 252--260.
+\newline\urlprefix\url{http://doi.wiley.com/10.1111/j.1466-8238.2012.00789.x}
+
+\bibitem[{Warren et~al.(2015)Warren, Simberloff, Ricklefs, Aguil{\'{e}}e,
+  Condamine, Gravel, Morlon, Mouquet, Rosindell, Casquet, Conti, Cornuault,
+  Fern{\'{a}}ndez-Palacios, Hengl, Norder, Rijsdijk, Sanmart{\'{i}}n,
+  Strasberg, Triantis, Valente, Whittaker, Gillespie, Emerson, and
+  Th{\'{e}}baud}]{Warren2015}
+Warren, B.~H., Simberloff, D., Ricklefs, R.~E., Aguil{\'{e}}e, R., Condamine,
+  F.~L., Gravel, D., Morlon, H., Mouquet, N., Rosindell, J., Casquet, J.,
+  Conti, E., Cornuault, J., Fern{\'{a}}ndez-Palacios, J.~M., Hengl, T., Norder,
+  S.~J., Rijsdijk, K.~F., Sanmart{\'{i}}n, I., Strasberg, D., Triantis, K.~a.,
+  Valente, L.~M., Whittaker, R.~J., Gillespie, R.~G., Emerson, B.~C.,
+  Th{\'{e}}baud, C., feb 2015. {Islands as model systems in ecology and
+  evolution: prospects fifty years after MacArthur-Wilson}. Ecology Letters
+  18~(2), 200--217.
+\newline\urlprefix\url{http://doi.wiley.com/10.1111/ele.12398}
+
+\bibitem[{Wiens(2011)}]{Wiens2011}
+Wiens, J.~J., aug 2011. {The niche, biogeography and species interactions.}
+  Philosophical transactions of the Royal Society of London. Series B,
+  Biological sciences 366~(1576), 2336--2350.
+\newline\urlprefix\url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3130432{\&}tool=pmcentrez{\&}rendertype=abstract}
+
+\bibitem[{Williams and Martinez(2000)}]{Williams2000}
+Williams, R.~J., Martinez, N.~D., mar 2000. {Simple rules yield complex food
+  webs.} Nature 404~(6774), 180--183.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/10724169}
+
+\bibitem[{Wootton(1994)}]{Wootton1994}
+Wootton, J.~T., jan 1994. {Predicting Direct and Indirect Effects: An
+  Integrated Approach Using Experiments and Path Analysis}. Ecology 75~(1),
+  151.
+\newline\urlprefix\url{http://www.jstor.org/stable/1939391?origin=crossref}
+
+\end{thebibliography}
