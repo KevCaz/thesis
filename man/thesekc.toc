@@ -25,12 +25,12 @@
 \contentsline {section}{Cadre th\IeC {\'e}orique de la th\IeC {\`e}se}{23}{section*.21}
 \contentsline {subsection}{Une vision puissante de la dynamique des distributions d'esp\IeC {\`e}ces}{23}{section*.22}
 \contentsline {subsection}{Le mod\IeC {\`e}le math\IeC {\'e}matique et les pr\IeC {\'e}dictions de la TIB}{26}{section*.23}
-\contentsline {subsection}{L'importance de la TIB dans des d\IeC {\'e}veloppements th\IeC {\'e}oriques plus r\IeC {\'e}cents}{28}{section*.25}
-\contentsline {subsubsection}{La th\IeC {\'e}orie des m\IeC {\'e}tapopulations}{28}{section*.26}
+\contentsline {subsection}{L'importance de la TIB dans des d\IeC {\'e}veloppements th\IeC {\'e}oriques plus r\IeC {\'e}cents}{29}{section*.25}
+\contentsline {subsubsection}{La th\IeC {\'e}orie des m\IeC {\'e}tapopulations}{29}{section*.26}
 \contentsline {subsubsection}{La th\IeC {\'e}orie neutre de la biog\IeC {\'e}ographie et le d\IeC {\'e}bat qu'elle soul\IeC {\`e}ve}{30}{section*.27}
 \contentsline {section}{Le r\IeC {\^o}le des interactions dans la distribution des esp\IeC {\`e}ces}{32}{section*.28}
-\contentsline {subsection}{Importance des interactions dans la distribution}{33}{section*.29}
-\contentsline {subsection}{Un probl\IeC {\`e}me d'\IeC {\'e}chelle?}{35}{section*.31}
+\contentsline {subsection}{Importance des interactions dans la distribution}{32}{section*.29}
+\contentsline {subsection}{Un probl\IeC {\`e}me d'\IeC {\'e}chelle?}{36}{section*.31}
 \contentsline {subsection}{Vers une biog\IeC {\'e}ographie \IeC {\'e}nerg\IeC {\'e}tique}{38}{section*.32}
 \select@language {english}
 \contentsline {chapter}{\numberline {\MakeUppercase {article} \MakeUppercase {1}} \\ \MakeUppercase {A PROPOS DES INTERACTIONS BIOTIQUES ET DES CONTRAINTES ENVIRONNMNENTALES A L'ECHELLE BIOGEOGRAPHIQUE}}{53}{chapter.1}
