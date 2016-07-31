@@ -9,29 +9,29 @@
 \contentsline {section}{Des \IeC {\^\i }les et des esp\IeC {\`e}ces}{1}{section*.5}
 \contentsline {subsection}{En suivant Wallace}{1}{section*.6}
 \contentsline {subsection}{En suivant MacArthur et Wilson}{3}{section*.7}
-\contentsline {subsection}{Quelles informations renferment les distributions d'esp\IeC {\`e}ces?}{5}{section*.8}
+\contentsline {subsection}{Quelles informations renferment les distributions d'esp\IeC {\`e}ces?}{6}{section*.8}
 \contentsline {subsection}{Enjeux de la connaisssance de la r\IeC {\'e}partition g\IeC {\'e}ographique des esp\IeC {\`e}ces}{7}{section*.9}
 \contentsline {subsection}{Travail th\IeC {\'e}orique et mod\IeC {\'e}lisation}{9}{section*.10}
 \contentsline {subsubsection}{Rassembler et int\IeC {\'e}grer des faits}{9}{section*.11}
 \contentsline {subsubsection}{Des mod\IeC {\`e}les pour explorer et tester la th\IeC {\'e}orie}{10}{section*.12}
-\contentsline {subsubsection}{Nouvelles pr\IeC {\'e}dictions}{11}{section*.13}
-\contentsline {section}{Les processus qui fa\IeC {\c c}onnenet les aires de r\IeC {\'e}partition}{12}{section*.14}
-\contentsline {subsection}{Biog\IeC {\'e}ographie historique}{12}{section*.15}
+\contentsline {subsubsection}{Nouvelles pr\IeC {\'e}dictions}{12}{section*.13}
+\contentsline {section}{Les processus qui fa\IeC {\c c}onnenet les aires de r\IeC {\'e}partition}{13}{section*.14}
+\contentsline {subsection}{Biog\IeC {\'e}ographie historique}{13}{section*.15}
 \contentsline {subsection}{Capact\IeC {\'e}s de dispersion}{14}{section*.16}
 \contentsline {subsection}{Contraintes abiotiques et niche \IeC {\'e}cologique}{15}{section*.17}
 \contentsline {subsection}{R\IeC {\'e}seaux d'interactions : interd\IeC {\'e}pendance des esp\IeC {\`e}ces}{18}{section*.18}
-\contentsline {subsection}{Echanges d'informations g\IeC {\'e}n\IeC {\'e}tiques et processus micro-evolutifs}{19}{section*.19}
+\contentsline {subsection}{Echanges d'informations g\IeC {\'e}n\IeC {\'e}tiques et processus micro-evolutifs}{20}{section*.19}
 \contentsline {subsection}{L'invasion europ\IeC {\'e}enne du frelon asiatique}{21}{section*.20}
-\contentsline {section}{Cadre th\IeC {\'e}orique de la th\IeC {\`e}se}{22}{section*.21}
+\contentsline {section}{Cadre th\IeC {\'e}orique de la th\IeC {\`e}se}{23}{section*.21}
 \contentsline {subsubsection}{Une vision puissante de la dynamique des distributions d'esp\IeC {\`e}ces}{23}{section*.22}
-\contentsline {subsubsection}{Le mod\IeC {\`e}le math\IeC {\'e}matique et les pr\IeC {\'e}dictions de la TIB}{25}{section*.23}
-\contentsline {subsubsection}{L'importance de la TIB dans des d\IeC {\'e}velopements th\IeC {\'e}oriques plus r\IeC {\'e}cents}{27}{section*.25}
-\contentsline {subsubsection}{La th\IeC {\'e}orie des m\IeC {\'e}tapopulations}{27}{section*.26}
+\contentsline {subsubsection}{Le mod\IeC {\`e}le math\IeC {\'e}matique et les pr\IeC {\'e}dictions de la TIB}{26}{section*.23}
+\contentsline {subsubsection}{L'importance de la TIB dans des d\IeC {\'e}velopements th\IeC {\'e}oriques plus r\IeC {\'e}cents}{29}{section*.25}
+\contentsline {subsubsection}{La th\IeC {\'e}orie des m\IeC {\'e}tapopulations}{29}{section*.26}
 \contentsline {subsubsection}{La th\IeC {\'e}orie neutre de la biog\IeC {\'e}ographie et le d\IeC {\'e}bat qu'elle soul\IeC {\`e}ve}{30}{section*.27}
-\contentsline {section}{Le r\IeC {\^o}le des interactions dans la distribution des esp\IeC {\`e}ces}{31}{section*.28}
+\contentsline {section}{Le r\IeC {\^o}le des interactions dans la distribution des esp\IeC {\`e}ces}{32}{section*.28}
 \contentsline {subsection}{Importance des interactions dans la distribution}{32}{section*.29}
-\contentsline {subsection}{Un probl\IeC {\`e}me d'\IeC {\'e}chelle?}{35}{section*.31}
-\contentsline {subsection}{Vers une biog\IeC {\'e}ographie \IeC {\'e}nerg\IeC {\'e}tique}{37}{section*.32}
+\contentsline {subsection}{Un probl\IeC {\`e}me d'\IeC {\'e}chelle?}{34}{section*.31}
+\contentsline {subsection}{Vers une biog\IeC {\'e}ographie \IeC {\'e}nerg\IeC {\'e}tique}{38}{section*.32}
 \select@language {english}
 \contentsline {chapter}{\numberline {\MakeUppercase {article} \MakeUppercase {1}} \\ \MakeUppercase {A PROPOS DES INTERACTIONS BIOTIQUES ET DES CONTRAINTES ENVIRONNMNENTALES A L'ECHELLE BIOGEOGRAPHIQUE}}{51}{chapter.1}
 \contentsline {section}{\numberline {1.1}RESUM\IeC {\'E}}{51}{section.1.1}
@@ -97,19 +97,20 @@
 \contentsline {chapter}{\numberline {\MakeUppercase {article} \MakeUppercase {3}} \\ \MakeUppercase {ISLAND THEORY OF BIOGEOGRAPHY : FROM SPECIES TO FONCTIONNAL TRAITS}}{143}{chapter.3}
 \contentsline {chapter}{\MakeUppercase {Conclusion g\'en\'erale}}{145}{section*.78}
 \select@language {french}
+\contentsline {section}{Que peut-on pr\IeC {\'e}dire ?}{145}{section*.79}
 \contentsline {section}{\numberline {3.1}Cat\IeC {\'e}gorie}{145}{section.3.1}
 \contentsline {section}{\numberline {3.2}Quelles type de pr\IeC {\'e}dicions pouvons nous faire ?}{145}{section.3.2}
 \contentsline {subsection}{\numberline {3.2.1}Une question d'\IeC {\'e}chelle}{145}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}Des classes d'es\IeC {\`e}ces ?}{146}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.2}Des classes d'es\IeC {\`e}ces ?}{147}{subsection.3.2.2}
 \contentsline {subsection}{\numberline {3.2.3}Pr\IeC {\'e}dire des communaut\IeC {\'e}s}{147}{subsection.3.2.3}
-\contentsline {section}{Vers une biog\IeC {\'e}ographie int\IeC {\'e}grative}{148}{section*.79}
+\contentsline {section}{Vers une biog\IeC {\'e}ographie int\IeC {\'e}grative}{148}{section*.80}
 \contentsline {subsection}{\numberline {3.2.4}Les donn\IeC {\'e}es}{148}{subsection.3.2.4}
 \contentsline {subsection}{\numberline {3.2.5}L'abstraction des esp\IeC {\`e}ces}{148}{subsection.3.2.5}
-\contentsline {subsection}{Traits fonctionnels}{148}{section*.80}
-\contentsline {subsection}{des pr\IeC {\'e}dictions fiables?}{150}{section*.81}
-\contentsline {subsection}{Les dangers d'aller trop vite}{150}{section*.82}
-\contentsline {section}{Un monde en changement : entre espoir et illusion}{151}{section*.83}
-\contentsline {subsection}{Une \IeC {\'e}rosion de la biodiversit\IeC {\'e} affolantes}{151}{section*.84}
-\contentsline {subsection}{Un monde biais\IeC {\'e}?}{151}{section*.85}
+\contentsline {subsection}{Traits fonctionnels}{148}{section*.81}
+\contentsline {subsection}{des pr\IeC {\'e}dictions fiables?}{150}{section*.82}
+\contentsline {subsection}{Les dangers d'aller trop vite}{150}{section*.83}
+\contentsline {section}{Un monde en changement : entre espoir et illusion}{151}{section*.84}
+\contentsline {subsection}{Une \IeC {\'e}rosion de la biodiversit\IeC {\'e} affolantes}{151}{section*.85}
+\contentsline {subsection}{Un monde biais\IeC {\'e}?}{151}{section*.86}
 \contentsline {subsection}{\numberline {3.2.6}Avons-nous des espoirs vains ?}{151}{subsection.3.2.6}
 \contentsline {subsection}{\numberline {3.2.7}DEB}{152}{subsection.3.2.7}
