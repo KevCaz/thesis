@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  1 AUG 2016 20:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  1 AUG 2016 21:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1371,14 +1371,8 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 187.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 187.
 Package rerunfilecheck Info: File `thesekc.out' has not changed.
 (rerunfilecheck)             Checksum: 404C9208F0701F9DBE233848F479A7E2;2070.
-
-
-Package rerunfilecheck Warning: File `thesekc.brf' has changed.
-(rerunfilecheck)                Rerun to get bibliographical references right.
-
-Package rerunfilecheck Info: Checksums for `thesekc.brf':
-(rerunfilecheck)             Before: E24BDE1E6185F987C3B383C615DE5532;7824
-(rerunfilecheck)             After:  BFECEABD046B4317EFE9A65CE5A8E76B;7924.
+Package rerunfilecheck Info: File `thesekc.brf' has not changed.
+(rerunfilecheck)             Checksum: BFECEABD046B4317EFE9A65CE5A8E76B;7924.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 187.
  ) 
 Here is how much of TeX's memory you used:
@@ -1409,10 +1403,10 @@ local/texlive/2016/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texl
 ive/2016/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2016/
 texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist
 /fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesekc.pdf (73 pages, 1211802 bytes).
+Output written on thesekc.pdf (73 pages, 1211865 bytes).
 PDF statistics:
- 1457 PDF objects out of 1728 (max. 8388607)
- 1309 compressed objects within 14 object streams
+ 1459 PDF objects out of 1728 (max. 8388607)
+ 1311 compressed objects within 14 object streams
  230 named destinations out of 1000 (max. 500000)
  281 words of extra memory for PDF output out of 10000 (max. 10000000)
 
