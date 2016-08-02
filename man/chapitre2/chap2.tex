@@ -46,44 +46,48 @@ Co-occurence, Ecological networks, Biogeography, Indirect interactions, Null mod
 
 Understanding of the processes driving the assembly of communities has been a central theme of ecology since the foundation of the discipline. How do we start from a regional species pool to assemble a structured community? Why are some species associated with each other? The work of \cite{Diamond1975} pioneered the analysis of species co-occurrence in geographical space and, together with the controversy triggered by
 \cite{Connor1979}, it stimulated the development of a new field of
-research in numerical ecology (\citealt{Stone1990, Gotelli1996,
-legendre2012numerical}). The foundational work on species co-occurrences also led to the development of a rich array of methodological tools designed to test null hypotheses in ecology. Even if null models could be achieved numerically (e.g., \cite{Araujo2011}), typically they are based on permutations of distribution data. Null models have been used to infer the role of biotic interactions between pairs of species on their individual distributions. Studying the different drivers of species co-occurrence is not only of theoretical interest for improving understanding of the mechanisms of community assembly. It is also instrumental in predictive ecology, because a considerable amount of information is contained in species distributions data.
+research in numerical ecology \citep{Stone1990, Gotelli1996,
+legendre2012numerical}.
+The foundational work on species co-occurrences also led to the development of a rich array of methodological tools designed to test null hypotheses in ecology. Even if null models could be achieved numerically \citep[\textit{e.g.},][]{Araujo2011}, typically they are based on permutations of distribution data.
+Null models have been used to infer the role of biotic interactions between pairs of species on their individual distributions. Studying the different drivers of species co-occurrence is not only of theoretical interest for improving understanding of the mechanisms of community assembly. It is also instrumental in predictive ecology, because a considerable amount of information is contained in species distributions data.
 
-Despite its historical importance for community ecology, co-occurrence data remain a neglected source of information in models of species distributions. Biogeographers are still debating the impact of biotic interactions on species distributions (\citealt{Guisan2005Predicting, Gotelli2010,
-Kissling2012, Pellissier2013}). The distribution of a species
+Despite its historical importance for community ecology, co-occurrence data remain a neglected source of information in models of species distributions.
+Biogeographers are still debating the impact of biotic interactions on species distributions (\citealt{Guisan2005, Gotelli2010,
+Kissling2012, Pellissier2013}).
+The distribution of a species
 is thought to be first influenced by its physiological tolerance to
 environmental conditions, but also by interactions with other species
 \citep{Hutchinson1957, macarthur1972geographical,
-Peterson2011, Boulangeat2012}. The question of whether such
+Peterson2011, Boulangeat2012}.
+The question of whether such
 interactions leave imprints in the distributions of individual species at
 biogeographical scales is still open to debate (\textit{e.g.}
 \citealt{Davis1998}), but recent empirical
-\citealt{Gotelli2010}, modeling (\textit{e.g.}
-\citealt{Araujo2007}), and theoretical (\citealt{Araujo2011})
+\citealt{Gotelli2010}, modeling
+\citep[\textit{e.g.},][]{Araujo2007}, and theoretical \citep{Araujo2011}
 evidence invites the interpretation that this might indeed be the case.
 
-The overwhelming majority of species distributions modelling applications, nonetheless, neglect information contained in joint distributions. Even multivariate analysis of community data (\textit{e.g.} redundancy analysis - (\citealt{Legendre2012Numerical}) do not use co-occurrence in geographical space to condition individual species response to environmental variation.  There has been a recent rise of interest however in joint species distribution modelling (\citealt{Clark2014More, Harris2015Estimating, Pollock2014Understanding}). These methods estimate the distribution of all species from a pool simultaneously and allow to condition the presence of a species on all other ones. However, estimated relationships are inferred from co-occurrence in environmental space rather than geographical space. That is, joint responses to the environment are inferred rather than biotic interactions themselves (\citealt{Baselga2009Individualistic}). JSDMs are, nonetheless, a first step towards developing a next generation of models accounting for the impact of biotic interactions on the distributions of species. They are, however, purely empirically driven and carry no specific hypotheses about how interactions can affect distributions. An exception is the recent attempt to model the effects of predator-prey dynamics on distributions and abundances using a meta- community framework coupled with phenomenological species distributions models (\citealt{Fordham2013}). The problem with such approaches is that data to parametrize interactions mechanistically are generally lacking (\citealt{Castilla2015}); therefore, they are hardly applied in most circumstances. It follows that we are faced with at least two major problems: i) understanding of the ecological interactions underlying the distributions of species is limited; and ii) knowledge of interactions is typically limited to net interactions, mixing both direct and indirect interactions. A theory of species co-occurrences in ecological networks is, therefore, needed to help interpret co-occurrence data, to formulate hypotheses for different community assembly mechanisms, and to extend the analysis of species distributions currently focused on the relationship between occurrences and abiotic factors.
+The overwhelming majority of species distributions modelling applications, nonetheless, neglect information contained in joint distributions. Even multivariate analysis of community data (\textit{e.g.} redundancy analysis - \citep{legendre2012numerical} do not use co-occurrence in geographical space to condition individual species response to environmental variation.  There has been a recent rise of interest however in joint species distribution modelling \citep{Clark2014, Harris2015, Pollock2014}. These methods estimate the distribution of all species from a pool simultaneously and allow to condition the presence of a species on all other ones. However, estimated relationships are inferred from co-occurrence in environmental space rather than geographical space. That is, joint responses to the environment are inferred rather than biotic interactions themselves \citep{Baselga2009}. JSDMs are, nonetheless, a first step towards developing a next generation of models accounting for the impact of biotic interactions on the distributions of species. They are, however, purely empirically driven and carry no specific hypotheses about how interactions can affect distributions. An exception is the recent attempt to model the effects of predator-prey dynamics on distributions and abundances using a meta- community framework coupled with phenomenological species distributions models \citep{Fordham2013}. The problem with such approaches is that data to parametrize interactions mechanistically are generally lacking \citep{Morales-Castilla2015}; therefore, they are hardly applied in most circumstances. It follows that we are faced with at least two major problems: i) understanding of the ecological interactions underlying the distributions of species is limited; and ii) knowledge of interactions is typically limited to net interactions, mixing both direct and indirect interactions. A theory of species co-occurrences in ecological networks is, therefore, needed to help interpret co-occurrence data, to formulate hypotheses for different community assembly mechanisms, and to extend the analysis of species distributions currently focused on the relationship between occurrences and abiotic factors.
 
 The analysis of species co-occurrences starts with a matrix representing the presence and absence of each species over a set of sites. There are two aspects to the quantitative study of co-occurrence. The first is the choice of the metric used to quantify the strength of associations (relationships between species occurrences) between pairs of species. The simplest measure of species co-occurrence is the number of species combinations, as defined by \cite{Pielou1968}. A second
-index is the count of checkerboards \cite{Diamond1975Assembly}: ``In such a
+index is the count of checkerboards \cite{Diamond1975}: ``In such a
 pattern, two or more ecologically similar species have mutually exclusive but
 interdigitating distributions in an archipelago, each island supporting only
 one species'' (p. 32). Another popular index of co-occurrence is the C-score
-(\citealt{Stone1990Checkerboard}). This index is similar to the count of
+\citep{Stone1990}. This index is similar to the count of
 checkerboards; it measures the average association or repulsion between pairs
 of species.
 
-The second aspect of the analysis of species co-occurrence is the formulation of a null model. The controversy generated in \cite{Connor1979Assembly} was partly (and rightly) based on the absence of a valid null hypothesis in Diamond’s analysis. Subsequent debates were mostly concerned with the formulation of the null hypothesis (e.g.,
-\citealt{Diamond1982Examination}). Thanks to the theoretical work of
-\cite{Gotelli1996Null}, there is now a clear understanding of the different
+The second aspect of the analysis of species co-occurrence is the formulation of a null model. The controversy generated in \citep{Connor1979} was partly (and rightly) based on the absence of a valid null hypothesis in Diamond’s analysis. Subsequent debates were mostly concerned with the formulation of the null hypothesis \citep[\textit{e.g.},][]{Diamond1982}. Thanks to the theoretical work of
+\cite{Gotelli1996}, there is now a clear understanding of the different
 null models that can be constructed from the community matrix. New indices are
-constantly proposed, such as in (\citealt{Boulangeat2012Accounting, Veech2013Probabilistic}; see also Table 2 in \citealt{Ulrich2013Pattern} for a description of 15 indices for co-occurrence analysis). A promising avenue is the one proposed by
+constantly proposed, such as in \citep{Boulangeat2012, Veech2013}; see also Table 2 in \citep{Ulrich2013} for a description of 15 indices for co-occurrence analysis. A promising avenue is the one proposed by
 \cite{Araujo2011} for the study of the matrix of species co-occurrence
 with tools borrowed from network theory.
 
 Surprisingly, there is currently no theory for co-occurrence in multi-species communities. The basic hypotheses are that pairwise negative interactions result in repulsion, while pairwise positive interactions result in attraction. Attraction and repulsion are assessed by a comparison of the number of co-occurrence events to the number expected under a totally independent distribution. Similar environmental requirements between species could also result in attraction, even in the absence of interactions, if the sampling is conducted across heterogeneous environmental conditions. This theory is limited to pairwise and symmetric interactions; there is nothing for antagonistic and indirect interactions. Food web ecologists were among the first to recognize the important effect of indirect interactions on abundance
-(\citealt{Wootton1994}). For instance, plant and carnivore abundances are expected to correlate across a productivity gradient
-(\citealt{Hairston1960, Oksanen1981}) because of top-down control on the herbivore population. Similarly, the propagation of indirect interactions has been studied in more complex interaction networks (\citealt{Yodzis1988}). Indirect interactions could reverse the net interaction in a surprising way, such that predator-prey abundances could be positively related (\citealt{Montoya2009Press}). Empirical analysis of co-occurrence for several taxa has shown that they are usually asymmetric (Araújo et al. 2011), such that a species distribution tended to be nested within the distribution of other (\textit{e.g.} predator-prey distributions; \citealt{Holt2009, Gravel2011}). In such a case, even if the co-distribution signature is quite understood, available methods will likely fail at using this piece of information to improve forecasts.
+\citep{Wootton1994}. For instance, plant and carnivore abundances are expected to correlate across a productivity gradient
+\citep{Hairston1960, Oksanen1981} because of top-down control on the herbivore population. Similarly, the propagation of indirect interactions has been studied in more complex interaction networks \citep{Yodzis1988}. Indirect interactions could reverse the net interaction in a surprising way, such that predator-prey abundances could be positively related \citep{Montoya2009}. Empirical analysis of co-occurrence for several taxa has shown that they are usually asymmetric (Araújo et al. 2011), such that a species distribution tended to be nested within the distribution of other \citep[\textit{e.g.} predator-prey distributions][]{Holt2009, Gravel2011}. In such a case, even if the co-distribution signature is quite understood, available methods will likely fail at using this piece of information to improve forecasts.
 
 
 The main objective of this paper is to provide the first building blocks of a general theory of species co-occurrences. We formalize the proposed theory with definitions of different quantities that are studied in the context of co-occurrence analyses. Herewith, we analyse three species interactions modules in order to document five principles influencing the association between pairs of species from an ecological network:
@@ -113,7 +117,7 @@ $t$. Let $p_{i,t}$ standing for the probability $\mathbb{P}(X_{i,t}=1)$. Also, t
 
 The \textbf{marginal occurrence probability} $\mathbb{P}(X_{i,\infty}=1)=p_i^*$
 represents the occurrence probability of species $i$ when the system is at
-equilibrium, in the sense of the classical theory of island Biogeography \cite{Macarthur1967Theory}. As we assume so for all species, we drop the $*$ and the $\infty$ for the sake of clarity. The marginal occurrence probability is the sum of the occurrence of the species across all possible set of species in the data. In other words, it corresponds to the sum of the column of the site $\times$ species table, divided by the total number of sites
+equilibrium, in the sense of the classical theory of island Biogeography \cite{MacArthur1967}. As we assume so for all species, we drop the $*$ and the $\infty$ for the sake of clarity. The marginal occurrence probability is the sum of the occurrence of the species across all possible set of species in the data. In other words, it corresponds to the sum of the column of the site $\times$ species table, divided by the total number of sites
 $N$. Marginal occurrence probabilities for species in Table \ref{tab:2} are: $p_1=0.6$, $p_2=0.6$ and $p_3=0.4$.
 
 The \textbf{observed co-occurrence} between species $i$ and $j$ is
@@ -152,10 +156,10 @@ co-occurrence when ecological interactions and habitat filtering do not impact
 species distribution. It also represents the null model against which
 observed co-occurrence is usually compared to. Note the independent
 co-occurrence is different from the one expected under a neutral model
-(\citealt{Hubbell2001Unified}). Firstly because strong competitive interactions in
+\citep{Hubbell2001}. Firstly because strong competitive interactions in
 the neutral model forces repulsion and, secondly, because dispersal limitation
 also causes spatial aggregation and thus a non-random distribution of
-co-occurrence (\citealt{Bell2005CoDistribution}). In our example, we obtain, for instance, $p_{1,2;IND}=0.36$ and $p_{2,3;IND}=0.24$.
+co-occurrence \citep{Bell2005}. In our example, we obtain, for instance, $p_{1,2;IND}=0.36$ and $p_{2,3;IND}=0.24$.
 
 %---------------------------------------------
 \section*{Direct association between two species}
@@ -230,7 +234,7 @@ particular modules in order to reveal fundamental principles underling co-occurr
 ecological networks. Our solution provides insights to decipher the solution
 of species-rich networks since the three-node connected subgraphs are
 fundamental building blocks of larger networks (\citealt{Milo2002,
-Stouffer2007, Stouffer2010}). We use the same approach as in \eqref{sp2ind} and get the subsequent equation:
+Stouffer2007, Stouffer2010c}). We use the same approach as in \eqref{sp2ind} and get the subsequent equation:
 
 %%--------
   \begin{eqnarray} \label{sp3p1}
@@ -305,7 +309,29 @@ pairs of species (see Table \ref{tab:1}).
 
 We are interested by the \emph{observed co-occurrence} because this is the quantity that is easily measurable from species distributions data, thus being the one that is typically studied. We consider that the marginal occurrence is also a known quantity and, therefore, we examine the effect of particular conditional co-occurrence arrangements on observed co-occurrences. We will not provide derivations for each module, but focus on particular pairs to illustrate two of the five principles.
 
-\paragraph{Indirect interactions}. The comparison between the observed
+%%-------
+\begin{table}[h]
+\centering
+\begin{tabular}{r|r|r|r}
+  Sites & Species 1 & Species 2 & Species3 \\
+  \hline
+1 & 0 & 1 & 1\\
+2 & 0 & 1 & 1\\
+3 & 1 & 1 & 0\\
+4 & 1 & 0 & 1\\
+5 & 0 & 0 & 0\\
+6 & 1 & 1 & 1\\
+7 & 0 & 1 & 0\\
+8 & 1 & 0 & 0\\
+9 & 1 & 0 & 0\\
+10 & 1 & 1 & 0\\
+  \end{tabular}
+\caption{Presence/absence dataset for three species and 10 sites.}
+\label{tab:2}
+\end{table}
+%%-------
+
+\paragraph*{Indirect interactions}. The comparison between the observed
 co-occurrence and the conditional co-occurrence reveals the role of indirect
 interactions on species associations. Based on \eqref{sol3} and \eqref{sols2}
 we get the association between species $i$ and $k$:
@@ -355,8 +381,8 @@ And between resources in the apparent competition module (species 1 and 2):
 \end{equation}
 %%--------
 
-\paragraph{Associations do not have to be symmetrical.} Many studies of co-occurrence assume pairwise associations to be symmetrical (but see
-\citealt{Araujo2011Using, Boulangeat2012}). The reason is simple, usually the observed
+\paragraph*{Associations do not have to be symmetrical.} Many studies of co-occurrence assume pairwise associations to be symmetrical
+\citep[but see][]{Araujo2011, Boulangeat2012}. The reason is simple, usually the observed
 co-occurrence is compared to the independent co-occurrence. These two metrics
 of association are perfectly symmetrical. This information is providing us an
 inappropriate interpretation of the effect of interactions on species
@@ -369,64 +395,10 @@ of the areas occupied by species $3$. Rephrasing the problem,we find that
 using \eqref{sols2b} and \eqref{exploitative}, $p_{2,3}/p_{2}$ is not equal to
 $p_{2,3}/p_{3}$. One species could have a stronger impact on the distribution
 of the other one. Predator distribution for instance tends to be
-nested within the distribution of the prey (\citealt{Gravel2011Trophic}), and
+nested within the distribution of the prey \citep{Gravel2011}, and
 consequently the predator has a high conditional co-occurrence with the prey,
 and alternatively the prey has a low conditional co-occurrence with the
 predator.
-
-% %---------------------------------------------
-\section*{Multi-species simulations}
-\label{multi}
-
-Now we move to multi-species simulations of more complex networks to reveal the
-last two principles of our theory. To do so, we run simulations of the model of
-trophic island biogeography developped by \cite{Gravel2011Trophic}. The model
-describes the occurrence of a $S$ species regional network. Species stochastically
-colonize islands with probability $c$ and go extinct with probability $e$, as in
-the original model of \cite{Macarthur1967Theory}. Interactions are introduced with
-three additional assumptions: i) a consumer species could colonize an island
-only if it has at least one prey present (for simplicity, we consider producers
-to be resident permanently on the island); ii) a consumer species goes extinct
-if it loses its last prey species and iii) the presence of at least one predator
-species increases the extinction probability by $e_d$. The consequence of these
-assumptions is a sequential build-up of the food web on the island, starting
-with low trophic level species with a general diet. Small and isolated islands
-promote selection in favor of the most generalist species. The predictions
-converge to the classic island biogeography theory for highly connected regional
-food webs and large and connected islands (details in \citealt{Gravel2011Trophic}).
-
-As mentioned above, there is a strong dependence of the predator
-occurrence on the presence of its preys. Alternatively, when $e_d$ is
-sufficiently large, the preys will tend to avoid locations with the predator
-present. We consequently expect a strong signature of the network of
-interactions on the co-occurrence matrix. We are however concerned that
-indirect associations could emerge, as exemplified with the analysis of three
-species modules above, and thereby mask the signal of conditional co-occurrences.
-
-We simulated complex networks from 5 to 100 species using the niche model of
-food web structure (\citealt{Williams2000Simple}). The diversity of primary
-producers was fixed at 2, and their niche position was drawn randomly between
-0 and 1 according to a uniform distribution. We fixed connectance at $C =
-0.1$. Colonization probability was set at $c = 0.1$, baseline extinction
-probability at $e = 0.2$ and predator-dependent additional extinction
-probability at $e_d = 0.2$. Simulations were run for $10^7$ time steps to
-evaluate the conditional occurrence probabilities, and 100 replicated networks
-were simulated for each level of species richness.
-
-\paragraph{Distance decay of observed co-occurrence.} The distribution of
-observed co-occurrence is illustrated for pairs of species separated by
-different path lengths at Figure 1A. The observed co-occurrence is presented
-as a function of the expected co-occurrence under the hypothesis of
-independent distributions. The strongest associations (given by the distance
-between the observed and the independent co-occurrence) are observed among
-pairs of species directly interacting with each other. The variance of the
-distribution reduces from direct to first order indirect interactions, and
-from first-order to higher interactions. We conclude that indirect non-
-independent co-occurrences are possible in complex networks, but their
-magnitude decreases as the number of links between two nodes decreases. This
-result is similar to the observation of a distance decay of indirect
-interactions in food webs (\citealt{Berlow2009Simple}).
-
 
 %%-------
 \begin{table}[h]
@@ -451,19 +423,84 @@ interactions in food webs (\citealt{Berlow2009Simple}).
 %%-------
 
 
-\paragraph{Strength of co-occurrence decreases with degree and species
+
+% %---------------------------------------------
+\section*{Multi-species simulations}
+\label{multi}
+
+Now we move to multi-species simulations of more complex networks to reveal the
+last two principles of our theory. To do so, we run simulations of the model of
+trophic island biogeography developped by \cite{Gravel2011}. The model
+describes the occurrence of a $S$ species regional network. Species stochastically
+colonize islands with probability $c$ and go extinct with probability $e$, as in
+the original model of \cite{MacArthur1967}. Interactions are introduced with
+three additional assumptions: i) a consumer species could colonize an island
+only if it has at least one prey present (for simplicity, we consider producers
+to be resident permanently on the island); ii) a consumer species goes extinct
+if it loses its last prey species and iii) the presence of at least one predator
+species increases the extinction probability by $e_d$. The consequence of these
+assumptions is a sequential build-up of the food web on the island, starting
+with low trophic level species with a general diet. Small and isolated islands
+promote selection in favor of the most generalist species. The predictions
+converge to the classic island biogeography theory for highly connected regional
+food webs and large and connected islands \citep[details in][]{Gravel2011}.
+
+As mentioned above, there is a strong dependence of the predator
+occurrence on the presence of its preys. Alternatively, when $e_d$ is
+sufficiently large, the preys will tend to avoid locations with the predator
+present. We consequently expect a strong signature of the network of
+interactions on the co-occurrence matrix. We are however concerned that
+indirect associations could emerge, as exemplified with the analysis of three
+species modules above, and thereby mask the signal of conditional co-occurrences.
+
+We simulated complex networks from 5 to 100 species using the niche model of
+food web structure \citep{Williams2000}. The diversity of primary
+producers was fixed at 2, and their niche position was drawn randomly between
+0 and 1 according to a uniform distribution. We fixed connectance at $C =
+0.1$. Colonization probability was set at $c = 0.1$, baseline extinction
+probability at $e = 0.2$ and predator-dependent additional extinction
+probability at $e_d = 0.2$. Simulations were run for $10^7$ time steps to
+evaluate the conditional occurrence probabilities, and 100 replicated networks
+were simulated for each level of species richness.
+
+\begin{figure}[h]
+\includegraphics[width=\textwidth]{./chapitre2/fig1.eps}
+\caption{Co-occurrence in multi-species networks.
+(A) The disparity between observed co-occurrence ($P_{i,j}$) and independent co-occurrence ($P_{i,j;\text{IND}}$) decreases with the path length between nodes (species). The enveloppes are drawn around the 5\% and 95\% quantiles of all of the data, from 100 replicated simulations for every species richness value (5 to 100 species).
+(B) The strength of co-occurrence ($log(P_{i,j}/P_{i,j;\text{IND}})$) decreases with the number of interactions of a species $i$ (\textit{i.e.} the degree of a node). Points represent the mean for a particular degree of node value (1 to 60). The solid line represents the overall trends and the grey envelopped refelcts the variance associated. At least 3000 values were used for each point.
+(C) The standard deviation of the strength of association ($sd(P_{i,j}/P_{i,j;\text{IND}})$) and thus the variance decreases with species richness. Taken together, (B) and (C) imply that species distributions converge to independence with increasing species richness.}
+\label{fig:1}
+\end{figure}
+
+\paragraph*{Distance decay of observed co-occurrence.} The distribution of
+observed co-occurrence is illustrated for pairs of species separated by
+different path lengths at Figure 1A. The observed co-occurrence is presented
+as a function of the expected co-occurrence under the hypothesis of
+independent distributions. The strongest associations (given by the distance
+between the observed and the independent co-occurrence) are observed among
+pairs of species directly interacting with each other. The variance of the
+distribution reduces from direct to first order indirect interactions, and
+from first-order to higher interactions. We conclude that indirect non-
+independent co-occurrences are possible in complex networks, but their
+magnitude decreases as the number of links between two nodes decreases. This
+result is similar to the observation of a distance decay of indirect
+interactions in food webs \citep{Berlow2009}.
+
+
+
+\paragraph*{Strength of co-occurrence decreases with degree and species
 richness.} We performed simulations with a gradient of species richness and
 observed that the variance of observed co-occurrence also decreases with the
 degree of a species, i.e. the number of direct interactions a species is experiencing (Fig. 1B). We illustrated the relationship between the
 degree of a species and the observed co-occurrence for pairs of species with a
 direct association (Fig. 1C). This phenomenon has the consequence that the
 strength of observed co-occurrence reduces with species richness. The niche
-model has a constant connectance (\citealt{Williams2000Simple}), which has for consequence an increase of the degree with species richness. We find that the strength of co-occurrence
+model has a constant connectance \citep{Williams2000}, which has for consequence an increase of the degree with species richness. We find that the strength of co-occurrence
 decreases with the degree. This result is straightforward to interpret: the
 more diverse are the interactions, the weaker the impact of each
 pairwise direct interaction on the species distribution. Again, this result is
 similar to the observation of a scaling relationship between pairwise
-interactions and food web diversity (\citealt{Berlow2009Simple}).
+interactions and food web diversity \citep{Berlow2009}.
 
 %---------------------------------------------
 \section*{Discussion}
@@ -471,14 +508,14 @@ interactions and food web diversity (\citealt{Berlow2009Simple}).
 
 %
 We first develop a probabilistic species distribution model constrained by
-biotic interactions using conditional probabilities of co-occurrence. We then illustrate five general principles underlying the impact of ecological interactions on co-occurrence and that should be considered for the formulation of a general theory of species co-occurrence. Two of them have been widely noted before: \textbf{i)} direct interactions affect species distributions and generate deviations in co-occurrences from that expected if distributions of species were independent from each other; \textbf{ii)} the effect of direct associations is often asymmetric, as envisioned in trophic metacommunity ecology (\citealt{Holt2009Trophic}). We also illustrate principles that have been overlooked in most studies of co-occurrence (\citealt{Araujo2011Using}); \textbf{iii)} indirect interactions generate deviate co-occurrence from expectation under independence assumption; \textbf{iv)} the strength of indirect associations decreases with the length of the shortest path distance between species pairs in a network; while \textbf{v)} also decreasing with the number of interactions a species is experiencing. We started with the analysis of three species modules to document these principles and then showed their applicability in multi-species networks. We find that the above principles also apply in larger networks, but that the strength of pairwise associations weakens as the number of species increases.
+biotic interactions using conditional probabilities of co-occurrence. We then illustrate five general principles underlying the impact of ecological interactions on co-occurrence and that should be considered for the formulation of a general theory of species co-occurrence. Two of them have been widely noted before: \textbf{i)} direct interactions affect species distributions and generate deviations in co-occurrences from that expected if distributions of species were independent from each other; \textbf{ii)} the effect of direct associations is often asymmetric, as envisioned in trophic metacommunity ecology \citep{Holt2009}. We also illustrate principles that have been overlooked in most studies of co-occurrence \citep{Araujo2011}; \textbf{iii)} indirect interactions generate deviate co-occurrence from expectation under independence assumption; \textbf{iv)} the strength of indirect associations decreases with the length of the shortest path distance between species pairs in a network; while \textbf{v)} also decreasing with the number of interactions a species is experiencing. We started with the analysis of three species modules to document these principles and then showed their applicability in multi-species networks. We find that the above principles also apply in larger networks, but that the strength of pairwise associations weakens as the number of species increases.
 
-Our results have considerable implications for interpretation of co-occurrence data. Firstly, they demonstrate the considerable variety of mechanisms causing pairwise associations. Such variety of mechanisms makes interpretation aggregated indices of co-occurrence, such as the C-score, very difficult (see also \citealt{Araujo2014Geographic}). Previous studies already made
+Our results have considerable implications for interpretation of co-occurrence data. Firstly, they demonstrate the considerable variety of mechanisms causing pairwise associations. Such variety of mechanisms makes interpretation aggregated indices of co-occurrence, such as the C-score, very difficult \citep[see also][]{Araujo2014}. Previous studies already made
 the argument that positive and negative interactions could balance each other
-(\citealt{Boulangeat2012Accounting}) and consequently associations should be
-studied on a pairwise basis (\citealt{Veech2013Probabilistic}). At least, some
+\citep{Boulangeat2012} and consequently associations should be
+studied on a pairwise basis \citep{Veech2013}. At least, some
 measure of the variability of the associations is required, and at best
-metrics such as network analyses (\citealt{Araujo2011Using}) should be used to
+metrics such as network analyses \citep{Araujo2011} should be used to
 characterize their complex structure. But most importantly, our analyses
 reveal the difficulty to infer species interactions from co-occurrence
 matrices. Associations are not symmetric and, therefore, indices that are capable of dealing with them are required. Null model testing is not sufficient; significance is assessed from the difference between observed co-occurrence and co-occurrence expected under independent distributions and is, consequently, symmetric. In addition, statistically significant associations cannot be interpreted as evidence of direct interactions. Our results also show that indirect interactions, and not only second order interactions, contribute to generate apparent non-independent co-occurrence. These indirect associations could be of any kind and are impossible to detect solely based on knowledge of direct interactions.
@@ -502,11 +539,9 @@ structure of direct interactions.
 %
 It is also valuable to ask whether the inference of the structure of interaction
 networks is feasible from the observation of co-occurrences (as they result
-from many ecological processes). There is growing interest in inferring
-ecological network structure from alternative sources of information
-(\citealt{Gravel2013Inferring, Castilla2015Inferring}). This problem is challenging
-because of the multiple influences on co-occurrence. Our analysis of three
-species modules with conditional probabilities revealed it is feasible numerically, to obtain an estimate of all pairwise
+from many ecological processes).
+There is growing interest in inferring ecological network structure from alternative sources of information \citep{Gravel2013, Morales-Castilla2015}.
+This problem is challenging because of the multiple influences on co-occurrence. Our analysis of three species modules with conditional probabilities revealed it is feasible numerically, to obtain an estimate of all pairwise
 conditional probabilities when accounting for higher order interactions. Known
 quantities are the marginal probabilities and observed co-occurrence. The
 parameters to be evaluated are all fundamental conditional probabilities,
@@ -519,12 +554,11 @@ small fraction of potential interactions are met in a network (corresponding
 to the connectance $C$). While a net interaction network is likely to be fully
 connected ($S\times S$ links), the direct interaction network has still only a
 fraction $C$ of these links realized. Bayesian approach with latent variables
-could even further help reducing the dimension of the problem (e.g.
-\citealt{Rohr2010Modeling, Ovaskainen2010Modeling}). In such methods, latent variables
+could even further help reducing the dimension of the problem \citep[\textit{e.g.}][]{Rohr2010, Ovaskainen2010}. In such methods, latent variables
 are evaluated for each species to represent the underlying structure of the
 ecological network. It was found that between two and four parameters per
 species would be required to successfully represent more than 80\% of interactions
-in a predator-prey network (\citealt{Rohr2010Modeling}). This approach could,
+in a predator-prey network \citep{Rohr2010}. This approach could,
 therefore, be used to represent the underlying structure of direct interactions
 and to evaluate numerically the non-null conditional probabilities. Note that these pairwise direct interactions should be interpreted
 specifically with reference to spatial dynamics because they would still
@@ -542,53 +576,11 @@ the environment. Every quantity we derive after would be conditional on the
 environment. What would be more challenging but, nonetheless, feasible
 numerically, would be to make the direct interaction itself a function of the
 environment. There is now growing evidence that ecological interactions are
-context dependent (\citealt{Chamberlain2014How, Poisot2012Dissimilarity}). We
+context dependent \citep{Chamberlain2014, Poisot2012}. We
 view this integration as the next step to the derivation of a theory-driven
-species distribution model taking into account biotic interactions (\citealt{Thuiller2013Road}).
+species distribution model taking into account biotic interactions \citep{Thuiller2013}.
 
 \section{ACKNOWLEDGMENTS}
 This work was inspired by discussions with T. Poisot, D. Stouffer, A.
 Cyrtwill and A. Rozenfield. Thanks to Matt Talluto and Isabelle Boulangeat for helpful comments on a previous version of the manuscript. Financial support was provided by the Canada Research Chair program
 and a NSERC-Discovery grant to D. Gravel. M. Ara\'ujo acknowledges support from Imperial Colege’s Grand Challenges in Ecosystems and Environment Initiative.
-
-
-
-
-% %---------------------------------------------
-\newpage
-% %---------------------------------------------
-
-\section{FIGURES}
-\begin{figure}[h]
-\includegraphics[width=\textwidth]{./chapitre2/fig1.eps}
-\caption{Co-occurrence in multi-species networks.
-(A) The disparity between observed co-occurrence ($P_{i,j}$) and independent co-occurrence ($P_{i,j;\text{IND}}$) decreases with the path length between nodes (species). The enveloppes are drawn around the 5\% and 95\% quantiles of all of the data, from 100 replicated simulations for every species richness value (5 to 100 species).
-(B) The strength of co-occurrence ($log(P_{i,j}/P_{i,j;\text{IND}})$) decreases with the number of interactions of a species $i$ (\textit{i.e.} the degree of a node). Points represent the mean for a particular degree of node value (1 to 60). The solid line represents the overall trends and the grey envelopped refelcts the variance associated. At least 3000 values were used for each point.
-(C) The standard deviation of the strength of association ($sd(P_{i,j}/P_{i,j;\text{IND}})$) and thus the variance decreases with species richness. Taken together, (B) and (C) imply that species distributions converge to independence with increasing species richness.}
-\label{fig:1}
-\end{figure}
-%
-\newpage
-% Tables
-
-%%-------
-\begin{table}[h]
-\centering
-\begin{tabular}{r|r|r|r}
-  Sites & Species 1 & Species 2 & Species3 \\
-  \hline
-1 & 0 & 1 & 1\\
-2 & 0 & 1 & 1\\
-3 & 1 & 1 & 0\\
-4 & 1 & 0 & 1\\
-5 & 0 & 0 & 0\\
-6 & 1 & 1 & 1\\
-7 & 0 & 1 & 0\\
-8 & 1 & 0 & 0\\
-9 & 1 & 0 & 0\\
-10 & 1 & 1 & 0\\
-  \end{tabular}
-\caption{Presence/absence dataset for three species and 10 sites.}
-\label{tab:2}
-\end{table}
-%%-------

@@ -16,110 +16,57 @@ Reallocated ex_buf (elt_size=1) to 60000 items from 40000.
 Reallocated out_buf (elt_size=1) to 60000 items from 40000.
 Reallocated name_tok (elt_size=4) to 60000 items from 40000.
 Reallocated name_sep_char (elt_size=1) to 60000 items from 40000.
-Repeated entry---line 9918 of file /Users/KevCaz/Documents/library.bib.bib
- : @article{Gravel2011
- :                    ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 14916 of file /Users/KevCaz/Documents/library.bib.bib
- : @article{Davis1998
- :                   ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 15312 of file /Users/KevCaz/Documents/library.bib.bib
- : @article{Leibold2004
- :                     ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 15510 of file /Users/KevCaz/Documents/library.bib.bib
- : @article{Ricklefs1987
- :                      ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 15645 of file /Users/KevCaz/Documents/library.bib.bib
+Repeated entry---line 15107 of file /Users/KevCaz/Documents/library.bib.bib
  : @article{Suttle2007
  :                    ,
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "Levins1971"
-Warning--I didn't find a database entry for "Williams2000Simple"
-Warning--I didn't find a database entry for "Legendre2012Numerical"
-Warning--I didn't find a database entry for "Guisan2005Predicting"
-Warning--I didn't find a database entry for "Pellissier2013Combining"
-Warning--I didn't find a database entry for "Peterson2011Ecologicala"
-Warning--I didn't find a database entry for "Davis1998Making"
-Warning--I didn't find a database entry for "Araujo2007Importance"
-Warning--I didn't find a database entry for "Araujo2011Using"
-Warning--I didn't find a database entry for "Clark2014More"
-Warning--I didn't find a database entry for "Harris2015Estimating"
-Warning--I didn't find a database entry for "Pollock2014Understanding"
-Warning--I didn't find a database entry for "Baselga2009Individualistic"
-Warning--I didn't find a database entry for "Castilla2015"
-Warning--I didn't find a database entry for "Diamond1975Assembly"
-Warning--I didn't find a database entry for "Stone1990Checkerboard"
-Warning--I didn't find a database entry for "Connor1979Assembly"
-Warning--I didn't find a database entry for "Diamond1982Examination"
-Warning--I didn't find a database entry for "Gotelli1996Null"
-Warning--I didn't find a database entry for "Boulangeat2012Accounting"
-Warning--I didn't find a database entry for "Veech2013Probabilistic"
-Warning--I didn't find a database entry for "Ulrich2013Pattern"
-Warning--I didn't find a database entry for "Oksanen1981Exploitation"
-Warning--I didn't find a database entry for "Yodzis1988"
-Warning--I didn't find a database entry for "Montoya2009Press"
-Warning--I didn't find a database entry for "Macarthur1967Theory"
-Warning--I didn't find a database entry for "Hubbell2001Unified"
-Warning--I didn't find a database entry for "Bell2005CoDistribution"
-Warning--I didn't find a database entry for "Milo2002Network"
-Warning--I didn't find a database entry for "Stouffer2007Evidence"
-Warning--I didn't find a database entry for "Stouffer2010Understanding"
-Warning--I didn't find a database entry for "Gravel2011Trophic"
-Warning--I didn't find a database entry for "Berlow2009Simple"
-Warning--I didn't find a database entry for "Holt2009Trophic"
-Warning--I didn't find a database entry for "Araujo2014Geographic"
-Warning--I didn't find a database entry for "Gravel2013Inferring"
-Warning--I didn't find a database entry for "Castilla2015Inferring"
-Warning--I didn't find a database entry for "Rohr2010Modeling"
-Warning--I didn't find a database entry for "Ovaskainen2010Modeling"
-Warning--I didn't find a database entry for "Chamberlain2014How"
-Warning--I didn't find a database entry for "Poisot2012Dissimilarity"
-Warning--I didn't find a database entry for "Thuiller2013Road"
-Warning--I didn't find a database entry for "Gravel2013"
-Warning--empty publisher in Chase2003
-Warning--empty publisher in Gotelli1996
-You've used 80 entries,
+Repeated entry---line 15348 of file /Users/KevCaz/Documents/library.bib.bib
+ : @article{Ricklefs1987
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 15424 of file /Users/KevCaz/Documents/library.bib.bib
+ : @article{Leibold2004
+ :                     ,
+I'm skipping whatever remains of this entry
+You've used 86 entries,
             2821 wiz_defined-function locations,
-            1338 strings with 29489 characters,
-and the built_in function-call counts, 49634 in all, are:
-= -- 4718
-> -- 3475
-< -- 42
-+ -- 1296
-- -- 1216
-* -- 5136
-:= -- 8970
-add.period$ -- 245
-call.type$ -- 80
-change.case$ -- 802
-chr.to.int$ -- 80
-cite$ -- 82
-duplicate$ -- 1447
-empty$ -- 2812
-format.name$ -- 1486
-if$ -- 9559
+            1302 strings with 27661 characters,
+and the built_in function-call counts, 50246 in all, are:
+= -- 4913
+> -- 3202
+< -- 48
++ -- 1194
+- -- 1108
+* -- 5075
+:= -- 9027
+add.period$ -- 266
+call.type$ -- 86
+change.case$ -- 794
+chr.to.int$ -- 86
+cite$ -- 86
+duplicate$ -- 1548
+empty$ -- 3018
+format.name$ -- 1396
+if$ -- 9783
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 86
-newline$ -- 321
-num.names$ -- 324
-pop$ -- 738
+missing$ -- 94
+newline$ -- 341
+num.names$ -- 348
+pop$ -- 730
 preamble$ -- 1
-purify$ -- 724
+purify$ -- 712
 quote$ -- 0
-skip$ -- 961
+skip$ -- 1040
 stack$ -- 0
-substring$ -- 2712
-swap$ -- 263
+substring$ -- 2878
+swap$ -- 275
 text.length$ -- 6
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 702
-warning$ -- 2
-while$ -- 386
+type$ -- 750
+warning$ -- 0
+while$ -- 411
 width$ -- 0
-write$ -- 960
-(There were 5 error messages)
+write$ -- 1028
+(There were 3 error messages)

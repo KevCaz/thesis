@@ -11,6 +11,8 @@ header-includes:
 
 Quantifié les flux les fréquences aléatoire et contraintres les extinctions
 
+Questionner des modèle comme ceux prennet tout pour prédire .... [@Harfoot2014]
+
 
 # Catégorie
 

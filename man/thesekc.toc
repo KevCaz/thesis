@@ -31,31 +31,8 @@
 \contentsline {section}{\numberline {2.5}Mot-clef}{33}{section.2.5}
 \contentsline {section}{\numberline {2.6}Introduction}{33}{section.2.6}
 \contentsline {section}{\numberline {2.7}Definitions}{37}{section.2.7}
-\contentsline {paragraph}{\numberline {2.7.0.0.1}Indirect interactions}{43}{paragraph.2.7.0.0.1}
-\contentsline {paragraph}{\numberline {2.7.0.0.2}Associations do not have to be symmetrical.}{44}{paragraph.2.7.0.0.2}
-\contentsline {paragraph}{\numberline {2.7.0.0.3}Distance decay of observed co-occurrence.}{45}{paragraph.2.7.0.0.3}
-\contentsline {paragraph}{\numberline {2.7.0.0.4}Strength of co-occurrence decreases with degree and species richness.}{46}{paragraph.2.7.0.0.4}
-\contentsline {section}{\numberline {2.8}ACKNOWLEDGMENTS}{50}{section.2.8}
-\contentsline {section}{\numberline {2.9}FIGURES}{52}{section.2.9}
-\contentsline {chapter}{\MakeUppercase {Conclusion g\'en\'erale}}{54}{section*.21}
-\select@language {french}
-\contentsline {section}{Que peut-on pr\IeC {\'e}dire ?}{54}{section*.22}
-\contentsline {section}{\numberline {2.10}Cat\IeC {\'e}gorie}{54}{section.2.10}
-\contentsline {section}{\numberline {2.11}Quelles type de pr\IeC {\'e}dicions pouvons nous faire ?}{54}{section.2.11}
-\contentsline {subsection}{\numberline {2.11.1}Une question d'\IeC {\'e}chelle}{55}{subsection.2.11.1}
-\contentsline {subsection}{\numberline {2.11.2}Des classes d'es\IeC {\`e}ces ?}{56}{subsection.2.11.2}
-\contentsline {subsection}{\numberline {2.11.3}Pr\IeC {\'e}dire des communaut\IeC {\'e}s}{56}{subsection.2.11.3}
-\contentsline {section}{Vers une biog\IeC {\'e}ographie int\IeC {\'e}grative}{57}{section*.23}
-\contentsline {subsection}{\numberline {2.11.4}Les donn\IeC {\'e}es}{57}{subsection.2.11.4}
-\contentsline {subsection}{\numberline {2.11.5}L'abstraction des esp\IeC {\`e}ces}{57}{subsection.2.11.5}
-\contentsline {subsection}{Traits fonctionnels}{57}{section*.24}
-\contentsline {subsection}{des pr\IeC {\'e}dictions fiables?}{60}{section*.25}
-\contentsline {subsection}{Les dangers d'aller trop vite}{60}{section*.26}
-\contentsline {section}{Un monde en changement : entre espoir et illusion}{60}{section*.27}
-\contentsline {subsection}{Une \IeC {\'e}rosion de la biodiversit\IeC {\'e} affolantes}{60}{section*.28}
-\contentsline {subsection}{Un monde biais\IeC {\'e}?}{60}{section*.29}
-\contentsline {subsection}{\numberline {2.11.6}Avons-nous des espoirs vains ?}{60}{subsection.2.11.6}
-\contentsline {subsection}{\numberline {2.11.7}DEB}{61}{subsection.2.11.7}
-\contentsline {chapter}{\MakeUppercase {R\'ef\'erences}}{65}{section*.30}
+\contentsline {section}{\numberline {2.8}ACKNOWLEDGMENTS}{52}{section.2.8}
+\contentsline {chapter}{\MakeUppercase {Conclusion g\'en\'erale}}{53}{section*.25}
+\contentsline {chapter}{\MakeUppercase {R\'ef\'erences}}{53}{section*.26}
 \select@language {english}
-\select@language {french}
+\select@language {english}
