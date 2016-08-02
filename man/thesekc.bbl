@@ -500,9 +500,11 @@ Kissling, W.~D., Dormann, C.~F., Groeneveld, J., Hickler, T., K{\"{u}}hn, I.,
   39~(12), 2163--2178.
 \newline\urlprefix\url{http://doi.wiley.com/10.1111/j.1365-2699.2011.02663.x}
 
-\bibitem[{Koh(2004)}]{Koh2004}
-Koh, L.~P., sep 2004. {Species Coextinctions and the Biodiversity Crisis}.
-  Science 305~(5690), 1632--1634.
+\bibitem[{Koh et~al.(2004)Koh, Dunn, Sodhi, Colwell, Proctor, and
+  Smith}]{Koh2004}
+Koh, L.~P., Dunn, R.~R., Sodhi, N.~S., Colwell, R.~K., Proctor, H.~C., Smith,
+  V.~S., sep 2004. {Species coextinctions and the biodiversity crisis.} Science
+  (New York, N.Y.) 305~(5690), 1632--4.
 \newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/15361627
   http://www.sciencemag.org/cgi/doi/10.1126/science.1101101}
 
@@ -568,7 +570,7 @@ Lomolino, M.~V., Brown, J.~H., 2009. {The reticulating phylogeny of island
   biogeography theory.} Q. Rev. Biol. 84~(4), 357--390.
 
 \bibitem[{Losos and Ricklefs(2010)}]{Losos2010}
-Losos, J.~B., Ricklefs, R.~E., 2010. {The Theory of Island Biogeography
+Losos, J.~B., Ricklefs, R.~E. (Eds.), 2010. {The Theory of Island Biogeography
   Revisited}. Princeton University Press, Princeton, NJ.
 
 \bibitem[{MacArthur(1972)}]{macarthur1972geographical}
@@ -641,8 +643,8 @@ Milo, R., Shen-Orr, S., Itzkovitz, S., Kashtan, N., Chklovskii, D., Alon, U.,
 \newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/12399590}
 
 \bibitem[{Monod(1970)}]{monod1970hasard}
-Monod, J., 1970. {Le hasard et la
-  n{\{}{\'{e}}{\}}c{\{}{\'{e}}{\}}ssit{\{}{\'{e}}{\}}:}. Editions Du Seuil.
+Monod, J., 1970. {Le hasard et la n{\'{e}}c{\'{e}}ssit{\'{e}}}. Editions Du
+  Seuil.
 \newline\urlprefix\url{https://books.google.fr/books?id=-sVLAAAAMAAJ}
 
 \bibitem[{Montoya et~al.(2009)Montoya, Woodward, Emmerson, and
@@ -687,10 +689,9 @@ Pearson, R.~G., Dawson, T.~P., sep 2003. {Predicting the impacts of climate
 \bibitem[{Pelletier et~al.(2007)Pelletier, Clutton-Brock, Pemberton,
   Tuljapurkar, and Coulson}]{Pelletier2007}
 Pelletier, F., Clutton-Brock, T., Pemberton, J., Tuljapurkar, S., Coulson, T.,
-  2007. {The evolutionary demography of ecological change: Linking trait
-  variation and population growth}. Science 315~(5818), 1571--1574.
-\newline\urlprefix\url{{\textless}Go to
-  ISI{\textgreater}://000244934800051$\backslash$nhttp://www.ncbi.nlm.nih.gov/pubmed/17363672}
+  mar 2007. {The Evolutionary Demography of Ecological Change: Linking Trait
+  Variation and Population Growth}. Science 315~(5818), 1571--1574.
+\newline\urlprefix\url{http://www.sciencemag.org/cgi/doi/10.1126/science.1139024}
 
 \bibitem[{Pelletier et~al.(2009{\natexlab{a}})Pelletier, Garant, and
   Hendry}]{Pelletier2009a}
@@ -826,8 +827,6 @@ Saavedra, S., Stouffer, D.~B., Uzzi, B., Bascompte, J., oct 2011. {Strong
 Saccheri, I., Kuussaari, M., Kankare, M., Vikman, P., Fortelius, W., Hanski,
   I., 1998. {Inbreeding and extinction in a butterfly metapopulation}. Nature
   392~(6675), 491--494.
-\newline\urlprefix\url{{\textless}Go to
-  ISI{\textgreater}://WOS:000072875200057}
 
 \bibitem[{S{\"{a}}terberg et~al.(2013)S{\"{a}}terberg, Sellman, and
   Ebenman}]{Saterberg2013}

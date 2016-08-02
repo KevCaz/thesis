@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  1 AUG 2016 21:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  1 AUG 2016 21:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -727,14 +727,26 @@ Package: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
 Writing index file thesekc.idx
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
-(./thesekc.aux (./liminaires.aux))
+(./thesekc.aux (./liminaires.aux)
+
+LaTeX Warning: Label `eqMW' multiply defined.
+
+
+LaTeX Warning: Label `eqMW@cref' multiply defined.
+
+
+LaTeX Warning: Label `eqMW' multiply defined.
+
+
+LaTeX Warning: Label `eqMW@cref' multiply defined.
+
+)
 \openout1 = `thesekc.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 96.
 LaTeX Font Info:    Try loading font information for OML+txmi on input line 96.
 
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/txfonts/omltxmi.fd
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/txfonts/omltxmi.fd
 File: omltxmi.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    ... okay on input line 96.
@@ -871,7 +883,7 @@ d-to.pdf img/logo_uqar.eps>
 (epstopdf)             \includegraphics on input line 10.
 Package epstopdf Info: Output file is already uptodate.
 
-<img/logo_uqar-eps-converted-to.pdf, id=124, 867.24pt x 505.89pt>
+<img/logo_uqar-eps-converted-to.pdf, id=209, 867.24pt x 505.89pt>
 File: img/logo_uqar-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/logo_uqar-eps-converted-to.pdf>
@@ -952,18 +964,17 @@ Package cleveref Info: loaded `french' language definitions on input line 3.
 Package cleveref Info: loaded `french' language definitions on input line 7.
 Package cleveref Info: loaded `french' language definitions on input line 7.
 Package cleveref Info: loaded `french' language definitions on input line 10.
-Package cleveref Info: loaded `english' language definitions on input line 11.
+Package cleveref Info: loaded `english' language definitions on input line 37.
+ [7
 
-Overfull \hbox (35.33911pt too wide) in paragraph at lines 26--26
+]
+Overfull \hbox (35.33911pt too wide) in paragraph at lines 52--52
 \OT1/txr/m/n/12 THEORIE DE CO-OCCURRENCE DES ES-PECES DANS LES R[]ESEAUX D'INTE
 RACTION []  
  []
 
-[7
-
-]
-Package cleveref Info: loaded `english' language definitions on input line 37.
-Package cleveref Info: loaded `english' language definitions on input line 38.
+Package cleveref Info: loaded `english' language definitions on input line 63.
+Package cleveref Info: loaded `english' language definitions on input line 64.
 )
 \tf@toc=\write5
 \openout5 = `thesekc.toc'.
@@ -975,33 +986,17 @@ Package cleveref Info: loaded `english' language definitions on input line 38.
 ])
 Package cleveref Info: loaded `french' language definitions on input line 123.
 Package cleveref Info: loaded `french' language definitions on input line 123.
- (./intro.tex
-
-Package natbib Warning: Citation `wallace1881island' on page 1 undefined on inp
-ut line 24.
-
-
-Package natbib Warning: Citation `Wallace1858' on page 1 undefined on input lin
-e 44.
-
-[1
+ (./intro.tex [1
 
 
 
 
 
 ]
-
-Package natbib Warning: Citation `Wallace1860' on page 2 undefined on input lin
-e 65.
-
-
-Package natbib Warning: Citation `wallace1881island' on page 2 undefined on inp
-ut line 79.
-
-
-Package natbib Warning: Citation `Wacey2011' on page 2 undefined on input line 
-79.
+Overfull \hbox (4.18233pt too wide) in paragraph at lines 58--87
+\OT1/txr/m/n/12 conduit no-tam-ment Wal-lace, dans un ar-ticle de 1860 ([][][]W
+al-lace[][], [][]1860[][]), []a tra-cer la ligne []eponyme
+ []
 
 [2] [3]
 Overfull \hbox (18.13689pt too wide) in paragraph at lines 143--157
@@ -1015,518 +1010,89 @@ Overfull \hbox (11.36888pt too wide) in paragraph at lines 143--157
  ca-ract[]eristiques propres en pr[]esence)
  []
 
-[4]
-
-Package natbib Warning: Citation `Schoener2011a' on page 5 undefined on input l
-ine 162.
-
-
-Package natbib Warning: Citation `Dobzhansky1973' on page 5 undefined on input 
-line 167.
-
-
-Package natbib Warning: Citation `grant2008' on page 5 undefined on input line 
-172.
-
-
-Package natbib Warning: Citation `Pelletier2009a' on page 5 undefined on input 
-line 177.
-
-
-Package natbib Warning: Citation `Pelletier2007' on page 5 undefined on input l
-ine 193.
-
-[5] [6]
-
-Package natbib Warning: Citation `Koh2004' on page 7 undefined on input line 27
-1.
-
-
-Package natbib Warning: Citation `Bellard2012' on page 7 undefined on input lin
-e 271.
-
-
-Package natbib Warning: Citation `Elith2006' on page 7 undefined on input line 
-275.
-
-
-Package natbib Warning: Citation `Hannah2013' on page 7 undefined on input line
- 281.
-
-
-Package natbib Warning: Citation `Vanbergen2013' on page 7 undefined on input l
-ine 300.
-
-[7]
-
-Package natbib Warning: Citation `Lomolino2000' on page 8 undefined on input li
-ne 321.
-
-
-Package natbib Warning: Citation `Beck2012' on page 8 undefined on input line 3
-21.
-
-[8]
-! Undefined control sequence.
-l.346 \tightlist
-                
-? 
-
-Underfull \hbox (badness 10000) in paragraph at lines 348--351
+[4] [5] [6] [7] [8]
+Underfull \hbox (badness 10000) in paragraph at lines 347--350
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 351--355
+Underfull \hbox (badness 10000) in paragraph at lines 350--354
 
  []
 
-[9]
-
-Package natbib Warning: Citation `TheArabidopsisGenomeInitiative2000' on page 1
-0 undefined on input line 401.
-
-
-Package natbib Warning: Citation `mccann2011food' on page 10 undefined on input
- line 410.
-
-[10]
-
-Package natbib Warning: Citation `May2004' on page 11 undefined on input line 4
-23.
-
-
-Overfull \hbox (7.29391pt too wide) in paragraph at lines 418--424
+[9] [10]
+Overfull \hbox (7.29391pt too wide) in paragraph at lines 417--423
 \OT1/txr/m/n/12 concr[]etes. Je suis plut[]ot dans la premi[]ere cat[]egorie de
  per-sonne, je pense que les math[]ematiques
  []
 
-LaTeX Font Info:    Try loading font information for OT1+txtt on input line 458
-.
-(/usr/local/texlive/2016/texmf-dist/tex/latex/txfonts/ot1txtt.fd
-File: ot1txtt.fd 2000/12/15 v3.1
-)
-
-Package natbib Warning: Citation `Waldrop2016' on page 11 undefined on input li
-ne 460.
-
 [11]
-
-Package natbib Warning: Citation `Finstermeier2013' on page 12 undefined on inp
-ut line 495.
-
-
-Package natbib Warning: Citation `Razafindratsima2013' on page 12 undefined on 
-input line 498.
-
-[12]
-
-Package natbib Warning: Citation `Hortal2011' on page 13 undefined on input lin
-e 506.
-
-
-Package natbib Warning: Citation `Hortal2011' on page 13 undefined on input lin
-e 519.
-
-[13]
-
-Package natbib Warning: Citation `Simberloff1969a' on page 14 undefined on inpu
-t line 556.
-
-[14]
-
-Package natbib Warning: Citation `Springer2015' on page 15 undefined on input l
-ine 586.
-
-[15]
-
-Package natbib Warning: Citation `Grinnell1917a' on page 16 undefined on input 
-line 614.
-
-
-Package natbib Warning: Citation `Engelbrecht2007' on page 16 undefined on inpu
-t line 632.
-
-
-Package natbib Warning: Citation `Elith2006' on page 16 undefined on input line
- 640.
-
-
-Package natbib Warning: Citation `Elith2009a' on page 16 undefined on input lin
-e 640.
-
-[16]
-
-Package natbib Warning: Citation `Tingley2009' on page 17 undefined on input li
-ne 649.
-
-
-Package natbib Warning: Citation `Hijmans2005' on page 17 undefined on input li
-ne 656.
-
-
-Package natbib Warning: Citation `Beck2014a' on page 17 undefined on input line
- 662.
-
-
-Package natbib Warning: Citation `Rcoreteam2015' on page 17 undefined on input 
-line 664.
-
-
-Overfull \hbox (5.78888pt too wide) in paragraph at lines 642--666
-\OT1/txr/m/n/12 donn[]ees cli-ma-tiques et des donn[]ees d'oc-cu-rence et au pa
-r-tage des impl[]ementations num[]eriques
+LaTeX Font Info:    Try loading font information for OT1+txtt on input line 457
+.
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/txfonts/ot1txtt.fd
+File: ot1txtt.fd 2000/12/15 v3.1
+) [12]
+[13] [14] [15]
+Overfull \hbox (7.15686pt too wide) in paragraph at lines 611--665
+\OT1/txr/m/n/12 fac-teurs abio-tiques li-mi-tant le d[]eveloppement d'une esp[]
+ece et donc sa r[]epartition g[]eographique.
  []
 
-
-Overfull \hbox (8.89662pt too wide) in paragraph at lines 642--666
-[][]$\OT1/txtt/m/n/12 http : / / www . gbif . org$[][]\OT1/txr/m/n/12 ) qui pr[
-]esentent ce-pen-dant des biais li[]es []a l'in[]egalit[]e d'[]echantillonnage
- []
-
-[17]
-
-Package natbib Warning: Citation `Brown1971' on page 18 undefined on input line
- 701.
-
-
-Package natbib Warning: Citation `Kefi2015' on page 18 undefined on input line 
-718.
-
-[18]
-
-Package natbib Warning: Citation `May1973' on page 19 undefined on input line 7
-22.
-
-
-Package natbib Warning: Citation `McCann2000' on page 19 undefined on input lin
-e 722.
-
-
-Package natbib Warning: Citation `Tao2010' on page 19 undefined on input line 7
-29.
-
-[19]
-
-Package natbib Warning: Citation `Balanya2006' on page 20 undefined on input li
-ne 790.
-
-
-Package natbib Warning: Citation `Pelletier2009' on page 20 undefined on input 
-line 796.
-
-
-Package natbib Warning: Citation `Post2009' on page 20 undefined on input line 
-796.
-
-
-Package natbib Warning: Citation `Schoener2011' on page 20 undefined on input l
-ine 796.
-
-
-Package natbib Warning: Citation `Yoshida2003' on page 20 undefined on input li
-ne 800.
-
-
-Package natbib Warning: Citation `Sexton2009' on page 20 undefined on input lin
-e 810.
-
-[20]
-
-Package natbib Warning: Citation `Villemant2006' on page 21 undefined on input 
-line 823.
-
-
-Package natbib Warning: Citation `Villemant2006' on page 21 undefined on input 
-line 827.
-
-
-Package natbib Warning: Citation `Villemant2006' on page 21 undefined on input 
-line 835.
-
-
-Package natbib Warning: Citation `Vanbergen2013' on page 21 undefined on input 
-line 838.
-
-
-Overfull \hbox (7.00089pt too wide) in paragraph at lines 821--844
-\OT1/txr/m/n/12 France en 2004 dans le Lot-et-Garonne chez un pro-duc-teur de b
-onsa[]^^P qui im-porte r[]eguli[]erement
- []
-
-[21]
-
-Package natbib Warning: Citation `Villemant2006' on page 22 undefined on input 
-line 848.
-
-
-Package natbib Warning: Citation `Robinet2016' on page 22 undefined on input li
-ne 851.
-
-
-Package natbib Warning: Citation `Villemant2011' on page 22 undefined on input 
-line 853.
-
-
-Package natbib Warning: Citation `Villemant2011' on page 22 undefined on input 
-line 857.
-
-
-Package natbib Warning: Citation `Villemant2011' on page 22 undefined on input 
-line 862.
-
-
-Package natbib Warning: Citation `Brown1989' on page 22 undefined on input line
- 880.
-
-
-Package natbib Warning: Citation `Lomolino2009' on page 22 undefined on input l
-ine 880.
-
-
-Package natbib Warning: Citation `Levins1963' on page 22 undefined on input lin
-e 884.
-
-
-Package natbib Warning: Citation `MacArthur1967a' on page 22 undefined on input
- line 887.
-
-[22]
-
-Package natbib Warning: Citation `Losos2010' on page 23 undefined on input line
- 908.
-
-[23]
-
-Package natbib Warning: Citation `monod1970hasard' on page 24 undefined on inpu
-t line 928.
-
-
-Package natbib Warning: Citation `Lomolino2009' on page 24 undefined on input l
-ine 970.
-
-
-Package natbib Warning: Citation `Lomolino2009' on page 24 undefined on input l
-ine 974.
-
-[24] [25]
-
-Package natbib Warning: Citation `MacArthur1963' on page 26 undefined on input 
-line 1015.
-
-
-LaTeX Warning: Reference `fig:figMW' on page 26 undefined on input line 1018.
-
-
-Package natbib Warning: Citation `Lomolino2000a' on page 26 undefined on input 
-line 1029.
-
-
-Package natbib Warning: Citation `Neigel2003' on page 26 undefined on input lin
-e 1044.
-
-
-Package natbib Warning: Citation `Desmet2004' on page 26 undefined on input lin
-e 1044.
-
-
-Package natbib Warning: Citation `He2011' on page 26 undefined on input line 10
-46.
-
-[26] <fig/fig1.pdf, id=444, 461.725pt x 461.725pt>
+[16] [17] [18] [19] [20] [21] [22] [23] [24] [25] [26]
+<fig/fig1.pdf, id=732, 461.725pt x 461.725pt>
 File: fig/fig1.pdf Graphic file (type pdf)
  <use fig/fig1.pdf>
-Package pdftex.def Info: fig/fig1.pdf used on input line 1050.
+Package pdftex.def Info: fig/fig1.pdf used on input line 1049.
 (pdftex.def)             Requested size: 461.72388pt x 461.72388pt.
 
-Overfull \hbox (17.86072pt too wide) in paragraph at lines 1050--1068
+Overfull \hbox (17.86072pt too wide) in paragraph at lines 1049--1067
  [][] 
  []
 
 
-Package natbib Warning: Citation `MacArthur1963' on page 27 undefined on input 
-line 1068.
+LaTeX Warning: Float too large for page by 59.87053pt on input line 1068.
 
-
-LaTeX Warning: Float too large for page by 59.87053pt on input line 1069.
-
-
-Package natbib Warning: Citation `Simberloff1974a' on page 27 undefined on inpu
-t line 1087.
-
-
-Package natbib Warning: Citation `Hanski2010' on page 27 undefined on input lin
-e 1092.
-
-
-Package natbib Warning: Citation `Levins1969' on page 27 undefined on input lin
-e 1096.
-
-
-Package natbib Warning: Citation `Levins1969' on page 27 undefined on input lin
-e 1101.
-
-[27] [28 <./fig/fig1.pdf>]
-
-Package natbib Warning: Citation `Hanski1998' on page 29 undefined on input lin
-e 1115.
-
-
-Package natbib Warning: Citation `Hanski1998' on page 29 undefined on input lin
-e 1118.
-
-
-Package natbib Warning: Citation `Saccheri1998' on page 29 undefined on input l
-ine 1123.
-
-
-Package natbib Warning: Citation `Hubbell1997' on page 29 undefined on input li
-ne 1148.
-
-
-Package natbib Warning: Citation `Hubbell1999' on page 29 undefined on input li
-ne 1153.
-
-
-Package natbib Warning: Citation `Hubbell2010' on page 29 undefined on input li
-ne 1157.
-
-
-Package natbib Warning: Citation `Ricklefs2003' on page 29 undefined on input l
-ine 1157.
-
-
-Overfull \hbox (8.26161pt too wide) in paragraph at lines 1137--1158
+[27] [28 <./fig/fig1.pdf>] [29]
+Overfull \hbox (8.26161pt too wide) in paragraph at lines 1136--1157
 []\OT1/txr/m/n/12 La th[]eorie neutre pos-tule l'[]equivalence []ecologique ent
 re les diff[]erents in-di-vi-dus d'esp[]eces
  []
 
 
-Overfull \hbox (10.40886pt too wide) in paragraph at lines 1137--1158
+Overfull \hbox (10.40886pt too wide) in paragraph at lines 1136--1157
 []\OT1/txr/m/n/12 eventuellement diff[]erentes et d[]ecrit les dy-na-miques po-
 pu-la-tion-nelles re-po-sant sur les diff[]erences
  []
 
-[29]
-
-Package natbib Warning: Citation `Hubbell2010' on page 30 undefined on input li
-ne 1165.
-
-
-LaTeX Warning: Reference `fig:figMW' on page 30 undefined on input line 1169.
-
-
-Package natbib Warning: Citation `Hubbell2010' on page 30 undefined on input li
-ne 1169.
-
-
-Package natbib Warning: Citation `McGill2003' on page 30 undefined on input lin
-e 1172.
-
-
-Package natbib Warning: Citation `Ricklefs2003' on page 30 undefined on input l
-ine 1173.
-
-
-Package natbib Warning: Citation `McGill2003' on page 30 undefined on input lin
-e 1179.
-
-
-Package natbib Warning: Citation `John2007' on page 30 undefined on input line 
-1179.
-
-
-Package natbib Warning: Citation `Rosindell2012' on page 30 undefined on input 
-line 1181.
-
-
-Package natbib Warning: Citation `Wennekes2012' on page 30 undefined on input l
-ine 1184.
-
-
-Package natbib Warning: Citation `Gravel2006a' on page 30 undefined on input li
-ne 1188.
-
-[30]
-
-Package natbib Warning: Citation `Gravel2013a' on page 31 undefined on input li
-ne 1215.
-
-
-Overfull \hbox (7.70886pt too wide) in paragraph at lines 1211--1221
+[30] [31]
+Overfull \hbox (7.70886pt too wide) in paragraph at lines 1210--1220
 \OT1/txr/m/n/12 plorent des pistes pro-met-teuse pour les pr[]edire no-tam-ment
  sur la base de re-la-tions al-lom[]etriques
  []
 
-[31]
-
-LaTeX Warning: Reference `fig:figMW' on page 32 undefined on input line 1231.
-
-[32]
-
-Package natbib Warning: Citation `Kissling2011' on page 33 undefined on input l
-ine 1276.
-
-
-Package natbib Warning: Citation `Guisan2011' on page 33 undefined on input lin
-e 1276.
-
-
-Package natbib Warning: Citation `Holt2009a' on page 33 undefined on input line
- 1287.
-
-
-Overfull \hbox (10.67433pt too wide) in paragraph at lines 1274--1290
+[32] [33]
+Overfull \hbox (10.67433pt too wide) in paragraph at lines 1273--1289
 []\OT1/txr/m/n/12 Plus r[]ecemment, on constate une grande mo-ti-va-tion pour i
 nt[]egrer les re-la-tions []ecologiques
  []
 
-[33] <fig/fig2.pdf, id=525, 461.725pt x 259.97125pt>
+<fig/fig2.pdf, id=883, 461.725pt x 259.97125pt>
 File: fig/fig2.pdf Graphic file (type pdf)
  <use fig/fig2.pdf>
-Package pdftex.def Info: fig/fig2.pdf used on input line 1304.
+Package pdftex.def Info: fig/fig2.pdf used on input line 1303.
 (pdftex.def)             Requested size: 461.72388pt x 259.97061pt.
 
-Overfull \hbox (17.86072pt too wide) in paragraph at lines 1304--1312
+Overfull \hbox (17.86072pt too wide) in paragraph at lines 1303--1311
  [][] 
  []
 
-
-Package natbib Warning: Citation `Brown1971' on page 34 undefined on input line
- 1319.
-
-
-Package natbib Warning: Citation `Heikkinen2007' on page 34 undefined on input 
-line 1343.
-
-
-Package natbib Warning: Citation `Belmaker2015' on page 34 undefined on input l
-ine 1346.
-
-[34 <./fig/fig2.pdf>] [35]
-Overfull \hbox (4.3016pt too wide) in paragraph at lines 1377--1381
+[34] [35 <./fig/fig2.pdf>] [36]
+Overfull \hbox (4.3016pt too wide) in paragraph at lines 1376--1380
 []\OT1/txr/m/n/12 En consta-tant que l'abon-dance des in-ter-ac-tions peut jus-
 ti-fier l'hy-poth[]ese d'ind[]ependance
  []
 
-[36]
-
-Package natbib Warning: Citation `Poisot2015c' on page 37 undefined on input li
-ne 1412.
-
-
-Package natbib Warning: Citation `Poisot2015' on page 37 undefined on input lin
-e 1414.
-
-
-Package natbib Warning: Citation `Kooijman2000a' on page 37 undefined on input 
-line 1426.
-
-
-Package natbib Warning: Citation `Poisot2015' on page 37 undefined on input lin
-e 1436.
-
-) [37] [38]
+[37]) [38] [39]
 Package cleveref Info: loaded `english' language definitions on input line 130.
 
  (./chapitre1/chap1.tex
@@ -1535,11 +1101,11 @@ article 1.
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\\' on input line 1.
 
-[39
+[40
 
 
-] [40] [41] [42] [43] [44] [45] [46] [47]
-<./chapitre1/table1.pdf, id=725, 538.60861pt x 124.20102pt>
+] [41] [42] [43] [44] [45] [46] [47] [48]
+<./chapitre1/table1.pdf, id=1111, 538.60861pt x 124.20102pt>
 File: ./chapitre1/table1.pdf Graphic file (type pdf)
 
 <use ./chapitre1/table1.pdf>
@@ -1550,7 +1116,7 @@ Overfull \hbox (13.95631pt too wide) in paragraph at lines 97--98
  [][] 
  []
 
-[48 <./chapitre1/table1.pdf>] [49]
+[49 <./chapitre1/table1.pdf>] [50]
 Package epstopdf Info: Source file: <./chapitre1/fig1.eps>
 (epstopdf)                    date: 2015-07-09 16:02:52
 (epstopdf)                    size: 83017 bytes
@@ -1562,7 +1128,7 @@ rted-to.pdf ./chapitre1/fig1.eps>
 (epstopdf)             \includegraphics on input line 116.
 Package epstopdf Info: Output file is already uptodate.
 
-<./chapitre1/fig1-eps-converted-to.pdf, id=779, 650.43pt x 198.7425pt>
+<./chapitre1/fig1-eps-converted-to.pdf, id=1164, 650.43pt x 198.7425pt>
 File: ./chapitre1/fig1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./chapitre1/fig1-eps-converted-to.pdf>
@@ -1581,7 +1147,7 @@ it/12 n$ \OT1/txr/m/n/12 en-vi-ron-men-tal con-di-tions by $\OT1/txr/bx/n/12 w$
  w[]; :::w[]\OT1/txr/m/n/12 )$.
  []
 
-[50] [51 <./chapitre1/fig1-eps-converted-to.pdf>] [52]
+[51] [52 <./chapitre1/fig1-eps-converted-to.pdf>] [53]
 Package epstopdf Info: Source file: <./chapitre1/fig2.eps>
 (epstopdf)                    date: 2015-07-09 16:02:53
 (epstopdf)                    size: 171564 bytes
@@ -1593,7 +1159,7 @@ rted-to.pdf ./chapitre1/fig2.eps>
 (epstopdf)             \includegraphics on input line 155.
 Package epstopdf Info: Output file is already uptodate.
 
-<./chapitre1/fig2-eps-converted-to.pdf, id=809, 433.62pt x 389.455pt>
+<./chapitre1/fig2-eps-converted-to.pdf, id=1193, 433.62pt x 389.455pt>
 File: ./chapitre1/fig2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./chapitre1/fig2-eps-converted-to.pdf>
@@ -1604,11 +1170,11 @@ ne 155.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[53]
+[54]
 
-LaTeX Warning: Text page 54 contains only floats.
+LaTeX Warning: Text page 55 contains only floats.
 
-[54 <./chapitre1/fig2-eps-converted-to.pdf>] [55]
+[55 <./chapitre1/fig2-eps-converted-to.pdf>] [56]
 Package epstopdf Info: Source file: <./chapitre1/fig3.eps>
 (epstopdf)                    date: 2015-07-13 10:31:07
 (epstopdf)                    size: 136014 bytes
@@ -1620,7 +1186,7 @@ rted-to.pdf ./chapitre1/fig3.eps>
 (epstopdf)             \includegraphics on input line 179.
 Package epstopdf Info: Output file is already uptodate.
 
-<./chapitre1/fig3-eps-converted-to.pdf, id=848, 433.62pt x 389.455pt>
+<./chapitre1/fig3-eps-converted-to.pdf, id=1231, 433.62pt x 389.455pt>
 File: ./chapitre1/fig3-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./chapitre1/fig3-eps-converted-to.pdf>
@@ -1631,7 +1197,7 @@ ne 179.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[56] [57 <./chapitre1/fig3-eps-converted-to.pdf>]
+[57] [58 <./chapitre1/fig3-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <./chapitre1/fig4.eps>
 (epstopdf)                    date: 2015-07-29 17:33:23
 (epstopdf)                    size: 201281 bytes
@@ -1643,7 +1209,7 @@ rted-to.pdf ./chapitre1/fig4.eps>
 (epstopdf)             \includegraphics on input line 201.
 Package epstopdf Info: Output file is already uptodate.
 
-<./chapitre1/fig4-eps-converted-to.pdf, id=878, 650.43pt x 216.81pt>
+<./chapitre1/fig4-eps-converted-to.pdf, id=1260, 650.43pt x 216.81pt>
 File: ./chapitre1/fig4-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./chapitre1/fig4-eps-converted-to.pdf>
@@ -1654,7 +1220,7 @@ ne 201.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[58] [59 <./chapitre1/fig4-eps-converted-to.pdf>]
+[59] [60 <./chapitre1/fig4-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <./chapitre1/fig5.eps>
 (epstopdf)                    date: 2015-07-30 14:58:51
 (epstopdf)                    size: 64680 bytes
@@ -1666,7 +1232,7 @@ rted-to.pdf ./chapitre1/fig5.eps>
 (epstopdf)             \includegraphics on input line 221.
 Package epstopdf Info: Output file is already uptodate.
 
-<./chapitre1/fig5-eps-converted-to.pdf, id=922, 650.43pt x 230.8625pt>
+<./chapitre1/fig5-eps-converted-to.pdf, id=1303, 650.43pt x 230.8625pt>
 File: ./chapitre1/fig5-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./chapitre1/fig5-eps-converted-to.pdf>
@@ -1677,8 +1243,8 @@ ne 221.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[60] [61 <./chapitre1/fig5-eps-converted-to.pdf>] [62] [63] [64])
-(./chapitre2/chap2.tex [65]
+[61] [62 <./chapitre1/fig5-eps-converted-to.pdf>] [63] [64] [65])
+(./chapitre2/chap2.tex [66]
 article 2.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
@@ -1690,7 +1256,7 @@ Overfull \hbox (10.67291pt too wide) in paragraph at lines 10--11
  du chapitre pr[]ec[]edent sur la mesure de co-occurrence
  []
 
-[66
+[67
 
 ]
 Overfull \hbox (5.2969pt too wide) in paragraph at lines 12--13
@@ -1698,13 +1264,13 @@ Overfull \hbox (5.2969pt too wide) in paragraph at lines 12--13
 tion est dite in-di-recte. Si les cons[]equence
  []
 
-[67] [68] [69] [70] [71] [72] [73] [74] [75] [76] [77]
+[68] [69] [70] [71] [72] [73] [74] [75] [76] [77] [78]
 Overfull \hbox (8.47684pt too wide) in paragraph at lines 258--259
 \OT1/txr/m/n/12 study of net-works in-volv-ing three species in-ter-ac-tions, w
 ith species 2 be-ing hid-den by marginal-
  []
 
-[78] [79] [80] [81] [82] [83]
+[79] [80] [81] [82] [83] [84]
 
 LaTeX Warning: File `./chapitre2/fig1.eps' not found on input line 467.
 
@@ -1716,21 +1282,21 @@ Package epstopdf Info: Source file: <./chapitre2/fig1.eps>
 rted-to.pdf ./chapitre2/fig1.eps>
 (epstopdf)             \includegraphics on input line 467.
 Package epstopdf Info: Output file is already uptodate.
-<./chapitre2/fig1-eps-converted-to.pdf, id=1298, 1156.32pt x 317.185pt>
+<./chapitre2/fig1-eps-converted-to.pdf, id=1675, 1156.32pt x 317.185pt>
 File: ./chapitre2/fig1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./chapitre2/fig1-eps-converted-to.pdf>
 Package pdftex.def Info: ./chapitre2/fig1-eps-converted-to.pdf used on input li
 ne 467.
 (pdftex.def)             Requested size: 443.86316pt x 121.75117pt.
- [84 <./chapitre2/fig1-eps-converted-to.pdf>] [85] [86] [87] [88]) [89]
+ [85 <./chapitre2/fig1-eps-converted-to.pdf>] [86] [87] [88] [89]) [90]
 Package cleveref Info: loaded `english' language definitions on input line 166.
 
  (./thesekc.bbl (./thesekc.brf)
 \tf@brf=\write6
 \openout6 = `thesekc.brf'.
 
- [90
+ [91
 
 
 ]
@@ -1740,165 +1306,317 @@ com-plex ecosys-tems. Na-ture
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 42--42
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+\OT1/txr/m/n/12 URL [][]$\OT1/txtt/m/n/12 http : / / www . ncbi . nlm . nih . g
+ov / pubmed / 11130711http : / / www . nature .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--56
 \OT1/txr/m/n/12 URL [][]$\OT1/txtt/m/n/12 http : / / www . pubmedcentral . nih 
 . gov / articlerender . fcgi ? artid =
  []
 
-[91
+[92
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 82--82
+Underfull \hbox (badness 10000) in paragraph at lines 137--137
 \OT1/txr/m/n/12 URL [][]$\OT1/txtt/m/n/12 http : / / www . ncbi . nlm . nih . g
 ov / pubmed / 23075836http : / / www .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 82--82
+Underfull \hbox (badness 10000) in paragraph at lines 137--137
 \OT1/txtt/m/n/12 pubmedcentral . nih . gov / articlerender . fcgi ? artid = 357
 4421{&}tool =
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 102--102
+[93]
+Underfull \hbox (badness 10000) in paragraph at lines 157--157
 \OT1/txr/m/n/12 URL [][]$\OT1/txtt/m/n/12 http : / / www . americanbanker . com
  / issues / 179{_}124 /
  []
 
 
-Overfull \hbox (47.3858pt too wide) in paragraph at lines 102--102
+Overfull \hbox (47.3858pt too wide) in paragraph at lines 157--157
 \OT1/txtt/m/n/12 which-[]city-[]is-[]the-[]next-[]big-[]fintech-[]hub-[]new-[]y
 ork-[]stakes-[]its-[]claim-[]1068345-[]1 .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--102
+Underfull \hbox (badness 10000) in paragraph at lines 157--157
 \OT1/txtt/m/n/12 html$ \ delimiter"026E30F$nhttp : / / www . ncbi . nlm . nih .
  gov / pubmed /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--102
+Underfull \hbox (badness 10000) in paragraph at lines 157--157
 \OT1/txtt/m/n/12 15003161$ \ delimiter"026E30F$nhttp : / / cid . oxfordjournals
  . org / lookup /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 129--129
+Underfull \hbox (badness 10000) in paragraph at lines 157--157
+\OT1/txtt/m/n/12 doi / 10 . 1093 / cid / cir991$ \ delimiter"026E30F$nhttp : / 
+/ www . scielo . cl / pd$[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 184--184
 \OT1/txr/m/n/12 URL [][]$\OT1/txtt/m/n/12 www . blight . comhttp : / / www . nc
 bi . nlm . nih . gov / pubmed / 280836http : / /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 129--129
+Underfull \hbox (badness 10000) in paragraph at lines 184--184
 \OT1/txtt/m/n/12 www . ncbi . nlm . nih . gov / pubmed / 9486646http : / / www 
 . nature . com / doifinder /
  []
 
-[92]
-Underfull \hbox (badness 10000) in paragraph at lines 183--183
+[94]
+Underfull \hbox (badness 10000) in paragraph at lines 245--245
+\OT1/txr/m/n/12 URL [][]$\OT1/txtt/m/n/12 http : / / www . annualreviews . org 
+/ doi / abs / 10 . 1146 / annurev . ecolsys .
+ []
+
+[95]
+Underfull \hbox (badness 10000) in paragraph at lines 283--283
 \OT1/txr/m/n/12 URL [][]$\OT1/txtt/m/n/12 http : / / books . google . com / boo
 ks ? id = vjsBAAAACAAJ{&}printsec =
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 192--192
+Underfull \hbox (badness 10000) in paragraph at lines 292--292
 \OT1/txr/m/n/12 URL [][]$\OT1/txtt/m/n/12 http : / / www . pnas . org / content
  / 107 / 11 / 5030 . abstract$ \
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 192--192
+Underfull \hbox (badness 10000) in paragraph at lines 292--292
 \OT1/txtt/m/n/12 delimiter"026E30F$nfile : / / c / DocumentsandSettings / Crist
 ina /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 192--192
+Underfull \hbox (badness 10000) in paragraph at lines 292--292
 \OT1/txtt/m/n/12 Meusdocumentos / MyDropbox / MeuDocumentos / Papers / 2010 /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 192--192
+Underfull \hbox (badness 10000) in paragraph at lines 292--292
 \OT1/txtt/m/n/12 Gotellietal2010PNAS . pdfhttp : / / www . pnas . org / cgi / d
 oi / 10 . 1073 / pnas .
  []
 
-[93]
-Underfull \hbox (badness 10000) in paragraph at lines 238--238
+[96]
+Underfull \hbox (badness 10000) in paragraph at lines 323--323
+\OT1/txr/m/n/12 URL [][]$\OT1/txtt/m/n/12 http : / / www . jstor . org / stable
+ / 4072271http : / / www . jstor . org / stable /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 363--363
 \OT1/txr/m/n/12 URL [][]$\OT1/txtt/m/n/12 http : / / www . pubmedcentral . nih 
 . gov / articlerender . fcgi ? artid =
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 249--249
+Underfull \hbox (badness 10000) in paragraph at lines 363--363
+\OT1/txtt/m/n/12 3637704{&}tool = pmcentrez{&}rendertype = abstracthttp : / / w
+ww . pnas . org /
+ []
+
+[97]
+Underfull \hbox (badness 10000) in paragraph at lines 401--401
+\OT1/txr/m/n/12 URL [][]$\OT1/txtt/m/n/12 http : / / www . pubmedcentral . nih 
+. gov / articlerender . fcgi ? artid =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 407--407
+\OT1/txr/m/n/12 URL [][]$\OT1/txtt/m/n/12 http : / / www . pubmedcentral . nih 
+. gov / articlerender . fcgi ? artid =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 422--422
+\OT1/txr/m/n/12 URL [][]$\OT1/txtt/m/n/12 http : / / link . springer . com / ar
+ticle / 10 . 1007 / s003380050237http :
+ []
+
+[98]
+Underfull \hbox (badness 10000) in paragraph at lines 443--443
 \OT1/txr/m/n/12 URL [][]$\OT1/txtt/m/n/12 http : / / www . ncbi . nlm . nih . g
 ov / pubmed / 22393006http : / / www .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 249--249
+Underfull \hbox (badness 10000) in paragraph at lines 443--443
 \OT1/txtt/m/n/12 pubmedcentral . nih . gov / articlerender . fcgi ? artid = 331
 1373{&}tool =
  []
 
-[94]
-Underfull \hbox (badness 10000) in paragraph at lines 262--262
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--459
+\OT1/txr/m/n/12 URL [][]$\OT1/txtt/m/n/12 C : $ \ delimiter"026E30F$PDFs$ \ del
+imiter"026E30F$2006{_}287 . pdf$ \
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--459
+\OT1/txtt/m/n/12 delimiter"026E30F$nhttp : / / www . pnas . org / lookup / doi 
+/ 10 . 1073 / pnas .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 466--466
 \OT1/txr/m/n/12 URL [][]$\OT1/txtt/m/n/12 http : / / www . esajournals . org / 
 doi / abs / 10 . 1890 / 03-[]0820http :
  []
 
+[99]
+Underfull \hbox (badness 10000) in paragraph at lines 510--510
+\OT1/txr/m/n/12 URL [][]$\OT1/txtt/m/n/12 http : / / www . ncbi . nlm . nih . g
+ov / pubmed / 15361627http : / / www .
+ []
 
-Underfull \hbox (badness 10000) in paragraph at lines 298--298
+
+Underfull \hbox (badness 10000) in paragraph at lines 523--523
 \OT1/txr/m/n/12 URL [][]$\OT1/txtt/m/n/12 http : / / www . annualreviews . org 
 / doi / abs / 10 . 1146 /
  []
 
-[95]
-Underfull \hbox (badness 4120) in paragraph at lines 318--318
+
+Underfull \hbox (badness 10000) in paragraph at lines 545--545
+\OT1/txr/m/n/12 URL [][]$\OT1/txtt/m/n/12 http : / / izt . ciens . ucv . ve / e
+cologia / Archivos /
+ []
+
+
+Overfull \hbox (28.28583pt too wide) in paragraph at lines 545--545
+\OT1/txtt/m/n/12 ECOLOGIA{_}DE{_}POBLACIONES{_}Hasta2004 / ECOL{_}POBLAC{_}Hast
+a2004{_}(H-[]N )
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 545--545
+\OT1/txtt/m/n/12 /Levins(yotrodeRabinovich ) .pdfhttp : / / besa . oxfordjourna
+ls . org / cgi /
+ []
+
+
+Underfull \hbox (badness 4120) in paragraph at lines 552--552
 \OT1/txr/m/n/12 URL [][]$\OT1/txtt/m/n/12 papers : / / aa15ed4a-[]8b41-[]4036-[
 ]84a6-[]41087bba0cd6 / Paper / p811http : / /
  []
 
+[100]
+Underfull \hbox (badness 10000) in paragraph at lines 561--561
+\OT1/txr/m/n/12 URL [][]$\OT1/txtt/m/n/12 http : / / onlinelibrary . wiley . co
+m / doi / 10 . 1046 / j . 1365-[]2699 . 2000 .
+ []
 
-Underfull \hbox (badness 10000) in paragraph at lines 339--339
+
+Underfull \hbox (badness 10000) in paragraph at lines 567--567
+\OT1/txr/m/n/12 URL [][]$\OT1/txtt/m/n/12 http : / / onlinelibrary . wiley . co
+m / doi / 10 . 1046 / j . 1365-[]2699 . 2000 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 595--595
+\OT1/txr/m/n/12 URL [][]$\OT1/txtt/m/n/12 http : / / books . google . com / boo
+ks ? hl = en{&}lr = {&}id =
+ []
+
+[101]
+Underfull \hbox (badness 10000) in paragraph at lines 631--631
 \OT1/txr/m/n/12 URL [][]$\OT1/txtt/m/n/12 http : / / www . ncbi . nlm . nih . g
 ov / pubmed / 20431001http : / / www .
  []
 
-[96]
-Underfull \hbox (badness 10000) in paragraph at lines 395--395
+
+Underfull \hbox (badness 10000) in paragraph at lines 669--669
+\OT1/txr/m/n/12 URL [][]$\OT1/txtt/m/n/12 http : / / www . esajournals . org / 
+doi / abs / 10 . 1890 / 1051-[]0761(2003 )
+ []
+
+[102]
+Underfull \hbox (badness 10000) in paragraph at lines 702--702
+\OT1/txr/m/n/12 URL [][]$\OT1/txtt/m/n/12 http : / / rstb . royalsocietypublish
+ing . org / cgi / doi / 10 . 1098 / rstb .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 709--709
+\OT1/txr/m/n/12 URL [][]$\OT1/txtt/m/n/12 http : / / www . pubmedcentral . nih 
+. gov / articlerender . fcgi ? artid =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 718--718
 \OT1/txr/m/n/12 URL [][]$\OT1/txtt/m/n/12 http : / / doi . wiley . com / 10 . 1
 002 / ece3 . 843http : / / www .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 395--395
+Underfull \hbox (badness 10000) in paragraph at lines 718--718
 \OT1/txtt/m/n/12 pubmedcentral . nih . gov / articlerender . fcgi ? artid = 385
 6755{&}tool =
  []
 
-[97]
-Underfull \hbox (badness 10000) in paragraph at lines 498--498
+[103]
+Underfull \hbox (badness 10000) in paragraph at lines 772--772
 \OT1/txr/m/n/12 URL [][]$\OT1/txtt/m/n/12 http : / / www . pubmedcentral . nih 
 . gov / articlerender . fcgi ? artid =
  []
 
-[98]
-Underfull \hbox (badness 10000) in paragraph at lines 557--557
+
+Underfull \hbox (badness 10000) in paragraph at lines 793--793
+\OT1/txr/m/n/12 URL [][]$\OT1/txtt/m/n/12 http : / / www . sciencemag . org / c
+gi / doi / 10 . 1126 / science . 235 . 4785 . 167$[][]
+ []
+
+[104]
+Underfull \hbox (badness 10000) in paragraph at lines 864--864
+\OT1/txr/m/n/12 URL [][]$\OT1/txtt/m/n/12 http : / / www . annualreviews . org 
+/ doi / abs / 10 . 1146 / annurev . ecolsys .
+ []
+
+[105]
+Underfull \hbox (badness 10000) in paragraph at lines 869--869
+\OT1/txr/m/n/12 URL [][]$\OT1/txtt/m/n/12 http : / / www . annualreviews . org 
+/ doi / abs / 10 . 1146 / annurev . es . 05 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 899--899
 \OT1/txr/m/n/12 URL [][]$\OT1/txtt/m/n/12 http : / / www . pubmedcentral . nih 
 . gov / articlerender . fcgi ? artid =
  []
 
-[99])
+[106]
+Underfull \hbox (badness 10000) in paragraph at lines 931--931
+\OT1/txr/m/n/12 URL [][]$\OT1/txtt/m/n/12 http : / / www . pubmedcentral . nih 
+. gov / articlerender . fcgi ? artid =
+ []
+
+[107]
+Underfull \hbox (badness 10000) in paragraph at lines 993--993
+\OT1/txr/m/n/12 URL [][]$\OT1/txtt/m/n/12 http : / / www . biodiversitylibrary 
+. org / item / 35034http : / / doi . wiley .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1025--1025
+\OT1/txr/m/n/12 URL [][]$\OT1/txtt/m/n/12 http : / / www . pubmedcentral . nih 
+. gov / articlerender . fcgi ? artid =
+ []
+
+[108])
 Package cleveref Info: loaded `english' language definitions on input line 170.
 
-
-
-Package natbib Warning: There were undefined citations.
-
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 187.
-[100]
+ [109]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 187.
  (./thesekc.aux (./liminaires.aux
 Package cleveref Info: loaded `french' language definitions on input line 4.
@@ -1906,98 +1624,62 @@ Package cleveref Info: loaded `french' language definitions on input line 4.
 Package cleveref Info: loaded `french' language definitions on input line 25.
 Package cleveref Info: loaded `french' language definitions on input line 25.
 Package cleveref Info: loaded `french' language definitions on input line 33.
-Package cleveref Info: loaded `english' language definitions on input line 307.
+Package cleveref Info: loaded `english' language definitions on input line 396.
 
-Package cleveref Info: loaded `english' language definitions on input line 716.
+Package cleveref Info: loaded `english' language definitions on input line 805.
 
-Package cleveref Info: loaded `english' language definitions on input line 806.
+Package cleveref Info: loaded `english' language definitions on input line 972.
 
 )
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 187.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 187.
+Package rerunfilecheck Info: File `thesekc.out' has not changed.
+(rerunfilecheck)             Checksum: 3D72B4A26072D02465225EEE4647984E;4093.
 
-
-Package rerunfilecheck Warning: File `thesekc.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `thesekc.out':
-(rerunfilecheck)             Before: 404C9208F0701F9DBE233848F479A7E2;2070
-(rerunfilecheck)             After:  3D72B4A26072D02465225EEE4647984E;4093.
 
 Package rerunfilecheck Warning: File `thesekc.brf' has changed.
 (rerunfilecheck)                Rerun to get bibliographical references right.
 
 Package rerunfilecheck Info: Checksums for `thesekc.brf':
-(rerunfilecheck)             Before: BFECEABD046B4317EFE9A65CE5A8E76B;7924
-(rerunfilecheck)             After:  5D5800770B1171DB2F880C8071B8CD9D;10323.
+(rerunfilecheck)             Before: 1FA171AEFFEB79CE011196634656F5FB;14518
+(rerunfilecheck)             After:  3E1AE3DD18EFE9A2C2C04AD19092D712;15631.
 
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 187.
  ) 
 Here is how much of TeX's memory you used:
- 15659 strings out of 493014
- 244944 string characters out of 6133351
- 400147 words of memory out of 5000000
- 18549 multiletter control sequences out of 15000+600000
- 48371 words of font info for 121 fonts, out of 8000000 for 9000
+ 16136 strings out of 493014
+ 253266 string characters out of 6133351
+ 405147 words of memory out of 5000000
+ 18951 multiletter control sequences out of 15000+600000
+ 46432 words of font info for 118 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,17n,43p,2349b,1137s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{table.caption.19} has been referenced but does no
-t exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{table.caption.16} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.caption.12} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.caption.11} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.caption.10} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.caption.8} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.caption.7} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{table.caption.6} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{section*.25} has been referenced but does not exist
-, replaced by a fixed one
-
-{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/tex
-live/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texl
-ive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/texliv
-e/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive
-/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2
-016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/201
-6/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2016/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/te
-xmf-dist/fonts/type1/public/txfonts/rtcxb.pfb></usr/local/texlive/2016/texmf-di
-st/fonts/type1/public/txfonts/rtxb.pfb></usr/local/texlive/2016/texmf-dist/font
-s/type1/public/txfonts/rtxi.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1
-/public/txfonts/rtxmi.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/publi
-c/txfonts/rtxr.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/txfon
-ts/txex.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/txfonts/txsy
-.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/txfonts/txsyb.pfb><
-/usr/local/texlive/2016/texmf-dist/fonts/type1/public/txfonts/txtt.pfb></usr/lo
-cal/texlive/2016/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texliv
-e/2016/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2016/te
-xmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/f
-onts/type1/urw/times/utmri8a.pfb>
-Output written on thesekc.pdf (110 pages, 1435898 bytes).
+ 37i,17n,43p,2349b,1295s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/te
+xlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/texl
+ive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texli
+ve/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive
+/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2
+016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2016
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/
+texmf-dist/fonts/type1/public/txfonts/rtcxb.pfb></usr/local/texlive/2016/texmf-
+dist/fonts/type1/public/txfonts/rtxb.pfb></usr/local/texlive/2016/texmf-dist/fo
+nts/type1/public/txfonts/rtxi.pfb></usr/local/texlive/2016/texmf-dist/fonts/typ
+e1/public/txfonts/rtxmi.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/pub
+lic/txfonts/rtxr.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/txf
+onts/txex.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/txfonts/tx
+sy.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/txfonts/txsyb.pfb
+></usr/local/texlive/2016/texmf-dist/fonts/type1/public/txfonts/txtt.pfb></usr/
+local/texlive/2016/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texl
+ive/2016/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2016/
+texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist
+/fonts/type1/urw/times/utmri8a.pfb>
+Output written on thesekc.pdf (119 pages, 1477545 bytes).
 PDF statistics:
- 1816 PDF objects out of 2073 (max. 8388607)
- 1622 compressed objects within 17 object streams
- 323 named destinations out of 1000 (max. 500000)
- 291 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2442 PDF objects out of 2487 (max. 8388607)
+ 2233 compressed objects within 23 object streams
+ 400 named destinations out of 1000 (max. 500000)
+ 459 words of extra memory for PDF output out of 10000 (max. 10000000)
 

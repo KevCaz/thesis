@@ -16,77 +16,69 @@ Reallocated ex_buf (elt_size=1) to 60000 items from 40000.
 Reallocated out_buf (elt_size=1) to 60000 items from 40000.
 Reallocated name_tok (elt_size=4) to 60000 items from 40000.
 Reallocated name_sep_char (elt_size=1) to 60000 items from 40000.
-Repeated entry---line 11964 of file /Users/KevCaz/Documents/library.bib.bib
- : @incollection{Holt2009a
- :                        ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 13844 of file /Users/KevCaz/Documents/library.bib.bib
- : @book{monod1970hasard
- :                      ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 15107 of file /Users/KevCaz/Documents/library.bib.bib
+Repeated entry---line 15096 of file /Users/KevCaz/Documents/library.bib.bib
  : @article{Suttle2007
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 15124 of file /Users/KevCaz/Documents/library.bib.bib
+Repeated entry---line 15113 of file /Users/KevCaz/Documents/library.bib.bib
  : @article{Koh2004
  :                 ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 15169 of file /Users/KevCaz/Documents/library.bib.bib
+Repeated entry---line 15158 of file /Users/KevCaz/Documents/library.bib.bib
  : @article{Bellard2012
  :                     ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 15348 of file /Users/KevCaz/Documents/library.bib.bib
+Repeated entry---line 15337 of file /Users/KevCaz/Documents/library.bib.bib
  : @article{Ricklefs1987
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 15424 of file /Users/KevCaz/Documents/library.bib.bib
+Repeated entry---line 15413 of file /Users/KevCaz/Documents/library.bib.bib
  : @article{Leibold2004
  :                     ,
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "Simberloff1969a"
-Warning--I didn't find a database entry for "Gravel2013a"
-Warning--I didn't find a database entry for "Kissling2011"
-Warning--can't use both author and editor fields in Losos2010
+Repeated entry---line 15468 of file /Users/KevCaz/Documents/library.bib.bib
+ : @article{Davis1998
+ :                   ,
+I'm skipping whatever remains of this entry
 You've used 163 entries,
             2821 wiz_defined-function locations,
-            1835 strings with 45735 characters,
-and the built_in function-call counts, 90793 in all, are:
-= -- 9009
-> -- 5465
-< -- 93
-+ -- 2048
-- -- 1881
-* -- 8910
-:= -- 16367
+            1828 strings with 45591 characters,
+and the built_in function-call counts, 91018 in all, are:
+= -- 9020
+> -- 5507
+< -- 92
++ -- 2063
+- -- 1896
+* -- 8944
+:= -- 16410
 add.period$ -- 499
 call.type$ -- 163
-change.case$ -- 1434
+change.case$ -- 1439
 chr.to.int$ -- 159
-cite$ -- 164
-duplicate$ -- 2891
-empty$ -- 5641
-format.name$ -- 2363
-if$ -- 17774
+cite$ -- 163
+duplicate$ -- 2895
+empty$ -- 5643
+format.name$ -- 2380
+if$ -- 17812
 int.to.chr$ -- 5
 int.to.str$ -- 1
-missing$ -- 175
-newline$ -- 631
-num.names$ -- 658
-pop$ -- 1279
+missing$ -- 174
+newline$ -- 630
+num.names$ -- 659
+pop$ -- 1287
 preamble$ -- 1
-purify$ -- 1277
+purify$ -- 1282
 quote$ -- 0
-skip$ -- 1987
+skip$ -- 1986
 stack$ -- 0
-substring$ -- 5308
-swap$ -- 475
+substring$ -- 5299
+swap$ -- 476
 text.length$ -- 8
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 1425
-warning$ -- 1
+warning$ -- 0
 while$ -- 775
 width$ -- 0
-write$ -- 1926
-(There were 7 error messages)
+write$ -- 1925
+(There were 6 error messages)
