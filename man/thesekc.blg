@@ -16,9 +16,25 @@ Reallocated ex_buf (elt_size=1) to 60000 items from 40000.
 Reallocated out_buf (elt_size=1) to 60000 items from 40000.
 Reallocated name_tok (elt_size=4) to 60000 items from 40000.
 Reallocated name_sep_char (elt_size=1) to 60000 items from 40000.
+Repeated entry---line 11964 of file /Users/KevCaz/Documents/library.bib.bib
+ : @incollection{Holt2009a
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13844 of file /Users/KevCaz/Documents/library.bib.bib
+ : @book{monod1970hasard
+ :                      ,
+I'm skipping whatever remains of this entry
 Repeated entry---line 15107 of file /Users/KevCaz/Documents/library.bib.bib
  : @article{Suttle2007
  :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 15124 of file /Users/KevCaz/Documents/library.bib.bib
+ : @article{Koh2004
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 15169 of file /Users/KevCaz/Documents/library.bib.bib
+ : @article{Bellard2012
+ :                     ,
 I'm skipping whatever remains of this entry
 Repeated entry---line 15348 of file /Users/KevCaz/Documents/library.bib.bib
  : @article{Ricklefs1987
@@ -28,45 +44,49 @@ Repeated entry---line 15424 of file /Users/KevCaz/Documents/library.bib.bib
  : @article{Leibold2004
  :                     ,
 I'm skipping whatever remains of this entry
-You've used 86 entries,
+Warning--I didn't find a database entry for "Simberloff1969a"
+Warning--I didn't find a database entry for "Gravel2013a"
+Warning--I didn't find a database entry for "Kissling2011"
+Warning--can't use both author and editor fields in Losos2010
+You've used 163 entries,
             2821 wiz_defined-function locations,
-            1302 strings with 27661 characters,
-and the built_in function-call counts, 50246 in all, are:
-= -- 4913
-> -- 3202
-< -- 48
-+ -- 1194
-- -- 1108
-* -- 5075
-:= -- 9027
-add.period$ -- 266
-call.type$ -- 86
-change.case$ -- 794
-chr.to.int$ -- 86
-cite$ -- 86
-duplicate$ -- 1548
-empty$ -- 3018
-format.name$ -- 1396
-if$ -- 9783
-int.to.chr$ -- 1
+            1835 strings with 45735 characters,
+and the built_in function-call counts, 90793 in all, are:
+= -- 9009
+> -- 5465
+< -- 93
++ -- 2048
+- -- 1881
+* -- 8910
+:= -- 16367
+add.period$ -- 499
+call.type$ -- 163
+change.case$ -- 1434
+chr.to.int$ -- 159
+cite$ -- 164
+duplicate$ -- 2891
+empty$ -- 5641
+format.name$ -- 2363
+if$ -- 17774
+int.to.chr$ -- 5
 int.to.str$ -- 1
-missing$ -- 94
-newline$ -- 341
-num.names$ -- 348
-pop$ -- 730
+missing$ -- 175
+newline$ -- 631
+num.names$ -- 658
+pop$ -- 1279
 preamble$ -- 1
-purify$ -- 712
+purify$ -- 1277
 quote$ -- 0
-skip$ -- 1040
+skip$ -- 1987
 stack$ -- 0
-substring$ -- 2878
-swap$ -- 275
-text.length$ -- 6
+substring$ -- 5308
+swap$ -- 475
+text.length$ -- 8
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 750
-warning$ -- 0
-while$ -- 411
+type$ -- 1425
+warning$ -- 1
+while$ -- 775
 width$ -- 0
-write$ -- 1028
-(There were 3 error messages)
+write$ -- 1926
+(There were 7 error messages)
