@@ -2,8 +2,8 @@
 \contentsline {chapter}{\MakeUppercase {Remerciements}}{vi}{section*.1}
 \select@language {frenchb}
 \contentsline {chapter}{\MakeUppercase {Table des mati\`eres}}{vii}{section*.2}
-\contentsline {chapter}{\MakeUppercase {liste des abr\'{e}viations}}{ix}{section*.3}
-\contentsline {chapter}{\MakeUppercase {Liste des symboles}}{x}{section*.4}
+\contentsline {chapter}{\MakeUppercase {liste des abr\'{e}viations}}{x}{section*.3}
+\contentsline {chapter}{\MakeUppercase {Liste des symboles}}{xi}{section*.4}
 \select@language {french}
 \gdef \the@ipfilectr {}
 \contentsline {chapter}{\MakeUppercase {Introduction g\'en\'erale}}{1}{section*.5}
@@ -59,6 +59,16 @@
 \contentsline {section}{\numberline {2.7}Definitions}{75}{section.2.7}
 \contentsline {section}{\numberline {2.8}ACKNOWLEDGMENTS}{90}{section.2.8}
 \contentsline {chapter}{\MakeUppercase {Conclusion g\'en\'erale}}{91}{section*.53}
-\contentsline {chapter}{\MakeUppercase {R\'ef\'erences}}{91}{section*.54}
+\select@language {french}
+\contentsline {chapter}{\numberline {\MakeUppercase {Annexe} I} \\ \MakeUppercase {Comment la biodiversit\IeC {\'e} s'installe en territoires isol\IeC {\'e}s}}{92}{annexe.1}
+\contentsline {section}{\numberline {3.9}Le mod\IeC {\`e}le de MacArthur et Wilson}{92}{section.3.9}
+\contentsline {section}{\numberline {3.10}Comment un mod\IeC {\`e}le d\IeC {\'e}terministe \IeC {\'e}merge-t-il de ph\IeC {\'e}nom\IeC {\`e}nes al\IeC {\'e}atoires}{93}{section.3.10}
+\contentsline {subsection}{\numberline {3.10.1}Mod\IeC {\`e}le stochastique?}{93}{subsection.3.10.1}
+\contentsline {subsection}{\numberline {3.10.2}Les objets math\IeC {\'e}matiques requis}{94}{subsection.3.10.2}
+\contentsline {subsection}{\numberline {3.10.3}Les briques \IeC {\'e}l\IeC {\'e}mentaires du mod\IeC {\`e}le stochastique}{94}{subsection.3.10.3}
+\contentsline {subsection}{\numberline {3.10.4}Assemblons les briques!}{95}{subsection.3.10.4}
+\contentsline {subsection}{\numberline {3.10.5}Retrouvons le mod\IeC {\`e}le classique}{96}{subsection.3.10.5}
+\contentsline {section}{\numberline {3.11}Applications et perspectives}{97}{section.3.11}
+\contentsline {chapter}{\MakeUppercase {R\'ef\'erences}}{102}{section*.58}
 \select@language {english}
-\select@language {english}
+\select@language {french}
