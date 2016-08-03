@@ -1,74 +1,79 @@
 \gdef \the@ipfilectr {@-1}
 \contentsline {chapter}{\MakeUppercase {Remerciements}}{vi}{section*.1}
 \select@language {frenchb}
-\contentsline {chapter}{\MakeUppercase {Table des mati\`eres}}{vii}{section*.2}
-\contentsline {chapter}{\MakeUppercase {liste des abr\'{e}viations}}{x}{section*.3}
-\contentsline {chapter}{\MakeUppercase {Liste des symboles}}{xi}{section*.4}
+\contentsline {chapter}{\MakeUppercase {Avant-propos}}{viii}{section*.2}
+\select@language {frenchb}
+\contentsline {chapter}{\MakeUppercase {Table des mati\`eres}}{ix}{section*.3}
+\contentsline {chapter}{\MakeUppercase {liste des abr\'{e}viations}}{xii}{section*.4}
+\contentsline {chapter}{\MakeUppercase {Liste des symboles}}{xiii}{section*.5}
 \select@language {french}
 \gdef \the@ipfilectr {}
-\contentsline {chapter}{\MakeUppercase {Introduction g\'en\'erale}}{1}{section*.5}
+\contentsline {chapter}{\MakeUppercase {Introduction g\'en\'erale}}{1}{section*.6}
 \select@language {french}
-\contentsline {section}{Des \IeC {\^\i }les et des esp\IeC {\`e}ces}{1}{section*.6}
-\contentsline {subsection}{En suivant Wallace}{1}{section*.7}
-\contentsline {subsection}{En suivant MacArthur et Wilson}{3}{section*.8}
-\contentsline {subsection}{Quelles informations renferment les distributions d'esp\IeC {\`e}ces?}{6}{section*.9}
-\contentsline {subsection}{Enjeux de la connaissance de la r\IeC {\'e}partition g\IeC {\'e}ographique des esp\IeC {\`e}ces}{7}{section*.10}
-\contentsline {subsection}{Travail th\IeC {\'e}orique et mod\IeC {\'e}lisation}{9}{section*.11}
-\contentsline {subsubsection}{Rassembler et int\IeC {\'e}grer des faits}{9}{section*.12}
-\contentsline {subsubsection}{Des mod\IeC {\`e}les pour explorer et tester la th\IeC {\'e}orie}{10}{section*.13}
-\contentsline {subsubsection}{Nouvelles pr\IeC {\'e}dictions}{12}{section*.14}
-\contentsline {section}{Les processus qui fa\IeC {\c c}onnenet les aires de r\IeC {\'e}partition}{13}{section*.15}
-\contentsline {subsection}{Biog\IeC {\'e}ographie historique}{13}{section*.16}
-\contentsline {subsection}{Capact\IeC {\'e}s de dispersion}{14}{section*.17}
-\contentsline {subsection}{Contraintes abiotiques et niche \IeC {\'e}cologique}{15}{section*.18}
-\contentsline {subsection}{R\IeC {\'e}seaux d'interactions : interd\IeC {\'e}pendance des esp\IeC {\`e}ces}{18}{section*.19}
-\contentsline {subsection}{Echanges d'informations g\IeC {\'e}n\IeC {\'e}tiques et processus micro-evolutifs}{20}{section*.20}
-\contentsline {subsection}{L'invasion europ\IeC {\'e}enne du frelon asiatique}{21}{section*.21}
-\contentsline {section}{Cadre th\IeC {\'e}orique de la th\IeC {\`e}se}{23}{section*.22}
-\contentsline {subsection}{Une vision puissante de la dynamique des distributions d'esp\IeC {\`e}ces}{23}{section*.23}
-\contentsline {subsection}{Le mod\IeC {\`e}le math\IeC {\'e}matique et les pr\IeC {\'e}dictions de la TIB}{26}{section*.24}
-\contentsline {subsection}{L'importance de la TIB dans des d\IeC {\'e}veloppements th\IeC {\'e}oriques plus r\IeC {\'e}cents}{29}{section*.26}
-\contentsline {subsubsection}{La th\IeC {\'e}orie des m\IeC {\'e}tapopulations}{29}{section*.27}
-\contentsline {subsubsection}{La th\IeC {\'e}orie neutre de la biog\IeC {\'e}ographie et le d\IeC {\'e}bat qu'elle soul\IeC {\`e}ve}{30}{section*.28}
-\contentsline {section}{Le r\IeC {\^o}le des interactions dans la distribution des esp\IeC {\`e}ces}{32}{section*.29}
-\contentsline {subsection}{Importance des interactions dans la distribution}{32}{section*.30}
-\contentsline {subsection}{Un probl\IeC {\`e}me d'\IeC {\'e}chelle?}{36}{section*.32}
-\contentsline {subsection}{Vers une biog\IeC {\'e}ographie \IeC {\'e}nerg\IeC {\'e}tique}{38}{section*.33}
+\contentsline {section}{Des \IeC {\^\i }les et des esp\IeC {\`e}ces}{1}{section*.7}
+\contentsline {subsection}{En suivant Wallace}{1}{section*.8}
+\contentsline {subsection}{En suivant MacArthur et Wilson}{3}{section*.9}
+\contentsline {subsection}{Quelles informations renferment les distributions d'esp\IeC {\`e}ces?}{6}{section*.10}
+\contentsline {subsection}{Enjeux de la connaissance de la r\IeC {\'e}partition g\IeC {\'e}ographique des esp\IeC {\`e}ces}{7}{section*.11}
+\contentsline {subsection}{Travail th\IeC {\'e}orique et mod\IeC {\'e}lisation}{9}{section*.12}
+\contentsline {subsubsection}{Rassembler et int\IeC {\'e}grer des faits}{9}{section*.13}
+\contentsline {subsubsection}{Des mod\IeC {\`e}les pour explorer et tester la th\IeC {\'e}orie}{10}{section*.14}
+\contentsline {subsubsection}{Nouvelles pr\IeC {\'e}dictions}{12}{section*.15}
+\contentsline {section}{Les processus qui fa\IeC {\c c}onnenet les aires de r\IeC {\'e}partition}{13}{section*.16}
+\contentsline {subsection}{Biog\IeC {\'e}ographie historique}{13}{section*.17}
+\contentsline {subsection}{Capact\IeC {\'e}s de dispersion}{14}{section*.18}
+\contentsline {subsection}{Contraintes abiotiques et niche \IeC {\'e}cologique}{15}{section*.19}
+\contentsline {subsection}{R\IeC {\'e}seaux d'interactions : interd\IeC {\'e}pendance des esp\IeC {\`e}ces}{18}{section*.20}
+\contentsline {subsection}{Echanges d'informations g\IeC {\'e}n\IeC {\'e}tiques et processus micro-evolutifs}{20}{section*.21}
+\contentsline {subsection}{L'invasion europ\IeC {\'e}enne du frelon asiatique}{21}{section*.22}
+\contentsline {section}{Cadre th\IeC {\'e}orique de la th\IeC {\`e}se}{23}{section*.23}
+\contentsline {subsection}{Une vision puissante de la dynamique des distributions d'esp\IeC {\`e}ces}{23}{section*.24}
+\contentsline {subsection}{Le mod\IeC {\`e}le math\IeC {\'e}matique et les pr\IeC {\'e}dictions de la TIB}{26}{section*.25}
+\contentsline {subsection}{L'importance de la TIB dans des d\IeC {\'e}veloppements th\IeC {\'e}oriques plus r\IeC {\'e}cents}{29}{section*.27}
+\contentsline {subsubsection}{La th\IeC {\'e}orie des m\IeC {\'e}tapopulations}{29}{section*.28}
+\contentsline {subsubsection}{La th\IeC {\'e}orie neutre de la biog\IeC {\'e}ographie et le d\IeC {\'e}bat qu'elle soul\IeC {\`e}ve}{30}{section*.29}
+\contentsline {section}{Le r\IeC {\^o}le des interactions dans la distribution des esp\IeC {\`e}ces}{32}{section*.30}
+\contentsline {subsection}{Importance des interactions dans la distribution}{32}{section*.31}
+\contentsline {subsection}{Un probl\IeC {\`e}me d'\IeC {\'e}chelle?}{36}{section*.33}
+\contentsline {subsection}{Vers une biog\IeC {\'e}ographie \IeC {\'e}nerg\IeC {\'e}tique}{38}{section*.34}
 \select@language {english}
-\contentsline {chapter}{\numberline {\MakeUppercase {article} \MakeUppercase {1}} \\ \MakeUppercase {A PROPOS DES INTERACTIONS BIOTIQUES ET DES CONTRAINTES ENVIRONNMNENTALES A L'ECHELLE BIOGEOGRAPHIQUE}}{40}{chapter.1}
-\contentsline {section}{\numberline {1.1}R\IeC {\'e}sum\IeC {\'e}}{40}{section.1.1}
-\contentsline {section}{\numberline {1.2}Titre}{41}{section.1.2}
-\contentsline {section}{\numberline {1.3}Auteurs}{41}{section.1.3}
-\contentsline {section}{\numberline {1.4}R\IeC {\'e}sum\IeC {\'e} en anglais}{42}{section.1.4}
-\contentsline {section}{\numberline {1.5}Introduction}{42}{section.1.5}
-\contentsline {section}{\numberline {1.6}The model}{46}{section.1.6}
-\contentsline {subsection}{\numberline {1.6.1}A simple probabilistic biogeographical model}{46}{subsection.1.6.1}
-\contentsline {subsection}{\numberline {1.6.2}Integrating biotic interactions}{49}{subsection.1.6.2}
-\contentsline {subsection}{\numberline {1.6.3}Integrating environmental gradients}{51}{subsection.1.6.3}
-\contentsline {section}{\numberline {1.7}Exploring the model}{54}{section.1.7}
-\contentsline {subsection}{\numberline {1.7.1}Biodiversity distribution over environmental gradients}{57}{subsection.1.7.1}
-\contentsline {section}{\numberline {1.8}Discussion}{60}{section.1.8}
-\contentsline {section}{\numberline {1.9}Acknowledgment}{66}{section.1.9}
-\contentsline {chapter}{\numberline {\MakeUppercase {article} \MakeUppercase {2}} \\ \MakeUppercase {THEORIE DE CO-OCCURRENCE DES ESPECES DANS LES R\IeC {\'E}SEAUX D'INTERACTION}}{67}{chapter.2}
-\contentsline {section}{\numberline {2.1}R\IeC {\'e}sum\IeC {\'e} en fran\IeC {\c c}ais du deuxi\IeC {\`e}me article}{67}{section.2.1}
-\contentsline {section}{\numberline {2.2}Titre}{70}{section.2.2}
-\contentsline {section}{\numberline {2.3}Auteurs}{70}{section.2.3}
-\contentsline {section}{\numberline {2.4}R\IeC {\'e}sum\IeC {\'e} en anglais}{70}{section.2.4}
-\contentsline {section}{\numberline {2.5}Mot-clef}{71}{section.2.5}
-\contentsline {section}{\numberline {2.6}Introduction}{71}{section.2.6}
-\contentsline {section}{\numberline {2.7}Definitions}{75}{section.2.7}
-\contentsline {section}{\numberline {2.8}ACKNOWLEDGMENTS}{90}{section.2.8}
-\contentsline {chapter}{\MakeUppercase {Conclusion g\'en\'erale}}{91}{section*.53}
+\contentsline {chapter}{\numberline {\MakeUppercase {article} \MakeUppercase {1}} \\ \MakeUppercase {A propos des interactions biotiques et des contraintes environnementales \IeC {\`a} l'\IeC {\'e}chelle biog\IeC {\'e}ographique}}{40}{chapter.1}
+\contentsline {section}{\numberline {1.1}R\IeC {\'e}sum\IeC {\'e} en fran\IeC {\c c}ais}{40}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Contexte scientfique}{40}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}Publication associ\IeC {\'e}e}{41}{subsection.1.1.2}
+\contentsline {subsection}{\numberline {1.1.3}Traduction du r\IeC {\'e}sum\IeC {\'e} anglais}{41}{subsection.1.1.3}
+\contentsline {section}{\numberline {1.2}Title}{42}{section.1.2}
+\contentsline {section}{\numberline {1.3}Authors}{42}{section.1.3}
+\contentsline {section}{\numberline {1.4}Abstract}{43}{section.1.4}
+\contentsline {section}{\numberline {1.5}Introduction}{43}{section.1.5}
+\contentsline {section}{\numberline {1.6}The model}{47}{section.1.6}
+\contentsline {subsection}{\numberline {1.6.1}A simple probabilistic biogeographical model}{47}{subsection.1.6.1}
+\contentsline {subsection}{\numberline {1.6.2}Integrating biotic interactions}{50}{subsection.1.6.2}
+\contentsline {subsection}{\numberline {1.6.3}Integrating environmental gradients}{52}{subsection.1.6.3}
+\contentsline {section}{\numberline {1.7}Exploring the model}{55}{section.1.7}
+\contentsline {subsection}{\numberline {1.7.1}Biodiversity distribution over environmental gradients}{58}{subsection.1.7.1}
+\contentsline {section}{\numberline {1.8}Discussion}{61}{section.1.8}
+\contentsline {section}{\numberline {1.9}Acknowledgment}{67}{section.1.9}
+\contentsline {chapter}{\numberline {\MakeUppercase {article} \MakeUppercase {2}} \\ \MakeUppercase {THEORIE DE CO-OCCURRENCE DES ESPECES DANS LES R\IeC {\'E}SEAUX D'INTERACTION}}{68}{chapter.2}
+\contentsline {section}{\numberline {2.1}R\IeC {\'e}sum\IeC {\'e} en fran\IeC {\c c}ais du deuxi\IeC {\`e}me article}{68}{section.2.1}
+\contentsline {section}{\numberline {2.2}Titre}{71}{section.2.2}
+\contentsline {section}{\numberline {2.3}Auteurs}{71}{section.2.3}
+\contentsline {section}{\numberline {2.4}R\IeC {\'e}sum\IeC {\'e} en anglais}{71}{section.2.4}
+\contentsline {section}{\numberline {2.5}Mot-clef}{72}{section.2.5}
+\contentsline {section}{\numberline {2.6}Introduction}{72}{section.2.6}
+\contentsline {section}{\numberline {2.7}Definitions}{76}{section.2.7}
+\contentsline {section}{\numberline {2.8}ACKNOWLEDGMENTS}{91}{section.2.8}
+\contentsline {chapter}{\MakeUppercase {Conclusion g\'en\'erale}}{92}{section*.54}
 \select@language {french}
-\contentsline {chapter}{\numberline {\MakeUppercase {Annexe} I} \\ \MakeUppercase {Comment la biodiversit\IeC {\'e} s'installe en territoires isol\IeC {\'e}s}}{92}{annexe.1}
-\contentsline {section}{\numberline {3.9}Le mod\IeC {\`e}le de MacArthur et Wilson}{92}{section.3.9}
-\contentsline {section}{\numberline {3.10}Comment un mod\IeC {\`e}le d\IeC {\'e}terministe \IeC {\'e}merge-t-il de ph\IeC {\'e}nom\IeC {\`e}nes al\IeC {\'e}atoires}{93}{section.3.10}
-\contentsline {subsection}{\numberline {3.10.1}Mod\IeC {\`e}le stochastique?}{93}{subsection.3.10.1}
-\contentsline {subsection}{\numberline {3.10.2}Les objets math\IeC {\'e}matiques requis}{94}{subsection.3.10.2}
-\contentsline {subsection}{\numberline {3.10.3}Les briques \IeC {\'e}l\IeC {\'e}mentaires du mod\IeC {\`e}le stochastique}{94}{subsection.3.10.3}
-\contentsline {subsection}{\numberline {3.10.4}Assemblons les briques!}{95}{subsection.3.10.4}
-\contentsline {subsection}{\numberline {3.10.5}Retrouvons le mod\IeC {\`e}le classique}{96}{subsection.3.10.5}
-\contentsline {section}{\numberline {3.11}Applications et perspectives}{97}{section.3.11}
-\contentsline {chapter}{\MakeUppercase {R\'ef\'erences}}{102}{section*.58}
+\contentsline {chapter}{\numberline {\MakeUppercase {Annexe} I} \\ \MakeUppercase {Comment la biodiversit\IeC {\'e} s'installe en territoires isol\IeC {\'e}s}}{93}{annexe.1}
+\contentsline {section}{\numberline {3.9}Le mod\IeC {\`e}le de MacArthur et Wilson}{93}{section.3.9}
+\contentsline {section}{\numberline {3.10}Comment un mod\IeC {\`e}le d\IeC {\'e}terministe \IeC {\'e}merge-t-il de ph\IeC {\'e}nom\IeC {\`e}nes al\IeC {\'e}atoires}{94}{section.3.10}
+\contentsline {subsection}{\numberline {3.10.1}Mod\IeC {\`e}le stochastique?}{94}{subsection.3.10.1}
+\contentsline {subsection}{\numberline {3.10.2}Les objets math\IeC {\'e}matiques requis}{95}{subsection.3.10.2}
+\contentsline {subsection}{\numberline {3.10.3}Les briques \IeC {\'e}l\IeC {\'e}mentaires du mod\IeC {\`e}le stochastique}{95}{subsection.3.10.3}
+\contentsline {subsection}{\numberline {3.10.4}Assemblons les briques!}{96}{subsection.3.10.4}
+\contentsline {subsection}{\numberline {3.10.5}Retrouvons le mod\IeC {\`e}le classique}{97}{subsection.3.10.5}
+\contentsline {section}{\numberline {3.11}Applications et perspectives}{98}{section.3.11}
+\contentsline {chapter}{\MakeUppercase {R\'ef\'erences}}{103}{section*.59}
 \select@language {english}
 \select@language {french}
