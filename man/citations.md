@@ -3,7 +3,7 @@
 - Et cependant ce qu'ils cherchent pourrait être trouvé dans une seule rose ou un peu d'eau ...
 - Bien sûr, répondis-je.
 Et le petit prince ajouta :
-- Mais les yeux sont aveugles. Il fait chercher avec le coeur.
+- Mais les yeux sont aveugles. Il faut chercher avec le coeur.
 
 
 
@@ -29,3 +29,5 @@ existing knowledge and bioclimatic modeling to improve understanding of the like
 
 Size alone is not enough to describe the process of substrate use and the implied uptake.
 For several reasons, energy reserves should be considered as well, even in the most simple models Kooijman
+
+> ‘Paraphrasing Picasso, MacArthur once observed “a theory is a lie which makes you see the truth”. If the equilibrium theory forced us to pose new questions and to seek new evidence in order to better understand [insular] com- munities, its purpose has been fulfilled.’ (after MacArthur’s first graduate student, K.L. Crowell, 1986)
