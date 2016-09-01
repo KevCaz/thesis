@@ -4,8 +4,8 @@
 \contentsline {chapter}{\MakeUppercase {Avant-propos}}{viii}{section*.2}
 \select@language {frenchb}
 \contentsline {chapter}{\MakeUppercase {Table des mati\`eres}}{ix}{section*.3}
-\contentsline {chapter}{\MakeUppercase {liste des abr\'{e}viations}}{xiii}{section*.4}
-\contentsline {chapter}{\MakeUppercase {Liste des symboles}}{xiv}{section*.5}
+\contentsline {chapter}{\MakeUppercase {liste des abr\'{e}viations}}{xiv}{section*.4}
+\contentsline {chapter}{\MakeUppercase {Liste des symboles}}{xv}{section*.5}
 \select@language {french}
 \gdef \the@ipfilectr {}
 \contentsline {chapter}{\MakeUppercase {Introduction g\'en\'erale}}{1}{section*.6}
@@ -65,40 +65,82 @@
 \contentsline {section}{\numberline {2.6}Introduction}{74}{section.2.6}
 \contentsline {section}{\numberline {2.7}Definitions}{78}{section.2.7}
 \contentsline {section}{\numberline {2.8}ACKNOWLEDGMENTS}{93}{section.2.8}
-\contentsline {chapter}{\MakeUppercase {Conclusion g\'en\'erale}}{94}{section*.54}
+\contentsline {section}{\numberline {2.9}Context}{93}{section.2.9}
+\contentsline {section}{\numberline {2.10}Material and Methods}{95}{section.2.10}
+\contentsline {subsection}{\numberline {2.10.1}Datasets}{95}{subsection.2.10.1}
+\contentsline {subsection}{\numberline {2.10.2}Measures of co-occurrence}{96}{subsection.2.10.2}
+\contentsline {section}{\numberline {2.11}Results}{96}{section.2.11}
+\contentsline {subsection}{\numberline {2.11.1}Discussion}{99}{subsection.2.11.1}
+\contentsline {subsection}{\numberline {2.11.2}Box 1}{101}{subsection.2.11.2}
+\contentsline {subsection}{\numberline {2.11.3}Tables}{103}{subsection.2.11.3}
+\contentsline {section}{\numberline {2.12}Figures}{104}{section.2.12}
+\contentsline {section}{\numberline {2.13}Material and methods}{105}{section.2.13}
+\contentsline {subsection}{\numberline {2.13.1}Datasets}{105}{subsection.2.13.1}
+\contentsline {subsubsection}{\numberline {2.13.1.1}Willows leafs network}{105}{subsubsection.2.13.1.1}
+\contentsline {subsubsection}{\numberline {2.13.1.2}Pitcher plants network}{105}{subsubsection.2.13.1.2}
+\contentsline {subsubsection}{\numberline {2.13.1.3}Caribbean Hummingbirds-Plant network}{105}{subsubsection.2.13.1.3}
+\contentsline {subsubsection}{\numberline {2.13.1.4}North American Trees datasets}{105}{subsubsection.2.13.1.4}
+\contentsline {paragraph}{\numberline {2.13.1.4.1}Traits-based distance}{105}{paragraph.2.13.1.4.1}
+\contentsline {subsubsection}{\numberline {2.13.1.5}French Breeding Birds Survey datasets}{107}{subsubsection.2.13.1.5}
+\contentsline {paragraph}{\numberline {2.13.1.5.1}Traits-based distance}{107}{paragraph.2.13.1.5.1}
+\contentsline {subsection}{\numberline {2.13.2}Building metawebs}{107}{subsection.2.13.2}
+\contentsline {subsection}{\numberline {2.13.3}Co-occurrence measurement}{109}{subsection.2.13.3}
+\contentsline {subsection}{\numberline {2.13.4}Hypergeometric distribution}{109}{subsection.2.13.4}
+\contentsline {subsection}{\numberline {2.13.5}GLM and RF}{110}{subsection.2.13.5}
+\contentsline {subsubsection}{\numberline {2.13.5.1}Climatic data}{110}{subsubsection.2.13.5.1}
+\contentsline {subsubsection}{\numberline {2.13.5.2}Generalized Linear Model}{110}{subsubsection.2.13.5.2}
+\contentsline {subsubsection}{\numberline {2.13.5.3}Random Forests}{111}{subsubsection.2.13.5.3}
+\contentsline {subsubsection}{\numberline {2.13.5.4}Evaluating the models}{111}{subsubsection.2.13.5.4}
+\contentsline {section}{\numberline {2.14}Supporting Tables}{111}{section.2.14}
+\contentsline {subsubsection}{\numberline {2.14.0.1}R packages used}{111}{subsubsection.2.14.0.1}
+\contentsline {section}{\numberline {2.15}Supporting Figures}{118}{section.2.15}
+\contentsline {chapter}{\numberline {\MakeUppercase {article} \MakeUppercase {3}} \\ \MakeUppercase {Towards a metabolic theory of biogeography}}{129}{chapter.3}
+\contentsline {subsection}{\numberline {3.0.1}R\IeC {\'e}sum\IeC {\'e} en fran\IeC {\c c}ais du troisi\IeC {\`e}me article}{129}{subsection.3.0.1}
+\contentsline {subsection}{\numberline {3.0.2}Publication envisag\IeC {\'e}e}{129}{subsection.3.0.2}
+\contentsline {section}{\numberline {3.1}Introduction}{130}{section.3.1}
+\contentsline {section}{\numberline {3.2}Model}{133}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Primary producers and habitat heterogeneity}{134}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Metawebs}{134}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Migration of species from the metaweb}{135}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}Energetic constraints on local food webs}{135}{subsection.3.2.4}
+\contentsline {subsection}{\numberline {3.2.5}Energy fluxes and transfer efficiency}{136}{subsection.3.2.5}
+\contentsline {subsection}{\numberline {3.2.6}Extinctions}{139}{subsection.3.2.6}
+\contentsline {subsection}{\numberline {3.2.7}Simulations}{140}{subsection.3.2.7}
+\contentsline {section}{\numberline {3.3}Results}{140}{section.3.3}
+\contentsline {chapter}{\MakeUppercase {Conclusion g\'en\'erale}}{141}{section*.67}
 \select@language {french}
-\contentsline {section}{Introduire davantage d'\IeC {\'e}cologie des communaut\IeC {\'e}s dans les mod\IeC {\`e}les de distribution d'esp\IeC {\`e}ce}{94}{section*.55}
-\contentsline {subsection}{L'information des r\IeC {\'e}seaux}{94}{section*.56}
-\contentsline {subsection}{\numberline {2.8.1}Interaction des diff\IeC {\'e}rents m\IeC {\'e}canismes}{95}{subsection.2.8.1}
-\contentsline {subsection}{Vers une th\IeC {\'e}orie en int\IeC {\'e}grative de la biog\IeC {\'e}ographie}{95}{section*.57}
-\contentsline {subsection}{Des contraintes physiologiques}{96}{section*.58}
-\contentsline {subsection}{\numberline {2.8.2}L'abstraction des esp\IeC {\`e}ces}{96}{subsection.2.8.2}
-\contentsline {subsection}{Traits fonctionnels}{96}{section*.59}
-\contentsline {subsection}{Des donn\IeC {\'e}es nouvelles}{98}{section*.60}
-\contentsline {section}{Les d\IeC {\'e}fis \IeC {\`a} relever dans un monde en changement}{99}{section*.61}
-\contentsline {subsection}{Une \IeC {\'e}rosion de la biodiversit\IeC {\'e} affolantes}{99}{section*.62}
-\contentsline {subsection}{\numberline {2.8.3}Avons-nous des espoirs vains ?}{99}{subsection.2.8.3}
-\contentsline {subsection}{Des \IeC {\'e}cosyst\IeC {\`e}mes boulevers\IeC {\'e}s}{100}{section*.63}
-\contentsline {subsection}{Transients}{101}{section*.64}
-\contentsline {section}{Vers une \IeC {\'e}cologie pr\IeC {\'e}dictive?}{101}{section*.65}
-\contentsline {subsection}{Un espoir}{101}{section*.66}
-\contentsline {subsection}{Cat\IeC {\'e}gories}{101}{section*.67}
-\contentsline {subsection}{Les produits de l'\IeC {\'e}volution}{102}{section*.68}
-\contentsline {subsection}{Quels types de pr\IeC {\'e}dictions pouvons-nous faire?}{103}{section*.69}
-\contentsline {subsubsection}{\numberline {2.8.3.1}Une question d'\IeC {\'e}chelle?}{103}{subsubsection.2.8.3.1}
-\contentsline {subsubsection}{\numberline {2.8.3.2}Pr\IeC {\'e}dire des communaut\IeC {\'e}s}{104}{subsubsection.2.8.3.2}
-\contentsline {subsection}{Les dangers d'aller trop vite}{104}{section*.70}
-\contentsline {subsection}{\numberline {2.8.4}Contraintes \IeC {\'e}nerg\IeC {\'e}tiques}{104}{subsection.2.8.4}
+\contentsline {section}{Introduire davantage d'\IeC {\'e}cologie des communaut\IeC {\'e}s dans les mod\IeC {\`e}les de distribution d'esp\IeC {\`e}ce}{141}{section*.68}
+\contentsline {subsection}{L'information des r\IeC {\'e}seaux}{141}{section*.69}
+\contentsline {subsection}{\numberline {3.3.1}Interaction des diff\IeC {\'e}rents m\IeC {\'e}canismes}{142}{subsection.3.3.1}
+\contentsline {subsection}{Vers une th\IeC {\'e}orie en int\IeC {\'e}grative de la biog\IeC {\'e}ographie}{142}{section*.70}
+\contentsline {subsection}{Des contraintes physiologiques}{143}{section*.71}
+\contentsline {subsection}{\numberline {3.3.2}L'abstraction des esp\IeC {\`e}ces}{143}{subsection.3.3.2}
+\contentsline {subsection}{Traits fonctionnels}{143}{section*.72}
+\contentsline {subsection}{Des donn\IeC {\'e}es nouvelles}{145}{section*.73}
+\contentsline {section}{Les d\IeC {\'e}fis \IeC {\`a} relever dans un monde en changement}{146}{section*.74}
+\contentsline {subsection}{Une \IeC {\'e}rosion de la biodiversit\IeC {\'e} affolantes}{146}{section*.75}
+\contentsline {subsection}{\numberline {3.3.3}Avons-nous des espoirs vains ?}{146}{subsection.3.3.3}
+\contentsline {subsection}{Des \IeC {\'e}cosyst\IeC {\`e}mes boulevers\IeC {\'e}s}{147}{section*.76}
+\contentsline {subsection}{Transients}{148}{section*.77}
+\contentsline {section}{Vers une \IeC {\'e}cologie pr\IeC {\'e}dictive?}{148}{section*.78}
+\contentsline {subsection}{Un espoir}{148}{section*.79}
+\contentsline {subsection}{Cat\IeC {\'e}gories}{148}{section*.80}
+\contentsline {subsection}{Les produits de l'\IeC {\'e}volution}{149}{section*.81}
+\contentsline {subsection}{Quels types de pr\IeC {\'e}dictions pouvons-nous faire?}{150}{section*.82}
+\contentsline {subsubsection}{\numberline {3.3.3.1}Une question d'\IeC {\'e}chelle?}{150}{subsubsection.3.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.3.2}Pr\IeC {\'e}dire des communaut\IeC {\'e}s}{151}{subsubsection.3.3.3.2}
+\contentsline {subsection}{Les dangers d'aller trop vite}{151}{section*.83}
+\contentsline {subsection}{\numberline {3.3.4}Contraintes \IeC {\'e}nerg\IeC {\'e}tiques}{151}{subsection.3.3.4}
 \select@language {french}
-\contentsline {chapter}{\numberline {\MakeUppercase {Annexe} I} \\ \MakeUppercase {Comment la biodiversit\IeC {\'e} s'installe en territoires isol\IeC {\'e}s}}{105}{annexe.1}
-\contentsline {section}{\numberline {3.9}Le mod\IeC {\`e}le de MacArthur et Wilson}{105}{section.3.9}
-\contentsline {section}{\numberline {3.10}Comment un mod\IeC {\`e}le d\IeC {\'e}terministe \IeC {\'e}merge-t-il de ph\IeC {\'e}nom\IeC {\`e}nes al\IeC {\'e}atoires}{106}{section.3.10}
-\contentsline {subsection}{\numberline {3.10.1}Mod\IeC {\`e}le stochastique?}{106}{subsection.3.10.1}
-\contentsline {subsection}{\numberline {3.10.2}Les objets math\IeC {\'e}matiques requis}{107}{subsection.3.10.2}
-\contentsline {subsection}{\numberline {3.10.3}Les briques \IeC {\'e}l\IeC {\'e}mentaires du mod\IeC {\`e}le stochastique}{107}{subsection.3.10.3}
-\contentsline {subsection}{\numberline {3.10.4}Assemblons les briques!}{108}{subsection.3.10.4}
-\contentsline {subsection}{\numberline {3.10.5}Retrouvons le mod\IeC {\`e}le classique}{109}{subsection.3.10.5}
-\contentsline {section}{\numberline {3.11}Applications et perspectives}{110}{section.3.11}
-\contentsline {chapter}{\MakeUppercase {R\'ef\'erences}}{115}{section*.75}
+\contentsline {chapter}{\numberline {\MakeUppercase {Annexe} I} \\ \MakeUppercase {Comment la biodiversit\IeC {\'e} s'installe en territoires isol\IeC {\'e}s}}{152}{annexe.1}
+\contentsline {section}{\numberline {4.4}Le mod\IeC {\`e}le de MacArthur et Wilson}{152}{section.4.4}
+\contentsline {section}{\numberline {4.5}Comment un mod\IeC {\`e}le d\IeC {\'e}terministe \IeC {\'e}merge-t-il de ph\IeC {\'e}nom\IeC {\`e}nes al\IeC {\'e}atoires}{153}{section.4.5}
+\contentsline {subsection}{\numberline {4.5.1}Mod\IeC {\`e}le stochastique?}{153}{subsection.4.5.1}
+\contentsline {subsection}{\numberline {4.5.2}Les objets math\IeC {\'e}matiques requis}{154}{subsection.4.5.2}
+\contentsline {subsection}{\numberline {4.5.3}Les briques \IeC {\'e}l\IeC {\'e}mentaires du mod\IeC {\`e}le stochastique}{154}{subsection.4.5.3}
+\contentsline {subsection}{\numberline {4.5.4}Assemblons les briques!}{155}{subsection.4.5.4}
+\contentsline {subsection}{\numberline {4.5.5}Retrouvons le mod\IeC {\`e}le classique}{156}{subsection.4.5.5}
+\contentsline {section}{\numberline {4.6}Applications et perspectives}{157}{section.4.6}
+\contentsline {chapter}{\MakeUppercase {R\'ef\'erences}}{162}{section*.88}
 \select@language {english}
 \select@language {french}

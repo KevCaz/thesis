@@ -7,24 +7,30 @@ INTR = intro.tex
 MDC = conclu.md
 PDFC = ../conclu.pdf
 CCL = conclu.tex
-##--
+##-- CHAP3
 MD3 = /Users/KevCaz/ownCloud/Dom_cooc_inter/ms/ms_cooc.md
 MD3SI = /Users/KevCaz/ownCloud/Dom_cooc_inter/ms/SI_cooc.md
 CHP3MN = chapitre3/main.tex
 CHP3SI = chapitre3/supinf.tex
+CHP3HE = chapitre3/head.tex
 CHP3 = chapitre3/chap3.tex
+##-- CHAP4
+MD4 = /Users/KevCaz/ownCloud/ms_biogenerg/ms/traitbiogeo.md
+CHP4MN = chapitre4/main.tex
+CHP4HE = chapitre4/head.tex
+CHP4 = chapitre4/chap4.tex
 ##--
 THES = thesekc.pdf
 SRC = thesekc.tex
 ##--
 REF = /Users/KevCaz/Documents/library.bib
 CSL = elsevier-harvard.csl
-PFLAGS = --filter pandoc-fignos --filter pandoc-tablenos --natbib --bibliography=$(REF) --csl=$(CSL) --latex-engine=pdflatex
+PFLAGS = --filter pandoc-fignos --filter pandoc-tablenos --filter pandoc-eqnos --natbib --bibliography=$(REF) --csl=$(CSL) --latex-engine=pdflatex
 
 
-ALL: $(PDF) $(PDFC) $(DOCX) $(THES)
+ALL: $(PDF) $(PDFC) $(DOCX) $(THES) $(CHP3) $(CHP4)
 
-$(THES): $(SRC) $(INTR) $(CHP3) $(CCL)
+$(THES): $(SRC) $(INTR) $(CHP3) $(CHP4) $(CCL)
 	pdflatex $(SRC)
 	bibtex thesekc
 	bibtex thesekc
@@ -43,16 +49,24 @@ $(INTR): $(MD)
 $(CCL): $(MDC)
 	pandoc $< -o $@
 
-$(CHP3): $(CHP3MN) $(CHP3SI)
-	cat  $(CHP3MN) $(CHP3SI) > $@
+$(CHP3): $(CHP3MN) $(CHP3SI) $(CHP3HE)
+	cat  $(CHP3HE) $(CHP3MN) $(CHP3SI) > $@
 	sed -i -e 's/..\/fig/chapitre3/g' chapitre3/chap3.tex
 	cp ~/ownCloud/Dom_cooc_inter/fig/fig* chapitre3/
+
 
 $(CHP3MN): $(MD3)
 	pandoc $< -o $@ $(PFLAGS)
 
 $(CHP3SI): $(MD3SI)
 	pandoc $< -o $@ $(PFLAGS)
+
+
+$(CHP4): $(CHP4MN) $(CHP4HE) $(MD4)
+	cat  $(CHP4HE) $(CHP4MN) > $@
+
+$(CHP4MN): $(MD4)
+		pandoc $< -o $@ $(PFLAGS)
 
 $(PDF): $(MD)
 	pandoc $< -o $@ $(PFLAGS)
