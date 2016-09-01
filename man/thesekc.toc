@@ -4,8 +4,8 @@
 \contentsline {chapter}{\MakeUppercase {Avant-propos}}{viii}{section*.2}
 \select@language {frenchb}
 \contentsline {chapter}{\MakeUppercase {Table des mati\`eres}}{ix}{section*.3}
-\contentsline {chapter}{\MakeUppercase {liste des abr\'{e}viations}}{xii}{section*.4}
-\contentsline {chapter}{\MakeUppercase {Liste des symboles}}{xiii}{section*.5}
+\contentsline {chapter}{\MakeUppercase {liste des abr\'{e}viations}}{xiii}{section*.4}
+\contentsline {chapter}{\MakeUppercase {Liste des symboles}}{xiv}{section*.5}
 \select@language {french}
 \gdef \the@ipfilectr {}
 \contentsline {chapter}{\MakeUppercase {Introduction g\'en\'erale}}{1}{section*.6}
@@ -66,37 +66,37 @@
 \contentsline {chapter}{\MakeUppercase {Conclusion g\'en\'erale}}{92}{section*.54}
 \select@language {french}
 \contentsline {section}{Introduire davantage d'\IeC {\'e}cologie des communaut\IeC {\'e}s dans les mod\IeC {\`e}les de distribution d'esp\IeC {\`e}ce}{92}{section*.55}
-\contentsline {subsection}{\numberline {2.8.1}Une th\IeC {\'e}orie \IeC {\`a} renouveler}{92}{subsection.2.8.1}
-\contentsline {subsubsection}{\numberline {2.8.1.1}Vers une th\IeC {\'e}orie plus int\IeC {\'e}grative}{93}{subsubsection.2.8.1.1}
-\contentsline {subsection}{L'information des r\IeC {\'e}seaux}{95}{section*.56}
-\contentsline {subsection}{Des contraintes physiologiques}{95}{section*.57}
-\contentsline {subsection}{\numberline {2.8.2}L'abstraction des esp\IeC {\`e}ces}{95}{subsection.2.8.2}
-\contentsline {subsection}{Traits fonctionnels}{95}{section*.58}
-\contentsline {subsection}{Des donn\IeC {\'e}es nouvelles}{97}{section*.59}
-\contentsline {section}{Les d\IeC {\'e}fis \IeC {\`a} relever dans un monde en changement}{98}{section*.60}
-\contentsline {subsection}{Une \IeC {\'e}rosion de la biodiversit\IeC {\'e} affolantes}{98}{section*.61}
-\contentsline {subsection}{\numberline {2.8.3}Avons-nous des espoirs vains ?}{98}{subsection.2.8.3}
-\contentsline {subsection}{Des \IeC {\'e}cosyst\IeC {\`e}mes boulevers\IeC {\'e}s}{99}{section*.62}
-\contentsline {subsection}{Transient}{100}{section*.63}
-\contentsline {section}{Faire une \IeC {\'e}cologie pr\IeC {\'e}dictive?}{100}{section*.64}
-\contentsline {subsection}{Un espoir}{100}{section*.65}
-\contentsline {subsection}{Cat\IeC {\'e}gories}{100}{section*.66}
-\contentsline {subsection}{Les produits de l'\IeC {\'e}volution}{101}{section*.67}
-\contentsline {subsection}{Quels types de pr\IeC {\'e}dictions pouvons-nous faire?}{102}{section*.68}
-\contentsline {subsubsection}{\numberline {2.8.3.1}Une question d'\IeC {\'e}chelle?}{102}{subsubsection.2.8.3.1}
-\contentsline {subsubsection}{\numberline {2.8.3.2}Pr\IeC {\'e}dire des communaut\IeC {\'e}s}{103}{subsubsection.2.8.3.2}
-\contentsline {subsection}{\numberline {2.8.4}Contraintes \IeC {\'e}nerg\IeC {\'e}tiques}{103}{subsection.2.8.4}
-\contentsline {subsection}{Les dangers d'aller trop vite}{103}{section*.69}
+\contentsline {subsection}{L'information des r\IeC {\'e}seaux}{92}{section*.56}
+\contentsline {subsection}{\numberline {2.8.1}Interaction des diff\IeC {\'e}rents m\IeC {\'e}canismes}{93}{subsection.2.8.1}
+\contentsline {subsection}{Vers une th\IeC {\'e}orie en int\IeC {\'e}grative de la biog\IeC {\'e}ographie}{93}{section*.57}
+\contentsline {subsection}{Des contraintes physiologiques}{94}{section*.58}
+\contentsline {subsection}{\numberline {2.8.2}L'abstraction des esp\IeC {\`e}ces}{94}{subsection.2.8.2}
+\contentsline {subsection}{Traits fonctionnels}{94}{section*.59}
+\contentsline {subsection}{Des donn\IeC {\'e}es nouvelles}{96}{section*.60}
+\contentsline {section}{Les d\IeC {\'e}fis \IeC {\`a} relever dans un monde en changement}{97}{section*.61}
+\contentsline {subsection}{Une \IeC {\'e}rosion de la biodiversit\IeC {\'e} affolantes}{97}{section*.62}
+\contentsline {subsection}{\numberline {2.8.3}Avons-nous des espoirs vains ?}{97}{subsection.2.8.3}
+\contentsline {subsection}{Des \IeC {\'e}cosyst\IeC {\`e}mes boulevers\IeC {\'e}s}{98}{section*.63}
+\contentsline {subsection}{Transients}{99}{section*.64}
+\contentsline {section}{Vers une \IeC {\'e}cologie pr\IeC {\'e}dictive?}{99}{section*.65}
+\contentsline {subsection}{Un espoir}{99}{section*.66}
+\contentsline {subsection}{Cat\IeC {\'e}gories}{99}{section*.67}
+\contentsline {subsection}{Les produits de l'\IeC {\'e}volution}{100}{section*.68}
+\contentsline {subsection}{Quels types de pr\IeC {\'e}dictions pouvons-nous faire?}{101}{section*.69}
+\contentsline {subsubsection}{\numberline {2.8.3.1}Une question d'\IeC {\'e}chelle?}{101}{subsubsection.2.8.3.1}
+\contentsline {subsubsection}{\numberline {2.8.3.2}Pr\IeC {\'e}dire des communaut\IeC {\'e}s}{102}{subsubsection.2.8.3.2}
+\contentsline {subsection}{Les dangers d'aller trop vite}{102}{section*.70}
+\contentsline {subsection}{\numberline {2.8.4}Contraintes \IeC {\'e}nerg\IeC {\'e}tiques}{102}{subsection.2.8.4}
 \select@language {french}
-\contentsline {chapter}{\numberline {\MakeUppercase {Annexe} I} \\ \MakeUppercase {Comment la biodiversit\IeC {\'e} s'installe en territoires isol\IeC {\'e}s}}{104}{annexe.1}
-\contentsline {section}{\numberline {3.9}Le mod\IeC {\`e}le de MacArthur et Wilson}{104}{section.3.9}
-\contentsline {section}{\numberline {3.10}Comment un mod\IeC {\`e}le d\IeC {\'e}terministe \IeC {\'e}merge-t-il de ph\IeC {\'e}nom\IeC {\`e}nes al\IeC {\'e}atoires}{105}{section.3.10}
-\contentsline {subsection}{\numberline {3.10.1}Mod\IeC {\`e}le stochastique?}{105}{subsection.3.10.1}
-\contentsline {subsection}{\numberline {3.10.2}Les objets math\IeC {\'e}matiques requis}{106}{subsection.3.10.2}
-\contentsline {subsection}{\numberline {3.10.3}Les briques \IeC {\'e}l\IeC {\'e}mentaires du mod\IeC {\`e}le stochastique}{106}{subsection.3.10.3}
-\contentsline {subsection}{\numberline {3.10.4}Assemblons les briques!}{107}{subsection.3.10.4}
-\contentsline {subsection}{\numberline {3.10.5}Retrouvons le mod\IeC {\`e}le classique}{108}{subsection.3.10.5}
-\contentsline {section}{\numberline {3.11}Applications et perspectives}{109}{section.3.11}
-\contentsline {chapter}{\MakeUppercase {R\'ef\'erences}}{114}{section*.74}
+\contentsline {chapter}{\numberline {\MakeUppercase {Annexe} I} \\ \MakeUppercase {Comment la biodiversit\IeC {\'e} s'installe en territoires isol\IeC {\'e}s}}{103}{annexe.1}
+\contentsline {section}{\numberline {3.9}Le mod\IeC {\`e}le de MacArthur et Wilson}{103}{section.3.9}
+\contentsline {section}{\numberline {3.10}Comment un mod\IeC {\`e}le d\IeC {\'e}terministe \IeC {\'e}merge-t-il de ph\IeC {\'e}nom\IeC {\`e}nes al\IeC {\'e}atoires}{104}{section.3.10}
+\contentsline {subsection}{\numberline {3.10.1}Mod\IeC {\`e}le stochastique?}{104}{subsection.3.10.1}
+\contentsline {subsection}{\numberline {3.10.2}Les objets math\IeC {\'e}matiques requis}{105}{subsection.3.10.2}
+\contentsline {subsection}{\numberline {3.10.3}Les briques \IeC {\'e}l\IeC {\'e}mentaires du mod\IeC {\`e}le stochastique}{105}{subsection.3.10.3}
+\contentsline {subsection}{\numberline {3.10.4}Assemblons les briques!}{106}{subsection.3.10.4}
+\contentsline {subsection}{\numberline {3.10.5}Retrouvons le mod\IeC {\`e}le classique}{107}{subsection.3.10.5}
+\contentsline {section}{\numberline {3.11}Applications et perspectives}{108}{section.3.11}
+\contentsline {chapter}{\MakeUppercase {R\'ef\'erences}}{113}{section*.75}
 \select@language {english}
 \select@language {french}

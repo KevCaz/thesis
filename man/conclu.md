@@ -9,27 +9,9 @@ header-includes:
 
 # Introduire davantage d'écologie des communautés dans les modèles de distribution d'espèce {-}
 
-## Une théorie à renouveler
+## L'information des réseaux {-}
 
-Le travail de Gotelli \textit{et al.} est également un exemple de démarche intégrative où un nombre important de processus peuvent être inclus via un système de combinaison de scénarios et tester par simulations stochastiques \cite{Gotelli2009}. Enfin, en construisant des réseaux basés sur la cooccurrence des espèces, Araújo \textit{et al.} revisitent le problème de l'interdépendance des espèces \cite{Araujo2011} : ils s'interrogent sur la résistance des réseaux de cooccurrence obtenus face aux futurs changement climatiques, ils mettent ainsi en évidence des risques accrus de perte des espèces les moins connectés (celles qui cooccurent moins). Ces travaux témoignent de la volonté d'une biogéographie intégrative.
-
-L'ensemble des trois éléments jusqu'ici évoqués (environnement abiotique, interaction, évolution) peuvent également être étroitement associé. Grant et Grant 2006 rapportent le cas de la compétition entre trois espèces de pinsons (dits de Darwin) sur l'ile de Daphne (Galapagos) qui engendre une modification de la taille de leurs becs. Cette évolution liée à la compétition est elle même reliée à l'environnement abiotique car, par l'abondance ou l'absence de précipitations, il détermine la disponibilité des ressources et donc l'intensité de la compétition \cite{Grant2006}. A travers cet exemple, nous comprenons l'importance d'inclure l'ensemble des différents processus pour construire un modèle intégratif en biogéographie. Un tel modèle serait capable, par exemple, de renseigner les risques d'exclusion compétitive dans l'exemple décrit par Grant et Grant.
-
-
-L'ajout des interactions dans un modèle incluant l'environnement abiotique interroge la relation que les deux processus entretiennent. Si les espèces n'ont pas les mêmes performances dans différents milieux du fait de leur physiologie, pour les mêmes espèces considérées, les réseaux n'ont pas de raison d'être identiques d'un milieu à un autre. C'est sur ce fait que Poisot \textit{et al.} 2012 ont proposé une mesure de dissimilarité des réseaux \cite{Poisot2012}. Defossez \textit{et al.} montrent que les interactions négatives entre l'hêtre commun (\textit{Fagus Sylvaitca}) et les micro-organismes du sol diminuent avec l'altitude  \cite{Defossez2011}. Ainsi, les contraintes biotiques sont à relier à l'environnement \cite{Brooker2006,Canham2006} et un modèle intégratif doit donner un cadre cohérent à ces rétroactions entre processus. Enfin, l'importance des interactions est à mettre en relation avec l'échelle considérée \cite{Peterson2011}. Pour deux espèces en interaction, plus l'échelle d'étude est large, moins les effets des interactions locales sont susceptibles d'être capturés, le pouvoir explicatif de la présence d'une espèce sur l'autre peut être alors discutable \cite{Araujo2007}. Comprendre quels sont les processus à prendre en compte aux différentes échelles spatio-temporelles et comprendre comment le changement d'échelle affecte nous prédictions est aussi un véritable challenge en biogéographie \cite{Martinez2012}.
-
-
-
-
-
-### Vers une théorie plus intégrative
-
-Dans la réédition de 2001 [] Wilson rappelle que le problème :
-
-> "The flaws of the book lie in its oversimplification and incompleteness, which are endemic to most efforts at theory and synthesis."
-
-
-L'effort théorique nécessaire en biogéographie porte sur l'intégration ordonnée de concepts clés issus de différents champs de l'écologie \cite{Thuiller2013}. Ainsi, alors que les conditions climatiques et plus généralement la géographie physique sont classiquement évoquées pour expliquer la répartition des espèces \cite{Kearney2004}, les interactions entre espèces sont quant à elles souvent occultées. De même, bien que les processus évolutifs soient souvent évoqués comme déterminants majeurs de la diversité des espèces \cite{Rosindell2011}, leurs effets à court terme sont souvent ignorés \cite{Parmesan2006} dans les scénarios décrivant la biodiversité de demain \cite{Lavergne2010}. La difficulté principale est alors de produire des modèles (théoriques en première instance) qui intègrent l'ensemble des processus et les relations qu'ils entretient \cite{Thuiller2013} tout en gardant une relative simplicité. Une théorie intégrative en biogéographie pourrait être le meilleur point d'ancrage pour construire de nouvelles approches appliquées. Avec une telle théorie en main, nous pourrions aller vers l'enjeux majeurs de ces dernières années en biogéographie : relâcher les hypothèses que les modèles classiques de répartitions des espèces d'aujourd'hui utilisent (notamment en occultant les interactions) pour prédire la biodiversité de demain \cite{Guisan2011}.
+L'effort essentieel de ma thèse porté sur la caractéristion du questionment sur les interactiosn d'espèces ma conclusio qu'il y a un porblème d'échelle biologique.
 
 Dans le projet ici présenté, nous proposons de construire des modèles théoriques plus intégratifs en repartant d'un modèle théorique classique, celui de la théorie de la biogéographie des îles proposée par MacArthur et Wilson \cite{MacArthur1967}. Dans un premier temps, nous y ajoutons les interactions entre espèces et une relation explicite avec l'environnement abiotique au travers d'une approche communauté centrée qui étend le modèle classique. Dans un second temps, nous combinons une approche population centrée et les processus évolutifs pour une biogéographie insulaire plus mécaniste. Enfin, au regard des enjeux que soulève le rôle des interactions entre espèces dans la construction de la biodiversité, nous réfléchissons sur l'inférence d'espèces interdépendantes.
 
@@ -38,15 +20,45 @@ différentes théories pour différentes échelles ??
 
 De part son pouvoir explicatif et son élégance, le modèle de MacArthur et Wilson est un point de départ approprié pour construire des modèles plus intégratifs en intégrant explicitement des processus écologiques et évolutifs. Cette idée n'est pas nouvelle et les auteurs de la TIB ont étudié un certain nombre de processus écologiques. Notamment, ils ont intégré les phénomènes de spéciation \cite{MacArthur1967} et réfléchis sur l'importance des interactions quant à la répartition des espèces \cite{MacArthur1984}. Néanmoins, dans le modèle classique, l'ensemble de ces aspects sont absents, l'idée que les processus écologiques importent peu aux larges échelles domine. Nous allons, dans ce projet, à l'encontre de cette idée et proposons de construire des modèles intégratifs qui étendent la TIB.
 
+## Interaction des différents mécanismes
 
-## L'information des réseaux {-}
+L'interaction de différents
+L'ensemble des trois éléments jusqu'ici évoqués (environnement abiotique, interaction, évolution) peuvent également être étroitement associé. Grant et Grant 2006 rapportent le cas de la compétition entre trois espèces de pinsons (dits de Darwin) sur l'ile de Daphne (Galapagos) qui engendre une modification de la taille de leurs becs. Cette évolution liée à la compétition est elle même reliée à l'environnement abiotique car, par l'abondance ou l'absence de précipitations, il détermine la disponibilité des ressources et donc l'intensité de la compétition \cite{Grant2006}. A travers cet exemple, nous comprenons l'importance d'inclure l'ensemble des différents processus pour construire un modèle intégratif en biogéographie. Un tel modèle serait capable, par exemple, de renseigner les risques d'exclusion compétitive dans l'exemple décrit par Grant et Grant.
+
+
+## Vers une théorie en intégrative de la biogéographie {-}
+
+Dans la réédition de 2001 [] Wilson rappelle que le problème :
+
+> "The flaws of the book lie in its oversimplification and incompleteness, which are endemic to most efforts at theory and synthesis."
+
+
+Suite à mes travaux présenté dans cette thèse, je pense avoir réellemnt compris les lacunes théoriques de la Biogéography relevés il y a plus de 15 ans par Mark Lomolino [@Lomolino2000]. En ouverture d'un numéro spécial dédié à la biogéographie des îles, il insistait sur le beosin d,introduire davantage d'écologie dans la biogéogrpahie. Je me range de son côté et de celui de différents auteurs pour voir une modèle en biogéorgaohie articluer autor de trois composantes fondamentales de la biogéographie:  migration, extinction et évolution. Comment le reste de l'écologue affecte et influence l'interplay de ces processus...
+
+L'effort théorique nécessaire en biogéographie porte sur l'intégration ordonnée de concepts clés issus de différents champs de l'écologie \cite{Thuiller2013}. Ainsi, alors que les conditions climatiques et plus généralement la géographie physique sont classiquement évoquées pour expliquer la répartition des espèces \cite{Kearney2004}, les interactions entre espèces sont quant à elles souvent occultées. De même, bien que les processus évolutifs soient souvent évoqués comme déterminants majeurs de la diversité des espèces \cite{Rosindell2011}, leurs effets à court terme sont souvent ignorés \cite{Parmesan2006} dans les scénarios décrivant la biodiversité de demain \cite{Lavergne2010}. La difficulté principale est alors de produire des modèles (théoriques en première instance) qui intègrent l'ensemble des processus et les relations qu'ils entretient \cite{Thuiller2013} tout en gardant une relative simplicité. Une théorie intégrative en biogéographie pourrait être le meilleur point d'ancrage pour construire de nouvelles approches appliquées. Avec une telle théorie en main, nous pourrions aller vers l'enjeux majeurs de ces dernières années en biogéographie : relâcher les hypothèses que les modèles classiques de répartitions des espèces d'aujourd'hui utilisent (notamment en occultant les interactions) pour prédire la biodiversité de demain \cite{Guisan2011}.
+
+
+
+
+<!-- Le travail de Gotelli \textit{et al.} est également un exemple de démarche intégrative où un nombre important de processus peuvent être inclus via un système de combinaison de scénarios et tester par simulations stochastiques \cite{Gotelli2009}. Enfin, en construisant des réseaux basés sur la cooccurrence des espèces, Araújo \textit{et al.} revisitent le problème de l'interdépendance des espèces \cite{Araujo2011} : ils s'interrogent sur la résistance des réseaux de cooccurrence obtenus face aux futurs changement climatiques, ils mettent ainsi en évidence des risques accrus de perte des espèces les moins connectés (celles qui cooccurent moins). Ces travaux témoignent de la volonté d'une biogéographie intégrative.
+
+
+L'ajout des interactions dans un modèle incluant l'environnement abiotique interroge la relation que les deux processus entretiennent. Si les espèces n'ont pas les mêmes performances dans différents milieux du fait de leur physiologie, pour les mêmes espèces considérées, les réseaux n'ont pas de raison d'être identiques d'un milieu à un autre. C'est sur ce fait que Poisot \textit{et al.} 2012 ont proposé une mesure de dissimilarité des réseaux \cite{Poisot2012}. Defossez \textit{et al.} montrent que les interactions négatives entre l'hêtre commun (\textit{Fagus Sylvaitca}) et les micro-organismes du sol diminuent avec l'altitude  \cite{Defossez2011}. Ainsi, les contraintes biotiques sont à relier à l'environnement \cite{Brooker2006,Canham2006} et un modèle intégratif doit donner un cadre cohérent à ces rétroactions entre processus. Enfin, l'importance des interactions est à mettre en relation avec l'échelle considérée \cite{Peterson2011}. Pour deux espèces en interaction, plus l'échelle d'étude est large, moins les effets des interactions locales sont susceptibles d'être capturés, le pouvoir explicatif de la présence d'une espèce sur l'autre peut être alors discutable \cite{Araujo2007}. Comprendre quels sont les processus à prendre en compte aux différentes échelles spatio-temporelles et comprendre comment le changement d'échelle affecte nous prédictions est aussi un véritable challenge en biogéographie \cite{Martinez2012}. -->
+
+
+
+
+
+
+
+
 
 ## Des contraintes physiologiques {-}
 
 ## L'abstraction des espèces
 
 L'abstraction de l'espèce @Poisot2015 pour des questions centrales :
-- quelles espceace av interagir avce qui ?%
+- quelles espèce va interagir avce qui ?%
 
 
 
@@ -116,7 +128,7 @@ On nous fait miroiter que finalement que l'érosion de la biodiversité est dram
 Reconfiguration des écosystèmes naturelle li y a eu d'autre crise avant. Finalemnt avec du catastrophisme, la question s'est si nous on ira mal. On est grons pour la taille de la planète peut être plus suceptibel è l'extinciton que l'on pense. Maid ce ,est pas le pessismise qui m'importe. - Et si on faisait rien pour le frelon asiatique ?
 
 
-## Transient  {-}
+## Transients  {-}
 
 
 
@@ -135,7 +147,7 @@ Reconfiguration des écosystèmes naturelle li y a eu d'autre crise avant. Final
 
 
 
-# Faire une écologie prédictive? {-}
+# Vers une écologie prédictive? {-}
 
 ## Un espoir {-}
 
@@ -194,22 +206,23 @@ mecanisme => diversité de milieu
 ### Prédire des communautés
 
 
-
-## Contraintes énergétiques
-
-Moi je pars vers ça....
-
-
-=> des interactions changer de paradigme
-=> abstraction des espèces
-
-
-
 ## Les dangers d'aller trop vite {-}
 
 > There is also a danger that predictions grow faster than our understanding of ecological systems, resulting in a gap between the scientists generating the predictions and stakeholders using them  
 
 "Predictive ecology in a changing world" [@Mouquet2015]
+
+
+
+
+## Contraintes énergétiques
+
+Moi je pars vers ça..
+
+
+=> des interactions changer de paradigme
+=> abstraction des espèces
+
 
 
 
