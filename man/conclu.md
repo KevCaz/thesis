@@ -226,7 +226,7 @@ Moi je pars vers ça..
 
 
 
-
+avoir des erreurs quantifiables
 
 
 

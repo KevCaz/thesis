@@ -1,7 +1,6 @@
 ##-- Introduction
 MD = intro.md
 PDF = ../intro.pdf
-DOCX =../intro.docx
 INTR = intro.tex
 ##-- Conclusion
 MDC = conclu.md
@@ -28,7 +27,7 @@ CSL = elsevier-harvard.csl
 PFLAGS = --filter pandoc-fignos --filter pandoc-tablenos --filter pandoc-eqnos --natbib --bibliography=$(REF) --csl=$(CSL) --latex-engine=pdflatex
 
 
-ALL: $(PDF) $(PDFC) $(DOCX) $(THES) $(CHP3) $(CHP4)
+ALL: $(PDF) $(PDFC) $(THES) $(CHP3) $(CHP4)
 
 $(THES): $(SRC) $(INTR) $(CHP3) $(CHP4) $(CCL)
 	pdflatex $(SRC)
@@ -69,9 +68,6 @@ $(CHP4MN): $(MD4)
 		pandoc $< -o $@ $(PFLAGS)
 
 $(PDF): $(MD)
-	pandoc $< -o $@ $(PFLAGS)
-
-$(DOCX): $(MD)
 	pandoc $< -o $@ $(PFLAGS)
 
 $(PDFC): $(MDC)

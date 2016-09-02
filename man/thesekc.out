@@ -53,64 +53,67 @@
 \BOOKMARK [1][-]{section.2.6}{Introduction}{chapter.2}% 53
 \BOOKMARK [1][-]{section.2.7}{Definitions}{chapter.2}% 54
 \BOOKMARK [1][-]{section.2.8}{ACKNOWLEDGMENTS}{chapter.2}% 55
-\BOOKMARK [1][-]{section.2.9}{Context}{chapter.2}% 56
-\BOOKMARK [1][-]{section.2.10}{Material and Methods}{chapter.2}% 57
-\BOOKMARK [2][-]{subsection.2.10.1}{Datasets}{section.2.10}% 58
-\BOOKMARK [2][-]{subsection.2.10.2}{Measures of co-occurrence}{section.2.10}% 59
-\BOOKMARK [1][-]{section.2.11}{Results}{chapter.2}% 60
-\BOOKMARK [2][-]{subsection.2.11.1}{Discussion}{section.2.11}% 61
-\BOOKMARK [2][-]{subsection.2.11.2}{Box 1}{section.2.11}% 62
-\BOOKMARK [2][-]{subsection.2.11.3}{Tables}{section.2.11}% 63
-\BOOKMARK [1][-]{section.2.12}{Figures}{chapter.2}% 64
-\BOOKMARK [1][-]{section.2.13}{Material and methods}{chapter.2}% 65
-\BOOKMARK [2][-]{subsection.2.13.1}{Datasets}{section.2.13}% 66
-\BOOKMARK [2][-]{subsection.2.13.2}{Building metawebs}{section.2.13}% 67
-\BOOKMARK [2][-]{subsection.2.13.3}{Co-occurrence measurement}{section.2.13}% 68
-\BOOKMARK [2][-]{subsection.2.13.4}{Hypergeometric distribution}{section.2.13}% 69
-\BOOKMARK [2][-]{subsection.2.13.5}{GLM and RF}{section.2.13}% 70
-\BOOKMARK [1][-]{section.2.14}{Supporting Tables}{chapter.2}% 71
-\BOOKMARK [1][-]{section.2.15}{Supporting Figures}{chapter.2}% 72
-\BOOKMARK [0][-]{chapter.3}{ \040Towards a metabolic theory of biogeography}{}% 73
-\BOOKMARK [1][-]{subsection.3.0.1}{R\351sum\351 en fran\347ais du troisi\350me article}{chapter.3}% 74
-\BOOKMARK [2][-]{subsection.3.0.2}{Publication envisag\351e}{subsection.3.0.1}% 75
-\BOOKMARK [1][-]{section.3.1}{Introduction}{chapter.3}% 76
-\BOOKMARK [1][-]{section.3.2}{Model}{chapter.3}% 77
-\BOOKMARK [2][-]{subsection.3.2.1}{Primary producers and habitat heterogeneity}{section.3.2}% 78
-\BOOKMARK [2][-]{subsection.3.2.2}{Metawebs}{section.3.2}% 79
-\BOOKMARK [2][-]{subsection.3.2.3}{Migration of species from the metaweb}{section.3.2}% 80
-\BOOKMARK [2][-]{subsection.3.2.4}{Energetic constraints on local food webs}{section.3.2}% 81
-\BOOKMARK [2][-]{subsection.3.2.5}{Energy fluxes and transfer efficiency}{section.3.2}% 82
-\BOOKMARK [2][-]{subsection.3.2.6}{Extinctions}{section.3.2}% 83
-\BOOKMARK [2][-]{subsection.3.2.7}{Simulations}{section.3.2}% 84
-\BOOKMARK [1][-]{section.3.3}{Results}{chapter.3}% 85
-\BOOKMARK [0][-]{section*.67}{Conclusion g\351n\351rale}{}% 86
-\BOOKMARK [1][-]{section*.68}{Introduire davantage d'\351cologie des communaut\351s dans les mod\350les de distribution d'esp\350ce}{section*.67}% 87
-\BOOKMARK [2][-]{section*.69}{L'information des r\351seaux}{section*.68}% 88
-\BOOKMARK [2][-]{subsection.3.3.1}{Interaction des diff\351rents m\351canismes}{section*.68}% 89
-\BOOKMARK [2][-]{section*.70}{Vers une th\351orie en int\351grative de la biog\351ographie}{section*.68}% 90
-\BOOKMARK [2][-]{section*.71}{Des contraintes physiologiques}{section*.68}% 91
-\BOOKMARK [2][-]{subsection.3.3.2}{L'abstraction des esp\350ces}{section*.68}% 92
-\BOOKMARK [2][-]{section*.72}{Traits fonctionnels}{section*.68}% 93
-\BOOKMARK [2][-]{section*.73}{Des donn\351es nouvelles}{section*.68}% 94
-\BOOKMARK [1][-]{section*.74}{Les d\351fis \340 relever dans un monde en changement}{section*.67}% 95
-\BOOKMARK [2][-]{section*.75}{Une \351rosion de la biodiversit\351 affolantes}{section*.74}% 96
-\BOOKMARK [2][-]{subsection.3.3.3}{Avons-nous des espoirs vains ?}{section*.74}% 97
-\BOOKMARK [2][-]{section*.76}{Des \351cosyst\350mes boulevers\351s}{section*.74}% 98
-\BOOKMARK [2][-]{section*.77}{Transients}{section*.74}% 99
-\BOOKMARK [1][-]{section*.78}{Vers une \351cologie pr\351dictive?}{section*.67}% 100
-\BOOKMARK [2][-]{section*.79}{Un espoir}{section*.78}% 101
-\BOOKMARK [2][-]{section*.80}{Cat\351gories}{section*.78}% 102
-\BOOKMARK [2][-]{section*.81}{Les produits de l'\351volution}{section*.78}% 103
-\BOOKMARK [2][-]{section*.82}{Quels types de pr\351dictions pouvons-nous faire?}{section*.78}% 104
-\BOOKMARK [2][-]{section*.83}{Les dangers d'aller trop vite}{section*.78}% 105
-\BOOKMARK [2][-]{subsection.3.3.4}{Contraintes \351nerg\351tiques}{section*.78}% 106
-\BOOKMARK [0][-]{annexe.1}{ \040Comment la biodiversit\351 s'installe en territoires isol\351s}{}% 107
-\BOOKMARK [1][-]{section.4.4}{Le mod\350le de MacArthur et Wilson}{annexe.1}% 108
-\BOOKMARK [1][-]{section.4.5}{Comment un mod\350le d\351terministe \351merge-t-il de ph\351nom\350nes al\351atoires}{annexe.1}% 109
-\BOOKMARK [2][-]{subsection.4.5.1}{Mod\350le stochastique?}{section.4.5}% 110
-\BOOKMARK [2][-]{subsection.4.5.2}{Les objets math\351matiques requis}{section.4.5}% 111
-\BOOKMARK [2][-]{subsection.4.5.3}{Les briques \351l\351mentaires du mod\350le stochastique}{section.4.5}% 112
-\BOOKMARK [2][-]{subsection.4.5.4}{Assemblons les briques!}{section.4.5}% 113
-\BOOKMARK [2][-]{subsection.4.5.5}{Retrouvons le mod\350le classique}{section.4.5}% 114
-\BOOKMARK [1][-]{section.4.6}{Applications et perspectives}{annexe.1}% 115
-\BOOKMARK [0][-]{section*.88}{R\351f\351rences}{}% 116
+\BOOKMARK [0][-]{chapter.3}{ \040Do interacting species co-occur differently from not-interacting species?}{}% 56
+\BOOKMARK [1][-]{section.3.1}{R\351sum\351 en fran\347ais du troisi\350me article}{chapter.3}% 57
+\BOOKMARK [2][-]{subsection.3.1.1}{Publication envisag\351e}{section.3.1}% 58
+\BOOKMARK [1][-]{section.3.2}{Context}{chapter.3}% 59
+\BOOKMARK [1][-]{section.3.3}{Material and Methods}{chapter.3}% 60
+\BOOKMARK [2][-]{subsection.3.3.1}{Datasets}{section.3.3}% 61
+\BOOKMARK [2][-]{subsection.3.3.2}{Measures of co-occurrence}{section.3.3}% 62
+\BOOKMARK [1][-]{section.3.4}{Results}{chapter.3}% 63
+\BOOKMARK [2][-]{subsection.3.4.1}{Discussion}{section.3.4}% 64
+\BOOKMARK [2][-]{subsection.3.4.2}{Box 1}{section.3.4}% 65
+\BOOKMARK [2][-]{subsection.3.4.3}{Tables}{section.3.4}% 66
+\BOOKMARK [1][-]{section.3.5}{Figures}{chapter.3}% 67
+\BOOKMARK [1][-]{section.3.6}{Material and methods}{chapter.3}% 68
+\BOOKMARK [2][-]{subsection.3.6.1}{Datasets}{section.3.6}% 69
+\BOOKMARK [2][-]{subsection.3.6.2}{Building metawebs}{section.3.6}% 70
+\BOOKMARK [2][-]{subsection.3.6.3}{Co-occurrence measurement}{section.3.6}% 71
+\BOOKMARK [2][-]{subsection.3.6.4}{Hypergeometric distribution}{section.3.6}% 72
+\BOOKMARK [2][-]{subsection.3.6.5}{GLM and RF}{section.3.6}% 73
+\BOOKMARK [1][-]{section.3.7}{Supporting Tables}{chapter.3}% 74
+\BOOKMARK [1][-]{section.3.8}{Supporting Figures}{chapter.3}% 75
+\BOOKMARK [0][-]{chapter.4}{ \040Towards a metabolic theory of biogeography}{}% 76
+\BOOKMARK [1][-]{subsection.4.0.1}{R\351sum\351 en fran\347ais du troisi\350me article}{chapter.4}% 77
+\BOOKMARK [2][-]{subsection.4.0.2}{Publication envisag\351e}{subsection.4.0.1}% 78
+\BOOKMARK [1][-]{section.4.1}{Introduction}{chapter.4}% 79
+\BOOKMARK [1][-]{section.4.2}{Model}{chapter.4}% 80
+\BOOKMARK [2][-]{subsection.4.2.1}{Primary producers and habitat heterogeneity}{section.4.2}% 81
+\BOOKMARK [2][-]{subsection.4.2.2}{Metawebs}{section.4.2}% 82
+\BOOKMARK [2][-]{subsection.4.2.3}{Migration of species from the metaweb}{section.4.2}% 83
+\BOOKMARK [2][-]{subsection.4.2.4}{Energetic constraints on local food webs}{section.4.2}% 84
+\BOOKMARK [2][-]{subsection.4.2.5}{Energy fluxes and transfer efficiency}{section.4.2}% 85
+\BOOKMARK [2][-]{subsection.4.2.6}{Extinctions}{section.4.2}% 86
+\BOOKMARK [2][-]{subsection.4.2.7}{Simulations}{section.4.2}% 87
+\BOOKMARK [1][-]{section.4.3}{Results}{chapter.4}% 88
+\BOOKMARK [0][-]{section*.67}{Conclusion g\351n\351rale}{}% 89
+\BOOKMARK [1][-]{section*.68}{Introduire davantage d'\351cologie des communaut\351s dans les mod\350les de distribution d'esp\350ce}{section*.67}% 90
+\BOOKMARK [2][-]{section*.69}{L'information des r\351seaux}{section*.68}% 91
+\BOOKMARK [2][-]{subsection.4.3.1}{Interaction des diff\351rents m\351canismes}{section*.68}% 92
+\BOOKMARK [2][-]{section*.70}{Vers une th\351orie en int\351grative de la biog\351ographie}{section*.68}% 93
+\BOOKMARK [2][-]{section*.71}{Des contraintes physiologiques}{section*.68}% 94
+\BOOKMARK [2][-]{subsection.4.3.2}{L'abstraction des esp\350ces}{section*.68}% 95
+\BOOKMARK [2][-]{section*.72}{Traits fonctionnels}{section*.68}% 96
+\BOOKMARK [2][-]{section*.73}{Des donn\351es nouvelles}{section*.68}% 97
+\BOOKMARK [1][-]{section*.74}{Les d\351fis \340 relever dans un monde en changement}{section*.67}% 98
+\BOOKMARK [2][-]{section*.75}{Une \351rosion de la biodiversit\351 affolantes}{section*.74}% 99
+\BOOKMARK [2][-]{subsection.4.3.3}{Avons-nous des espoirs vains ?}{section*.74}% 100
+\BOOKMARK [2][-]{section*.76}{Des \351cosyst\350mes boulevers\351s}{section*.74}% 101
+\BOOKMARK [2][-]{section*.77}{Transients}{section*.74}% 102
+\BOOKMARK [1][-]{section*.78}{Vers une \351cologie pr\351dictive?}{section*.67}% 103
+\BOOKMARK [2][-]{section*.79}{Un espoir}{section*.78}% 104
+\BOOKMARK [2][-]{section*.80}{Cat\351gories}{section*.78}% 105
+\BOOKMARK [2][-]{section*.81}{Les produits de l'\351volution}{section*.78}% 106
+\BOOKMARK [2][-]{section*.82}{Quels types de pr\351dictions pouvons-nous faire?}{section*.78}% 107
+\BOOKMARK [2][-]{section*.83}{Les dangers d'aller trop vite}{section*.78}% 108
+\BOOKMARK [2][-]{subsection.4.3.4}{Contraintes \351nerg\351tiques}{section*.78}% 109
+\BOOKMARK [0][-]{annexe.1}{ \040Comment la biodiversit\351 s'installe en territoires isol\351s}{}% 110
+\BOOKMARK [1][-]{section.5.4}{Le mod\350le de MacArthur et Wilson}{annexe.1}% 111
+\BOOKMARK [1][-]{section.5.5}{Comment un mod\350le d\351terministe \351merge-t-il de ph\351nom\350nes al\351atoires}{annexe.1}% 112
+\BOOKMARK [2][-]{subsection.5.5.1}{Mod\350le stochastique?}{section.5.5}% 113
+\BOOKMARK [2][-]{subsection.5.5.2}{Les objets math\351matiques requis}{section.5.5}% 114
+\BOOKMARK [2][-]{subsection.5.5.3}{Les briques \351l\351mentaires du mod\350le stochastique}{section.5.5}% 115
+\BOOKMARK [2][-]{subsection.5.5.4}{Assemblons les briques!}{section.5.5}% 116
+\BOOKMARK [2][-]{subsection.5.5.5}{Retrouvons le mod\350le classique}{section.5.5}% 117
+\BOOKMARK [1][-]{section.5.6}{Applications et perspectives}{annexe.1}% 118
+\BOOKMARK [0][-]{section*.88}{R\351f\351rences}{}% 119
