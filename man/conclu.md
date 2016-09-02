@@ -11,7 +11,7 @@ header-includes:
 
 ## L'information des réseaux {-}
 
-L'effort essentieel de ma thèse porté sur la caractéristion du questionment sur les interactiosn d'espèces ma conclusio qu'il y a un porblème d'échelle biologique.
+L'effort essentiel de ma thèse porté sur la caractéristion du questionment sur les interactiosn d'espèces ma conclusio qu'il y a un porblème d'échelle biologique.
 
 Dans le projet ici présenté, nous proposons de construire des modèles théoriques plus intégratifs en repartant d'un modèle théorique classique, celui de la théorie de la biogéographie des îles proposée par MacArthur et Wilson \cite{MacArthur1967}. Dans un premier temps, nous y ajoutons les interactions entre espèces et une relation explicite avec l'environnement abiotique au travers d'une approche communauté centrée qui étend le modèle classique. Dans un second temps, nous combinons une approche population centrée et les processus évolutifs pour une biogéographie insulaire plus mécaniste. Enfin, au regard des enjeux que soulève le rôle des interactions entre espèces dans la construction de la biodiversité, nous réfléchissons sur l'inférence d'espèces interdépendantes.
 
@@ -232,3 +232,5 @@ avoir des erreurs quantifiables
 
  <!-- Les ranges comme un fait (wallace chap 2) des espèces avec des larges avec des grandes ranges
  Loddigésie admirable (*Loddigesia mirabilis*) seul collibris de son genre vs Lièvre variable (*Lepus timidus*) -->
+
+<!-- La biogéographie est longtemps restée dans une phase d'hitoire naturelle, accumulant des connaissances sur la distribution des espèces et des groupes taxonimique d'ordre supérieur et sur la composition des biotes. Le raisonnemnt interprétatifs a été largement utilisé pour résoudre des problèmes singuliers grâce è l'histoire individuels des taxons et biotes. Cette activité descriptive continura sans ausun doute à être d'une importance fundamentak pour la science et une des aventures de toutes les entreprises scientifiques, et dans la richesse des détails qu'on déroulem plaisant esthétiquement. Mais la biogéographie est aussi dans une position dans une phase tout aussi intéressante d'expériences et de théorie.-->

@@ -24,148 +24,144 @@ Due à la nouveauté de nos résultats et la qualité des données j'envsage, J,
 \newpage
 \section{Context}\label{context}
 
-Biogeographers have long been fascinated by the picture of species
-distributions and questioned how it could have been made, i.e.~searching
-for the processes shaping biodiversity on Earth
-\citep{Engelbrecht2007, Tittensor2010}. Starting from the clear
-relationship between abiotic variables and the physiological constraints
-of organisms, large-scale studies have been conducted in a
-pattern-driven perspective making Biogeography a realm of correlations
-\citep{Gaston2000}. Such an approach has provided many valuable
-knowledge along with the development of efficient statistical tools.
-However, in the context of global changes, many researchers claim for
-strengthening the theoretical foundations of the field towards a
-biogeography mechanism-driven providing reliable biodiversity forecasts
-\citep{Lomolino2000, Thuiller2013, Violle2014}.
+Biogeographers are still debating about if the biotic interactions at
+the local scale impact large scale species distribution. If this is
+indeed the case, then we should expect pairs of species to exhibit
+non-random distribution at the large spatial scale. In order to test
+whether interactions influence species distributions, the simplest
+avenue is to investigate species co-distribution in light of their
+ecological relationships. Such investigation started with Diamond's
+original study stating that species interacting by competition should
+avoid each other in space, leading to a `checkerboard' distribution
+\citep{Diamond1975}. This idea was rapidly criticized for the lack of an
+adequate null hypothesis \citep{Connor1979, Gilpin1982} and has led to
+an historical controversy \citep{Hutchinson1959}. Nowadays, the observed
+co-distribution is compared to the co-distribution expected under random
+distribution, and strong significant associations (either positive or
+negative) are interpreted as evidence of ecological interactions.
 
-The importance of biotic constraints on species distribution are one of
-the many concerns regarding this request \citep{Godsoe2012, Araujo2014}.
-In order to test whether interactions influence species distributions,
-the simplest avenue is to investigate the species co-distribution in
-light of their ecological relationships. Such investigation started with
-Diamond's original study stating that species interacting by competition
-should avoid each other in space, leading to a `checkerboard'
-distribution \citep{Diamond1975}. This idea was rapidly criticized for
-the lack of an adequate null hypothesis \citep{Connor1979, Gilpin1982}.
-Nevertheless, the resulting debate captured the attention of
-biogeographers as it must unravel whether co-occurrence data are more
-than the sum of occurrence information of a set of species
-\citep{Clark2014}. The answer to this question as direct and major
-consequences: a negative one would support the use of classical species
-distribution models (hereafter SDMs, \citet{Elith2009}) that postulate
-the independence among species whereas a positive one would give credit
-to methods taking co-occurrence information as a proxy for ecological
-interactions \citep{Morales-Castilla2015} and would support the
-development of methods including network into species distribution
-models \citep{Ovaskainen2010, Pollock2014}.
-
-Recent theoretical developments have proposed mechanisms explaining how
-ecological interactions must affect the fundamental niche (see Box 1)
-and how they could impact occurrence data \citep{Holt2009, Araujo2014}.
-However, ranges of species are very often inferred from the realized
-niche which includes the impact of abiotic and biotic factors.
-Therefore, finding evidences of interaction signals may prove difficult
-which would explain the scarcity of studies reporting such effect (but
-see \citet{Gotelli2010}). Fortunately, the co-occurrence theory in
-interaction networks has been formalized and suggests that the
-repercussion of interactions in co-occurrence data depends on the
-structure of the network \citep{Cazelles2016}. Notably, the higher the
-degree of a species, \emph{i.e} the number of species which with it
-interacts, the trickier the detection of a signal of co-occurrence.
-Finding good correspondence between network topology and co-occurrence
-signal in empirical data would support the idea that interactions affect
+Species ranges are very often inferred from the realized distribution,
+which result from the joint impacts abiotic and biotic environmental
+factors along with dispersal limitations and historical contingencies
+\citep{Pulliam2000, Holt2009, Araujo2014}. Finding evidence of the
+effect of species interactions on distribution may prove technically
+difficult, which would explain the scarcity of studies reporting such
+effect (but see \citet{Gotelli2010}). Fortunately, recent developments
+in co-occurrence theory promises novel avenues in which highly
+dimensional species distribution data could be analyzed, accounting for
+the structure of the network of ecological interactions
+\citep{Cazelles2016}. It formalized the interpretation of fundamental
+and realized niches based on conditional and marginal occurrence
+probabilities (Box 1). Further, it proposed several testable
+predictions, including that the higher the degree of a species,
+\emph{i.e} the number of species which with it interacts, the weaker
+will be the detection of a signal of co-occurrence. Finding good
+correspondence between network topology and species associations in
+empirical data would support the idea that interactions affect
 geographic ranges, even if for many pairs of interacting species no
 significant co-occurrences are found.
 
-Here, we examined occurrence data in the light of these recent
-theoretical developments for five different datasets for which
-interactions are observed or assessed to determine whether ecological
-interactions impact the distribution of species. We report that the
-analysis of co-occurrence failed to clearly reveal a difference between
-pairs of interacting species and pairs of not-interacting species.
-However our results suggest that the degree of species influences our
-ability to detect significant association making co-occurrence
-information more than a collection of co-occurrence only for species
-with a limited number of link. Moreover, we discover a clear
-relationship between the co-occurrence strength of a species and the
-cumulated occupancy of the entire set of species with which a species
-interact. Interestingly, we point out that the relation vanishes when we
-used classical SDMs which questions the capacity of these approaches in
-capturing adequately species interactions. Our results reveal the
-existence of conditions under which interaction may or may not be
-detected in static co-occurrence data. This lead us to think that
-interaction in biogeography is not only a matter of scale but also a
-matter of relevant biological unit for which occurrence must be
-predicted.
+Despite the fantastic number of studies investigating co-occurrence in
+order to understand community assembly, the hypothesis that species
+interactions should result in non-random associations in space has never
+been tested formally. It is rather implicitly assumed in every
+investigation. Our objective in this study is therefore to test this at
+the scale of species range. We analyzed species association within five
+different datasets ranging from plant-seed dispersers, host-parasitoids,
+microbes, birds and forest trees. We quantify conditionnal co-occurrence
+for species that are known to interact and known to not interact
+directly. We report no difference between pairs of interacting species
+and pairs of not-interacting species. However our results suggest that
+the degree of a species in a network influences our ability to detect
+significant associations. Moreover, we discover a clear relationship
+between the strength of species associations and the cumulated occupancy
+of the entire set of species with which a species interact.
 
 \section{Material and Methods}\label{material-and-methods}
 
 \subsection{Datasets}\label{datasets}
 
-We analyzed five datasets spawning a large range of environmental
-conditions (see Fig S1 and SI Text), a large diversity of organisms and
-covering all fundamental type of interactions (see \citet{tbl:id}). Four
-of them came with observed interactions: the Willow Leaf Network (WLN),
-the Pitcher Plants Network (PPN), the Caribbean Hummingbirds Network
-(CHN), the French Breeding Birds Survey (FBBS). For these network, we
-derived metawebs, \emph{i.e}, the matrix recording all interactions, and
-computed three metrics: (1) the connectance of metawebs (proportion of
-links), the degree of species (number of links for one species) and the
-shortest-path between all pairs of species (the minimum number of link
-from one species to the other, see SI Text). For the North American
-Trees (NAT) datasets, we derive a distance based on functional traits
-(see table S1 and Fig S2). For the FBBS dataset, we also derived
-different trait-based distance (see table S2). For all datasets, we kept
-only species that were present at least on 1\% of the total number of
-sites (see SI Text).
+We analyzed five datasets spawning a large range of organsim and types
+of interactions (see \citet{tbl:id}), across an extensive gradient of
+environmental conditions (see Fig S1 and SI Text). Our criteria for
+selecting datasets were as follow: i) the occurrence data must have been
+collected at the local scale, it could not be derived from range maps;
+ii) data included observed absences; iii) occurrence was observed for
+all species, not only a singe layer; interactions were known a priori;
+v) since we are computing co-occurrences, which is typically a fairly
+rare event, we needed an elevated number of sampling units. Direct
+interactions were documented for four datasets and represented by
+networks of ecological interactions: the Willow Leaf Network (WLN), the
+Pitcher Plants Network (PPN), the Caribbean Hummingbirds Network (CHN),
+the French Breeding Birds Survey (FBBS). We derived metawebs for each
+network, \emph{i.e}, the matrix recording all interactions, and computed
+three metrics among species from a regional pool: the connectance of
+metawebs (proportion of realized interactions), the degree of species
+(number of links for one species) and the shortest-path between all
+pairs of species (the minimum number of link from one species to the
+other, see SI Text). For the North American Trees (NAT) dataset, we
+approximated competitive interactions by computing functional distance
+between every pair of species (see table S1 and Fig S2). Similar proxy
+for ecological interactions was also computed for the FBBS see table
+S2). Only species that were present at least on 1\% of the total number
+of observations were considered for the analysis (see SI Text).
 
-\subsection{Measures of co-occurrence}\label{measures-of-co-occurrence}
+\subsection{Quantifying co-occurrence}\label{quantifying-co-occurrence}
 
-For each pair of species, we determined the number of observed
-co-occurrence \(O_{i,j}\) and we calculated the expected co-occurrence
-values \(E_{i,j}\) and its standard deviation \(SD_{i,j}\) to compute
-the following Z-score \(O_{i,j}-E_{i,j}/SD_{i,j}\) \citep{Gilpin1982}.
-For this standardized metric of co-occurrence, positive (negative)
-values indicates more (less) co-occurrence than randomly expected.
-Expectations were derived using three different methods. First, we
-assumed that all sites were equivalent, meaning we occulted the
-potential influence of abiotic conditions. The distribution of
-co-occurrence for a limited number of sites have been already studied
-elsewhere \citep{Gilpin1982, Veech2013}, therefore, we used an
-hypergeometric distribution (see SI Text for further details). For the
-two other expected values, we used two different classical SDMs, namely,
-Generalized Linear Model (hereafter GLM) and Radom Forest (hereafter RF)
-in order to assign a probability of being presence in a given site for
-all species (see SI Text for more details and Fig S3 for the assessment
-of models' performances). With these two last scenario, we actually
-hypothesize that species may often co-occur simply because they have
-similar abiotic requirements which is basically what SDMs do.
+For each pair of species \(i\) and \(j\) we computed the number of
+observed co-occurrence \(O_{i,j}\) and the expected number of
+co-occurrence under independent distribution \(E_{i,j}\). Standard
+deviation \(SD_{i,j}\) We report the Z-score
+\(O_{i,j}-E_{i,j}/SD_{i,j}\) \citep{Gilpin1982}, a standardized metric
+of co-occurrence, with positive (negative) values indicating more (less)
+co-occurrence relative to the random expectation. Expectations were
+derived using three different methods. First, we assumed that all sites
+were equivalent, meaning we ignored the potential influence of abiotic
+conditions across the entire range. The observed co-occurrence is an
+estimate computed from a limited number of observations
+\citep{Gilpin1982, Veech2013} and therefore, we also considered an
+hypergeometric distribution, which corrects for limited sample size (see
+SI Text for further details). We used two different SDMs in order to
+account for the abiotic environment and correct the random expectation,
+namely, Generalized Linear Model (hereafter GLM) and Random Forest
+(hereafter RF - see SI Text for more details and Fig S3 for the
+assessment of models' performances). The correction using SDMs accounts
+for the fact that species may co-occur simply because they have similar
+abiotic requirements, irrespective of if they interact or not.
 
 \section{Results}\label{results}
 
-For two out of four datasets for which interactions were known, we
-obtained a clear difference between interacting and not-interacting
-species (\ref{fig:synth} panels A to D). Therefore, when integrating all
-pairs of species we did not obtain a clear evidence that direct
-interaction species co-occur differently from not-interacting one. For
-the WLN, distinguishing herbivore-willow interactions from
-herbivore-parasitoids revealed that the strength of co-occurrence was
-stronger for the former than the latter ones (\ref{fig:shtpth} A-B).
-Interestingly, we noticed that the higher the mean degree of species in
-the dataset, the more difficult the detection of a signal of
-interactions in co-occurrence was (\ref{fig:shtpth} A-D).
+We observed a clear difference in the strength of spatial associations
+between interacting and not-interacting species (\ref{fig:synth} panels
+A to D) for two out of four datasets for which direct interactions were
+known. In all cases, spatial associations were positive, indicating that
+interacting species are co-occurring more often that expected by chance,
+irrespective of the type of interaction. \% DG: what do you mean with
+the following sentence ? That if you do a C-Score you would not detect
+associations ? Therefore, when integrating all pairs of species we did
+not obtain a clear evidence that direct interaction species co-occur
+differently from not-interacting one. For the WLN, distinguishing
+herbivore-willow interactions from herbivore-parasitoids revealed that
+the strength of co-occurrence was stronger for the former than the
+latter ones (\ref{fig:shtpth} A-B). Interestingly, we noticed that the
+higher the mean degree of species in the dataset, the more difficult the
+detection of a signal of interactions in co-occurrence was
+(\ref{fig:shtpth} A-D).
 
-For the NAT and FBBS datasets for which we inferred a distance based on
-functional traits, we found that co-occurrence where higher for pairs of
-similar species (\ref{fig:synth} panels E and F). As similarity could be
-taken as a proxy for competition strength \citep{Morales-Castilla2015},
-this result suggests that competition is poorly detectable at large
-scale which is theoretically supported \citep{Araujo2014}. Therefore,
-co-occurrences of similar species are likely driven by the similarity of
-their abiotic requirements. The results for the FBBS dataset were
-identical irrespective the type of traits examined (Fig S4). This
-hypothesis was further supported by the decrease of the Z-score with the
-distance for both datasets (fig S6 A and D).
+We observed that the strength of spatial association was higher for
+pairs of similar species (\ref{fig:synth} panels E and F) for the NAT
+and FBBS datasets, for which we inferred a distance based on functional
+traits. Functional similarity is often interpreted as a proxy for
+competition strength \citep{Morales-Castilla2015}, which would suggest
+that competition is poorly detectable at large scale which is
+theoretically supported \citep{Araujo2014}. Interestingly however, the
+spatial association was positive, which is at the opposite of Diamond's
+hypothesis of the consequences of competition on spatial distribution.
+Therefore, co-occurrences of similar species are likely driven by the
+similarity of their abiotic requirements. The results for the FBBS
+dataset were identical irrespective the type of traits examined (Fig
+S4). This hypothesis was further supported by the decrease of the
+Z-score with the distance for both datasets (fig S6 A and D).
 
 For all datasets, we report that the distribution is concentrated but
 the Wilcoxon rank test we used (see SI Text) lead us to the distribution
@@ -178,22 +174,23 @@ disappeared. In the PPN dataset, we found that the signal is even
 reversed (\ref{fig:synth}) but the quality of the SDM approaches used
 were low (fig S3 B).
 
-When examining the Z-scores against the shortest path between preys
-(hosts) versus predators (pollinators), we report that the higher the
-number of links the less distinguishable observed co-occurrence are from
-random ones. For shortest paths higher than one, a large part of
-co-occurrence are non significant (\ref{fig:shtpth} A-D) as predicted by
-the theory, but the observed decay is steeper \citep{Cazelles2016}. We
-conclude that species separated by more than one link may be treated as
-independent species. The decay is similar when all pairs of species were
-taken into account (see Fig S5). Moreover when we calculated the mean
-degree in of predators (pollinators), we demonstrate the signal of
-co-occurrence for low shortest path is stronger for specialists
-(\ref{fig:shtpth} A) than for generalists (\ref{fig:shtpth} C)
-suggesting that the abundance of interactions may prevent us from
-detecting them in static occurrence data.
+We investigated if the strength of associations between species
+interacting indirectly decreases with the shortest path length between
+them.
 
-Finally, we analyze the mean Z-score of a predator (pollinator),
+Co-occurrence was not different from random distribution for pairs of
+species that are only interacting indirectly (shorthest path length
+­\textgreater{} 1) - \ref{fig:shtpth} A-D) as predicted by the theory,
+but the observed decay was steeper than anticipated
+\citep{Cazelles2016}. The decay is similar when all pairs of species
+were taken into account (see Fig S5). Moreover when we calculated the
+mean degree in of predators (pollinators), we also found for predators
+and poolinations that the signal of co-occurrence for low shortest path
+is stronger for specialists (\ref{fig:shtpth} A) than for generalists
+(\ref{fig:shtpth} C), suggesting that the abundance of interactions may
+prevent us from detecting them in static occurrence data.
+
+Finally, we analyzed the mean Z-score of a predator (pollinator),
 \emph{i.e} Z-scores averaged over all the set of its preys (host
 plants), against the total number of site covered by its preys (hots)
 (\ref{fig:degocc}). We report that when abiotic context is not taken
@@ -230,88 +227,93 @@ assemblage.
 
 \subsection{Discussion}\label{discussion}
 
-Our study demonstrate how the information of ecological networks can
-shed light upon static occurrence data over broad spatial scales.
-Although we noted that we cannot assert in general that interacting
-species co-occur differently from non-interacting one, we highlight the
-possibilities offer by asking alternative questions such as the impact
-of the abundance of interactions and the relative positions of two
-species within the network on their co-occurrence. Our results
-demonstrate that there is an imprint of ecological interactions on
-occurrence data but also that there are specific conditions under which
-they can be detected. Hence, we show that the signal of co-occurrence is
-blurred by the abundance of interactions. This has been envisioned by a
-recent theoretical work \citep{Cazelles2016} and stress the usefulness
-of such studies to propose ways to revisit co-occurrence data with
-additional information. Moreover, we also prove relevant the examination
-of a the range of a given predator against the range of the set of its
-preys rather that individual prey. This indicates that the role of
-ecological interactions may not only be a matter of spatial scale
-\citep{McGill2010} but also a matter of consistent biological unit to be
-predicted at over large spatial scales.
+Our study demonstrate how information on ecological interactions can
+shed light upon distribution over broad spatial scales. Although we
+reject the hypothesis that interacting species co-occur differently from
+non-interacting one once accounting for the abiotic environment, we
+highlight the possibilities offer by asking alternative questions such
+as the impact of the abundance of interactions and the relative
+positions of two species within the network on their co-occurrence. Our
+results demonstrate that there is an imprint of ecological interactions
+on occurrence data but also that there are specific conditions under
+which they can be detected. Hence, we find that the signal of
+co-occurrence is blurred by the number of interactions a species
+experience, in agreement with recent co-occurrence theory
+\citep{Cazelles2016}. As a consequence, the distribution of a given
+species is more strongly related to the distribution of the entire set
+of species it interacts with, than each species thaken individually.
+This indicates that the role of ecological interactions may not only be
+a matter of spatial scale \citep{McGill2010}, but also a matter of
+picking the most consistent biological unit to investigate distribution
+over large spatial scales.
 
-Classical SDMs approaches are based on the assumption that species are
-independent and focus one abiotic variables \citep{Jeschke2008} to
-propose scenarios of tomorrow's biodiversity. Emerging approaches
-propose to release this strong hypothesis by predicting a set of species
-as assemblage among which correlations are accounted for
-\citep{Pollock2014, Warton2015b}. The development of more powerful
-statistical tools is fundamental, however it can only provides a partial
-solution to improve range forecasting. A substantial part of the
-solution lies in the understanding of the role of ecological and
-evolutionary mechanisms shaping species distributions
+Species distribution models are based on the assumption that species are
+distributed independently from each other and that scenarios of
+tomorrow's biodiversity can be anticipated using abiotic variables only
+\citep{Jeschke2008}. Some recent developments in statistics relaxed this
+hypothesis by representing the distribution of assemblages, based on
+correlations between species \citep{Pollock2014, Warton2015b}. The
+development of these powerful statistical tools is essential, however it
+can only provide a partial solution to some limitations of SDms.\\
+A substantial part of the solution lies in the understanding of the role
+of ecological and evolutionary mechanisms shaping distributions
 \citep{Thuiller2013}. Here, we underline the need for not hypothesizing
 \emph{a priori} the independence among species. Rather, the assumption
 must be proved to apply, otherwise a relevant assemblage must be
-modeled. Here, we suggest that for generalist species, the assumption of
+modeled. We suggest that for generalist species, the assumption of
 independence is reasonable while for specialists the relative position
 with the other species within the network should help deciding which set
-of species are to be modeled. We claim for the integration of ecological
-information at the core of SDMs and we suggest that the amount of
-information to integrate should be a reasonable. Therefore, once
-identified, such information should greatly strengthen our predictions
-for a fair additional complexity into our SDMs.
+of species are to be modeled. We therefore suggest that a priori
+information on ecological interactions should be integrated in SDMs The
+integration of information should greatly strengthen our predictions for
+a fair additional complexity into our SDMs.
 
-Our results lead us to conclude that the abundance of interaction
-renders the assumption of independence valid which therefore simplifies
-the predictions. Interestingly, it has been recently highlighted that
-some allometric features of networks are better predicted when the
-species richness increases \citep{Berlow2009}. More than forty years
-ago, MacArthur similarly noted the following paradox ``How can a more
-complex community be easier to understand? A possible answer might be
-that the complex community has strong interactions among species so that
-the lives of the separate species are less independent than in a simple
-community. Where there is greater interdependence, patterns may be more
-conspicuous.'' \citep[p.199]{macarthur1972geographical}. In our study,
-the strong interactions among species ease the forecasting of
-biodiversity. However, under the ongoing mass extinction, a myriad of
-links vanishes while new ones emerge with the changes in the composition
-of local communities. Therefore, even if under current conditions the
-assumption of independence may be valid, under dramatic modifications of
-ecosystem as currently observed, it may often prove false. As a step
-forward, new biodiversity scenarios must not solely map the future
-ranges of individual species but the entire community including the
-consequences of potential extinction in term of community structure.
+Our results lead us to conclude that co-occurrence tends to the
+independence with increasing diversity of interactions. Only the
+specialized species are strongly associated with their partners, as
+generalists experience a much more diffuse constraint from interacting
+speceis.\\
+Similarly, it it has been recently highlighted that net species
+interaction strength better pairs of species is better predicted when
+the species richness increases \citep{Berlow2009}. Further, press
+perturbations applied to specialist species do have much stronger
+indirect impacts on the other species than perturbations applied to
+generalists (Montoya2009). All of these results are congruent with
+MacArthur's vision, who more than 40 years ago, noticed the following
+paradox \emph{``How can a more complex community be easier to
+understand? A possible answer might be that the complex community have
+strong interactions among species so that the lives of the separate
+species are less independent than in a simple community. Where there is
+greater interdependence, patterns may be more conspicuous.''}
+\citep[p.199]{macarthur1972geographical}. In our study, the strong
+interactions among species ease the forecasting of species distribution.
+However, under the ongoing mass extinction, a myriad of links vanishes
+while new ones emerge with the changes in the composition of local
+communities. Therefore, even if under current conditions the assumption
+of independence may be valid, under dramatic modifications of ecosystem
+as currently observed, it may often prove false. As a step forward, new
+biodiversity scenarios must not solely map the future ranges of
+individual species but the entire community including the consequences
+of potential extinction on community structure.
 
 \newpage
 
 \subsection{Box 1}\label{box-1}
 
-The fundamental niche is here described as the occurrence probability
+The fundamental niche is here defined as the occurrence probability
 under the assumptions that (1) biotic factors are not limiting occupancy
-and (2) that dispersion is unconstrained. In this case, only abiotic
-factors (such as water availability, temperature variability and edaphic
-variables) limits survival and/or reproduction success, and then the
-occurrence probability. Consequently, predators occupancy is computed
-assuming that preys are abundant enough all along the environmental
-gradient. Similarly, the fundamental niche of any prey is not influenced
-neither by predators nor by competitors.
+and (2) that dispersion is unlimited. In this case, only abiotic factors
+(such as water availability, temperature variability and edaphic
+variables) limit survival and/or reproduction success, and then the
+occurrence probability. Consequently, predator occupancy is represented
+under the assumtion that preys are abundant enough all along the
+environmental gradient. Similarly, the fundamental niche of any prey is
+not influenced neither by predators nor by its competitors.
 
-For a three species network made of one predator and its two preys, we
-derive the three fundamental niches \(f_i\) (\ref{fig:box1} A).
-Regarding the predator (species 3), we assume its prey are equivalent
-and that the presence of at least one prey is sufficient to release all
-the biological constraints:
+For a three species network made of one predator and two preys, we
+consider the three fundamental niches \(f_i\) (\ref{fig:box1} A). We
+consider preys are substituable and the presence of at least one prey is
+sufficient to sustain the predator:
 
 \[f_3(w)=P(X_3=1|X_2+X_1>0, G=w)\]
 
@@ -326,32 +328,35 @@ and:
 \[f_1(w)=P(X_1=1|X_3=0, G=w)\]
 
 Once projected on a map, the fundamental niche unravels the potential
-distribution of a species \citep{Kearney2004}. The expected distribution
-can be compared to real observations and could reveal whether dispersal
-limits and ecological interactions are prevalent in the occupancy
-dynamic of studied species. The realized niche (\ref{fig:box1} B)
-includes these factors.\\
+distribution of a species \citep{Kearney2004}.
+
+The expected distribution can be compared to real observations and could
+reveal whether dispersal limits and ecological interactions are
+prevalent in the occupancy dynamic of studied species. The realized
+niche (\ref{fig:box1} B) includes these factors.\\
 In our simplified example, fundamental and realized niches of preys are
-identical. The realized niche of the predator, \(r_3\), is controlled by
-the joint realized niches of its preys:
+identical. The realized niche of the predator, \(r_3\), is constrained
+by the joint realized niches of its preys:
 
 \[r_3(w)=f_3(w)\left(1-(1-r_1(w))(1-r_2(w))\right)\]
 
 The above expression may often be more complicated due to the size and
-the structure of the network. For instance, we do not consider the
-apparent competition between 1 and 2 although it must affect the
-distribution of all species. Integrating the impact of many interactions
-may be possible using occurrence probabilities of species assemblages
-rather than single species \citep{Cazelles2015b}. Integrating network
-information to shed light upon species distribution is also crucial to
-understand what kind of co-occurrence is biologically relevant. Consider
-as an example the co-occurrence between species 1 and 3: the
-co-occurrence may be strong if we restrict the analysis to the suitable
-conditions for species 1 but it must be weak if the entire environmental
-gradient is sampled. However, if we examine the co-occurrence between 3
-and the assemblage made of species 1 plus 2, the co-occurrence may
-always be strong. Although this is meaningful in a biological point of
-view, co-occurrence studies often remain focus on pairs of species.
+the structure of the interaction network. For instance, we do not
+consider the apparent competition between species 1 and 2, although it
+must affect their co-distribution. Integrating the impact of many
+interactions may be possible using occurrence probabilities of species
+assemblages rather than single species \citep{Cazelles2015b}.
+
+Integrating network information to shed light upon species distribution
+is also crucial to understand what circumstances where co-occurrence
+will be meaningful. Consider as an example the co-occurrence between
+species 1 and 3: the co-occurrence may be strong if we restrict the
+analysis to the suitable conditions for species 1 {[}GIVE THE RANGE ON
+THE FIGURE {]} but it must be weak if the entire environmental gradient
+is sampled. However, if we examine the co-occurrence between 3 and the
+assemblage made of species 1 plus 2, the co-occurrence will always be
+strong. Although this is meaningful from a biological point of view,
+co-occurrence studies often remain focus on pairs of species.
 
 \newpage
 

@@ -24,7 +24,7 @@ cex_txt <- 5/4
 cex_lb <- 2.4
 lwd_pt <- 3
 
-pdf(file=filename, width=wi2, height=.75*wi12)
+pdf(file=filename, width=wi2, height=.7*wi12)
 ##
 mat_lay <- rbind(3,4,5) %>% cbind(2, ., 6, 7) %>% rbind(1,.)
 layout(mat_lay, heights=c(0.25,1), widths=c(1,.95,0.2,.85))
@@ -34,9 +34,9 @@ par(mar=c(0,0,0,0), font=2)
 
 ## Titles
 plot(c(0,1), c(0,1), type="n", axes=FALSE, ann=FALSE)
-text(percX(2), .5, labels="Réservoire régional d'espèce", cex=cex_txt, pos=4)
-text(percX(52), .5, labels="Communauté locale", cex=cex_txt)
-text(percX(98), .5, labels="Taux de colonisation", cex=cex_txt, pos=2)
+text(percX(2), .5, labels="Réservoire régional d'espèce", cex=cex_txt+.2, pos=4)
+text(percX(52), .5, labels="Communauté locale", cex=cex_txt+.2)
+text(percX(98), .5, labels="Taux de colonisation", cex=cex_txt+.2, pos=2)
 
 ## Plot 1
 par(mar=c(1,1,0,0))

@@ -1,4 +1,4 @@
-\begin{thebibliography}{207}
+\begin{thebibliography}{209}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{\texttt{#1}}\fi
@@ -224,6 +224,9 @@ Cook, W.~M., Lane, K.~T., Foster, B.~L., Holt, R.~D., sep 2002. {Island theory,
   Letters 5~(5), 619--623.
 \newline\urlprefix\url{http://doi.wiley.com/10.1046/j.1461-0248.2002.00366.x}
 
+\bibitem[{Coyne and Orr(2004)}]{Coyne2004}
+Coyne, J.~A., Orr, H.~A., 2004. {Speciation}.
+
 \bibitem[{Davis et~al.(1998)Davis, Jenkinson, Lawton, Shorrocks, and
   Wood}]{Davis1998}
 Davis, A.~J., Jenkinson, L.~S., Lawton, J.~H., Shorrocks, B., Wood, S., feb
@@ -283,12 +286,6 @@ Ekl{\"{o}}f, A., Jacob, U., Kopp, J., Bosch, J., Castro-Urgal, R., Chacoff,
   16~(5), 577--583.
 \newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/23438174}
 
-\bibitem[{Elith and Graham(2009)}]{Elith2009}
-Elith, J., Graham, C.~H., apr 2009. {Do they? How do they? WHY do they differ?
-  On finding reasons for differing performances of species distribution
-  models}. Ecography 32~(1), 66--77.
-\newline\urlprefix\url{http://doi.wiley.com/10.1111/j.1600-0587.2008.05505.x}
-
 \bibitem[{Elith et~al.(2006)Elith, {H. Graham}, {P. Anderson}, Dud{\'{i}}k,
   Ferrier, Guisan, {J. Hijmans}, Huettmann, {R. Leathwick}, Lehmann, Li, {G.
   Lohmann}, {A. Loiselle}, Manion, Moritz, Nakamura, Nakazawa, {McC. M.
@@ -337,11 +334,6 @@ Fordham, D.~A., Ak{\c{c}}akaya, H.~R., Brook, B.~W., Rodr{\'{i}}guez, A.,
   M.~B., jul 2013. {Adapted conservation measures are required to save the
   Iberian lynx in a changing climate}. Nature Climate Change 3~(10), 899--903.
 \newline\urlprefix\url{http://www.nature.com/doifinder/10.1038/nclimate1954}
-
-\bibitem[{Gaston(2000)}]{Gaston2000}
-Gaston, K.~J., may 2000. {Global patterns in biodiversity.} Nature 405~(6783),
-  220--7.
-\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/10821282}
 
 \bibitem[{Ga{\"{u}}z{\`{e}}re et~al.(2015)Ga{\"{u}}z{\`{e}}re, Jiguet, and
   Devictor}]{Gauzere2015}
@@ -400,20 +392,18 @@ Grant, P.~R., Grant, B.~R., 2008. {How and Why Species Multiply: The Radiation
   University Press.
 \newline\urlprefix\url{https://books.google.ca/books?id=h5urQiWUB7AC}
 
-\bibitem[{Gravel et~al.(2011{\natexlab{a}})Gravel, Canard, Guichard, and
-  Mouquet}]{Gravel2011a}
-Gravel, D., Canard, E., Guichard, F., Mouquet, N., may 2011{\natexlab{a}}.
-  {Persistence Increases with Diversity and Connectance in Trophic
-  Metacommunities}. PLoS ONE 6~(5), e19374.
-\newline\urlprefix\url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3103501{\&}tool=pmcentrez{\&}rendertype=abstract
-  http://dx.plos.org/10.1371/journal.pone.0019374}
-
 \bibitem[{Gravel et~al.(2006)Gravel, Canham, Beaudet, and
   Messier}]{Gravel2006a}
 Gravel, D., Canham, C.~D., Beaudet, M., Messier, C., apr 2006. {Reconciling
   niche and neutrality: the continuum hypothesis.} Ecology letters 9~(4),
   399--409.
 \newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/16623725}
+
+\bibitem[{Gravel et~al.(2011{\natexlab{a}})Gravel, Guichard, and
+  Hochberg}]{Gravel2011a}
+Gravel, D., Guichard, F., Hochberg, M.~E., jun 2011{\natexlab{a}}. {Species
+  coexistence in a variable world.} Ecology letters, 828--839.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/21682832}
 
 \bibitem[{Gravel et~al.(2011{\natexlab{b}})Gravel, Massol, Canard, Mouillot,
   and Mouquet}]{Gravel2011}
@@ -536,6 +526,10 @@ Holt, R.~D., Barfield, M., apr 2009. {Trophic interactions and range limits:
   Society 276~(1661), 1435--1442.
 \newline\urlprefix\url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2677217{\&}tool=pmcentrez{\&}rendertype=abstract}
 
+\bibitem[{Holyoak et~al.(2005)Holyoak, Leibold, and Holt}]{Holyoak2005}
+Holyoak, M., Leibold, M.~A., Holt, R.~D., 2005. {Metacommunities: Spatial
+  Dynamics And Ecological Communities}. University of Chicago Press.
+
 \bibitem[{Hortal et~al.(2011)Hortal, Diniz-Filho, Bini, Rodr{\'{i}}guez,
   Baselga, Nogu{\'{e}}s-Bravo, Rangel, Hawkins, and Lobo}]{Hortal2011}
 Hortal, J., Diniz-Filho, J. A.~F., Bini, L.~M., Rodr{\'{i}}guez, M.~{\'{A}}.,
@@ -568,6 +562,11 @@ Hurlbert, A.~H., Stegen, J.~C., 2014. {When should species richness be energy
 \bibitem[{Hutchinson(1957)}]{Hutchinson1957}
 Hutchinson, G.~E., 1957. {Concluding remarks. Cold Spring Harbor Symposium}.
   Quantitative Biology 22, 415--427.
+
+\bibitem[{Hutchinson(1959)}]{Hutchinson1959}
+Hutchinson, G.~E., jan 1959. {Homage to Santa Rosalia or Why Are There So Many
+  Kinds of Animals?} The American Naturalist 93~(870), 145.
+\newline\urlprefix\url{http://www.journals.uchicago.edu/doi/abs/10.1086/282070}
 
 \bibitem[{Jabot and Bascompte(2012)}]{Jabot2012}
 Jabot, F., Bascompte, J., mar 2012. {Bitrophic interactions shape biodiversity
@@ -830,6 +829,19 @@ Mouillot, D., Bellwood, D.~R., Baraloto, C., Chave, J., Galzin, R.,
   e1001569.
 \newline\urlprefix\url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3665844{\&}tool=pmcentrez{\&}rendertype=abstract}
 
+\bibitem[{Mouquet et~al.(2015)Mouquet, Lagadeuc, Devictor, Doyen,
+  Duputi{\'{e}}, Eveillard, Faure, Garnier, Gimenez, Huneman, Jabot, Jarne,
+  Joly, Julliard, K{\'{e}}fi, Kergoat, Lavorel, {Le Gall}, Meslin, Morand,
+  Morin, Morlon, Pinay, Pradel, Schurr, Thuiller, and Loreau}]{Mouquet2015}
+Mouquet, N., Lagadeuc, Y., Devictor, V., Doyen, L., Duputi{\'{e}}, A.,
+  Eveillard, D., Faure, D., Garnier, E., Gimenez, O., Huneman, P., Jabot, F.,
+  Jarne, P., Joly, D., Julliard, R., K{\'{e}}fi, S., Kergoat, G.~J., Lavorel,
+  S., {Le Gall}, L., Meslin, L., Morand, S., Morin, X., Morlon, H., Pinay, G.,
+  Pradel, R., Schurr, F.~M., Thuiller, W., Loreau, M., oct 2015. {REVIEW:
+  Predictive ecology in a changing world}. Journal of Applied Ecology 52~(5),
+  1293--1310.
+\newline\urlprefix\url{http://doi.wiley.com/10.1111/1365-2664.12482}
+
 \bibitem[{Neigel(2003)}]{Neigel2003}
 Neigel, J., feb 2003. {Species-area relatioships and marine conservation}.
   Ecological Applications 13~(sp1), 138--145.
@@ -948,6 +960,10 @@ Pollock, L.~J., Tingley, R., Morris, W.~K., Golding, N., O'Hara, R.~B., Parris,
   by modelling species simultaneously with a Joint Species Distribution Model
   (JSDM)}. Methods in Ecology and Evolution 5~(5), 397--406.
 \newline\urlprefix\url{http://doi.wiley.com/10.1111/2041-210X.12180}
+
+\bibitem[{Popper(1959)}]{Popper1959}
+Popper, K.~R., sep 1959. {The logic of scientific discovery}. Hutchinson.
+\newline\urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S0016003259904077}
 
 \bibitem[{Post and Palkovacs(2009)}]{Post2009}
 Post, D.~M., Palkovacs, E.~P., jun 2009. {Eco-evolutionary feedbacks in
@@ -1090,6 +1106,14 @@ Simberloff, D.~S., Wilson, E.~O., mar 1969. {Experimental Zoogeography of
   Islands: The Colonization of Empty Islands}. Ecology 50~(2), 278--296.
 \newline\urlprefix\url{http://doi.wiley.com/10.2307/1934856}
 
+\bibitem[{Solarik et~al.(2016)Solarik, Gravel, Ameztegui, Bergeron, and
+  Messier}]{Solarik2016}
+Solarik, K.~A., Gravel, D., Ameztegui, A., Bergeron, Y., Messier, C., jun 2016.
+  {Assessing tree germination resilience to global warming: a manipulative
+  experiment using sugar maple (Acer saccharum)}. Seed Science Research
+  26~(02), 153--164.
+\newline\urlprefix\url{http://www.journals.cambridge.org/abstract{\_}S0960258516000040}
+
 \bibitem[{Springer et~al.(2015)Springer, Swann, and Crimmins}]{Springer2015}
 Springer, A., Swann, D., Crimmins, M., 2015. {Climate change impacts on high
   elevation saguaro range expansion}. Journal of Arid Environments 116, 57--62.
@@ -1147,13 +1171,6 @@ Tingley, M.~W., Monahan, W.~B., Beissinger, S.~R., Moritz, C., nov 2009. {Birds
   America 106 Suppl, 19637--43.
 \newline\urlprefix\url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2780944{\&}tool=pmcentrez{\&}rendertype=abstract}
 
-\bibitem[{Tittensor et~al.(2010)Tittensor, Mora, Jetz, Lotze, Ricard, Berghe,
-  and Worm}]{Tittensor2010}
-Tittensor, D.~P., Mora, C., Jetz, W., Lotze, H.~K., Ricard, D., Berghe, E.~V.,
-  Worm, B., 2010. {Global patterns and predictors of marine biodiversity across
-  taxa.} Nature 466~(7310), 1098--101.
-\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/20668450}
-
 \bibitem[{Trebilco et~al.(2013)Trebilco, Baum, Salomon, and
   Dulvy}]{Trebilco2013}
 Trebilco, R., Baum, J.~K., Salomon, A.~K., Dulvy, N.~K., jul 2013. {Ecosystem
@@ -1199,13 +1216,6 @@ Villemant, C., Barbet-Massin, M., Perrard, A., Muller, F., Gargominy, O.,
 Villemant, C., Haxaire, J., Streito, J., 2006. {Premier bilan de l'invasion de
   Vespa velutina Lepeletier en France (Hymenoptera, Vespidae)}. Bulletin de la
   Soci{\'{e}}t{\'{e}} entomologique de France 111~(4), 535--538.
-
-\bibitem[{Violle et~al.(2014)Violle, Reich, Pacala, Enquist, and
-  Kattge}]{Violle2014}
-Violle, C., Reich, P.~B., Pacala, S.~W., Enquist, B.~J., Kattge, J., sep 2014.
-  {The emergence and promise of functional biogeography}. Proceedings of the
-  National Academy of Sciences 111~(38), 13690--13696.
-\newline\urlprefix\url{http://www.pnas.org/cgi/doi/10.1073/pnas.1415442111}
 
 \bibitem[{Wacey et~al.(2011)Wacey, Kilburn, Saunders, Cliff, and
   Brasier}]{Wacey2011}
