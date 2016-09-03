@@ -8,7 +8,7 @@
 \contentsline {chapter}{\MakeUppercase {Table des mati\`eres}}{xi}{section*.5}
 \contentsline {chapter}{\MakeUppercase {Liste des tableaux}}{xiv}{section*.6}
 \contentsline {chapter}{\MakeUppercase {Liste des figures}}{xv}{section*.7}
-\contentsline {chapter}{\MakeUppercase {liste des abr\'{e}viations}}{xxi}{section*.8}
+\contentsline {chapter}{\MakeUppercase {liste des abr\'{e}viations}}{xix}{section*.8}
 \select@language {french}
 \gdef \the@ipfilectr {}
 \contentsline {chapter}{\MakeUppercase {Introduction g\'en\'erale}}{1}{section*.9}
@@ -67,7 +67,7 @@
 \contentsline {section}{\numberline {2.5}Mot-clef}{54}{section.2.5}
 \contentsline {section}{\numberline {2.6}Introduction}{55}{section.2.6}
 \contentsline {section}{\numberline {2.7}Definitions}{57}{section.2.7}
-\contentsline {section}{\numberline {2.8}ACKNOWLEDGMENTS}{68}{section.2.8}
+\contentsline {section}{\numberline {2.8}Acknowledgments}{68}{section.2.8}
 \contentsline {chapter}{\numberline {\MakeUppercase {article} \MakeUppercase {3}} \\ \MakeUppercase {Do interacting species co-occur differently from not-interacting species?}}{69}{chapter.3}
 \contentsline {section}{\numberline {3.1}R\IeC {\'e}sum\IeC {\'e} en fran\IeC {\c c}ais du troisi\IeC {\`e}me article}{69}{section.3.1}
 \contentsline {subsection}{\numberline {3.1.1}Publication envisag\IeC {\'e}e}{69}{subsection.3.1.1}

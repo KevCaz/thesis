@@ -130,7 +130,7 @@ We start by representing the interaction network by a community matrix $\mathbf{
 \begin{table}[h!]
 \centering
 \includegraphics[scale=0.85]{./chapitre1/table1.pdf}
-\caption{\textbf{Conditional probabilities between potential assemblages.} At any time $t$ we calculate all the possible conditional probabilities between the four potential assemblages for a two species regional pool. These probabilities are derived by multiplying probabilities of single species events defined in equation~\eqref{chap1eq4}. By doing so, we build the transition matirx of our markov chain where species are assumed to be independent. We release this hypothesis by linking extinction coefficients and species assemblages.}
+\caption[Conditional probabilities between potential assemblages]{\textbf{Conditional probabilities between potential assemblages}. At any time $t$ we calculate all the possible conditional probabilities between the four potential assemblages for a two species regional pool. These probabilities are derived by multiplying probabilities of single species events defined in equation~\eqref{chap1eq4}. By doing so, we build the transition matirx of our markov chain where species are assumed to be independent. We release this hypothesis by linking extinction coefficients and species assemblages.}
 \label{tb1}
 \end{table}
 
@@ -149,9 +149,11 @@ To illustrate how interactions modify occurrence probabilities, we simulate the 
 \begin{figure}[h!]
 \centering
 \includegraphics[width=\textwidth]{./chapitre1/fig1.eps}
-\caption{\textbf{Dynamics of the community assembly.} As a direct development of MacArthur and Wilson model, we simulate for two species, the dynamics of the four communities states with different initial conditions associated (A). By summing every states where one given species is present we get the occurrence probability of two considered species (B). Finally by summing the four states probabilities weighted by their species richness, we get the classical model of MacArthur and Wilson (C). The calculation of (B) and (C) does not require species being independent while classical approaches focus on (B) to derive (A) and (C) under this assumption of independence.}
+\caption[Dynamics of the community assembly]{\textbf{Dynamics of the community assembly}. As a direct development of MacArthur and Wilson model, we simulate for two species, the dynamics of the four communities states with different initial conditions associated (A). By summing every states where one given species is present we get the occurrence probability of two considered species (B). Finally by summing the four states probabilities weighted by their species richness, we get the classical model of MacArthur and Wilson (C). The calculation of (B) and (C) does not require species being independent while classical approaches focus on (B) to derive (A) and (C) under this assumption of independence.}
 \label{chap1fig1}
 \end{figure}
+
+
 
 
 
@@ -188,7 +190,7 @@ This enables us to define an environmental optimum ($h_i$), a colonization proba
 \begin{figure}[h!]
 \centering
 \includegraphics[width=\textwidth]{./chapitre1/fig2.eps}
-\caption{\textbf{Effects of biotic interactions on colonization-extinction dynamics.} For any species $i$, the extinction probability $e_i$ is related to the strength of the interaction as shown in (A). The intersections of extinction curves with the grey dotted lines indicate the potential values of $e_i$ according to the different biotic context ($A_1$, $A_2$ and without interaction). We set the other parameters as follows: $c_1=c_2=0.15$, $\mathbb{P}(X_{1,0}=1 , X_{2,0}=0)=0.4$, $\mathbb{P}(X_{1,0}=0 , X_{2,0}=0)=0.6$, $\mathbb{P}(X_{1,0}=0 , X_{2,0}=1)=\mathbb{P}(X_{1,0}=1 , X_{1,0}=1)=0$. We then simulate the model for two simple networks $A_1$ and $A_2$ and present community assembly dynamics associated ((B) and (C)). Finally we compare the expected species richness on the locality (D) for our two networks and for the case without interaction which corresponds to the widespread linear version of the TIB.}
+\caption[Effects of biotic interactions on colonization-extinction dynamics]{\textbf{Effects of biotic interactions on colonization-extinction dynamics}. For any species $i$, the extinction probability $e_i$ is related to the strength of the interaction as shown in (A). The intersections of extinction curves with the grey dotted lines indicate the potential values of $e_i$ according to the different biotic context ($A_1$, $A_2$ and without interaction). We set the other parameters as follows: $c_1=c_2=0.15$, $\mathbb{P}(X_{1,0}=1 , X_{2,0}=0)=0.4$, $\mathbb{P}(X_{1,0}=0 , X_{2,0}=0)=0.6$, $\mathbb{P}(X_{1,0}=0 , X_{2,0}=1)=\mathbb{P}(X_{1,0}=1 , X_{1,0}=1)=0$. We then simulate the model for two simple networks $A_1$ and $A_2$ and present community assembly dynamics associated ((B) and (C)). Finally we compare the expected species richness on the locality (D) for our two networks and for the case without interaction which corresponds to the widespread linear version of the TIB.}
 \label{chap1fig2}
 \end{figure}
 
@@ -212,7 +214,7 @@ As we introduce variability through the use of randomly-generated matrices, we a
 \begin{figure}[h!]
 \centering
 \includegraphics[width=0.8\textwidth]{./chapitre1/fig3.eps}
-\caption{\textbf{Equilibrium for interacting species along an environmental gradient.} The colonization probability of species $i$, $c_i$, is related to the environment variable $\mathbf{w}$ according to species-specific requirements (A). The intersection of the colonization curve of species $i$ with the grey dotted lines represents the value of $c_i$ associated with its environmental optimum $h_i$. We compute equilibrium occurrence probabilities for the different assemblages along the environmental gradient, for the networks $A_1$ with negative interactions (B) and $A_2$ with positive one (C). We calculate the expected species richness on the locality for the two networks and without interaction (D).
+\caption[Equilibrium for interacting species along an environmental gradient]{\textbf{Equilibrium for interacting species along an environmental gradient}. The colonization probability of species $i$, $c_i$, is related to the environment variable $\mathbf{w}$ according to species-specific requirements (A). The intersection of the colonization curve of species $i$ with the grey dotted lines represents the value of $c_i$ associated with its environmental optimum $h_i$. We compute equilibrium occurrence probabilities for the different assemblages along the environmental gradient, for the networks $A_1$ with negative interactions (B) and $A_2$ with positive one (C). We calculate the expected species richness on the locality for the two networks and without interaction (D).
 }
 \label{chap1fig3}
 \end{figure}
@@ -234,7 +236,7 @@ Finally, when positive and negative interactions are mixed, the higher the conne
 \begin{figure}[h!]
 \centering
 \includegraphics [width=\textwidth]{./chapitre1/fig4.eps}
-\caption{\textbf{Probabilities of species richness for different types of interaction}. We compute expected species richness at the equilibrium with the following set of parameters: $e_i=10^{-5}$, $e_{i,min}=10^{-3}e_i$, $e_{i,max}=10^{3}e_i$ and $c_i=10^{-5}$. We do so for three different interaction weights: $d=0.1$ (A), $d=1$ (B), $d=10$ (C). In each panel, the four colours stand for the following types of networks: no interaction (grey), predation (green), competition (blue) and mutualism (red). Probabilities associated to coloured points are the means calculated for 1000 interaction matrices randomly-generated according to the niche model \citep{Williams2000} with a connectance set to 0.2. Additionally, vertical bars represent 50\% of the standard deviations associated to these means. To facilitate comparisons among panels, we do not represent the occurrence probability of the 10 assemblages community in panel C for mutualism, which is 0.66 (the standard deviation associated is 0.33).}
+\caption[Probabilities of species richness for different types of interaction]{\textbf{Probabilities of species richness for different types of interaction}. We compute expected species richness at the equilibrium with the following set of parameters: $e_i=10^{-5}$, $e_{i,min}=10^{-3}e_i$, $e_{i,max}=10^{3}e_i$ and $c_i=10^{-5}$. We do so for three different interaction weights: $d=0.1$ (A), $d=1$ (B), $d=10$ (C). In each panel, the four colours stand for the following types of networks: no interaction (grey), predation (green), competition (blue) and mutualism (red). Probabilities associated to coloured points are the means calculated for 1000 interaction matrices randomly-generated according to the niche model \citep{Williams2000} with a connectance set to 0.2. Additionally, vertical bars represent 50\% of the standard deviations associated to these means. To facilitate comparisons among panels, we do not represent the occurrence probability of the 10 assemblages community in panel C for mutualism, which is 0.66 (the standard deviation associated is 0.33).}
 \label{chap1fig4}
 \end{figure}
 
@@ -254,7 +256,7 @@ In our model, we introduce the effect of biotic interactions as an ecological pr
 \begin{figure}[h!]
 \centering
 \includegraphics [width=\textwidth]{./chapitre1/fig5.eps}
-\caption{\textbf{Biodiversity distribution along environmental and connectance gradients.} We compute the expected species richness along an environmental gradient for competition (A), mutualism (B) and predation (C). We do so for different values of connectance depicted by the shades of blue. Species richness profile associated with the scenario without interaction is provided in each panel by the darkest solid line (connectance set to 0). Abiotic niches do have the same range for all species ($r_i=5$) and the optima are randomly drawn in the interval $[10,20]$. The interaction weight ($d$) is set to 10. The extinction parameters are set as follows: $e_i=10^{-5}$, $e_{i,min}=10^{-3}e_i$, $e_{i,max}=10^{3}e_i$ and $c_i=10^{-5}$.}
+\caption[Biodiversity distribution along environmental and connectance gradients]{\textbf{Biodiversity distribution along environmental and connectance gradients}. We compute the expected species richness along an environmental gradient for competition (A), mutualism (B) and predation (C). We do so for different values of connectance depicted by the shades of blue. Species richness profile associated with the scenario without interaction is provided in each panel by the darkest solid line (connectance set to 0). Abiotic niches do have the same range for all species ($r_i=5$) and the optima are randomly drawn in the interval $[10,20]$. The interaction weight ($d$) is set to 10. The extinction parameters are set as follows: $e_i=10^{-5}$, $e_{i,min}=10^{-3}e_i$, $e_{i,max}=10^{3}e_i$ and $c_i=10^{-5}$.}
 \label{chap1fig5}
 \end{figure}
 

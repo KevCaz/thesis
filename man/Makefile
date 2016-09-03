@@ -16,6 +16,9 @@ DOCX = ../intro.doc
 MDC = conclu.md
 PDFC = ../conclu.pdf
 CCL = conclu.tex
+##
+CHP1 = chapitre1/chap1.tex
+CHP2 = chapitre2/chap2.tex
 ##-- CHAP3
 MD3 = /Users/KevCaz/ownCloud/Dom_cooc_inter/ms/ms_cooc.md
 MD3SI = /Users/KevCaz/ownCloud/Dom_cooc_inter/ms/SI_cooc.md
@@ -28,6 +31,8 @@ MD4 = /Users/KevCaz/ownCloud/ms_biogenerg/ms/traitbiogeo.md
 CHP4MN = chapitre4/main.tex
 CHP4HE = chapitre4/head.tex
 CHP4 = chapitre4/chap4.tex
+##-- Annexe
+ANN1 = annexe1/annexe1.tex
 ##--
 THES = thesekc.pdf
 SRC = thesekc.tex
@@ -39,7 +44,7 @@ PFLAGS = --filter pandoc-fignos --filter pandoc-tablenos --filter pandoc-eqnos -
 
 ALL: $(MCI) $(PDF) $(PDFC) $(THES) $(CHP3) $(CHP4) $(DOCX) $(CCL) $(APT) $(ABFT) $(ABET)
 
-$(THES): $(SRC) $(INTR) $(CHP3) $(CHP4) $(CCL) $(MCI) $(APT) $(ABFT) $(ABET)
+$(THES): $(SRC) $(INTR) $(CHP1) $(CHP2) $(CHP3) $(CHP4) $(CCL) $(MCI) $(APT) $(ABFT) $(ABET) $(ANN1)
 	pdflatex $(SRC)
 	bibtex thesekc
 	bibtex thesekc

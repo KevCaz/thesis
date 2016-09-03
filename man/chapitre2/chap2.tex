@@ -427,7 +427,7 @@ predator.
     $\left(\begin{array}{ccc} p_{1|\overline{23}} & p_{1|2\overline{3}} & p_{1|\overline{2}3} \\ p_{2|1\overline{3}} & 0 & 0 \\ p_{3|1\overline{2}} & 0 & 0 \end{array}\right)$  &
     $\left(\begin{array}{ccc} p_{1|\overline{23}} & p_{1|\overline{23}} & p_{1|\overline{2}3} \\ p_{2|\overline{1}\overline{3}}  & p_{2|\overline{1}\overline{3}} & p_{2|\overline{1}3} \\ p_{3|1\overline{2}} & p_{3|\overline{1}2} & 0 \end{array}\right)$
     \end{tabular}
-  \caption{Direct associations between pairs of species for different modules. Entries indicate the fundamental conditional probabilities of occurence of species $i$ given the presence of species $j$ and the absence of species $k$. \emph{Linear chain}: 1 is the resource, 3 the top predator ; \emph{Exploitative competition}: 2 and 3 are the consumers; \emph{Apparent competition}: 1 and 2 are the resources. When $p_{i|j\overline{k}}=0$, it means that species $i$ cannot be found without $k$. When two species $i$ and $j$ do not interact directly, if the absence of species $k$ do not impact species $i$ survival then : $p_{i|j\overline{k}}$=$p_{i|\overline{jk}}$. For apparent competition, if species 1 and 2 are interchangeable for species 3 then : $p_{3|1\overline{2}} = p_{3|\overline{1}2}$.}
+  \caption[Direct associations between pairs of species for different modules]{Direct associations between pairs of species for different modules. Entries indicate the fundamental conditional probabilities of occurence of species $i$ given the presence of species $j$ and the absence of species $k$. \emph{Linear chain}: 1 is the resource, 3 the top predator ; \emph{Exploitative competition}: 2 and 3 are the consumers; \emph{Apparent competition}: 1 and 2 are the resources. When $p_{i|j\overline{k}}=0$, it means that species $i$ cannot be found without $k$. When two species $i$ and $j$ do not interact directly, if the absence of species $k$ do not impact species $i$ survival then : $p_{i|j\overline{k}}$=$p_{i|\overline{jk}}$. For apparent competition, if species 1 and 2 are interchangeable for species 3 then : $p_{3|1\overline{2}} = p_{3|\overline{1}2}$.}
   \label{tab:1}
 \end{table}
 %%-------
@@ -475,7 +475,7 @@ were simulated for each level of species richness.
 
 \begin{figure}[h]
 \includegraphics[width=\textwidth]{./chapitre2/fig1.eps}
-\caption{Co-occurrence in multi-species networks.
+\caption[Co-occurrence in multi-species networks]{Co-occurrence in multi-species networks.
 (A) The disparity between observed co-occurrence ($P_{i,j}$) and independent co-occurrence ($P_{i,j;\text{IND}}$) decreases with the path length between nodes (species). The enveloppes are drawn around the 5\% and 95\% quantiles of all of the data, from 100 replicated simulations for every species richness value (5 to 100 species).
 (B) The strength of co-occurrence ($log(P_{i,j}/P_{i,j;\text{IND}})$) decreases with the number of interactions of a species $i$ (\textit{i.e.} the degree of a node). Points represent the mean for a particular degree of node value (1 to 60). The solid line represents the overall trends and the grey envelopped refelcts the variance associated. At least 3000 values were used for each point.
 (C) The standard deviation of the strength of association ($sd(P_{i,j}/P_{i,j;\text{IND}})$) and thus the variance decreases with species richness. Taken together, (B) and (C) imply that species distributions converge to independence with increasing species richness.}
@@ -590,7 +590,7 @@ context dependent \citep{Chamberlain2014, Poisot2012}. We
 view this integration as the next step to the derivation of a theory-driven
 species distribution model taking into account biotic interactions \citep{Thuiller2013}.
 
-\section{ACKNOWLEDGMENTS}
+\section{Acknowledgments}
 This work was inspired by discussions with T. Poisot, D. Stouffer, A.
 Cyrtwill and A. Rozenfield. Thanks to Matt Talluto and Isabelle Boulangeat for helpful comments on a previous version of the manuscript. Financial support was provided by the Canada Research Chair program
 and a NSERC-Discovery grant to D. Gravel. M. Ara\'ujo acknowledges support from Imperial Colege’s Grand Challenges in Ecosystems and Environment Initiative.

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  3 SEP 2016 14:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  3 SEP 2016 15:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -822,50 +822,50 @@ LaTeX Warning: Label `eqAnnI5e@cref' multiply defined.
 )
 \openout1 = `thesekc.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 98.
-LaTeX Font Info:    Try loading font information for OML+txmi on input line 98.
+LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 99.
+LaTeX Font Info:    Try loading font information for OML+txmi on input line 99.
 
  (/usr/local/texlive/2016/texmf-dist/tex/latex/txfonts/omltxmi.fd
 File: omltxmi.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 98.
-LaTeX Font Info:    Try loading font information for OMS+txsy on input line 98.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 99.
+LaTeX Font Info:    Try loading font information for OMS+txsy on input line 99.
 
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/txfonts/omstxsy.fd
 File: omstxsy.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 98.
-LaTeX Font Info:    Try loading font information for OMX+txex on input line 98.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 99.
+LaTeX Font Info:    Try loading font information for OMX+txex on input line 99.
 
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/txfonts/omxtxex.fd
 File: omxtxex.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 98.
-LaTeX Font Info:    Try loading font information for U+txexa on input line 98.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 99.
+LaTeX Font Info:    Try loading font information for U+txexa on input line 99.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/txfonts/utxexa.fd
 File: utxexa.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 98.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 98.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 99.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 99.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Try loading font information for OT1+txr on input line 98.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Try loading font information for OT1+txr on input line 99.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/txfonts/ot1txr.fd
 File: ot1txr.fd 2000/12/15 v3.1
@@ -898,27 +898,27 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Redefining \degres on input line 98.
-LaTeX Info: Redefining \dots on input line 98.
+LaTeX Info: Redefining \degres on input line 99.
+LaTeX Info: Redefining \dots on input line 99.
 
 
 Package frenchb.ldf Warning: Please load the "natbib" package
-(frenchb.ldf)                BEFORE babel/frenchb; reported on input line 98.
+(frenchb.ldf)                BEFORE babel/frenchb; reported on input line 99.
 
 Package frenchb.ldf Info: Setting StandardEnumerateEnv=true for
 (frenchb.ldf)             compatibility with enumerate package,
-(frenchb.ldf)              on input line 98.
-LaTeX Info: Redefining \up on input line 98.
+(frenchb.ldf)              on input line 99.
+LaTeX Info: Redefining \up on input line 99.
 
 Package frenchb.ldf Warning: OT1 encoding should not be used for French.
 (frenchb.ldf)                Add \usepackage[T1]{fontenc} to the preamble
-(frenchb.ldf)                of your document, on input line 98.
+(frenchb.ldf)                of your document, on input line 99.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/ucs/ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
 \AtBeginShipoutBox=\box63
-Package backref Info: ** backref set up for natbib ** on input line 98.
+Package backref Info: ** backref set up for natbib ** on input line 99.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2016/05/09 v1.1c Standard LaTeX Color (DPC)
@@ -928,7 +928,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 144.
 )
-Package hyperref Info: Link coloring ON on input line 98.
+Package hyperref Info: Link coloring ON on input line 99.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -938,9 +938,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count161
 )
-LaTeX Info: Redefining \ref on input line 98.
-LaTeX Info: Redefining \pageref on input line 98.
-LaTeX Info: Redefining \nameref on input line 98.
+LaTeX Info: Redefining \ref on input line 99.
+LaTeX Info: Redefining \pageref on input line 99.
+LaTeX Info: Redefining \nameref on input line 99.
 
 (./thesekc.out) (./thesekc.out)
 \@outlinefile=\write4
@@ -1134,49 +1134,24 @@ rit []a l'[]echelle r[]egionale
  []
 
 Package cleveref Info: loaded `english' language definitions on input line 9.
-
-Overfull \hbox (10.62494pt too wide) in paragraph at lines 11--11
- [][] []\OT1/txr/bx/n/12 Dynamics of the com-mu-nity as-sem-bly. \OT1/txr/m/n/1
-2 As a di-rect de-vel-op-ment of MacArthur 
- []
-
 [15
 
-]
-Overfull \hbox (1.1209pt too wide) in paragraph at lines 13--13
- [][] []\OT1/txr/bx/n/12 Equilibrium for in-ter-act-ing species along an en-vi-
-ron-men-tal gra-di-ent. \OT1/txr/m/n/12 The 
- []
-
-[16]
-Overfull \hbox (1.28896pt too wide) in paragraph at lines 17--17
- \OT1/txr/m/n/12 served co-occurrence ($\OML/txmi/m/it/12 P[]$\OT1/txr/m/n/12 )
- and in-de-pen-dent co-occurrence ($\OML/txmi/m/it/12 P[]$\OT1/txr/m/n/12 ) de-
-creases 
- []
-
-[17]
+] [16]
 Overfull \hbox (4.54092pt too wide) in paragraph at lines 24--24
  [][] []\OT1/txr/bx/n/12 Dendrogram rep-re-sent-ing the trait-based dis-tances 
 be-tween the 31 species 
  []
 
-[18] [19]
+[17]
 Package cleveref Info: loaded `french' language definitions on input line 33.
 Package cleveref Info: loaded `french' language definitions on input line 34.
-
-Overfull \hbox (4.60066pt too wide) in paragraph at lines 37--37
- [][] []\OT1/txr/m/n/10 Dynamique de la bio-di-ver-sit[]e de trois zones prot[]
-eg[]ees. Les ca-ract[]eristiques de la zone prot[]eg[]ee 
- []
-
 Package cleveref Info: loaded `english' language definitions on input line 39.
 Package cleveref Info: loaded `french' language definitions on input line 40.
 )
 \tf@lof=\write7
 \openout7 = `thesekc.lof'.
 
- [20] [21
+ [18] [19
 
 ])
 Package cleveref Info: loaded `french' language definitions on input line 127.
@@ -1209,7 +1184,7 @@ s ac-tuels des r[]epartitions g[]eographiques
 File: uni-1.def 2013/05/13 UCS: Unicode data U+0100..U+01FF
 )
 [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19]
-<fig/fig1.pdf, id=1107, 461.725pt x 461.725pt>
+<fig/fig1.pdf, id=1090, 461.725pt x 461.725pt>
 File: fig/fig1.pdf Graphic file (type pdf)
  <use fig/fig1.pdf>
 Package pdftex.def Info: fig/fig1.pdf used on input line 1049.
@@ -1240,7 +1215,7 @@ Overfull \hbox (10.67433pt too wide) in paragraph at lines 1274--1293
 nt[]egrer les re-la-tions []ecologiques
  []
 
-[24] <fig/fig2.pdf, id=1253, 461.725pt x 241.90375pt>
+[24] <fig/fig2.pdf, id=1236, 461.725pt x 241.90375pt>
 File: fig/fig2.pdf Graphic file (type pdf)
  <use fig/fig2.pdf>
 Package pdftex.def Info: fig/fig2.pdf used on input line 1311.
@@ -1281,7 +1256,7 @@ s des in-no-va-tions m[]ethodologiques
  []
 
 [31] [32] [33] [34] [35] [36]
-<./chapitre1/table1.pdf, id=1468, 538.60861pt x 124.20102pt>
+<./chapitre1/table1.pdf, id=1453, 538.60861pt x 124.20102pt>
 File: ./chapitre1/table1.pdf Graphic file (type pdf)
 
 <use ./chapitre1/table1.pdf>
@@ -1304,7 +1279,7 @@ rted-to.pdf ./chapitre1/fig1.eps>
 (epstopdf)             \includegraphics on input line 151.
 Package epstopdf Info: Output file is already uptodate.
 
-<./chapitre1/fig1-eps-converted-to.pdf, id=1521, 650.43pt x 198.7425pt>
+<./chapitre1/fig1-eps-converted-to.pdf, id=1506, 650.43pt x 198.7425pt>
 File: ./chapitre1/fig1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./chapitre1/fig1-eps-converted-to.pdf>
@@ -1312,7 +1287,7 @@ Package pdftex.def Info: ./chapitre1/fig1-eps-converted-to.pdf used on input li
 ne 151.
 (pdftex.def)             Requested size: 443.86316pt x 135.62831pt.
 
-Overfull \hbox (8.91933pt too wide) in paragraph at lines 161--162
+Overfull \hbox (8.91933pt too wide) in paragraph at lines 163--164
 \OT1/txr/m/n/12 tion prob-a-bil-i-ties. We de-note the vec-tor of $\OML/txmi/m/
 it/12 n$ \OT1/txr/m/n/12 en-vi-ron-men-tal con-di-tions by $\OT1/txr/bx/n/12 w$
 \OT1/txr/m/n/12 : $\OT1/txr/bx/n/12 w \OT1/txr/m/n/12 = (\OML/txmi/m/it/12 w[];
@@ -1328,15 +1303,15 @@ Package epstopdf Info: Source file: <./chapitre1/fig2.eps>
 (epstopdf)                    size: 64616 bytes
 (epstopdf)             Command: <repstopdf --outfile=./chapitre1/fig2-eps-conve
 rted-to.pdf ./chapitre1/fig2.eps>
-(epstopdf)             \includegraphics on input line 190.
+(epstopdf)             \includegraphics on input line 192.
 Package epstopdf Info: Output file is already uptodate.
 
-<./chapitre1/fig2-eps-converted-to.pdf, id=1545, 433.62pt x 389.455pt>
+<./chapitre1/fig2-eps-converted-to.pdf, id=1528, 433.62pt x 389.455pt>
 File: ./chapitre1/fig2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./chapitre1/fig2-eps-converted-to.pdf>
 Package pdftex.def Info: ./chapitre1/fig2-eps-converted-to.pdf used on input li
-ne 190.
+ne 192.
 (pdftex.def)             Requested size: 443.86316pt x 398.67694pt.
 
 
@@ -1351,15 +1326,15 @@ Package epstopdf Info: Source file: <./chapitre1/fig3.eps>
 (epstopdf)                    size: 55215 bytes
 (epstopdf)             Command: <repstopdf --outfile=./chapitre1/fig3-eps-conve
 rted-to.pdf ./chapitre1/fig3.eps>
-(epstopdf)             \includegraphics on input line 214.
+(epstopdf)             \includegraphics on input line 216.
 Package epstopdf Info: Output file is already uptodate.
 
-<./chapitre1/fig3-eps-converted-to.pdf, id=1575, 433.62pt x 389.455pt>
+<./chapitre1/fig3-eps-converted-to.pdf, id=1562, 433.62pt x 389.455pt>
 File: ./chapitre1/fig3-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./chapitre1/fig3-eps-converted-to.pdf>
 Package pdftex.def Info: ./chapitre1/fig3-eps-converted-to.pdf used on input li
-ne 214.
+ne 216.
 (pdftex.def)             Requested size: 355.09187pt x 318.93918pt.
 
 
@@ -1374,15 +1349,15 @@ Package epstopdf Info: Source file: <./chapitre1/fig4.eps>
 (epstopdf)                    size: 157738 bytes
 (epstopdf)             Command: <repstopdf --outfile=./chapitre1/fig4-eps-conve
 rted-to.pdf ./chapitre1/fig4.eps>
-(epstopdf)             \includegraphics on input line 236.
+(epstopdf)             \includegraphics on input line 238.
 Package epstopdf Info: Output file is already uptodate.
 
-<./chapitre1/fig4-eps-converted-to.pdf, id=1602, 650.43pt x 216.81pt>
+<./chapitre1/fig4-eps-converted-to.pdf, id=1589, 650.43pt x 216.81pt>
 File: ./chapitre1/fig4-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./chapitre1/fig4-eps-converted-to.pdf>
 Package pdftex.def Info: ./chapitre1/fig4-eps-converted-to.pdf used on input li
-ne 236.
+ne 238.
 (pdftex.def)             Requested size: 443.86316pt x 147.95816pt.
 
 
@@ -1397,14 +1372,14 @@ Package epstopdf Info: Source file: <./chapitre1/fig5.eps>
 (epstopdf)                    size: 22125 bytes
 (epstopdf)             Command: <repstopdf --outfile=./chapitre1/fig5-eps-conve
 rted-to.pdf ./chapitre1/fig5.eps>
-(epstopdf)             \includegraphics on input line 256.
+(epstopdf)             \includegraphics on input line 258.
 Package epstopdf Info: Output file is already uptodate.
- <./chapitre1/fig5-eps-converted-to.pdf, id=1628, 650.43pt x 230.8625pt>
+ <./chapitre1/fig5-eps-converted-to.pdf, id=1615, 650.43pt x 230.8625pt>
 File: ./chapitre1/fig5-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./chapitre1/fig5-eps-converted-to.pdf>
 Package pdftex.def Info: ./chapitre1/fig5-eps-converted-to.pdf used on input li
-ne 256.
+ne 258.
 (pdftex.def)             Requested size: 443.86316pt x 157.54803pt.
 
 
@@ -1447,7 +1422,7 @@ Package epstopdf Info: Source file: <./chapitre2/fig1.eps>
 rted-to.pdf ./chapitre2/fig1.eps>
 (epstopdf)             \includegraphics on input line 477.
 Package epstopdf Info: Output file is already uptodate.
-<./chapitre2/fig1-eps-converted-to.pdf, id=1987, 1156.32pt x 317.185pt>
+<./chapitre2/fig1-eps-converted-to.pdf, id=1974, 1156.32pt x 317.185pt>
 File: ./chapitre2/fig1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./chapitre2/fig1-eps-converted-to.pdf>
@@ -1579,14 +1554,14 @@ Overfull \hbox (11.18678pt too wide) in paragraph at lines 466--468
  []|\OT1/txr/m/n/12 Competition|
  []
 
-[78] <chapitre3/figConcept.pdf, id=2178, 246.9225pt x 246.9225pt>
+[78] <chapitre3/figConcept.pdf, id=2165, 246.9225pt x 246.9225pt>
 File: chapitre3/figConcept.pdf Graphic file (type pdf)
 
 <use chapitre3/figConcept.pdf>
 Package pdftex.def Info: chapitre3/figConcept.pdf used on input line 503.
 (pdftex.def)             Requested size: 246.92188pt x 246.92188pt.
  [79 <./chapitre3/figConcept.pdf>]
-<chapitre3/figIntVsNoint.pdf, id=2189, 505.89pt x 379.4175pt>
+<chapitre3/figIntVsNoint.pdf, id=2176, 505.89pt x 379.4175pt>
 File: chapitre3/figIntVsNoint.pdf Graphic file (type pdf)
 
 <use chapitre3/figIntVsNoint.pdf>
@@ -1597,7 +1572,7 @@ Overfull \hbox (62.02559pt too wide) in paragraph at lines 517--531
  [][] 
  []
 
-<chapitre3/figOrder.pdf, id=2190, 505.89pt x 172.645pt>
+<chapitre3/figOrder.pdf, id=2177, 505.89pt x 172.645pt>
 File: chapitre3/figOrder.pdf Graphic file (type pdf)
 
 <use chapitre3/figOrder.pdf>
@@ -1608,7 +1583,7 @@ Overfull \hbox (62.02559pt too wide) in paragraph at lines 538--547
  [][] 
  []
 
-<chapitre3/figdegocc.pdf, id=2191, 505.89pt x 505.89pt>
+<chapitre3/figdegocc.pdf, id=2178, 505.89pt x 505.89pt>
 File: chapitre3/figdegocc.pdf Graphic file (type pdf)
 
 <use chapitre3/figdegocc.pdf>
@@ -1724,7 +1699,7 @@ Overfull \hbox (4.04813pt too wide) in paragraph at lines 830--838
 o-nomic In-for-ma-tion Sys-tem (ITIS),
  []
 
-[87] [88] [89] <chapitre3/figS1.png, id=2302, 2107.875pt x 3161.8125pt>
+[87] [88] [89] <chapitre3/figS1.png, id=2288, 2107.875pt x 3161.8125pt>
 File: chapitre3/figS1.png Graphic file (type png)
 
 <use chapitre3/figS1.png>
@@ -1739,14 +1714,14 @@ Overfull \hbox (1664.00671pt too wide) in paragraph at lines 932--933
 LaTeX Warning: Float too large for page by 2585.95148pt on input line 934.
 
 [90] [91 <./chapitre3/figS1.png>]
-<chapitre3/figS2.pdf, id=2313, 246.9225pt x 493.845pt>
+<chapitre3/figS2.pdf, id=2300, 246.9225pt x 493.845pt>
 File: chapitre3/figS2.pdf Graphic file (type pdf)
 
 <use chapitre3/figS2.pdf>
 Package pdftex.def Info: chapitre3/figS2.pdf used on input line 940.
 (pdftex.def)             Requested size: 246.92188pt x 493.84378pt.
 
-<chapitre3/figS3.pdf, id=2314, 246.9225pt x 650.43pt>
+<chapitre3/figS3.pdf, id=2301, 246.9225pt x 650.43pt>
 File: chapitre3/figS3.pdf Graphic file (type pdf)
 
 <use chapitre3/figS3.pdf>
@@ -1756,13 +1731,13 @@ Package pdftex.def Info: chapitre3/figS3.pdf used on input line 951.
 
 LaTeX Warning: Float too large for page by 103.57506pt on input line 956.
 
-<chapitre3/figS4.pdf, id=2315, 325.215pt x 308.15125pt>
+<chapitre3/figS4.pdf, id=2302, 325.215pt x 308.15125pt>
 File: chapitre3/figS4.pdf Graphic file (type pdf)
 
 <use chapitre3/figS4.pdf>
 Package pdftex.def Info: chapitre3/figS4.pdf used on input line 962.
 (pdftex.def)             Requested size: 325.2142pt x 308.15048pt.
- <chapitre3/figS5.pdf, id=2316, 505.89pt x 184.69pt>
+ <chapitre3/figS5.pdf, id=2303, 505.89pt x 184.69pt>
 File: chapitre3/figS5.pdf Graphic file (type pdf)
 
 <use chapitre3/figS5.pdf>
@@ -1773,7 +1748,7 @@ Overfull \hbox (62.02559pt too wide) in paragraph at lines 982--987
  [][] 
  []
 
-<chapitre3/figS6.pdf, id=2317, 505.89pt x 404.51125pt>
+<chapitre3/figS6.pdf, id=2304, 505.89pt x 404.51125pt>
 File: chapitre3/figS6.pdf Graphic file (type pdf)
 
 <use chapitre3/figS6.pdf>
@@ -1784,7 +1759,7 @@ Overfull \hbox (62.02559pt too wide) in paragraph at lines 994--1002
  [][] 
  []
 
-<chapitre3/figS7.pdf, id=2318, 505.89pt x 505.89pt>
+<chapitre3/figS7.pdf, id=2305, 505.89pt x 505.89pt>
 File: chapitre3/figS7.pdf Graphic file (type pdf)
  <use chapitre3/figS7.pdf>
 Package pdftex.def Info: chapitre3/figS7.pdf used on input line 1009.
@@ -1797,7 +1772,7 @@ Overfull \hbox (62.02559pt too wide) in paragraph at lines 1009--1018
 
 LaTeX Warning: Float too large for page by 17.0354pt on input line 1019.
 
-<chapitre3/figS8.pdf, id=2319, 505.89pt x 505.89pt>
+<chapitre3/figS8.pdf, id=2306, 505.89pt x 505.89pt>
 File: chapitre3/figS8.pdf Graphic file (type pdf)
  <use chapitre3/figS8.pdf>
 Package pdftex.def Info: chapitre3/figS8.pdf used on input line 1025.
@@ -1810,7 +1785,7 @@ Overfull \hbox (62.02559pt too wide) in paragraph at lines 1025--1039
 
 LaTeX Warning: Float too large for page by 60.5354pt on input line 1040.
 
-<chapitre3/figS9.pdf, id=2320, 246.9225pt x 308.15125pt>
+<chapitre3/figS9.pdf, id=2307, 246.9225pt x 308.15125pt>
 File: chapitre3/figS9.pdf Graphic file (type pdf)
 
 <use chapitre3/figS9.pdf>
@@ -1891,7 +1866,7 @@ versite-[]en-[]territoires-[]isoles/$[][]
 [114
 
 
-] <annexe1/fig/figAnnI1.pdf, id=2667, 391.95084pt x 241.77597pt>
+] <annexe1/fig/figAnnI1.pdf, id=2654, 391.95084pt x 241.77597pt>
 File: annexe1/fig/figAnnI1.pdf Graphic file (type pdf)
 
 <use annexe1/fig/figAnnI1.pdf>
@@ -1907,7 +1882,7 @@ Overfull \hbox (15.2132pt too wide) in paragraph at lines 98--99
 d[]ele d[]eterministe peut []etre consid[]er[]e
  []
 
-<annexe1/fig/figAnnI2.pdf, id=2800, 578.16pt x 433.62pt>
+<annexe1/fig/figAnnI2.pdf, id=2787, 578.16pt x 433.62pt>
 File: annexe1/fig/figAnnI2.pdf Graphic file (type pdf)
 
 <use annexe1/fig/figAnnI2.pdf>
@@ -1985,7 +1960,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 181--198
 
  []
 
-<annexe1/fig/figAnnI3.pdf, id=2843, 1205.50375pt x 810.02625pt>
+<annexe1/fig/figAnnI3.pdf, id=2829, 1205.50375pt x 810.02625pt>
 File: annexe1/fig/figAnnI3.pdf Graphic file (type pdf)
 
 <use annexe1/fig/figAnnI3.pdf>
@@ -2383,9 +2358,9 @@ Package cleveref Info: loaded `french' language definitions on input line 1542.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 194.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 194.
 Package rerunfilecheck Info: File `thesekc.out' has not changed.
-(rerunfilecheck)             Checksum: FABDE9F065AA374C5887D9A6B835587E;8237.
+(rerunfilecheck)             Checksum: 276834CFD9E702CC6499C844D0F1DE3C;8237.
 Package rerunfilecheck Info: File `thesekc.brf' has not changed.
-(rerunfilecheck)             Checksum: 029D206B6F54C74371CE1CE100739894;21362.
+(rerunfilecheck)             Checksum: 1F7FBDD900640C3864FAB469FD204C00;21307.
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -2397,41 +2372,38 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 194.
 ### semi simple group (level 1) entered at line 67 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 17717 strings out of 493014
- 275773 string characters out of 6133351
- 416682 words of memory out of 5000000
- 20266 multiletter control sequences out of 15000+600000
- 51131 words of font info for 126 fonts, out of 8000000 for 9000
+ 17708 strings out of 493014
+ 275680 string characters out of 6133351
+ 412580 words of memory out of 5000000
+ 20263 multiletter control sequences out of 15000+600000
+ 47748 words of font info for 120 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  37i,17n,43p,2349b,2036s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{figure.caption.92} has been referen
-ced but does not exist, replaced by a fixed one
-
-{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/tex
-live/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texl
-ive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/texliv
-e/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive
-/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2
-016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/201
-6/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2016/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/te
-xmf-dist/fonts/type1/public/txfonts/rtcxb.pfb></usr/local/texlive/2016/texmf-di
-st/fonts/type1/public/txfonts/rtxb.pfb></usr/local/texlive/2016/texmf-dist/font
-s/type1/public/txfonts/rtxi.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1
-/public/txfonts/rtxmi.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/publi
-c/txfonts/rtxr.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/txfon
-ts/txex.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/txfonts/txsy
-.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/txfonts/txsya.pfb><
-/usr/local/texlive/2016/texmf-dist/fonts/type1/public/txfonts/txsyb.pfb></usr/l
-ocal/texlive/2016/texmf-dist/fonts/type1/public/txfonts/txtt.pfb></usr/local/te
-xlive/2016/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2016
-/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2016/texmf-di
-st/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/t
-ype1/urw/times/utmri8a.pfb>
-Output written on thesekc.pdf (169 pages, 3767611 bytes).
+{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc
+}</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></
+usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></u
+sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr
+/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/l
+ocal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/loca
+l/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local
+/texlive/2016/texmf-dist/fonts/type1/public/txfonts/rtcxb.pfb></usr/local/texli
+ve/2016/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb></usr/local/texlive/2016
+/texmf-dist/fonts/type1/public/txfonts/rtxi.pfb></usr/local/texlive/2016/texmf-
+dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/local/texlive/2016/texmf-dist/f
+onts/type1/public/txfonts/rtxr.pfb></usr/local/texlive/2016/texmf-dist/fonts/ty
+pe1/public/txfonts/txex.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/pub
+lic/txfonts/txsy.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/txf
+onts/txsya.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/txfonts/t
+xsyb.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/txfonts/txtt.pf
+b></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/lo
+cal/texlive/2016/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texli
+ve/2016/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2016/te
+xmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on thesekc.pdf (167 pages, 3759301 bytes).
 PDF statistics:
- 3757 PDF objects out of 4296 (max. 8388607)
- 3430 compressed objects within 35 object streams
- 597 named destinations out of 1000 (max. 500000)
+ 3741 PDF objects out of 4296 (max. 8388607)
+ 3416 compressed objects within 35 object streams
+ 594 named destinations out of 1000 (max. 500000)
  971 words of extra memory for PDF output out of 10000 (max. 10000000)
 
