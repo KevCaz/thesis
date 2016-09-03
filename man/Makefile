@@ -1,3 +1,12 @@
+##
+MCD = limi_src/cimer.md
+MCI = limi_src/cimer.tex
+APM = limi_src/avt_prop.md
+APT = limi_src/avt_prop.tex
+ABFM = limi_src/abs_fr.md
+ABFT = limi_src/abs_fr.tex
+ABEM = limi_src/abs_eng.md
+ABET = limi_src/abs_eng.tex
 ##-- Introduction
 MD = intro.md
 PDF = ../intro.pdf
@@ -28,9 +37,9 @@ CSL = elsevier-harvard.csl
 PFLAGS = --filter pandoc-fignos --filter pandoc-tablenos --filter pandoc-eqnos --natbib --bibliography=$(REF) --csl=$(CSL) --latex-engine=pdflatex
 
 
-ALL: $(PDF) $(PDFC) $(THES) $(CHP3) $(CHP4) $(DOCX) $(CCL)
+ALL: $(MCI) $(PDF) $(PDFC) $(THES) $(CHP3) $(CHP4) $(DOCX) $(CCL) $(APT) $(ABFT) $(ABET)
 
-$(THES): $(SRC) $(INTR) $(CHP3) $(CHP4) $(CCL)
+$(THES): $(SRC) $(INTR) $(CHP3) $(CHP4) $(CCL) $(MCI) $(APT) $(ABFT) $(ABET)
 	pdflatex $(SRC)
 	bibtex thesekc
 	bibtex thesekc
@@ -77,3 +86,15 @@ $(DOCX): $(MD)
 
 $(PDFC): $(MDC)
 	pandoc $< -o $@ $(PFLAGS)
+
+$(MCI): $(MCD)
+	pandoc $< -o $@
+
+$(APT): $(APM)
+	pandoc $< -o $@
+
+$(ABFT): $(ABFM)
+	pandoc $< -o $@
+
+$(ABET): $(ABEM)
+	pandoc $< -o $@

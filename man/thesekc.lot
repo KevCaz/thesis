@@ -1,0 +1,20 @@
+\gdef \the@ipfilectr {@-1}
+\select@language {frenchb}
+\select@language {frenchb}
+\select@language {french}
+\gdef \the@ipfilectr {}
+\select@language {french}
+\select@language {english}
+\addvspace {0\p@ }
+\contentsline {table}{\numberline {1}{\ignorespaces \textbf {Conditional probabilities between potential assemblages.} At any time $t$ we calculate all the possible conditional probabilities between the four potential assemblages for a two species regional pool. These probabilities are derived by multiplying probabilities of single species events defined in equation~\textup {\hbox {\mathsurround \z@ \normalfont (\ignorespaces \ref {chap1eq4}\unskip \@@italiccorr )}}. By doing so, we build the transition matirx of our markov chain where species are assumed to be independent. We release this hypothesis by linking extinction coefficients and species assemblages.\relax }}{37}{table.caption.38}
+\addvspace {0\p@ }
+\contentsline {table}{\numberline {2}{\ignorespaces Presence/absence dataset for three species and 10 sites.\relax }}{62}{table.caption.48}
+\contentsline {table}{\numberline {3}{\ignorespaces Direct associations between pairs of species for different modules. Entries indicate the fundamental conditional probabilities of occurence of species $i$ given the presence of species $j$ and the absence of species $k$. \emph {Linear chain}: 1 is the resource, 3 the top predator ; \emph {Exploitative competition}: 2 and 3 are the consumers; \emph {Apparent competition}: 1 and 2 are the resources. When $p_{i|j\overline {k}}=0$, it means that species $i$ cannot be found without $k$. When two species $i$ and $j$ do not interact directly, if the absence of species $k$ do not impact species $i$ survival then : $p_{i|j\overline {k}}$=$p_{i|\overline {jk}}$. For apparent competition, if species 1 and 2 are interchangeable for species 3 then : $p_{3|1\overline {2}} = p_{3|\overline {1}2}$.\relax }}{64}{table.caption.51}
+\addvspace {0\p@ }
+\contentsline {table}{\numberline {4}{\ignorespaces Data sets analyzed in this article. \relax }}{78}{table.3.4}
+\addvspace {0\p@ }
+\select@language {french}
+\select@language {french}
+\addvspace {10\p@ }
+\select@language {english}
+\select@language {french}
