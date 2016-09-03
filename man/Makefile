@@ -28,7 +28,7 @@ CSL = elsevier-harvard.csl
 PFLAGS = --filter pandoc-fignos --filter pandoc-tablenos --filter pandoc-eqnos --natbib --bibliography=$(REF) --csl=$(CSL) --latex-engine=pdflatex
 
 
-ALL: $(PDF) $(PDFC) $(THES) $(CHP3) $(CHP4) $(DOCX)
+ALL: $(PDF) $(PDFC) $(THES) $(CHP3) $(CHP4) $(DOCX) $(CCL)
 
 $(THES): $(SRC) $(INTR) $(CHP3) $(CHP4) $(CCL)
 	pdflatex $(SRC)
@@ -48,7 +48,7 @@ $(INTR): $(MD)
 
 
 $(CCL): $(MDC)
-	pandoc $< -o $@
+	pandoc $< -o $@ $(PFLAGS)
 
 $(CHP3): $(CHP3MN) $(CHP3SI) $(CHP3HE)
 	cat  $(CHP3HE) $(CHP3MN) $(CHP3SI) > $@

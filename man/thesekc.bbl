@@ -1,17 +1,8 @@
-\begin{thebibliography}{209}
+\begin{thebibliography}{202}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{\texttt{#1}}\fi
 \expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
-
-\bibitem[{Albouy et~al.(2011)Albouy, Guilhaumon, Vill{\'{e}}ger, Mouchet,
-  Mercier, Culioli, Tomasini, {Le Loc'h}, and Mouillot}]{Albouy2011}
-Albouy, C., Guilhaumon, F., Vill{\'{e}}ger, S., Mouchet, M., Mercier, L.,
-  Culioli, J., Tomasini, J., {Le Loc'h}, F., Mouillot, D., aug 2011.
-  {Predicting trophic guild and diet overlap from functional traits:
-  statistics, opportunities and limitations for marine ecology}. Marine Ecology
-  Progress Series 436, 17--28.
-\newline\urlprefix\url{http://www.int-res.com/abstracts/meps/v436/p17-28/}
 
 \bibitem[{Allesina and Tang(2012)}]{Allesina2012a}
 Allesina, S., Tang, S., mar 2012. {Stability criteria for complex ecosystems.}
@@ -268,12 +259,6 @@ Durance, I., Ormerod, S.~J., dec 2010. {Evidence for the role of climate in the
   Benthological Society 29~(4), 1367--1378.
 \newline\urlprefix\url{http://www.bioone.org/doi/abs/10.1899/09-159.1}
 
-\bibitem[{Edwards et~al.(2013)Edwards, Litchman, and Klausmeier}]{Edwards2013}
-Edwards, K.~F., Litchman, E., Klausmeier, C.~a., jan 2013. {Functional traits
-  explain phytoplankton community structure and seasonal dynamics in a marine
-  ecosystem.} Ecology letters 16~(1), 56--63.
-\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/23033839}
-
 \bibitem[{Ekl{\"{o}}f et~al.(2013)Ekl{\"{o}}f, Jacob, Kopp, Bosch,
   Castro-Urgal, Chacoff, Dalsgaard, de~Sassi, Galetti, Guimar{\~{a}}es,
   Lom{\'{a}}scolo, {Mart{\'{i}}n Gonz{\'{a}}lez}, Pizo, Rader, Rodrigo,
@@ -380,11 +365,6 @@ Gotelli, N.~J., Graves, G.~R., Rahbek, C., mar 2010. {Macroecological signals
   and Settings/Cristina/Meus documentos/My Dropbox/Meu
   Documentos/Papers/2010/Gotelli etal 2010 PNAS.pdf
   http://www.pnas.org/cgi/doi/10.1073/pnas.0914089107}
-
-\bibitem[{Grant and Grant(2006)}]{Grant2006}
-Grant, P.~R., Grant, B.~R., jul 2006. {Evolution of character displacement in
-  Darwin's finches.} Science (New York, N.Y.) 313~(5784), 224--6.
-\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/16840700}
 
 \bibitem[{Grant and Grant(2008)}]{grant2008}
 Grant, P.~R., Grant, B.~R., 2008. {How and Why Species Multiply: The Radiation
@@ -694,12 +674,6 @@ Levins, R., Culver, D., jun 1971. {Regional Coexistence of Species and
 Levins, R., Heatwole, H., 1963. {On the distribution of organisms on islands}.
   Caribbean Journal of Science 3, 173--177.
 
-\bibitem[{Litchman and Klausmeier(2008)}]{Litchman2008}
-Litchman, E., Klausmeier, C.~a., dec 2008. {Trait-Based Community Ecology of
-  Phytoplankton}. Annual Review of Ecology, Evolution, and Systematics 39~(1),
-  615--639.
-\newline\urlprefix\url{http://www.annualreviews.org/doi/abs/10.1146/annurev.ecolsys.39.110707.173549}
-
 \bibitem[{Loeuille and Loreau(2005)}]{Loeuille2005}
 Loeuille, N., Loreau, M., apr 2005. {Evolutionary emergence of size-structured
   food webs.} Proceedings of the National Academy of Sciences of the United
@@ -729,11 +703,6 @@ Losos, J.~B., Ricklefs, R.~E. (Eds.), 2010. {The Theory of Island Biogeography
 MacArthur, R.~H., 1972. {Geographical Ecology: Patterns in the Distribution of
   Species}. Biology / [Princeton University Press]. Princeton University Press.
 \newline\urlprefix\url{https://books.google.co.in/books?id=3NAYEKc--WAC}
-
-\bibitem[{MacArthur(1984)}]{MacArthur1984}
-MacArthur, R.~H., 1984. {Geographical Ecology: Patterns in the Distribution of
-  Species}. Princeton University Press, Princeton, NJ.
-\newline\urlprefix\url{http://books.google.ca/books/about/Geographical{\_}Ecology.html?id=3NAYEKc--WAC{\&}pgis=1}
 
 \bibitem[{MacArthur and Wilson(1963)}]{MacArthur1963}
 MacArthur, R.~H., Wilson, E.~O., 1963. {An equilibrium theory of insular
@@ -818,16 +787,6 @@ Morales-Castilla, I., Matias, M.~G., Gravel, D., Ara{\'{u}}jo, M.~B., 2015.
   {Inferring biotic interactions from proxies}. Trends in Ecology {\&}
   Evolution 30~(6), 347--356.
 \newline\urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S0169534715000774}
-
-\bibitem[{Mouillot et~al.(2013)Mouillot, Bellwood, Baraloto, Chave, Galzin,
-  Harmelin-Vivien, Kulbicki, Lavergne, Lavorel, Mouquet, Paine, Renaud, and
-  Thuiller}]{Mouillot2013}
-Mouillot, D., Bellwood, D.~R., Baraloto, C., Chave, J., Galzin, R.,
-  Harmelin-Vivien, M., Kulbicki, M., Lavergne, S., Lavorel, S., Mouquet, N.,
-  Paine, C. E.~T., Renaud, J., Thuiller, W., may 2013. {Rare species support
-  vulnerable functions in high-diversity ecosystems.} PLoS biology 11~(5),
-  e1001569.
-\newline\urlprefix\url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3665844{\&}tool=pmcentrez{\&}rendertype=abstract}
 
 \bibitem[{Mouquet et~al.(2015)Mouquet, Lagadeuc, Devictor, Doyen,
   Duputi{\'{e}}, Eveillard, Faure, Garnier, Gimenez, Huneman, Jabot, Jarne,
@@ -971,15 +930,6 @@ Post, D.~M., Palkovacs, E.~P., jun 2009. {Eco-evolutionary feedbacks in
   and the evolutionary play.} Philosophical transactions of the Royal Society
   of London. Series B, Biological sciences 364~(1523), 1629--40.
 \newline\urlprefix\url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2690506{\&}tool=pmcentrez{\&}rendertype=abstract}
-
-\bibitem[{Price et~al.(2012)Price, Weitz, Savage, Stegen, Clarke, Coomes,
-  Dodds, Etienne, Kerkhoff, McCulloh, Niklas, Olff, Swenson, and
-  Chave}]{Price2012}
-Price, C.~a., Weitz, J.~S., Savage, V.~M., Stegen, J., Clarke, A., Coomes,
-  D.~a., Dodds, P.~S., Etienne, R.~S., Kerkhoff, A.~J., McCulloh, K., Niklas,
-  K.~J., Olff, H., Swenson, N.~G., Chave, J., dec 2012. {Testing the metabolic
-  theory of ecology.} Ecology letters 15~(12), 1465--74.
-\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/22931542}
 
 \bibitem[{Proulx et~al.(2005)Proulx, Promislow, and Phillips}]{Proulx2005}
 Proulx, S.~R., Promislow, D. E.~L., Phillips, P.~C., jun 2005. {Network
