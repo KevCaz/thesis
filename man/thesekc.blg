@@ -3,12 +3,8 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: thesekc.aux
 A level-1 auxiliary file: liminaires.aux
 The style file: elsarticle-harv.bst
-Reallocated field_info (elt_size=4) to 10304 items from 5000.
+Reallocated field_info (elt_size=4) to 10568 items from 5000.
 Database file #1: /Users/KevCaz/Documents/library.bib.bib
-Repeated entry---line 7597 of file /Users/KevCaz/Documents/library.bib.bib
- : @article{Dray2007
- :                  ,
-I'm skipping whatever remains of this entry
 Reallocated buffer (elt_size=1) to 40000 items from 20000.
 Reallocated sv_buffer (elt_size=1) to 40000 items from 20000.
 Reallocated ex_buf (elt_size=1) to 40000 items from 20000.
@@ -21,40 +17,45 @@ Reallocated ex_buf (elt_size=1) to 60000 items from 40000.
 Reallocated out_buf (elt_size=1) to 60000 items from 40000.
 Reallocated name_tok (elt_size=4) to 60000 items from 40000.
 Reallocated name_sep_char (elt_size=1) to 60000 items from 40000.
-Repeated entry---line 12520 of file /Users/KevCaz/Documents/library.bib.bib
+Repeated entry---line 9857 of file /Users/KevCaz/Documents/library.bib.bib
  : @article{Gravel2011a
  :                     ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 15299 of file /Users/KevCaz/Documents/library.bib.bib
+Repeated entry---line 11873 of file /Users/KevCaz/Documents/library.bib.bib
+ : @article{Dray2007
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 15377 of file /Users/KevCaz/Documents/library.bib.bib
  : @article{Ricklefs1987
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 15455 of file /Users/KevCaz/Documents/library.bib.bib
+Repeated entry---line 15533 of file /Users/KevCaz/Documents/library.bib.bib
  : @article{Davis1998
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 15540 of file /Users/KevCaz/Documents/library.bib.bib
+Repeated entry---line 15618 of file /Users/KevCaz/Documents/library.bib.bib
  : @article{Bellard2012
  :                     ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 15614 of file /Users/KevCaz/Documents/library.bib.bib
+Repeated entry---line 15692 of file /Users/KevCaz/Documents/library.bib.bib
  : @article{Suttle2007
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 15631 of file /Users/KevCaz/Documents/library.bib.bib
+Repeated entry---line 15709 of file /Users/KevCaz/Documents/library.bib.bib
  : @article{Koh2004
  :                 ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 15824 of file /Users/KevCaz/Documents/library.bib.bib
+Repeated entry---line 15885 of file /Users/KevCaz/Documents/library.bib.bib
  : @article{Leibold2004
  :                     ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 15966 of file /Users/KevCaz/Documents/library.bib.bib
+Repeated entry---line 16044 of file /Users/KevCaz/Documents/library.bib.bib
  : @book{Holyoak2005
  :                  ,
 I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "Pulliam2000"
 Warning--I didn't find a database entry for "tbl:id"
+Warning--I didn't find a database entry for "Cazelles2015b"
 Warning--I didn't find a database entry for "Baiser_2011"
 Warning--I didn't find a database entry for "Mart_n_Gonz_lez_2015"
 Warning--I didn't find a database entry for "Sonne_2016"
@@ -72,49 +73,48 @@ Warning--I didn't find a database entry for "hamberlain2013"
 Warning--I didn't find a database entry for "Chamberlain2016"
 Warning--I didn't find a database entry for "eq:id4"
 Warning--I didn't find a database entry for "eq:id5"
-Warning--there's a number but no volume in Cazelles2015b
 Warning--empty journal in Cazelles2015a
 Warning--there's a number but no volume in Cazelles2015a
 Warning--empty publisher in Coyne2004
-You've used 202 entries,
+You've used 212 entries,
             2821 wiz_defined-function locations,
-            2119 strings with 54474 characters,
-and the built_in function-call counts, 113068 in all, are:
-= -- 11216
-> -- 6817
-< -- 112
-+ -- 2553
-- -- 2345
-* -- 11118
-:= -- 20343
-add.period$ -- 615
-call.type$ -- 202
-change.case$ -- 1782
-chr.to.int$ -- 196
-cite$ -- 206
-duplicate$ -- 3601
-empty$ -- 7020
-format.name$ -- 2959
-if$ -- 22131
+            2197 strings with 57437 characters,
+and the built_in function-call counts, 119711 in all, are:
+= -- 11816
+> -- 7365
+< -- 115
++ -- 2758
+- -- 2540
+* -- 11821
+:= -- 21577
+add.period$ -- 644
+call.type$ -- 212
+change.case$ -- 1897
+chr.to.int$ -- 206
+cite$ -- 215
+duplicate$ -- 3775
+empty$ -- 7352
+format.name$ -- 3182
+if$ -- 23382
 int.to.chr$ -- 7
 int.to.str$ -- 1
-missing$ -- 216
-newline$ -- 776
-num.names$ -- 817
-pop$ -- 1612
+missing$ -- 225
+newline$ -- 812
+num.names$ -- 857
+pop$ -- 1711
 preamble$ -- 1
-purify$ -- 1587
+purify$ -- 1692
 quote$ -- 0
-skip$ -- 2465
+skip$ -- 2586
 stack$ -- 0
-substring$ -- 6652
-swap$ -- 596
+substring$ -- 6968
+swap$ -- 621
 text.length$ -- 10
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1767
-warning$ -- 4
-while$ -- 965
+type$ -- 1857
+warning$ -- 3
+while$ -- 1012
 width$ -- 0
-write$ -- 2376
+write$ -- 2491
 (There were 9 error messages)

@@ -12,69 +12,57 @@ header-includes:
 b) La conclusion ne doit pas présenter de nouvelles idées, de nouveaux résultats, ni de nouvelles interprétations. Elle doit être rédigée de manière à faire ressortir la cohérence de la démarche.  -->
 
 
-# Revister les données de co-occurrences avec la donnée {-}
+# Intéractions écologiques et distribution des espèces {-}
 
-## Revister les données de co-occurrences avec la donnée {-}
+## Des modèles théoriques à développer {-}
 
-Le message central de ma thèse est donné au chapitre \ref{chap3} de ma thèse. Après les efforts théoriques des chapitres \ref{chap1} et \ref{chap2}, j'y ai montré que l'information des réseaux écologiques étaient un apport important pour bien interpréter les données de co-occurrence. En partant initialement de la question "Est-ce que les espèces qui interagissent co-occurent différemment que celle qui n'intéragissent pas", j'ai compris qu'il n'y avait pas de réponse tranché mais plutôt une réponse qui dépendait de la nature du réseau. Grâce à l'analyse de quelques propriétés des réseaux étudiés et d'une analyse d'un grand nombre de co-occurrence j'ai montré qu'on ne pouvait pas détecter de signal des intéractions dans les données de co-occurrence statique. De plus j,I montré qu'affirmer que des espèce séparé de plus de deux liens dans les réseaux ne pouvaient pas être distingué d'une co-occurrence aléatoired. Ce résultat sera, je pense, très utile pour amener une lumière nouvelle sur le débat. Le problème n'est peut être pas seulement un problème d'échelle spatiale [@Araujo2014; @Belmaker2015] mais aussi un problème de la nature du système étudié. Ce résultats nous indique qu'il faut étudier le système et comprendre sous quelle condition inclure les interactions est important ou nous. Le porblème de cette assertion est qu'elle sous-entend une forme de contingence alors même que nous cherchons des règles. Il me semble qu'un travail de reflexions sur les groupes est amané.
+Dans son appel pour un renouvellement de la théorie de la biogéographie des îles, Mark Lomolino soulignait le besoin d'intégrer davantage de processus écologiques et évolutifs autour des trois processus fondamentaux de la biogéographie : colonisation, extinction et évolution [@Lomolino2000]. Au chapitre \ref{chap1}, je me suis confronté frontalement à ce problème en proposant une démarche pour incorporer les interactions et les contraintes abiotique dans la TIB. J'ai proposé d'utiliser une approche générale reliant ces facteur aux probabilité d'extinction et de colonisation. Il me semble que cette approche est simple et prometteuse, elle est finalement une extension de la TIB qui devient un cas particulier pour lesquelles les interactions et les contraintes abiotiques n'ont pas d'influence.
 
+Le modèle proposé au chapitre \ref{chap1} suggère aussi le potentiel de réfléchir en terme de probabilité d'assemblage [@Cazelles2015]. A la lecture de du livre de 1972 de Robert MacArthur, j'ai ressenti que l'idée était présente mais pas formuler de manière explicite [@macarthur1972geographical]. Bien que je pense que ce type d'approche soit important, il y une limite en terme de nombre de communautés à envisager (pour $n$ espèces, ce sont $2^n$ espèces) qui restraint l'application de telle approche. Cela limite l'application directe du modlèle à des données. Cela étant dit, il est possible que des moyens émergent pour réduire la compléxité.
 
-## Vers une catégorisation {-}
+En me confrontant à l'incorporation des intéractions écologiques dans la TIB (chapitre \ref{chap1}), je me suis aperçu à quel point il est hardu de construire des modèles simples, élégant et qui expliquent à un grand nombre de faits. En conséquences, je ne suis pas étonné que la TIB soit toujours utilisée pour un grand nombre d'étude comme point de départ malgré ces défaut reconnu dans la ré-édition de 2001 de *The Theory of Island Biogeography* par Edward 0. Wilson lui même :
 
-De manière tout a fait probante, l'étude de la nature a été un travaille de groupement por essayer de classé les êtres vivants par des criètère plus ou moins cohérents. La classification que nous connaissons maintentantse base sur les lien de parenté entre les êtres vivants. En plus de cette catégorisation lobale, nous regroupons les animaux de manière fonctionnelle en écologique et nous parlons aisin de poducteur primaires, de proie, de prédateur, de généraliste, de spécialiste... Cette terminalogie soulève bien des différences majeurs mais de manière paradoxale les SDMs dont j'ai souvent parlé dans mon travil de thèse semble être valables pour toutes les espèces. Biens entendu dans les faits les chercheurs connaissent le plus souvent les différences des grands groupes et les approches les plus appropriés pour tel ou tel groupe. Néanmoins quand on ne reconnait pas dans une forme de systématisation ces différences. Ainsi, si par exemple, la plupart des SDMs sont efficaces pour traiter des arbres mais plutôt problématiques pour traiter des oiseaux, il me semble qu'il faut expliquer pouquoi et ne pas essayer d'affirmer que les interactions sont importantes ou pas basé sur un ensemble aprticulier d'exemple bien choisi. En disant cela je pense qu'il serait souhaitable d'avoir des arguments théorique solide pour dire quel ou quel type d'espèce il faut prendre en compte tel ou tel facteur pour bien conpendre. Cette idée peut être batie sur les traits finctionnels. En 2006, McGill proposait de rebâtir l'écologie des communautés des traits fonctionelle, ces traits qui mesurent différentes propriétés des espèces [@McGill2006]. Aisin au lieu de se référer à une catéégorisation de l'esèce par son no taxonomie un ensemble plus objectof sur la bases desquelles des rgles sont à trouver notamment sur les stratégies de modélisation des ranges. Et mieux en composition su des prédiction sur les set de triats sont possibles.
+> "The flaws of the book lie in its oversimplification and incompleteness, which are endemic to most efforts at theory and synthesis."
 
+La nature même de l'objet \emph{interactions} n'est pas quelque chose de simple, à l'échelle de la communauté, les interactions ne peuvent pas être traitées isolémment, elles forment des réseaux. Il y a un champ de la mathématique entier dédié à l'étude de tels objets : la théorie des graphes. L'écologie n'est pas la seule à utiliser ces objets, d'autres disciplines, comme les neurosciences, pointent également la difficulté des systèmes caractérisé par l'interdépendence de ses unités. La théorie des réseaux à amener des mathématiciens et des physiciens à nourir à l'écologie de leurs outils auxqels les écologues se familiarisent, doublant la complexités des systèmes d'une compléxité technique.
 
-
-# Les défis à relever dans un monde en changement {-}
-
-
-Des conférences, des mesures, des érosions de écosystèmes, des extinctions en masse, notre monde en témoigne qu'on a eu la COOP21 qui a ce jour cherche encore à comprenre. les services écosystèmies perdus...Reconfiguration des écosystèmes naturelle li y a eu d'autre crise avant. Finalemnt avec du catastrophisme, la question s'est si nous on ira mal. On est grons pour la taille de la planète peut être plus suceptibel è l'extinciton que l'on pense. Maid ce ,est pas le pessismise qui m'importe. - Et si on faisait rien pour le frelon asiatique ?
-
-## Anticiper les changments de biodiversité {-}
-
-La facilité des données de co-occurrence la d.marche des migrations en cours prédictions parfois exactes parfois juste la migration northwrad rééxaminer esr semble indiqué qu'il n'y a pas de mgration plus vers le nors.
+En parallèle des questionnements pointus que soulève différents champs de l'écologie, il me semble également important que des réflexions soient menées pour aller vers des modèles plus intégratifs. Une part importante de l'effort doit être dédiée à des approches plus simplifiées mais davantage intégratives. Si je force le trait, d'un côté avec très peu de population, les dynamiques engendrées peuvent être très complexe voir chaotique (ce qui est appuyé par des expérience [@Costantino1997b; @Fussmann2000]) et de l'autre avec une équation différentielle très simple on peut donner une vision de la biogéographie [@MacArthur1967]. Il me semble qu'il est tout pertient d'essayer de partir de l'échelle la plus large et ôir aller vers des échelles plus petite que la démarche inverse. Il est par ailleurs tout aussi possible que les deux objets finaux à prédire : abondance relative de populations en interaction, et composition en espèces ne puissent être prédit de la même façon [ce qui serait une forme de *rupture de symétrie* @Anderson1972]. Quoi qu'il en soit, c'est en essayant d'utilser la première approche que j'ai mieux cerné quelles pouvaient être les traces laissées par les interactions écologiques sur les distributons d'espèces.
 
 
-## Avons-nous des espoirs vains ? {-}
+## Des théories pour mieux apréhender les données de co-occurrence {-}
 
-ans son arctile 'Don't juge a species on their origin' Mark Davis prend à revers un sertain nombre d'idée recu et souligne qye les effects des invedeurs peuvent être positives @Davis2011.
+Le chapitre \ref{chap2} bien que théorique, est un pas significatif vers des apporches plus appiquée. Il est question de données de co-occurrece. Les données d'occurrence (ou de présence et d'absence) sont les plus utilisées en biogéographie et qui font l'objet de développement méthodologique [@Elith2006; @Phillips2006]. L'information donnée par la co-occurrence est finalemnt une information donnée par un ensemle de données d'occurrence qui permet, par exemple d'envisager la structure des assemblages de demain [@Albouy2012]. En proposant une réflexion de l'impact des interactions écologiques sur ces réseaux, j'ai donc essayer de mieux comprendre ce que ces données pouvaient contenir [ce qui est un travail capital comme le souligne @Godsoe2010a]. En repartant sur un modèle de probabilité simple doublé de l'utilisation de la version trophique de la TIB [@Gravel2011] comme support, j'ai montré comment la théorie permetait de jeter une lumière nouvelle pour regarder les données de co-occurrence.
 
+Le message central de ma thèse, livré au chapitre \ref{chap3}, s'appuie sur cette théorie et la confirme. En regardant des données de co-occurece pour des systèmes pour lesquelles les interactions étaient connues, j'ai montré que les interactions laissaient des traces visibles dans les données statiques de co-occurrence sous certaines conditions. La détection de ce signal n'est, en effet possible que lorsque les espèce interagissent drectement et lorsuqe le nombre d'interaction n'est pas trop impornat. De manière cohérente, prédire la distribution d'un prédateur spécialiste est difficile sans comprender ou sera sa proie. Par contre pour des généraliste ou pour des paires d'espèces qui ne sont pas en interactions directes il semble que leur co-occurrence ne pussent pas être distinguée de rencontres aléatoires. Du chapitre \ref{chap2} au chapitre \ref{chap3}, j'ai souligné l'intérêt des développemnets théoriques pour mieux comprendre des données empiriques.
 
-L'érosion de la biodiversité exergue une certaine nostalgie qui parfois conduit une forme de fatalisme chez certain experts. Nous travaillons dans un monde qu nous avons déjà depuis bien longtemps..
-
-L'oiseau autralien Le royaume de la contingence du à l'impact historique de l'histoire evolutive.
-
-Invaion de vespa ou alors des inovation socilae meilleur défense des abeilles?
-
-Les conséquences sont compliqués des changements climatiques sont nombreuses et certaines espèce voir le range grandir d'autre diminuer pour cds espèce de co existent et donc à un changemnet prononc. de  al morphologoe des communautés alors que le nombre d'espèce peut être peu affecté @Moritz2008
-
-Oui mais même sans aller trop vite, il faut refaire
-
-'homogénéité ++ mais avec les espèces invasive le signal est fortemnt briollé aussi ! Je pense qu'on est a un tournant de la biogoe vers un chamgemnt de paradigme communaité centré qui ne nit pas les travaux précédant mais les suit.
+En partant initialement de la question "Est-ce que les espèces qui interagissent co-occurent différemment que celle qui n'intéragissent pas", j'ai compris qu'il n'y avait pas de réponse tranchée, mais plutôt une réponse qui dépendait de la nature du réseau. Ce résultat sera, je pense, très utile pour amener une lumière nouvelle sur le débat qui enime la communauté des biogéographes, celui de savoir si oui ou non les interactions sont importantes à larges échelles. Je suis convaincu qu'in n'est pas seulement question d'un problème d'échelles spatiales [@Araujo2014; @Belmaker2015], mais c'est aussi une question qui concerne la nature du système étudié. mes résultats indiquent qu'il faut étudier le système pour conclure la nature des facteurs qui sont à prendre en compte. Pour aller plus loin dans ma réflexion il faudrait, je pense que nous arvenions à une caracctérisation des systèmes pour lesquels les interactions sont ou ne sont pas important afin que l'on puisse avoir des règles efficace pour savoir quelles types d'approches est pertienent pour quel type de système. C'est une étape importante et longue pour aller vers des prédictions robustes qui sont très aujourd'hui plus que nécessaires.
 
 
 
 
 # Vers une écologie prédictive? {-}
 
-## Un défi théorique majeur {-}
+## Les défis à relever dans un monde en changement {-}
 
-En me confrontant à l'incorporation des intéractions écologiques dans la TIB (chapitre \ref{chap1}), je me suis aperçu à quelle point il est difficil de construire des modèles simples, élégant et qui expliquent à un grand nombre de fait. Je ne suis pas étonné que la TIB soit toujours utilisée pour un grand nombre d'étude comme point de départ malgré ces défaut reconnu dans la ré-édition de 2001 de \{*The Theory of Island Biogeography*} par Edward 0. Wilson lui même :
+Érosion de la biodiversité, extinctions de masses, perte de service écosystémiques, les activités anthropiques ont fortement bouleversé les écosystèmes. On peut espérer que La facilité des données de co-occurrence la d.marche des migrations en cours prédictions parfois exactes parfois juste la migration northwrad rééxaminer esr semble indiqué qu'il n'y a pas de mgration plus vers le nors.'homogénéité ++ mais avec les espèces invasive le signal est fortemnt briollé aussi ! Je pense qu'on est a un tournant de la biogoe vers un chamgemnt de paradigme communaité centré qui ne nit pas les travaux précédant mais les suit.
 
-> "The flaws of the book lie in its oversimplification and incompleteness, which are endemic to most efforts at theory and synthesis."
+Nous assostons à une recomposition des communautés. Lorque l"on parle de sixième extinction c'est que nous avons des taux record d'extinction [@Thomas2004]. Biensur cela pose des grandes questions sur comme savoir quel partie du vivant est davatage touché [@Thuiller2011], mais d'un point de vue on est dans une ériode de focntionnenement particulier qu'on peut voir comme ue grande expérience mais aussi comme m moment où des théories solides seraient le sbienvenue.
+Dans son arctile 'Don't juge a species on their origin' Mark Davis prend à revers un sertain nombre d'idée recu et souligne qye les effects des invedeurs peuvent être positives @Davis2011.
 
-Intégrer des objets tels que les interactions est finalement quelques chose de très compliqé et il est importnat que des mathématiciens, des physiciens partcipent à apporter des outils à l'écologie. Il me semble aussi qu'il est important que des réflexions soient mené pour des modèles plus intégrtaifs et essayé des approches, certes simplificatrice mais qui intégrent finalement différents aspect. Il me semble qu'on peut schématiser nous avons des modèles de Lotka-Volterra et de l'autre et de l'autre des modèle plus holiste comme la TIB qui se parle finalement assez peu. Biensur il peut y avoir un fondement mais une *rupture de symétrie* mais encore faut il comprende son orgine. Cela serait aussi un message pour essayer par les deux bouts: de large échelle vers petit et de petit vers grand d'aller vers davantage d'intégration.
+Et si on faisait rien pour le frelon asiatique ? Peut être que qu'une partie de l'entomofaune distparaitrait, peut être que les abeilles domestiques deviendraient pus efficace et finirais par stabiiser sa populatiom. Dans tous les cas, au moins au point de vue [@Villemant2011]. Récemment une suprenante étude sur le Diamant mandarin (*Taeniopygia guttata*), un oiseau commun du centre de l'autralie, qu'au dessus dessu de 26°C un champ particulier du mâle  pour allerqui induit une différence à des oiseau plus petit et à une meilel ferticilité [@Mariette2016]. Comolexit. des systèmes biologoqes à prendre et cMest surprise sont fialemnt plutôt la règle et l'excetion et donc une modestie dans la tâche de modélisé la biodiversité mondiale [@Mouquet2015].
 
 
-## Vers une théorie en intégrative de la biogéographie {-}
 
-L'effort théorique en biogéographie est importnat et 'intégration ordonnée de concepts clés issus de différents champs de l'écologie \cite{Thuiller2013} est une clef essentielle pour aller vers des prédctions de Ainsi, alors que les conditions climatiques et plus généralement la géographie physique sont classiquement évoquées pour expliquer la répartition des espèces \cite{Kearney2004}, les interactions entre espèces sont quant à elles souvent occultées. De même, bien que les processus évolutifs soient souvent évoqués comme déterminants majeurs de la diversité des espèces \cite{Rosindell2011}, leurs effets à court terme sont souvent ignorés \cite{Parmesan2006} dans les scénarios décrivant la biodiversité de demain \cite{Lavergne2010}. La difficulté principale est alors de produire des modèles (théoriques en première instance) qui intègrent l'ensemble des processus et les relations qu'ils entretient \cite{Thuiller2013} tout en gardant une relative simplicité. Une théorie intégrative en biogéographie pourrait être le meilleur point d'ancrage pour construire de nouvelles approches appliquées. Avec une telle théorie en main, nous pourrions aller vers l'enjeux majeurs de ces dernières années en biogéographie : relâcher les hypothèses que les modèles classiques de répartitions des espèces d'aujourd'hui utilisent (notamment en occultant les interactions) pour prédire la biodiversité de demain \cite{Guisan2011}.
+## Des règles en écologie et évolution? {-}
 
-## Comment prédire le hasard {-}
+Il est plus facile de s'ppuyer que sur des correlatons d'autant plus que si des correlatons fortes il existent une esplication peut alors voir le jour.
 
-Aller vers des contriantes énergétiques mais il est dur qu'on trouvera des règles fiables sur un système qui bien que régit par des règles physique assez nien comprise est un moteur de stochasticé..
+Biensur il y un certain nombre de chose comment ne pas oender que le lègue de la TIB n'est aps quelque chose mais et l'emsmeble des théories est souvent resreint à un chmape à une catégorei et comme moi j'ai montrés que des système oour lesquels les interaction sosnt plus ou moins importnates, je pense qu,'il y a un un promier travails ed evatégoraisation.
 
-différentes théories pour différentes échelles ??
+De manière tout a fait probante, l'étude de la nature a été un travaille de groupement por essayer de classé les êtres vivants par des criètère plus ou moins cohérents. La classification que nous connaissons maintentantse base sur les lien de parenté entre les êtres vivants. En plus de cette catégorisation lobale, nous regroupons les animaux de manière fonctionnelle en écologique et nous parlons aisin de poducteur primaires, de proie, de prédateur, de généraliste, de spécialiste... Cette terminalogie soulève bien des différences majeurs mais de manière paradoxale les SDMs dont j'ai souvent parlé dans mon travil de thèse semble être valables pour toutes les espèces. Biens entendu dans les faits les chercheurs connaissent le plus souvent les différences des grands groupes et les approches les plus appropriés pour tel ou tel groupe. Néanmoins quand on ne reconnait pas dans une forme de systématisation ces différences. Ainsi, si par exemple, la plupart des SDMs sont efficaces pour traiter des arbres mais plutôt problématiques pour traiter des oiseaux, il me semble qu'il faut expliquer pouquoi et ne pas essayer d'affirmer que les interactions sont importantes ou pas basé sur un ensemble aprticulier d'exemple bien choisi. En disant cela je pense qu'il serait souhaitable d'avoir des arguments théorique solide pour dire quel ou quel type d'espèce il faut prendre en compte tel ou tel facteur pour bien conpendre. Cette idée peut être batie sur les traits finctionnels. En 2006, McGill proposait de rebâtir l'écologie des communautés des traits fonctionelle, ces traits qui mesurent différentes propriétés des espèces [@McGill2006]. Aisin au lieu de se référer à une catéégorisation de l'esèce par son no taxonomie un ensemble plus objectof sur la bases desquelles des rgles sont à trouver notamment sur les stratégies de modélisation des ranges. Et mieux en composition su des prédiction sur les set de triats sont possibles.
+
+De  même peut être que des hypothèse eambietieurse, dans des que le tems à cerie à aller vers des systèmes énergétique Aller vers des contriantes énergétiques mais il est dur qu'on trouvera des règles fiables sur un système qui bien que régit par des règles physique assez nien comprise est un moteur de stochasticé..
+
 
 
 Quelles hypothèse pouvons nous faire sur les produits de évolution? Si on peut supposer qu'il y a des compétition ou la règle est le changemnt cette même propriété a-t-elle des propriétés sur le long terme. Peut-on affirmer que les produits de l'évoluton dans un enviroemnt stable amène à des entités qui optimise l'tilisation de l'énergie. Si oui, que dire des produites de l'évoltion dans avec variation. Si on peut faire des hypothèses comment les tester. Dans l'article de
@@ -83,18 +71,23 @@ Si l'évolution est imprévisible si au dela d'un certain temps on ne peut presq
 
 2014, Hurlbert et Stegen propose une série d'hypothèse pour mettre en évidence l'impact de l'énergy sur l'évolution la troisième hypothèse est temps suffisant pour équilibre. Une telle hypothèse une forme de maximistaion de la production de la biomasse et l'utilisation qui est peut être. Peut-être que les différents mécanismes en jeu dans les processu évolutifs amène probablement à une forme de stationarité...
 
-ou une compréhension des contriantes énergétiques
 
 avoir des erreurs quantifiables
-
-## Contraintes énergétiques {-}
-
-Moi je pars vers ça..
-
-=> des interactions changer de paradigme
-=> abstraction des espèces
+mieux dessiner ce qui est suremnet plus déterminsite de ceux qui l'ai moins
 
 
+## Vers une théorie en intégrative de la biogéographie {-}
+
+En s'appuantddur un champ bien dessiner il afiat être précis en biogéogrpaheo
+
+En me confrontant à l'incorporation des intéractions écologiques dans la TIB (chapitre \ref{chap1}), je me suis aperçu à quelle point il est difficil de construire des modèles simples, élégant et qui expliquent à un grand nombre de fait. Je ne suis pas étonné que la TIB soit toujours utilisée pour un grand nombre d'étude comme point de départ malgré ces défaut reconnu dans la ré-édition de 2001 de *The Theory of Island Biogeography* par Edward 0. Wilson lui même :
+
+> "The flaws of the book lie in its oversimplification and incompleteness, which are endemic to most efforts at theory and synthesis."
+
+
+L'effort théorique en biogéographie est importnat et 'intégration ordonnée de concepts clés issus de différents champs de l'écologie \cite{Thuiller2013} est une clef essentielle pour aller vers des prédctions de Ainsi, alors que les conditions climatiques et plus généralement la géographie physique sont classiquement évoquées pour expliquer la répartition des espèces \cite{Kearney2004}, les interactions entre espèces sont quant à elles souvent occultées. De même, bien que les processus évolutifs soient souvent évoqués comme déterminants majeurs de la diversité des espèces \cite{Rosindell2011}, leurs effets à court terme sont souvent ignorés \cite{Parmesan2006} dans les scénarios décrivant la biodiversité de demain \cite{Lavergne2010}. La difficulté principale est alors de produire des modèles (théoriques en première instance) qui intègrent l'ensemble des processus et les relations qu'ils entretient \cite{Thuiller2013} tout en gardant une relative simplicité. Une théorie intégrative en biogéographie pourrait être le meilleur point d'ancrage pour construire de nouvelles approches appliquées. Avec une telle théorie en main, nous pourrions aller vers l'enjeux majeurs de ces dernières années en biogéographie : relâcher les hypothèses que les modèles classiques de répartitions des espèces d'aujourd'hui utilisent (notamment en occultant les interactions) pour prédire la biodiversité de demain \cite{Guisan2011}.
+
+Comme un prmier pas plus loin que mes travax le chapitre \ref{chap4} vien apporter un pas vers le développent dd'un théorie métabllolqieude la vers laquelle e veux aporter ma contribution dans les prochaines année.s
 
 
 
@@ -104,8 +97,12 @@ Moi je pars vers ça..
 
 
 
- <!-- Les ranges comme un fait (wallace chap 2) des espèces avec des larges avec des grandes ranges
- Loddigésie admirable (*Loddigesia mirabilis*) seul collibris de son genre vs Lièvre variable (*Lepus timidus*) -->
+
+
+
+
+<!-- Les ranges comme un fait (wallace chap 2) des espèces avec des larges avec des grandes ranges
+Loddigésie admirable (*Loddigesia mirabilis*) seul collibris de son genre vs Lièvre variable (*Lepus timidus*) -->
 
 <!-- La biogéographie est longtemps restée dans une phase d'hitoire naturelle, accumulant des connaissances sur la distribution des espèces et des groupes taxonimique d'ordre supérieur et sur la composition des biotes. Le raisonnemnt interprétatifs a été largement utilisé pour résoudre des problèmes singuliers grâce è l'histoire individuels des taxons et biotes. Cette activité descriptive continura sans ausun doute à être d'une importance fundamentak pour la science et une des aventures de toutes les entreprises scientifiques, et dans la richesse des détails qu'on déroulem plaisant esthétiquement. Mais la biogéographie est aussi dans une position dans une phase tout aussi intéressante d'expériences et de théorie.-->
 

@@ -1,13 +1,24 @@
-\begin{thebibliography}{202}
+\begin{thebibliography}{212}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{\texttt{#1}}\fi
 \expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
 
+\bibitem[{Albouy et~al.(2012)Albouy, Guilhaumon, Ara{\'{u}}jo, Mouillot, and
+  Leprieur}]{Albouy2012}
+Albouy, C., Guilhaumon, F., Ara{\'{u}}jo, M.~B., Mouillot, D., Leprieur, F.,
+  2012. {Combining projected changes in species richness and composition
+  reveals climate change impacts on coastal Mediterranean fish assemblages}.
+  Global Change Biology 18~(10), 2995--3003.
+
 \bibitem[{Allesina and Tang(2012)}]{Allesina2012a}
 Allesina, S., Tang, S., mar 2012. {Stability criteria for complex ecosystems.}
   Nature 483~(7388), 205--208.
 \newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/22343894}
+
+\bibitem[{Anderson(1972)}]{Anderson1972}
+Anderson, P.~W., 1972. {More is different.} Science (New York, N.Y.)
+  177~(4047), 393--396.
 
 \bibitem[{{Arabidopsis Genome
   Initiative}(2000)}]{TheArabidopsisGenomeInitiative2000}
@@ -161,17 +172,17 @@ Cazelles, K., Ara{\'{u}}jo, M.~B., Mouquet, N., Gravel, D., mar 2016. {A theory
 \newline\urlprefix\url{http://link.springer.com/10.1007/s12080-015-0281-9}
 
 \bibitem[{Cazelles et~al.(2015{\natexlab{a}})Cazelles, Mouquet, Mouillot, and
-  Gravel}]{Cazelles2015b}
-Cazelles, K., Mouquet, N., Mouillot, D., Gravel, D., nov 2015{\natexlab{a}}.
-  {On the integration of biotic interaction and environmental constraints at
-  the biogeographical scale}. Ecography~(October), n/a--n/a.
-\newline\urlprefix\url{http://doi.wiley.com/10.1111/ecog.01714}
-
-\bibitem[{Cazelles et~al.(2015{\natexlab{b}})Cazelles, Mouquet, Mouillot, and
   Gravel}]{Cazelles2015a}
-Cazelles, K., Mouquet, N., Mouillot, D., Gravel, D., 2015{\natexlab{b}}. {On
+Cazelles, K., Mouquet, N., Mouillot, D., Gravel, D., 2015{\natexlab{a}}. {On
   the integration of biotic interaction and environmental constraints at the
   biogeographical scale}~(October), 1--11.
+
+\bibitem[{Cazelles et~al.(2015{\natexlab{b}})Cazelles, Mouquet, Mouillot, and
+  Gravel}]{Cazelles2015}
+Cazelles, K., Mouquet, N., Mouillot, D., Gravel, D., nov 2015{\natexlab{b}}.
+  {On the integration of biotic interaction and environmental constraints at
+  the biogeographical scale}. Ecography n/a~(October), n/a--n/a.
+\newline\urlprefix\url{http://doi.wiley.com/10.1111/ecog.01714}
 
 \bibitem[{Chamberlain et~al.(2014)Chamberlain, Bronstein, and
   Rudgers}]{Chamberlain2014}
@@ -215,6 +226,11 @@ Cook, W.~M., Lane, K.~T., Foster, B.~L., Holt, R.~D., sep 2002. {Island theory,
   Letters 5~(5), 619--623.
 \newline\urlprefix\url{http://doi.wiley.com/10.1046/j.1461-0248.2002.00366.x}
 
+\bibitem[{Costantino et~al.(1997)Costantino, Desharnais, Cushing, and
+  Dennis}]{Costantino1997b}
+Costantino, R., Desharnais, R., Cushing, J., Dennis, B., 1997. {Chaotic
+  Dynamics in an Insect Population}.
+
 \bibitem[{Coyne and Orr(2004)}]{Coyne2004}
 Coyne, J.~A., Orr, H.~A., 2004. {Speciation}.
 
@@ -226,6 +242,16 @@ Davis, A.~J., Jenkinson, L.~S., Lawton, J.~H., Shorrocks, B., Wood, S., feb
 \newline\urlprefix\url{www.blight.com http://www.ncbi.nlm.nih.gov/pubmed/280836
   http://www.ncbi.nlm.nih.gov/pubmed/9486646
   http://www.nature.com/doifinder/10.1038/35842}
+
+\bibitem[{Davis et~al.(2011)Davis, Chew, Hobbs, Lugo, Ewel, Vermeij, Brown,
+  Rosenzweig, Gardener, Carroll, Thompson, Pickett, Stromberg, {Del Tredici},
+  Suding, Ehrenfeld, Grime, Mascaro, and Briggs}]{Davis2011}
+Davis, M.~a., Chew, M.~K., Hobbs, R.~J., Lugo, A.~E., Ewel, J.~J., Vermeij,
+  G.~J., Brown, J.~H., Rosenzweig, M.~L., Gardener, M.~R., Carroll, S.~P.,
+  Thompson, K., Pickett, S. T.~a., Stromberg, J.~C., {Del Tredici}, P., Suding,
+  K.~N., Ehrenfeld, J.~G., Grime, J.~P., Mascaro, J., Briggs, J.~C., jun 2011.
+  {Don't judge species on their origins.} Nature 474~(7350), 153--4.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/21654782}
 
 \bibitem[{Desmet and Cowling(2004)}]{Desmet2004}
 Desmet, P., Cowling, R., 2004. {Using the species-area relationship to set
@@ -250,7 +276,7 @@ Dobzhansky, T., mar 1973. {Nothing in Biology Makes Sense except in the Light
 
 \bibitem[{Dray and Dufour(2007)}]{Dray2007}
 Dray, S., Dufour, A.~B., 2007. {The ade4 Package: Implementing the Duality
-  Diagram for Ecologists}. Journal of Statistical Software 22~(4), 1 -- 20.
+  Diagram for Ecologists}. J. Stat. Softw. 22~(4), 1--20.
 \newline\urlprefix\url{http://www.jstatsoft.org/}
 
 \bibitem[{Durance and Ormerod(2010)}]{Durance2010}
@@ -320,6 +346,13 @@ Fordham, D.~A., Ak{\c{c}}akaya, H.~R., Brook, B.~W., Rodr{\'{i}}guez, A.,
   Iberian lynx in a changing climate}. Nature Climate Change 3~(10), 899--903.
 \newline\urlprefix\url{http://www.nature.com/doifinder/10.1038/nclimate1954}
 
+\bibitem[{Fussmann et~al.(2000)Fussmann, Ellner, Shertzer, and
+  Hairston}]{Fussmann2000}
+Fussmann, G.~F., Ellner, S.~P., Shertzer, K.~W., Hairston, N.~G., nov 2000.
+  {Crossing the Hopf Bifurcation in a Live Predator-Prey System}. Science
+  290~(5495), 1358--1360.
+\newline\urlprefix\url{http://www.sciencemag.org/cgi/doi/10.1126/science.290.5495.1358}
+
 \bibitem[{Ga{\"{u}}z{\`{e}}re et~al.(2015)Ga{\"{u}}z{\`{e}}re, Jiguet, and
   Devictor}]{Gauzere2015}
 Ga{\"{u}}z{\`{e}}re, P., Jiguet, F., Devictor, V., 2015. {Rapid adjustment of
@@ -347,6 +380,11 @@ Gilpin, M.~E., Diamond, J.~M., jan 1982. {Factors contributing to
   75--84.
 \newline\urlprefix\url{http://link.springer.com/10.1007/BF00349014}
 
+\bibitem[{Godsoe(2010)}]{Godsoe2010a}
+Godsoe, W., 2010. {I can't define the niche but i know it when i see it: A
+  formal link between statistical theory and the ecological niche}. Oikos
+  119~(1), 53--60.
+
 \bibitem[{Godsoe and Harmon(2012)}]{Godsoe2012}
 Godsoe, W., Harmon, L.~J., sep 2012. {How do species interactions affect
   species distribution models?} Ecography 35~(9), 811--820.
@@ -372,18 +410,20 @@ Grant, P.~R., Grant, B.~R., 2008. {How and Why Species Multiply: The Radiation
   University Press.
 \newline\urlprefix\url{https://books.google.ca/books?id=h5urQiWUB7AC}
 
+\bibitem[{Gravel et~al.(2011{\natexlab{a}})Gravel, Canard, Guichard, and
+  Mouquet}]{Gravel2011a}
+Gravel, D., Canard, E., Guichard, F., Mouquet, N., may 2011{\natexlab{a}}.
+  {Persistence Increases with Diversity and Connectance in Trophic
+  Metacommunities}. PLoS ONE 6~(5), e19374.
+\newline\urlprefix\url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3103501{\&}tool=pmcentrez{\&}rendertype=abstract
+  http://dx.plos.org/10.1371/journal.pone.0019374}
+
 \bibitem[{Gravel et~al.(2006)Gravel, Canham, Beaudet, and
   Messier}]{Gravel2006a}
 Gravel, D., Canham, C.~D., Beaudet, M., Messier, C., apr 2006. {Reconciling
   niche and neutrality: the continuum hypothesis.} Ecology letters 9~(4),
   399--409.
 \newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/16623725}
-
-\bibitem[{Gravel et~al.(2011{\natexlab{a}})Gravel, Guichard, and
-  Hochberg}]{Gravel2011a}
-Gravel, D., Guichard, F., Hochberg, M.~E., jun 2011{\natexlab{a}}. {Species
-  coexistence in a variable world.} Ecology letters, 828--839.
-\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/21682832}
 
 \bibitem[{Gravel et~al.(2011{\natexlab{b}})Gravel, Massol, Canard, Mouillot,
   and Mouquet}]{Gravel2011}
@@ -719,6 +759,12 @@ MacArthur, R.~H., Wilson, E.~O., MacArthur, W., 1967. {The theory of island
   biogeography}.
 \newline\urlprefix\url{http://books.google.com/books?hl=en{\&}lr={\&}id=a10cdkywhVgC{\&}pgis=1}
 
+\bibitem[{Mariette and Buchanan(2016)}]{Mariette2016}
+Mariette, M.~M., Buchanan, K.~L., aug 2016. {Prenatal acoustic communication
+  programs offspring for high posthatching temperatures in a songbird}. Science
+  353~(6301), 812--814.
+\newline\urlprefix\url{http://www.sciencemag.org/cgi/doi/10.1126/science.aaf7049}
+
 \bibitem[{Massol et~al.(2011)Massol, Gravel, Mouquet, Cadotte, Fukami, and
   Leibold}]{Massol2011}
 Massol, F., Gravel, D., Mouquet, N., Cadotte, M.~W., Fukami, T., Leibold,
@@ -885,6 +931,12 @@ Peterson, A.~T., Soberon, J., Pearson, R.~G., Martinez-Meyer, E., 2011.
   {Ecological Niches and Geographic Distributions}. Vol. 2011. Princeton
   University Press, Princeton, NJ.
 \newline\urlprefix\url{http://books.google.com/books?id=Q{\_}h9FlvgM6wC{\&}pgis=1}
+
+\bibitem[{Phillips et~al.(2006)Phillips, Anderson, and Schapire}]{Phillips2006}
+Phillips, S.~J., Anderson, R.~P., Schapire, R.~E., jan 2006. {Maximum entropy
+  modeling of species geographic distributions}. Ecological Modelling
+  190~(3-4), 231--259.
+\newline\urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S030438000500267X}
 
 \bibitem[{Pielou and Pielou(1968)}]{Pielou1968}
 Pielou, D.~P., Pielou, E.~C., nov 1968. {Association among species of
@@ -1104,6 +1156,26 @@ Th{\'{e}}bault, E., Fontaine, C., aug 2010. {Stability of ecological
   communities and the architecture of mutualistic and trophic networks.}
   Science 329~(5993), 853--856.
 \newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/20705861}
+
+\bibitem[{Thomas et~al.(2004)Thomas, Cameron, Green, Bakkenes, Beaumont,
+  Collingham, Erasmus, {De Siqueira}, Grainger, Hannah, Hughes, Huntley, {Van
+  Jaarsveld}, Midgley, Miles, Ortega-Huerta, Peterson, Phillips, and
+  Williams}]{Thomas2004}
+Thomas, C.~D., Cameron, A., Green, R.~E., Bakkenes, M., Beaumont, L.~J.,
+  Collingham, Y.~C., Erasmus, B. F.~N., {De Siqueira}, M.~F., Grainger, A.,
+  Hannah, L., Hughes, L., Huntley, B., {Van Jaarsveld}, A.~S., Midgley, G.~F.,
+  Miles, L., Ortega-Huerta, M.~A., Peterson, A.~T., Phillips, O.~L., Williams,
+  S.~E., jan 2004. {Extinction risk from climate change.} Nature 427~(6970),
+  145--8.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/14712274}
+
+\bibitem[{Thuiller et~al.(2011)Thuiller, Lavergne, Roquet, Boulangeat,
+  Lafourcade, and Araujo}]{Thuiller2011}
+Thuiller, W., Lavergne, S., Roquet, C., Boulangeat, I., Lafourcade, B., Araujo,
+  M.~B., feb 2011. {Consequences of climate change on the tree of life in
+  Europe}. Nature 470~(7335), 531--534.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/21326204
+  http://www.nature.com/doifinder/10.1038/nature09705}
 
 \bibitem[{Thuiller et~al.(2013)Thuiller, M{\"{u}}nkem{\"{u}}ller, Lavergne,
   Mouillot, Mouquet, Schiffers, and Gravel}]{Thuiller2013}

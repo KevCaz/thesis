@@ -11,7 +11,7 @@ ABET = limi_src/abs_eng.tex
 MD = intro.md
 PDF = ../intro.pdf
 INTR = intro.tex
-DOCX = ../intro.doc
+DOCX = ../intro.docx
 ##-- Conclusion
 MDC = conclu.md
 PDFC = ../conclu.pdf
@@ -44,7 +44,7 @@ PFLAGS = --filter pandoc-fignos --filter pandoc-tablenos --filter pandoc-eqnos -
 
 ALL: $(MCI) $(PDF) $(PDFC) $(THES) $(CHP3) $(CHP4) $(DOCX) $(CCL) $(APT) $(ABFT) $(ABET)
 
-$(THES): $(SRC) $(INTR) $(CHP1) $(CHP2) $(CHP3) $(CHP4) $(CCL) $(MCI) $(APT) $(ABFT) $(ABET) $(ANN1)
+$(THES): $(SRC) $(INTR) $(CHP1) $(CHP2) $(CHP3) $(CHP4) $(CCL) $(MCI) $(APT) $(ABFT) $(ABET) $(ANN1) $(DOCX)
 	pdflatex $(SRC)
 	bibtex thesekc
 	bibtex thesekc
