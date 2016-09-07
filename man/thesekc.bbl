@@ -1,4 +1,4 @@
-\begin{thebibliography}{212}
+\begin{thebibliography}{223}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{\texttt{#1}}\fi
@@ -171,18 +171,11 @@ Cazelles, K., Ara{\'{u}}jo, M.~B., Mouquet, N., Gravel, D., mar 2016. {A theory
   9~(1), 39--48.
 \newline\urlprefix\url{http://link.springer.com/10.1007/s12080-015-0281-9}
 
-\bibitem[{Cazelles et~al.(2015{\natexlab{a}})Cazelles, Mouquet, Mouillot, and
+\bibitem[{Cazelles et~al.(2015)Cazelles, Mouquet, Mouillot, and
   Gravel}]{Cazelles2015a}
-Cazelles, K., Mouquet, N., Mouillot, D., Gravel, D., 2015{\natexlab{a}}. {On
-  the integration of biotic interaction and environmental constraints at the
-  biogeographical scale}~(October), 1--11.
-
-\bibitem[{Cazelles et~al.(2015{\natexlab{b}})Cazelles, Mouquet, Mouillot, and
-  Gravel}]{Cazelles2015}
-Cazelles, K., Mouquet, N., Mouillot, D., Gravel, D., nov 2015{\natexlab{b}}.
-  {On the integration of biotic interaction and environmental constraints at
-  the biogeographical scale}. Ecography n/a~(October), n/a--n/a.
-\newline\urlprefix\url{http://doi.wiley.com/10.1111/ecog.01714}
+Cazelles, K., Mouquet, N., Mouillot, D., Gravel, D., 2015. {On the integration
+  of biotic interaction and environmental constraints at the biogeographical
+  scale}~(October), 1--11.
 
 \bibitem[{Chamberlain et~al.(2014)Chamberlain, Bronstein, and
   Rudgers}]{Chamberlain2014}
@@ -215,10 +208,22 @@ Clark, J.~S., Gelfand, A.~E., Woodall, C.~W., Zhu, K., jul 2014. {More than the
 \newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/25154092
   http://doi.wiley.com/10.1890/13-1015.1}
 
+\bibitem[{Connor et~al.(2013)Connor, Collins, and Simberloff}]{Connor2013}
+Connor, E.~F., Collins, M.~D., Simberloff, D., nov 2013. {The checkered history
+  of checkerboard distributions}. Ecology 94~(11), 2403--2414.
+\newline\urlprefix\url{http://doi.wiley.com/10.1890/15-1034.1
+  http://doi.wiley.com/10.1890/12-1471.1}
+
 \bibitem[{Connor and Simberloff(1979)}]{Connor1979}
 Connor, E.~F., Simberloff, D., dec 1979. {The Assembly of Species Communities:
   Chance or Competition?} Ecology 60~(6), 1132.
 \newline\urlprefix\url{http://www.jstor.org/stable/1936961?origin=crossref}
+
+\bibitem[{Connor and Simberloff(1983)}]{Connor1983}
+Connor, E.~F., Simberloff, D., dec 1983. {Interspecific Competition and Species
+  Co-Occurrence Patterns on Islands: Null Models and the Evaluation of
+  Evidence}. Oikos 41~(3), 455.
+\newline\urlprefix\url{http://www.jstor.org/stable/3544105?origin=crossref}
 
 \bibitem[{Cook et~al.(2002)Cook, Lane, Foster, and Holt}]{Cook2002}
 Cook, W.~M., Lane, K.~T., Foster, B.~L., Holt, R.~D., sep 2002. {Island theory,
@@ -276,7 +281,7 @@ Dobzhansky, T., mar 1973. {Nothing in Biology Makes Sense except in the Light
 
 \bibitem[{Dray and Dufour(2007)}]{Dray2007}
 Dray, S., Dufour, A.~B., 2007. {The ade4 Package: Implementing the Duality
-  Diagram for Ecologists}. J. Stat. Softw. 22~(4), 1--20.
+  Diagram for Ecologists}. Journal of Statistical Software 22~(4), 1 -- 20.
 \newline\urlprefix\url{http://www.jstatsoft.org/}
 
 \bibitem[{Durance and Ormerod(2010)}]{Durance2010}
@@ -390,6 +395,12 @@ Godsoe, W., Harmon, L.~J., sep 2012. {How do species interactions affect
   species distribution models?} Ecography 35~(9), 811--820.
 \newline\urlprefix\url{http://doi.wiley.com/10.1111/j.1600-0587.2011.07103.x}
 
+\bibitem[{Gotelli(2000)}]{Gotelli2000}
+Gotelli, N.~J., sep 2000. {Null model analysis of species co-occurrence
+  patterns.} Ecology 81~(9), 2606--2621.
+\newline\urlprefix\url{http://www.jstor.org/stable/177478?origin=crossref
+  http://doi.wiley.com/10.1890/0012-9658(2000)081[2606:NMAOSC]2.0.CO;2}
+
 \bibitem[{Gotelli and Graves(1996)}]{Gotelli1996}
 Gotelli, N.~J., Graves, G.~R., 1996. {Null models in ecology}. Vol.~14.
   Smithsonian Institution Press, Washington, D.C.
@@ -410,20 +421,18 @@ Grant, P.~R., Grant, B.~R., 2008. {How and Why Species Multiply: The Radiation
   University Press.
 \newline\urlprefix\url{https://books.google.ca/books?id=h5urQiWUB7AC}
 
-\bibitem[{Gravel et~al.(2011{\natexlab{a}})Gravel, Canard, Guichard, and
-  Mouquet}]{Gravel2011a}
-Gravel, D., Canard, E., Guichard, F., Mouquet, N., may 2011{\natexlab{a}}.
-  {Persistence Increases with Diversity and Connectance in Trophic
-  Metacommunities}. PLoS ONE 6~(5), e19374.
-\newline\urlprefix\url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3103501{\&}tool=pmcentrez{\&}rendertype=abstract
-  http://dx.plos.org/10.1371/journal.pone.0019374}
-
 \bibitem[{Gravel et~al.(2006)Gravel, Canham, Beaudet, and
   Messier}]{Gravel2006a}
 Gravel, D., Canham, C.~D., Beaudet, M., Messier, C., apr 2006. {Reconciling
   niche and neutrality: the continuum hypothesis.} Ecology letters 9~(4),
   399--409.
 \newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/16623725}
+
+\bibitem[{Gravel et~al.(2011{\natexlab{a}})Gravel, Guichard, and
+  Hochberg}]{Gravel2011a}
+Gravel, D., Guichard, F., Hochberg, M.~E., jun 2011{\natexlab{a}}. {Species
+  coexistence in a variable world.} Ecology letters, 828--839.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/21682832}
 
 \bibitem[{Gravel et~al.(2011{\natexlab{b}})Gravel, Massol, Canard, Mouillot,
   and Mouquet}]{Gravel2011}
@@ -583,11 +592,6 @@ Hurlbert, A.~H., Stegen, J.~C., 2014. {When should species richness be energy
 Hutchinson, G.~E., 1957. {Concluding remarks. Cold Spring Harbor Symposium}.
   Quantitative Biology 22, 415--427.
 
-\bibitem[{Hutchinson(1959)}]{Hutchinson1959}
-Hutchinson, G.~E., jan 1959. {Homage to Santa Rosalia or Why Are There So Many
-  Kinds of Animals?} The American Naturalist 93~(870), 145.
-\newline\urlprefix\url{http://www.journals.uchicago.edu/doi/abs/10.1086/282070}
-
 \bibitem[{Jabot and Bascompte(2012)}]{Jabot2012}
 Jabot, F., Bascompte, J., mar 2012. {Bitrophic interactions shape biodiversity
   in space.} Proceedings of the National Academy of Sciences of the United
@@ -666,6 +670,11 @@ Koh, L.~P., Dunn, R.~R., Sodhi, N.~S., Colwell, R.~K., Proctor, H.~C., Smith,
 Kooijman, S. A. L.~M., 2000. {Dynamic Energy and Mass Budgets in Biological
   Systems}. Cambridge University Press, Cambridge.
 \newline\urlprefix\url{http://ebooks.cambridge.org/ref/id/CBO9780511565403}
+
+\bibitem[{Lack(1973)}]{Lack1973}
+Lack, D., jun 1973. {The Numbers of Species of Hummingbirds in the West
+  Indies}. Evolution 27~(2), 326.
+\newline\urlprefix\url{http://www.jstor.org/stable/2406972?origin=crossref}
 
 \bibitem[{Lande(1993)}]{Lande1993}
 Lande, R., dec 1993. {Risks of Population Extinction from Demographic and
@@ -765,6 +774,26 @@ Mariette, M.~M., Buchanan, K.~L., aug 2016. {Prenatal acoustic communication
   353~(6301), 812--814.
 \newline\urlprefix\url{http://www.sciencemag.org/cgi/doi/10.1126/science.aaf7049}
 
+\bibitem[{{Mart{\'{i}}n Gonz{\'{a}}lez} et~al.(2015){Mart{\'{i}}n
+  Gonz{\'{a}}lez}, Dalsgaard, Nogu{\'{e}}s-Bravo, Graham, Schleuning, Maruyama,
+  Abrahamczyk, Alarc{\'{o}}n, Araujo, Ara{\'{u}}jo, de~Azevedo, Baquero,
+  Cotton, Ingversen, Kohler, Lara, Las-Casas, Machado, Machado, Maglianesi,
+  McGuire, Moura, Oliveira, Oliveira, Ornelas, Rodrigues, Rosero-Lasprilla,
+  Rui, Sazima, Timmermann, Varassin, Vizentin-Bugoni, Wang, Watts, Rahbek, and
+  Martinez}]{MartinGonzalez2015}
+{Mart{\'{i}}n Gonz{\'{a}}lez}, A.~M., Dalsgaard, B., Nogu{\'{e}}s-Bravo, D.,
+  Graham, C.~H., Schleuning, M., Maruyama, P.~K., Abrahamczyk, S.,
+  Alarc{\'{o}}n, R., Araujo, A.~C., Ara{\'{u}}jo, F.~P., de~Azevedo, S.~M.,
+  Baquero, A.~C., Cotton, P.~A., Ingversen, T.~T., Kohler, G., Lara, C.,
+  Las-Casas, F. M.~G., Machado, A.~O., Machado, C.~G., Maglianesi, M.~A.,
+  McGuire, J.~A., Moura, A.~C., Oliveira, G.~M., Oliveira, P.~E., Ornelas,
+  J.~F., Rodrigues, L. d.~C., Rosero-Lasprilla, L., Rui, A.~M., Sazima, M.,
+  Timmermann, A., Varassin, I.~G., Vizentin-Bugoni, J., Wang, Z., Watts, S.,
+  Rahbek, C., Martinez, N.~D., nov 2015. {The macroecology of phylogenetically
+  structured hummingbird-plant networks}. Global Ecology and Biogeography
+  24~(11), 1212--1224.
+\newline\urlprefix\url{http://doi.wiley.com/10.1111/geb.12355}
+
 \bibitem[{Massol et~al.(2011)Massol, Gravel, Mouquet, Cadotte, Fukami, and
   Leibold}]{Massol2011}
 Massol, F., Gravel, D., Mouquet, N., Cadotte, M.~W., Fukami, T., Leibold,
@@ -806,6 +835,13 @@ McGill, B.~J., Enquist, B.~J., Weiher, E., Westoby, M., apr 2006. {Rebuilding
   community ecology from functional traits.} Trends in ecology {\&} evolution
   21~(4), 178--185.
 \newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/16701083}
+
+\bibitem[{Meier et~al.(2010)Meier, Kienast, Pearman, Svenning, Thuiller,
+  Ara{\'{u}}jo, Guisan, and Zimmermann}]{Meier2010}
+Meier, E.~S., Kienast, F., Pearman, P.~B., Svenning, J.~C., Thuiller, W.,
+  Ara{\'{u}}jo, M.~B., Guisan, A., Zimmermann, N.~E., 2010. {Biotic and abiotic
+  variables show little redundancy in explaining tree species distributions}.
+  Ecography 33~(6), 1038--1048.
 
 \bibitem[{Milo et~al.(2002)Milo, Shen-Orr, Itzkovitz, Kashtan, Chklovskii, and
   Alon}]{Milo2002}
@@ -870,6 +906,12 @@ Ott, D., Digel, C., Rall, B.~C., Maraun, M., Scheu, S., Brose, U., jul 2014.
 Ovaskainen, O., Hottola, J., Shtonen, J., 2010. {Modeling species co-occurrence
   by multivariate logistic regression generates new hypotheses on fungal
   interactions}. Ecology 91~(9), 2514--2521.
+
+\bibitem[{Paquette and Messier(2011)}]{Paquette2011}
+Paquette, A., Messier, C., jan 2011. {The effect of biodiversity on tree
+  productivity: from temperate to boreal forests}. Global Ecology and
+  Biogeography 20~(1), 170--180.
+\newline\urlprefix\url{http://doi.wiley.com/10.1111/j.1466-8238.2010.00592.x}
 
 \bibitem[{Parmesan(2006)}]{Parmesan2006}
 Parmesan, C., dec 2006. {Ecological and Evolutionary Responses to Recent
@@ -983,11 +1025,21 @@ Post, D.~M., Palkovacs, E.~P., jun 2009. {Eco-evolutionary feedbacks in
   of London. Series B, Biological sciences 364~(1523), 1629--40.
 \newline\urlprefix\url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2690506{\&}tool=pmcentrez{\&}rendertype=abstract}
 
+\bibitem[{Prasad et~al.(2006)Prasad, Iverson, and Liaw}]{Prasad2006}
+Prasad, A.~M., Iverson, L.~R., Liaw, A., mar 2006. {Newer Classification and
+  Regression Tree Techniques: Bagging and Random Forests for Ecological
+  Prediction}. Ecosystems 9~(2), 181--199.
+\newline\urlprefix\url{http://link.springer.com/10.1007/s10021-005-0054-1}
+
 \bibitem[{Proulx et~al.(2005)Proulx, Promislow, and Phillips}]{Proulx2005}
 Proulx, S.~R., Promislow, D. E.~L., Phillips, P.~C., jun 2005. {Network
   thinking in ecology and evolution.} Trends in ecology {\&} evolution 20~(6),
   345--353.
 \newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/16701391}
+
+\bibitem[{Pulliam(2000)}]{Pulliam2000}
+Pulliam, H.~R., 2000. {On the relationship between niche and distribution}.
+  Ecology Letters 3~(4), 349--361.
 
 \bibitem[{{R Core Team}(2015)}]{Rcoreteam2015}
 {R Core Team}, 2015. {R: A Language and Environment for Statistical Computing}.
@@ -1004,6 +1056,13 @@ Rabosky, D.~L., Hurlbert, A.~H., 2015. {Species Richness at Continental Scales
 Razafindratsima, O.~H., Mehtani, S., Dunham, A.~E., 2013. {Extinctions, traits
   and phylogenetic community structure: Insights from primate assemblages in
   Madagascar}. Ecography 36~(1), 047--056.
+
+\bibitem[{Rehfeldt et~al.(2006)Rehfeldt, Crookston, Warwell, and
+  Evans}]{Rehfeldt2006}
+Rehfeldt, G.~E., Crookston, N.~L., Warwell, M.~V., Evans, J.~S., nov 2006.
+  {Empirical Analyses of Plant‐Climate Relationships for the Western United
+  States}. International Journal of Plant Sciences 167~(6), 1123--1150.
+\newline\urlprefix\url{http://www.journals.uchicago.edu/doi/10.1086/507711}
 
 \bibitem[{Ricklefs(1987)}]{Ricklefs1987}
 Ricklefs, R.~E., jan 1987. {Community Diversity: Relative Roles of Local and
@@ -1098,6 +1157,12 @@ Sexton, J.~P., McIntyre, P.~J., Angert, A.~L., Rice, K.~J., dec 2009.
 Shaffer, M.~L., 1981. {Minimum Population Sizes for Species Conservation}.
   BioScience 31~(2), 131--134.
 
+\bibitem[{Shenbrot et~al.(2007)Shenbrot, Krasnov, and Lu}]{Shenbrot2007}
+Shenbrot, G., Krasnov, B., Lu, L., oct 2007. {Geographical range size and host
+  specificity in ectoparasites: a case study with Amphipsylla fleas and rodent
+  hosts}. Journal of Biogeography 34~(10), 1679--1690.
+\newline\urlprefix\url{http://doi.wiley.com/10.1111/j.1365-2699.2007.01736.x}
+
 \bibitem[{Simberloff(1974)}]{Simberloff1974a}
 Simberloff, D.~S., nov 1974. {Equilibrium Theory of Island Biogeography and
   Ecology}. Annual Review of Ecology and Systematics 5~(1), 161--182.
@@ -1115,6 +1180,27 @@ Solarik, K.~A., Gravel, D., Ameztegui, A., Bergeron, Y., Messier, C., jun 2016.
   experiment using sugar maple (Acer saccharum)}. Seed Science Research
   26~(02), 153--164.
 \newline\urlprefix\url{http://www.journals.cambridge.org/abstract{\_}S0960258516000040}
+
+\bibitem[{Sonne et~al.(2016)Sonne, {Mart{\'{i}}n Gonz{\'{a}}lez}, Maruyama,
+  Sandel, Vizentin-Bugoni, Schleuning, Abrahamczyk, Alarc{\'{o}}n, Araujo,
+  Ara{\'{u}}jo, {Mendes de Azevedo}, Baquero, Cotton, Ingversen, Kohler, Lara,
+  {Guedes Las-Casas}, Machado, Machado, Maglianesi, Moura, Nogu{\'{e}}s-Bravo,
+  Oliveira, Oliveira, Ornelas, Rodrigues, Rosero-Lasprilla, Rui, Sazima,
+  Timmermann, Varassin, Wang, Watts, Fjelds{\aa}, Svenning, Rahbek, and
+  Dalsgaard}]{Sonne2016}
+Sonne, J., {Mart{\'{i}}n Gonz{\'{a}}lez}, A.~M., Maruyama, P.~K., Sandel, B.,
+  Vizentin-Bugoni, J., Schleuning, M., Abrahamczyk, S., Alarc{\'{o}}n, R.,
+  Araujo, A.~C., Ara{\'{u}}jo, F.~P., {Mendes de Azevedo}, S., Baquero, A.~C.,
+  Cotton, P.~A., Ingversen, T.~T., Kohler, G., Lara, C., {Guedes Las-Casas},
+  F.~M., Machado, A.~O., Machado, C.~G., Maglianesi, M.~A., Moura, A.~C.,
+  Nogu{\'{e}}s-Bravo, D., Oliveira, G.~M., Oliveira, P.~E., Ornelas, J.~F.,
+  Rodrigues, L. d.~C., Rosero-Lasprilla, L., Rui, A.~M., Sazima, M.,
+  Timmermann, A., Varassin, I.~G., Wang, Z., Watts, S., Fjelds{\aa}, J.,
+  Svenning, J.-C., Rahbek, C., Dalsgaard, B., feb 2016. {High proportion of
+  smaller ranged hummingbird species coincides with ecological specialization
+  across the Americas}. Proceedings of the Royal Society B: Biological Sciences
+  283~(1824), 20152512.
+\newline\urlprefix\url{http://rspb.royalsocietypublishing.org/lookup/doi/10.1098/rspb.2015.2512}
 
 \bibitem[{Springer et~al.(2015)Springer, Swann, and Crimmins}]{Springer2015}
 Springer, A., Swann, D., Crimmins, M., 2015. {Climate change impacts on high
@@ -1176,6 +1262,14 @@ Thuiller, W., Lavergne, S., Roquet, C., Boulangeat, I., Lafourcade, B., Araujo,
   Europe}. Nature 470~(7335), 531--534.
 \newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/21326204
   http://www.nature.com/doifinder/10.1038/nature09705}
+
+\bibitem[{Thuiller et~al.(2005)Thuiller, Lavorel, Ara{\'{u}}jo, Sykes, and
+  Prentice}]{Thuiller2005}
+Thuiller, W., Lavorel, S., Ara{\'{u}}jo, M.~B., Sykes, M.~T., Prentice, I.~C.,
+  jun 2005. {Climate change threats to plant diversity in Europe.} Proceedings
+  of the National Academy of Sciences of the United States of America 102~(23),
+  8245--50.
+\newline\urlprefix\url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1140480{\&}tool=pmcentrez{\&}rendertype=abstract}
 
 \bibitem[{Thuiller et~al.(2013)Thuiller, M{\"{u}}nkem{\"{u}}ller, Lavergne,
   Mouillot, Mouquet, Schiffers, and Gravel}]{Thuiller2013}

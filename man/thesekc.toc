@@ -45,60 +45,56 @@
 \contentsline {subsection}{\numberline {1.1.1}Contexte scientfique}{40}{subsection.1.1.1}
 \contentsline {subsection}{\numberline {1.1.2}Publication associ\IeC {\'e}e}{41}{subsection.1.1.2}
 \contentsline {subsection}{\numberline {1.1.3}Traduction du r\IeC {\'e}sum\IeC {\'e} de l'article publi\IeC {\'e}}{41}{subsection.1.1.3}
-\contentsline {section}{\numberline {1.2}Title}{43}{section.1.2}
-\contentsline {section}{\numberline {1.3}Authors}{43}{section.1.3}
+\contentsline {section}{\numberline {1.2}Title}{42}{section.1.2}
+\contentsline {section}{\numberline {1.3}Authors}{42}{section.1.3}
 \contentsline {section}{\numberline {1.4}Abstract}{43}{section.1.4}
-\contentsline {section}{\numberline {1.5}Introduction}{44}{section.1.5}
+\contentsline {section}{\numberline {1.5}Introduction}{43}{section.1.5}
 \contentsline {section}{\numberline {1.6}The model}{47}{section.1.6}
 \contentsline {subsection}{\numberline {1.6.1}A simple probabilistic biogeographical model}{47}{subsection.1.6.1}
 \contentsline {subsection}{\numberline {1.6.2}Integrating biotic interactions}{50}{subsection.1.6.2}
-\contentsline {subsection}{\numberline {1.6.3}Integrating environmental gradients}{53}{subsection.1.6.3}
+\contentsline {subsection}{\numberline {1.6.3}Integrating environmental gradients}{52}{subsection.1.6.3}
 \contentsline {section}{\numberline {1.7}Exploring the model}{55}{section.1.7}
 \contentsline {subsection}{\numberline {1.7.1}Biodiversity distribution over environmental gradients}{58}{subsection.1.7.1}
-\contentsline {section}{\numberline {1.8}Discussion}{62}{section.1.8}
-\contentsline {section}{\numberline {1.9}Acknowledgment}{68}{section.1.9}
-\contentsline {chapter}{\numberline {\MakeUppercase {article} \MakeUppercase {2}} \\ \MakeUppercase {THEORIE DE CO-OCCURRENCE DES ESPECES DANS LES R\IeC {\'E}SEAUX D'INTERACTION}}{69}{chapter.2}
-\contentsline {section}{\numberline {2.1}R\IeC {\'e}sum\IeC {\'e} en fran\IeC {\c c}ais du deuxi\IeC {\`e}me article}{69}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}Publication associ\IeC {\'e}e}{70}{subsection.2.1.1}
-\contentsline {subsection}{\numberline {2.1.2}Traduction du r\IeC {\'e}sum\IeC {\'e} de l'article publi\IeC {\'e}}{71}{subsection.2.1.2}
-\contentsline {section}{\numberline {2.2}Titre}{73}{section.2.2}
-\contentsline {section}{\numberline {2.3}Auteurs}{73}{section.2.3}
-\contentsline {section}{\numberline {2.4}R\IeC {\'e}sum\IeC {\'e} en anglais}{73}{section.2.4}
-\contentsline {section}{\numberline {2.5}Mot-clef}{74}{section.2.5}
-\contentsline {section}{\numberline {2.6}Introduction}{74}{section.2.6}
-\contentsline {section}{\numberline {2.7}Definitions}{78}{section.2.7}
-\contentsline {section}{\numberline {2.8}Acknowledgments}{93}{section.2.8}
-\contentsline {chapter}{\numberline {\MakeUppercase {article} \MakeUppercase {3}} \\ \MakeUppercase {Do interacting species co-occur differently from not-interacting species?}}{94}{chapter.3}
-\contentsline {section}{\numberline {3.1}R\IeC {\'e}sum\IeC {\'e} en fran\IeC {\c c}ais du troisi\IeC {\`e}me article}{94}{section.3.1}
-\contentsline {subsection}{\numberline {3.1.1}Publication envisag\IeC {\'e}e}{95}{subsection.3.1.1}
-\contentsline {section}{\numberline {3.2}Context}{96}{section.3.2}
-\contentsline {section}{\numberline {3.3}Material and Methods}{97}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Datasets}{97}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}Quantifying co-occurrence}{98}{subsection.3.3.2}
-\contentsline {section}{\numberline {3.4}Results}{99}{section.3.4}
-\contentsline {subsection}{\numberline {3.4.1}Discussion}{101}{subsection.3.4.1}
-\contentsline {subsection}{\numberline {3.4.2}Box 1}{104}{subsection.3.4.2}
+\contentsline {section}{\numberline {1.8}Discussion}{61}{section.1.8}
+\contentsline {section}{\numberline {1.9}Acknowledgment}{67}{section.1.9}
+\contentsline {chapter}{\numberline {\MakeUppercase {article} \MakeUppercase {2}} \\ \MakeUppercase {THEORIE DE CO-OCCURRENCE DES ESPECES DANS LES R\IeC {\'E}SEAUX D'INTERACTION}}{68}{chapter.2}
+\contentsline {section}{\numberline {2.1}R\IeC {\'e}sum\IeC {\'e} en fran\IeC {\c c}ais du deuxi\IeC {\`e}me article}{68}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Publication associ\IeC {\'e}e}{69}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Traduction du r\IeC {\'e}sum\IeC {\'e} de l'article publi\IeC {\'e}}{70}{subsection.2.1.2}
+\contentsline {section}{\numberline {2.2}Titre}{71}{section.2.2}
+\contentsline {section}{\numberline {2.3}Auteurs}{71}{section.2.3}
+\contentsline {section}{\numberline {2.4}R\IeC {\'e}sum\IeC {\'e} en anglais}{71}{section.2.4}
+\contentsline {section}{\numberline {2.5}Mot-clef}{72}{section.2.5}
+\contentsline {section}{\numberline {2.6}Introduction}{72}{section.2.6}
+\contentsline {section}{\numberline {2.7}Definitions}{76}{section.2.7}
+\contentsline {section}{\numberline {2.8}Acknowledgments}{91}{section.2.8}
+\contentsline {chapter}{\numberline {\MakeUppercase {article} \MakeUppercase {3}} \\ \MakeUppercase {Do interacting species co-occur differently from not-interacting species?}}{92}{chapter.3}
+\contentsline {section}{\numberline {3.1}R\IeC {\'e}sum\IeC {\'e} en fran\IeC {\c c}ais du troisi\IeC {\`e}me article}{92}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Publication envisag\IeC {\'e}e}{93}{subsection.3.1.1}
+\contentsline {section}{\numberline {3.2}Context}{94}{section.3.2}
+\contentsline {section}{\numberline {3.3}Material and Methods}{96}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Datasets}{96}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Quantifying co-occurrence}{96}{subsection.3.3.2}
+\contentsline {section}{\numberline {3.4}Results}{97}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Discussion}{99}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Box 1}{103}{subsection.3.4.2}
 \contentsline {subsection}{\numberline {3.4.3}Tables}{106}{subsection.3.4.3}
 \contentsline {section}{\numberline {3.5}Figures}{107}{section.3.5}
-\contentsline {section}{\numberline {3.6}Material and methods}{108}{section.3.6}
-\contentsline {subsection}{\numberline {3.6.1}Datasets}{108}{subsection.3.6.1}
-\contentsline {subsubsection}{\numberline {3.6.1.1}Willows leafs network}{108}{subsubsection.3.6.1.1}
-\contentsline {subsubsection}{\numberline {3.6.1.2}Pitcher plants network}{108}{subsubsection.3.6.1.2}
-\contentsline {subsubsection}{\numberline {3.6.1.3}Caribbean Hummingbirds-Plant network}{108}{subsubsection.3.6.1.3}
-\contentsline {subsubsection}{\numberline {3.6.1.4}North American Trees datasets}{108}{subsubsection.3.6.1.4}
-\contentsline {paragraph}{\numberline {3.6.1.4.1}Traits-based distance}{108}{paragraph.3.6.1.4.1}
-\contentsline {subsubsection}{\numberline {3.6.1.5}French Breeding Birds Survey datasets}{110}{subsubsection.3.6.1.5}
-\contentsline {paragraph}{\numberline {3.6.1.5.1}Traits-based distance}{110}{paragraph.3.6.1.5.1}
-\contentsline {subsection}{\numberline {3.6.2}Building metawebs}{110}{subsection.3.6.2}
-\contentsline {subsection}{\numberline {3.6.3}Co-occurrence measurement}{112}{subsection.3.6.3}
-\contentsline {subsection}{\numberline {3.6.4}Hypergeometric distribution}{112}{subsection.3.6.4}
-\contentsline {subsection}{\numberline {3.6.5}GLM and RF}{113}{subsection.3.6.5}
-\contentsline {subsubsection}{\numberline {3.6.5.1}Climatic data}{113}{subsubsection.3.6.5.1}
-\contentsline {subsubsection}{\numberline {3.6.5.2}Generalized Linear Model}{113}{subsubsection.3.6.5.2}
+\contentsline {section}{\numberline {3.6}Material and methods}{109}{section.3.6}
+\contentsline {subsection}{\numberline {3.6.1}Datasets}{109}{subsection.3.6.1}
+\contentsline {paragraph}{\numberline {3.6.1.0.1}Traits-based distance}{109}{paragraph.3.6.1.0.1}
+\contentsline {subsubsection}{\numberline {3.6.1.1}French Breeding Birds Survey datasets}{109}{subsubsection.3.6.1.1}
+\contentsline {paragraph}{\numberline {3.6.1.1.1}Traits-based distance}{109}{paragraph.3.6.1.1.1}
+\contentsline {subsection}{\numberline {3.6.2}Building metawebs}{111}{subsection.3.6.2}
+\contentsline {subsection}{\numberline {3.6.3}Co-occurrence measurement}{111}{subsection.3.6.3}
+\contentsline {subsection}{\numberline {3.6.4}Hypergeometric distribution}{113}{subsection.3.6.4}
+\contentsline {subsection}{\numberline {3.6.5}GLM and RF}{114}{subsection.3.6.5}
+\contentsline {subsubsection}{\numberline {3.6.5.1}Climatic data}{114}{subsubsection.3.6.5.1}
+\contentsline {subsubsection}{\numberline {3.6.5.2}Generalized Linear Model}{114}{subsubsection.3.6.5.2}
 \contentsline {subsubsection}{\numberline {3.6.5.3}Random Forests}{114}{subsubsection.3.6.5.3}
-\contentsline {subsubsection}{\numberline {3.6.5.4}Evaluating the models}{114}{subsubsection.3.6.5.4}
-\contentsline {section}{\numberline {3.7}Supporting Tables}{114}{section.3.7}
-\contentsline {subsubsection}{\numberline {3.7.0.1}R packages used}{114}{subsubsection.3.7.0.1}
+\contentsline {subsubsection}{\numberline {3.6.5.4}Evaluating the models}{115}{subsubsection.3.6.5.4}
+\contentsline {section}{\numberline {3.7}Supporting Tables}{115}{section.3.7}
+\contentsline {subsubsection}{\numberline {3.7.0.1}R packages used}{115}{subsubsection.3.7.0.1}
 \contentsline {section}{\numberline {3.8}Supporting Figures}{121}{section.3.8}
 \contentsline {chapter}{\numberline {\MakeUppercase {article} \MakeUppercase {4}} \\ \MakeUppercase {Towards a metabolic theory of biogeography}}{131}{chapter.4}
 \contentsline {subsection}{\numberline {4.0.1}R\IeC {\'e}sum\IeC {\'e} en fran\IeC {\c c}ais du troisi\IeC {\`e}me article}{131}{subsection.4.0.1}
@@ -118,12 +114,12 @@
 \contentsline {section}{Int\IeC {\'e}ractions \IeC {\'e}cologiques et distribution des esp\IeC {\`e}ces}{143}{section*.71}
 \contentsline {subsection}{Des mod\IeC {\`e}les th\IeC {\'e}oriques \IeC {\`a} d\IeC {\'e}velopper}{143}{section*.72}
 \contentsline {subsection}{Des th\IeC {\'e}ories pour mieux apr\IeC {\'e}hender les donn\IeC {\'e}es de co-occurrence}{145}{section*.73}
-\contentsline {section}{Vers une \IeC {\'e}cologie pr\IeC {\'e}dictive?}{146}{section*.74}
-\contentsline {subsection}{Les d\IeC {\'e}fis \IeC {\`a} relever dans un monde en changement}{146}{section*.75}
-\contentsline {subsection}{Des r\IeC {\`e}gles en \IeC {\'e}cologie et \IeC {\'e}volution?}{147}{section*.76}
-\contentsline {subsection}{Vers une th\IeC {\'e}orie en int\IeC {\'e}grative de la biog\IeC {\'e}ographie}{149}{section*.77}
+\contentsline {section}{Vers une \IeC {\'e}cologie pr\IeC {\'e}dictive?}{148}{section*.74}
+\contentsline {subsection}{Les d\IeC {\'e}fis \IeC {\`a} relever dans un monde en changement}{148}{section*.75}
+\contentsline {subsection}{Des r\IeC {\`e}gles en \IeC {\'e}cologie et \IeC {\'e}volution?}{149}{section*.76}
+\contentsline {subsection}{Vers une th\IeC {\'e}orie en int\IeC {\'e}grative de la biog\IeC {\'e}ographie}{151}{section*.77}
 \select@language {french}
-\contentsline {chapter}{\numberline {\MakeUppercase {Annexe} I} \\ \MakeUppercase {Comment la biodiversit\IeC {\'e} s'installe en territoires isol\IeC {\'e}s}}{152}{annexe.1}
-\contentsline {chapter}{\MakeUppercase {R\'ef\'erences}}{165}{section*.90}
+\contentsline {chapter}{\numberline {\MakeUppercase {Annexe} I} \\ \MakeUppercase {Comment la biodiversit\IeC {\'e} s'installe en territoires isol\IeC {\'e}s}}{153}{annexe.1}
+\contentsline {chapter}{\MakeUppercase {R\'ef\'erences}}{166}{section*.90}
 \select@language {english}
 \select@language {french}

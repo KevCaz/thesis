@@ -7,25 +7,14 @@ environment software (table S1 includes functions and packages we used).
 \subsection{Datasets}\label{datasets}
 
 Sites for the five datasets are reported on five maps gathered in Fig
-S1. Below, we describe in more details the five datasets. The total
-number of species, the number of species present in at least 1\% of the
-total number of site and the number of species for which traits
-information were available are reported in table S2.
-
-\subsubsection{Willows leafs network}\label{willows-leafs-network}
-
-\subsubsection{Pitcher plants network}\label{pitcher-plants-network}
-
-\subsubsection{Caribbean Hummingbirds-Plant
-network}\label{caribbean-hummingbirds-plant-network}
-
-\subsubsection{North American Trees
-datasets}\label{north-american-trees-datasets}
+S1. The total number of species, the number of species present in at
+least 1\% of the total number of site and the number of species for
+which traits information were available are reported in table S2.
 
 \paragraph{Traits-based distance}\label{traits-based-distance}
 
 We used a distance built upon nine functional traits whose values were
-retrieved from \citep{Paquette_2010}, see \textbf{Supplementary Table 3}
+retrieved from \citep{Paquette2011}, see \textbf{Supplementary Table 3}
 available at
 \url{http://onlinelibrary.wiley.com/doi/10.1111/j.1466-8238.2010.00592.x/suppinfo}.
 Each of the nine selected variables were centered and scaled (R
@@ -61,7 +50,7 @@ about the three methods wed used to analyse co-occurrence.
 distribution}\label{hypergeometric-distribution}
 
 This distribution has been mentioned in a different context
-\citep[see][]{Gilpin_1982} and have been fully exploited in
+\citep[see][]{Gilpin1982} and have been fully exploited in
 \citet{Veech_2013} despite the author never mentioned it is a classical
 distribution. To clarify this, we start from the distribution written in
 equation (1) in \citet{Veech2013}. We consider the co-occurrence of two
@@ -97,7 +86,7 @@ computed based on climatic data. R functions are reported in Table S1.
 \subsubsection{Climatic data}\label{climatic-data}
 
 We used the global climate layers provided data WolrdClim, version 1.4,
-available at \url{http://www.worldclim.org} \citep{Hijmans_2005}. For
+available at \url{http://www.worldclim.org} \citep{Hijmans2005}. For
 each dataset, we performed a principal component analysis and keep as
 many axes as needed to explain 90\% of the total inertia. We used these
 axis in GLM and RF.
@@ -105,7 +94,7 @@ axis in GLM and RF.
 \subsubsection{Generalized Linear Model}\label{generalized-linear-model}
 
 For all datasets, we performed a Generalized Linear Model
-\citep{Elith_2006} using all the axis provided by the PCA as polynomials
+\citep{Elith2006} using all the axis provided by the PCA as polynomials
 of degree 2. To constraints the number of parameters, we did not
 evaluate the interactions among axis. We also performed a selection
 model based on the Akaike's information criterion (AIC) C in a Stepwise
@@ -114,7 +103,7 @@ table SX.
 
 \subsubsection{Random Forests}\label{random-forests}
 
-Random Forests \citep{Prasad_2006} were performed using the same formula
+Random Forests \citep{Prasad2006} were performed using the same formula
 as for GLMs. For all species, 10000 trees were computed and the
 probability for a species being in a given site were calculated based on
 the number of votes the sites were granted.
@@ -124,7 +113,7 @@ the number of votes the sites were granted.
 For all species, we assess the performance of the Species Distribution
 Models we used, \emph{i.e.} Generalized Linear Model and Random Forest,
 using the Area Under the Receiver Operating Characteristic (AUROC)
-\citep{Elith_2006}. We present the results as a cumulative sum of
+\citep{Elith2006}. We present the results as a cumulative sum of
 frequencies corresponding to the score for all species for each of the
 four ecological systems we studied (see Fig \citet{fig:idauc}).
 
@@ -259,7 +248,7 @@ Integrated Taxonomic Information System (ITIS), maxH - Average maximum
 height, GR - Growth rate, WD - Wood Density, TolS - Shade tolerance,
 TolD - Drought tolerance, AM - Arbuscular mycorrhiza (Endomycorrhiza),
 EM - Ectomycorrhiza, LMA - Leaf mass per area, Nmass - Nitrogen content
-per leaf mass unit\citep{Paquette_2010} availale at
+per leaf mass unit\citep{Paquette2011} available at:
 \url{http://onlinelibrary.wiley.com/doi/10.1111/j.1466-8238.2010.00592.x/suppinfo}.\{\#tbl:trees\}
 
 \begin{longtable}[]{@{}lr@{}}
