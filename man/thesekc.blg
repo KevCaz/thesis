@@ -3,7 +3,7 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: thesekc.aux
 A level-1 auxiliary file: liminaires.aux
 The style file: elsarticle-harv.bst
-Reallocated field_info (elt_size=4) to 10616 items from 5000.
+Reallocated field_info (elt_size=4) to 10640 items from 5000.
 Database file #1: /Users/KevCaz/Documents/library.bib.bib
 Repeated entry---line 9642 of file /Users/KevCaz/Documents/library.bib.bib
  : @article{Dray2007
@@ -71,45 +71,45 @@ Warning--I didn't find a database entry for "eq:id5"
 Warning--empty journal in Cazelles2015a
 Warning--there's a number but no volume in Cazelles2015a
 Warning--empty publisher in Coyne2004
-You've used 223 entries,
+You've used 224 entries,
             2821 wiz_defined-function locations,
-            2247 strings with 61555 characters,
-and the built_in function-call counts, 128564 in all, are:
-= -- 12565
-> -- 8196
+            2251 strings with 61621 characters,
+and the built_in function-call counts, 129145 in all, are:
+= -- 12623
+> -- 8231
 < -- 119
-+ -- 3068
-- -- 2840
-* -- 12798
-:= -- 23223
-add.period$ -- 677
-call.type$ -- 223
-change.case$ -- 2052
++ -- 3082
+- -- 2852
+* -- 12862
+:= -- 23326
+add.period$ -- 680
+call.type$ -- 224
+change.case$ -- 2061
 chr.to.int$ -- 218
-cite$ -- 226
-duplicate$ -- 3969
-empty$ -- 7748
-format.name$ -- 3515
-if$ -- 25020
-int.to.chr$ -- 6
+cite$ -- 227
+duplicate$ -- 3987
+empty$ -- 7783
+format.name$ -- 3530
+if$ -- 25132
+int.to.chr$ -- 7
 int.to.str$ -- 1
-missing$ -- 236
-newline$ -- 854
-num.names$ -- 901
-pop$ -- 1853
+missing$ -- 237
+newline$ -- 858
+num.names$ -- 905
+pop$ -- 1861
 preamble$ -- 1
-purify$ -- 1836
+purify$ -- 1844
 quote$ -- 0
-skip$ -- 2718
+skip$ -- 2726
 stack$ -- 0
-substring$ -- 7396
-swap$ -- 650
+substring$ -- 7432
+swap$ -- 655
 text.length$ -- 10
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1956
+type$ -- 1965
 warning$ -- 3
-while$ -- 1066
+while$ -- 1071
 width$ -- 0
-write$ -- 2620
+write$ -- 2632
 (There were 10 error messages)

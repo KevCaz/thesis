@@ -22,7 +22,7 @@ cas particulier : les interactions et les contraintes abiotiques n'ont
 pas d'influence sur les taux de colonisation et d'extinction.
 
 Le modèle proposé au chapitre \ref{chap1} suggère aussi le potentiel de
-réfléchir en terme de probabilité d'assemblage \citep{Cazelles2015}
+réfléchir en terme de probabilité d'assemblage \citep{Cazelles2015a}
 plutôt que de considérer les espèces individuellement. A la lecture du
 livre de Robert MacArthur publié en 1972, j'ai ressenti que cette idée
 était présente mais pas formulalisée \citep{macarthur1972geographical}.
@@ -94,28 +94,28 @@ données de co-occurrence}
 Le chapitre \ref{chap2} bien que théorique, est un pas important en
 direction de l'application de mes reflexions à des données empiriques.
 Il y est en effet question de données de co-occurrence et de réseaux
-écologiques. Les données d'occurrence constituent le matériel premier
-des biogéographes sur lequel se concentre l'effort de développement
-méthodologique du domaine \citep{Elith2006, Phillips2006, Pollock2014}.
-Les données de co-occurrence sont issues de la considération simultannée
-de données d'occurence de plusieurs espèces sur un même gradient
-biogéographique. Exploiter ces données permet, par exemple, d'envisager
-la structure des assemblages de demain \citep{Albouy2012}. En proposant
-une réflexion de l'impact des interactions écologiques sur les données
-de co-occurrence, j'ai essayé d'améliorer la compréhension de la nature
-de l'information que pouvaient contenir les données de co-occurrence. Ce
-travail de compréhension du lien qu'il existe entre les processus
-écologiques et les données de distributions analysées est crucial pour
-orienter le développement des outils sur lesquels sont construites les
-scénarios de changement de la niodiversité. De manière général, il
-s'agit de comprendre du lien qu'il existe entre la distribution d'une
-espèce et sa niche hutchinsonienne \citep{Pulliam2000, Godsoe2010a}. En
-repartant sur un modèle de probabilité simple et de l'utilisation de la
-version trophique de la TIB \citep{Gravel2011} comme support, j'ai
-découvert des attentes théoriques précises sur les données de
-co-occurrence et j'ai montré que l'empreinte des interactions
-écologiques sur les données de co-occurrence n'est pas appréciable
-notament lorsque les intéractions sont nombreuses.
+écologiques. Les données d'occurrence constituent une source de
+réflexion importante pour les biogéographes sur lequel se concentre
+l'effort de développement méthodologique du domaine
+\citep{Elith2006, Phillips2006, Pollock2014}. Les données de
+co-occurrence sont issues de la considération simultannée de données
+d'occurence de plusieurs espèces sur un même gradient biogéographique.
+Exploiter ces données permet, par exemple, d'envisager la structure des
+assemblages de demain \citep{Albouy2012}. En proposant une réflexion de
+l'impact des interactions écologiques sur les données de co-occurrence,
+j'ai essayé d'améliorer la compréhension de la nature de l'information
+que pouvaient contenir les données de co-occurrence. Ce travail de
+compréhension du lien qu'il existe entre les processus écologiques et
+les données de distributions analysées est crucial pour orienter le
+développement des outils sur lesquels sont construits les scénarios de
+changement de la biodiversité. De manière générale, il s'agit de
+comprendre du lien qu'il existe entre la distribution d'une espèce et sa
+niche hutchinsonienne \citep{Pulliam2000, Godsoe2010a}. En utilisant un
+modèle de probabilité simple et la version trophique de la TIB
+\citep{Gravel2011}, j'ai découvert des attentes théoriques précises sur
+les données de co-occurrence et j'ai montré que l'empreinte des
+interactions écologiques sur les données de co-occurrence n'est pas
+appréciable notament lorsque les intéractions sont nombreuses.
 
 L'article présenté au chapitre \ref{chap3} proposent de tester la
 théorie du chapitre \ref{chap2}. En analysant des données de co-occurece
@@ -123,16 +123,16 @@ pour des systèmes dont les interactions étaient documentées, j'ai montré
 que celles-ci laissent des traces visibles dans les données statiques de
 co-occurrence. La détection de signaux de co-occurrence imputables aux
 lien écologiques liant les espèces est cepandant possible que sous
-certaines conditions: lorsque les espèce interagissent drectement,
+certaines conditions: lorsque les espèce interagissent directement,
 lorsque le nombre d'interactions est limité. De manière cohérente, la
 distribution d'un prédateur spécialiste est très corrélée avec celle de
 sa proie alors qu'un prédateur généraliste voit sa distribution
 partiellement corrélée avec un grand nombre de distributions, celle de
-ces proies, ce qui rend difficile (voir impossible) de distinguer un
-signal clair dans la co-occurrence d'un généraliste avec une de ces
-proies. Un signal peut néanmoins exister lorsque l'on éxamine la
-corrélation de la distribution de ce prédateur et la répartition
-géographique jointe de l'ensemble de ces proies.
+ces proies, ce qui rend difficile la présence d'un signal clair dans la
+co-occurrence d'un généraliste avec une de ces proies. Un signal peut
+néanmoins exister lorsque l'on éxamine la corrélation de la distribution
+de ce prédateur et la répartition géographique jointe de l'ensemble de
+ces proies.
 
 En travaillant sur les co-occurrences avec des données de distribution
 d'espèce en interaction, j'ai aussi pointé du doight un problème
@@ -142,28 +142,30 @@ temoin de la similarité de leurs besoins physiologiques, ce qui justifie
 d'utiliser des projections à l'échelle de l'espèce pour prédire des
 communautés \citep{Rehfeldt2006, Albouy2012}. Cela dit, en partant de ce
 principe là, lorsque l'on prend pour espace explicatif seulement les
-variables abitique, l'occurrence des espèces seulement des variables
+variables abiotiques, l'occurrence des espèces seulement des variables
 climatiques, il est vraismblable que nous capturions une part de
 l'impact des interactions dans la distributon sans pour autant le voir.
 Nous avons montré au chapitre \ref{chap3} que l'utilisation de SDMs pour
 obtenir des co-occurrences intégrant les contraintes abiotiques
-affaiblissait considérablement le signal observé. L'interprétation
-immédiate consiste à dire que la co-occurrence est conrtainte par le
-variables pédo-climatiques abiotiques. Néanmoins, le fait que même les
-associations les plus fortes (pour les prédateurs spécialistes et leur
-proie) disparaissent et qu'un modèle simple, basé prenant pour espace
-explicatif la présence de la proie, démontre qu'une de l'effet des
-interactions est capturée ey qu'on ne sait pas quelle pat alors même que
-cela doit être findamental pour prédire les interactions. C'est bien la
-fusion méthodiques des deux informations qui doit permettre d'aller vers
-des approches systématiques \citep{Meier2010}. Dans les cas précis de
-prédateur et ses proie, d'un pollisatuer et ses plantes ou encore d'un
-parasite et de ses hotes, il y a un lien évident entre les ranegs des
-espèces en ionteractions, le range de l'un est nécessairemnert inclus
-dans le ranges conjoint des autres \citep{Holt2009, Shenbrot2007}.
-Ainsi, dans ce cas, les démarches structurée autour des interaction
-restent à construire pour ba\^{}tir des approches plus coghérentes et
-bâtir des scénatios plus robuste des communaités de demain.
+affaiblissait considérablement le signal observé sur les données de
+co-occurrence brutes. L'interprétation immédiate consiste à dire que la
+co-occurrence est conrtainte par le variables pédo-climatiques
+abiotiques. Néanmoins, le fait que même les associations les plus fortes
+(pour les prédateurs spécialistes et leur proie) disparaissent et qu'un
+modèle simple basé sur la présence de proies soit plus performant que
+certains SDM, semble indiqué qu'une portion de l'effet des interactions
+et comem nous ne sommes pas en mesure de connaître précisemment cette
+part, il se peut que l'association soit pas très bien reflétée dans les
+prédicitons basée sur les SDMs. C'est bien la fusion méthodiques des
+deux informations qui doit permettre d'aller vers des approches
+systématiques \citep{Meier2010}. Dans les cas précis d'un prédateur et
+ses proies\footnote{cela est aussi valable pour un pollinisateur et les
+  plantes qu'ils pollinisent ou encore pour un parasite et ses hotes.},
+il y a un lien évident entre les distributions: le prédateur est
+nécessairement limité par la distribution conjointe de ces proies
+\citep{Holt2009, Shenbrot2007}. Ainsi, la reconnaissance de cette
+réalité doit être au coeur d'un renouvellemnent des apporches pour
+prédire des espèce en réseaux.
 
 Du chapitre \ref{chap2} au chapitre \ref{chap3}, j'ai souligné l'intérêt
 des développemnets théoriques pour mieux comprendre des données
@@ -172,25 +174,30 @@ espèces qui interagissent co-occurent différemment que celle qui
 n'intéragissent pas}, j'ai compris qu'il n'y avait pas de réponse
 tranchée, mais plutôt une réponse qui dépendait de la nature du réseau.
 Ce résultat sera, je pense, très utile pour amener une lumière nouvelle
-sur le débat qui anime la communauté des biogéographes, celui de savoir
-si oui ou non les interactions sont importantes à larges échelles. J'ai
-également bien compris comment le choix d'un explicatif donné pouvait
-fortement contribué à donner une vision partielle d'un problème. Je suis
-convaincu que le porblème des intéractions n'estpas seulement question
-d'un problème d'échelle spatiales\citep{Araujo2014, Belmaker2015}, mais
-c'est aussi une question qui concerne la nature du système étudié. Mes
-résultats indiquent qu'il faut étudier le système pour conclure la
-nature des facteurs qui sont à prendre en compte. Pour aller plus loin
-dans ma réflexion il faudrait, je pense que nous arvenions à une
-caracctérisation des systèmes pour lesquels les interactions sont ou ne
-sont pas important afin que l'on puisse avoir des règles efficaces pour
-savoir quelles types d'approches est pertienent pour quel type de
-système. C'est une étape importante et longue pour aller vers des
-prédictions robustes qui sont très aujourd'hui plus que nécessaires. En
-particulier je pense que L'intégration systématiques des co-occurrence à
-travers les JSDMs tels qu'ils sont présentés aujoud'hui ne permetrra pas
-toujours de comprendre ce qu'il se passe
-\citep{Ovaskainen2010, Pollock2014, Warton2015b}.
+sur le débat qui anime la communauté des biogéographes autour de la
+question du rôle des interactions dans la distribution aux larges
+échelles spatiale. En méditant sur ce chapitre, j'ai également bien
+compris comment le choix d'un espace explicatif donné pouvait amener à
+des conclusion qui demandait une alternative. Bien que dans les
+dernières années avec l'essort des JSDMs il y a une attention
+particulière, il faut apporter davantage de biologie pour bien comprndre
+les données que nous traitons et notamment rapidement lever l'hypothèse
+d'indépendance \citep{Elith2006}. Je suis convaincu que le problème des
+intéractions n'estpas seulement question d'un problème d'échelle
+spatiales\citep{Araujo2014, Belmaker2015}, mais c'est aussi une question
+qui concerne la nature du système étudié. Mes résultats sont seulement
+un premier indice fort en ce sens et soulignent l'intérêt d'étudier le
+système pour conclure la nature des facteurs qui sont à prendre en
+compte. Pour aller plus loin dans ma réflexion, il faudrait, je pense,
+que nous parvenions à une caracctérisation des systèmes pour lesquels
+les interactions sont ou ne sont pas important afin que l'on puisse
+avoir des règles efficaces pour savoir quelles types d'approches est
+pertienent pour quel type de système. C'est une étape importante et
+longue pour aller vers des prédictions robustes qui sont très
+aujourd'hui plus que nécessaires. En particulier je pense que
+L'intégration systématiques des co-occurrence à travers les JSDMs tels
+qu'ils sont présentés aujoud'hui ne permetrra pas toujours de comprendre
+ce qu'il se passe \citep{Ovaskainen2010, Pollock2014, Warton2015b}.
 
 \section*{Vers une écologie
 prédictive?}\label{vers-une-uxe9cologie-pruxe9dictive}
@@ -202,26 +209,34 @@ changement}\label{les-duxe9fis-uxe0-relever-dans-un-monde-en-changement}
 changement}
 
 Érosion de la biodiversité, extinctions de masses, perte de service
-écosystémiques, les activités anthropiques ont fortement bouleversé les
-écosystèmes. On peut espérer que La facilité des données de
-co-occurrence la d.marche des migrations en cours prédictions parfois
-exactes parfois juste la migration northwrad rééxaminer esr semble
-indiqué qu'il n'y a pas de mgration plus vers le nors.'homogénéité ++
-mais avec les espèces invasive le signal est fortemnt briollé aussi ! Je
-pense qu'on est a un tournant de la biogoe vers un chamgemnt de
-paradigme communaité centré qui ne nit pas les travaux précédant mais
-les suit.
+écosystémiques, la liste est longue des boulversements que nous pouvons
+attribuer aux activités anthropiques. Nous sommes cinquième Rapport
+d'évaluation, dans une période clef ou l'on tente de réagir avec la
+COP21 qui s'est tenue è Paris en décembre 2015, la mise en place de
+l'IPBES
+(\emph{Intergovernmental Platform on Biodiversity and Ecosystem Services},
+qui se veut un équivalent du IPCC) \citep{Diaz2015a}. La mise en place
+est certe pour articluer la et faciliter la trasmission des donn.es
+suitifique avec leur insertitude au décideurs politiques. Le porblème
+poir la climatilogiques est incertitudes et aussi incertitude de
+politique en plus donc plusierurs scénarios d'émission mais si l'on
+regrader avec nous on rajoute une incertitude lié à lnature de l'objet
+et l'état de notre connaissance, ce qu'on peut dire sur les communautés
+de demian semble bien maigre.
 
-Nous assostons à une recomposition des communautés. Lorque l``on parle
-de sixième extinction c'est que nous avons des taux record d'extinction
+Nous assistons à une recomposition des communautés. Lorque l'on parle de
+sixième extinction c'est que nous avons des taux record d'extinction
 \citep{Thomas2004}. Biensur cela pose des grandes questions sur comme
 savoir quel partie du vivant est davatage touché \citep{Thuiller2011},
 mais d'un point de vue on est dans une ériode de focntionnenement
 particulier qu'on peut voir comme ue grande expérience mais aussi comme
-m moment où des théories solides seraient le sbienvenue. Dans son
-arctile `Don't juge a species on their origin' Mark Davis prend à revers
-un sertain nombre d'idée recu et souligne qye les effects des invedeurs
-peuvent être positives \citet{Davis2011}.
+m moment où des théories solides seraient le sbienvenue. Nous sommes
+dans un moment de crise et nous manquons de théorie et de conpréhsin des
+écosytèmes qui sont présentemment en changement. Dans son arctile `Don't
+juge a species on their origin' Mark Davis prend à revers un sertain
+nombre d'idée recu et souligne que les effects des invedeurs peuvent
+être positives \citet{Davis2011}. Devons accepté le frelon asiatique et
+l'homogéisation des milieux? Est-ce Laisser et accompagner les
 
 Et si on faisait rien pour le frelon asiatique ? Peut être que qu'une
 partie de l'entomofaune distparaitrait, peut être que les abeilles
@@ -240,9 +255,40 @@ donc une modestie dans la tâche de modélisé la biodiversité mondiale
 évolution?}\label{des-ruxe8gles-en-uxe9cologie-et-uxe9volution}
 \addcontentsline{toc}{subsection}{Des règles en écologie et évolution?}
 
+Quelles hypothèse pouvons nous faire sur les produits de évolution? Si
+on peut supposer qu'il y a des compétition ou la règle est le changemnt
+cette même propriété a-t-elle des propriétés sur le long terme. Peut-on
+affirmer que les produits de l'évoluton dans un enviroemnt stable amène
+à des entités qui optimise l'tilisation de l'énergie. Si oui, que dire
+des produites de l'évoltion dans avec variation. Si on peut faire des
+hypothèses comment les tester. Dans l'article de \citep{Rabosky2015} les
+allémtries offre-t-elle un espoir peut-on facilement résuidre la
+diversité des réseaux \citep{Eklof2013} grace de l 'allométrie aussi
+\citep{Schneider2012}?.
+
 Il est plus facile de s'ppuyer que sur des correlatons d'autant plus que
 si des correlatons fortes il existent une esplication peut alors voir le
-jour.
+jour. avoir des erreurs quantifiables mieux dessiner ce qui est suremnet
+plus déterminsite de ceux qui l'ai moins Ca ne fat pas une théorie on
+peut esp.reer que c'est une bonne apporximation.
+
+Si l'évolution est imprévisible si au dela d'un certain temps on ne peut
+presque rien dire\ldots{} Si la chance de des abeilles européennes
+changeait comment prédire cela changement de comportement mais que nous
+sommes dand l'incapacité de le prédire que pensé du status de l'écologie
+et de l'évoluton en tant que science. Si la composant historique domine
+le royaume de la biologie devons-nous nous dsatisfaire de le décire.
+L'espoir mais la publication de Ian Hatton êut faire douter de l'absence
+de l'absecmed de règel. Comment croire qu'il n'y a pas des principes
+d'ordre enerétique la-dessous. Convergence\ldots{}
+
+2014, Hurlbert et Stegen propose une série d'hypothèse pour mettre en
+évidence l'impact de l'énergy sur l'évolution la troisième hypothèse est
+temps suffisant pour équilibre. Une telle hypothèse une forme de
+maximistaion de la production de la biomasse et l'utilisation qui est
+peut être. Peut-être que les différents mécanismes en jeu dans les
+processu évolutifs amène probablement à une forme de
+stationarité\ldots{}
 
 Biensur il y un certain nombre de chose comment ne pas oender que le
 lègue de la TIB n'est aps quelque chose mais et l'emsmeble des théories
@@ -286,61 +332,19 @@ De même peut être que des hypothèse eambietieurse, dans des que le tems
 système qui bien que régit par des règles physique assez nien comprise
 est un moteur de stochasticé..
 
-Quelles hypothèse pouvons nous faire sur les produits de évolution? Si
-on peut supposer qu'il y a des compétition ou la règle est le changemnt
-cette même propriété a-t-elle des propriétés sur le long terme. Peut-on
-affirmer que les produits de l'évoluton dans un enviroemnt stable amène
-à des entités qui optimise l'tilisation de l'énergie. Si oui, que dire
-des produites de l'évoltion dans avec variation. Si on peut faire des
-hypothèses comment les tester. Dans l'article de
-
-Si l'évolution est imprévisible si au dela d'un certain temps on ne peut
-presque rien dire\ldots{} Si la chance de des abeilles européennes
-changeait comment prédire cela changement de comportement mais que nous
-sommes dand l'incapacité de le prédire que pensé du status de l'écologie
-et de l'évoluton en tant que science. Si la composant historique domine
-le royaume de la biologie devons-nous nous dsatisfaire de le décire.
-L'espoir mais la publication de Ian Hatton êut faire douter de l'absence
-de l'absecmed de règel. Comment croire qu'il n'y a pas des principes
-d'ordre enerétique la-dessous. Convergence\ldots{}
-
-2014, Hurlbert et Stegen propose une série d'hypothèse pour mettre en
-évidence l'impact de l'énergy sur l'évolution la troisième hypothèse est
-temps suffisant pour équilibre. Une telle hypothèse une forme de
-maximistaion de la production de la biomasse et l'utilisation qui est
-peut être. Peut-être que les différents mécanismes en jeu dans les
-processu évolutifs amène probablement à une forme de
-stationarité\ldots{}
-
-avoir des erreurs quantifiables mieux dessiner ce qui est suremnet plus
-déterminsite de ceux qui l'ai moins
-
 \subsection*{Vers une théorie en intégrative de la
 biogéographie}\label{vers-une-thuxe9orie-en-intuxe9grative-de-la-bioguxe9ographie}
 \addcontentsline{toc}{subsection}{Vers une théorie en intégrative de la
 biogéographie}
 
-En s'appuantddur un champ bien dessiner il afiat être précis en
-biogéogrpaheo
+J'ai montré la cohérence de la reflexion théorique pour mieux comprendre
+et aller dcherché dan sles données un espoir d'aller plus loin qui
+biensureest de meiller données pour aller plus loun.
 
-En me confrontant à l'incorporation des intéractions écologiques dans la
-TIB (chapitre \ref{chap1}), je me suis aperçu à quelle point il est
-difficil de construire des modèles simples, élégant et qui expliquent à
-un grand nombre de fait. Je ne suis pas étonné que la TIB soit toujours
-utilisée pour un grand nombre d'étude comme point de départ malgré ces
-défaut reconnu dans la ré-édition de 2001 de \emph{The Theory of Island
-Biogeography} par Edward 0. Wilson lui même :
-
-\begin{quote}
-``The flaws of the book lie in its oversimplification and
-incompleteness, which are endemic to most efforts at theory and
-synthesis.''
-\end{quote}
-
-L'effort théorique en biogéographie est importnat et 'intégration
-ordonnée de concepts clés issus de différents champs de l'écologie
-\cite{Thuiller2013} est une clef essentielle pour aller vers des
-prédctions de Ainsi, alors que les conditions climatiques et plus
+L'effort théorique en biogéographie doit se faire autour être
+intégration ordonnée de concepts clés issus de différents champs de
+l'écologie \citep{Thuiller2013} est une clef essentielle pour aller vers
+des prédctions de Ainsi, alors que les conditions climatiques et plus
 généralement la géographie physique sont classiquement évoquées pour
 expliquer la répartition des espèces \cite{Kearney2004}, les
 interactions entre espèces sont quant à elles souvent occultées. De
@@ -359,34 +363,15 @@ hypothèses que les modèles classiques de répartitions des espèces
 d'aujourd'hui utilisent (notamment en occultant les interactions) pour
 prédire la biodiversité de demain \cite{Guisan2011}.
 
-Comme un prmier pas plus loin que mes travax le chapitre \ref{chap4}
-vien apporter un pas vers le développent dd'un théorie métabllolqieude
-la vers laquelle e veux aporter ma contribution dans les prochaines
-année.s
+Il est vraissembleble que nous ne pourrions pas nous extraire
+totalemnent et qu'il n'est opas question de tout expliquer
+\citep{Gravel2011a}
 
-\ref{chap4}
+En s'appuantddur un champ bien dessiner il afiat être précis en
+biogéogrpaheo Comme un prmier pas plus loin que mes travax le chapitre
+\ref{chap4} vien apporter un pas vers le développent dd'un théorie
+métabllolqieude la vers laquelle e veux aporter ma contribution dans les
+prochaines année.s
 
-\textless{}!-- Dans une théorie intégrative de la biogéographie, les
-traits fonctionnels peuvent être un pivot très intéressant pour
-rassembler les différents concepts que nous avons développés dans les
-paragraphes précédents. Les traits peuvent tout d'abord être mis en
-relation avec le milieu abiotique. Le taux métabolique ou encore la
-sensibilité à la sécheresse sont des indices performant pour décrire la
-survie dans un milieu donné \cite{Kearney2004,Engelbrecht2007} que l'on
-peut capturer sous forme de traits. Kearney \textit{et al.} 2010 propose
-une approche prometteuse dans laquelle, l'environnement physique, la
-disponibilité des ressources et la dynamique énergétique sont reliées
-par les traits fonctionnelles le tout aboutissant à un modèle de
-distribution très mécanistes. La structure d'un réseaux peut également
-être dérivée à partir de l'espace des traits. Dans leur méthode proposée
-cette année, Gravel \textit{et al.} infèrent les paramètres du modèle de
-niche de Williams et Martinez \cite{Williams2000} à partir des relations
-de masse du corps entre proie et prédateurs \cite{Gravel2013}. Ils sont
-alors en mesure de dériver un réseau global pour un ensemble d'espèce
-donné. Enfin, en tant qu'expression phénotypique, les traits
-fonctionnels sont soumis aux processus évolutifs. Sur les temps longs,
-l'expression de l'évolution résulte en la modification progressive des
-traits qui se répercute sur l'ensemble des propriétés qui en découle.
-Ainsi la considération d'une modification des traits est une approche
-simple et réaliste pour introduire les processus évolutifs et leurs
-conséquences \cite{Guill2008,Loeuille2005}.
+\ref{chap4} vers une théori métablocique métaboloique toujours pour
+lever les interacroj
