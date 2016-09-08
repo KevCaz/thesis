@@ -33,6 +33,8 @@ CHP4HE = chapitre4/head.tex
 CHP4 = chapitre4/chap4.tex
 ##-- Annexe
 ANN1 = annexe1/annexe1.tex
+ANN2 = annexe2/annexe2.tex
+ANN3 = annexe3/annexe3.tex
 ##--
 THES = thesekc.pdf
 SRC = thesekc.tex
@@ -42,9 +44,9 @@ CSL = elsevier-harvard.csl
 PFLAGS = --filter pandoc-fignos --filter pandoc-tablenos --filter pandoc-eqnos --natbib --bibliography=$(REF) --csl=$(CSL) --latex-engine=pdflatex
 
 
-ALL: $(MCI) $(PDF) $(PDFC) $(THES) $(CHP3) $(CHP4) $(DOCX) $(CCL) $(APT) $(ABFT) $(ABET)
+ALL: $(MCI) $(PDF) $(PDFC) $(THES) $(CHP3) $(CHP4) $(DOCX) $(CCL) $(APT) $(ABFT) $(ABET) 
 
-$(THES): $(SRC) $(INTR) $(CHP1) $(CHP2) $(CHP3) $(CHP4) $(CCL) $(MCI) $(APT) $(ABFT) $(ABET) $(ANN1) $(DOCX)
+$(THES): $(SRC) $(INTR) $(CHP1) $(CHP2) $(CHP3) $(CHP4) $(CCL) $(MCI) $(APT) $(ABFT) $(ABET) $(ANN1) $(ANN2) $(ANN3) $(DOCX)
 	pdflatex $(SRC)
 	bibtex thesekc
 	bibtex thesekc
