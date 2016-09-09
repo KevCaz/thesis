@@ -1,14 +1,14 @@
 \gdef \the@ipfilectr {@-1}
 \contentsline {chapter}{\MakeUppercase {Remerciements}}{vi}{section*.1}
 \select@language {frenchb}
-\contentsline {chapter}{\MakeUppercase {Avant-propos}}{viii}{section*.2}
+\contentsline {chapter}{\MakeUppercase {Avant-propos}}{ix}{section*.2}
 \select@language {frenchb}
-\contentsline {chapter}{\MakeUppercase {R\'esum\'e}}{ix}{section*.3}
-\contentsline {chapter}{\MakeUppercase {Abstract}}{x}{section*.4}
-\contentsline {chapter}{\MakeUppercase {Table des mati\`eres}}{xi}{section*.5}
-\contentsline {chapter}{\MakeUppercase {Liste des tableaux}}{xvi}{section*.6}
-\contentsline {chapter}{\MakeUppercase {Liste des figures}}{xvii}{section*.7}
-\contentsline {chapter}{\MakeUppercase {liste des abr\'{e}viations}}{xxi}{section*.8}
+\contentsline {chapter}{\MakeUppercase {R\'esum\'e}}{xi}{section*.3}
+\contentsline {chapter}{\MakeUppercase {Abstract}}{xii}{section*.4}
+\contentsline {chapter}{\MakeUppercase {Table des mati\`eres}}{xiii}{section*.5}
+\contentsline {chapter}{\MakeUppercase {Liste des tableaux}}{xviii}{section*.6}
+\contentsline {chapter}{\MakeUppercase {Liste des figures}}{xix}{section*.7}
+\contentsline {chapter}{\MakeUppercase {liste des abr\'{e}viations}}{xxiii}{section*.8}
 \select@language {french}
 \gdef \the@ipfilectr {}
 \contentsline {chapter}{\MakeUppercase {Introduction g\'en\'erale}}{1}{section*.9}
