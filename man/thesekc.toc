@@ -142,9 +142,9 @@
 \contentsline {subsection}{\numberline {6.12.2}Solution for $P$ species}{181}{subsection.6.12.2}
 \select@language {english}
 \contentsline {chapter}{\numberline {\MakeUppercase {Annexe} III} \\ \MakeUppercase {Probabilit\IeC {\'e}s de transition entre r\IeC {\'e}seaux trophiques}}{183}{annexe.3}
-\contentsline {section}{\numberline {7.13}The model}{183}{section.7.13}
+\contentsline {section}{\numberline {7.13}The model}{184}{section.7.13}
 \contentsline {section}{\numberline {7.14}Reasonable approximations}{187}{section.7.14}
-\contentsline {section}{\numberline {7.15}Deriving species richness}{187}{section.7.15}
-\contentsline {chapter}{\MakeUppercase {R\'ef\'erences}}{189}{section*.83}
+\contentsline {section}{\numberline {7.15}Deriving species richness}{188}{section.7.15}
+\contentsline {chapter}{\MakeUppercase {R\'ef\'erences}}{191}{section*.83}
 \select@language {english}
 \select@language {english}
