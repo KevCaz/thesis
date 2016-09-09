@@ -12,10 +12,10 @@ Ce journal de vulgarisation des mathématiques est destiné aux étudiants et en
 Dans cet article, je reprends les bases du modèle de la TIB et je montre comment en partant q'équation simple sur les probabilités, il est possible d'obtenir une équation déterministe. L'article est acessible en ligne à l'adresse suivante : \\ \url{http://accromath.uqam.ca/2014/02/la-biodiversite-en-territoires-isoles/}
 
 
-\section*{Préambule}
+\section{Préambule}
 	La biogéographie est la science qui s’interroge sur les causes de la répartition de la biodiversité dans les différentes parties du globe (voir encadré 1). Le modèle déterministe de MacArthur et Wilson décrit l’évolution de la richesse spécifique sur les îles vers un équilibre, mais la migration des espèces vers des îles et leur extinction potentielle sont des phénomènes aléatoires. Comment un modèle déterministe peut-il renfermer ce hasard? C’est ce que nous allons voir.
 
-\section*{Le modèle de MacArthur et Wilson}
+\section{Le modèle de MacArthur et Wilson}
 
 Un des modèles les plus puissants en biogéographie est celui proposé par MacArthur et Wilson dans leur passionnante théorie de la biogéographie des îles. Ces deux illustres prédécesseurs nous ont livré un paradigme simple et puissant pour envisager la construction de la biodiversité sur une île. Notons dès maintenant que l'île n'est pas nécessairement un monticule de sable fin au milieu de l'océan mais plutôt -et plus généralement- un territoire isolé. Le modèle permet de comprendre l'impact des capacités de dispersion et de survie des espèces sur la biodiversité $S$ de l'île considérée. Considérons que cette île est accessible depuis un continent qui présente un ensemble constant d'espèces $P$. Les $P$ espèces sont potentiellement celles que nous retrouverons sur l'île, nous avons donc $S\leqslant P$. À un temps $t$ donné, l'ensemble des $S$ espèces de l'île peuvent s'éteindre avec un taux $e$. De même, les $P-S$ espèces du continent (absentes de l'île) peuvent coloniser l'île avec un taux $c$. En langage mathématique, nous obtenons l'équation différentielle déterministe suivante pour décrire l'évolution temporelle de $S$ :
 \begin{eqnarray}
@@ -33,15 +33,15 @@ Cette équation est linéaire, nous pouvons la résoudre facilement par la méth
 
 
 
-\section*{Comment un modèle déterministe émerge-t-il de phénomènes aléatoires?}
+\section{Comment un modèle déterministe émerge-t-il de phénomènes aléatoires?}
 
-\subsection*{Modèle stochastique?}
+\subsection{Modèle stochastique?}
 Il est très intéressant de réaliser que l'équation \eqref{eqAnnI1}, d'apparence déterministe, renferme un modèle stochastique. "Stochastique" est un terme signifiant aléatoire, avec une part de hasard. Un modèle stochastique est donc un modèle dont l'issue contient une part de hasard; deux réalisations du modèle ne donneront donc pas nécessairement le même résultat. Pour comprendre où se cache le hasard dans le modèle que nous étudions, nous avons besoin d'objets mathématiques particuliers appartenant au domaine des probabilités : variables aléatoires et processus stochastiques (reportez-vous à l'encadré 3).
 
-\subsection*{Les objets mathématiques requis}
+\subsection{Les objets mathématiques requis}
 Comment savoir combien d’espèces sont présentes sur l’île ? Il suffit de compter 1 pour chaque espèce présente sur l’île. Nous introduisons donc $X_i$ , la variable aléatoire de présence sur l’île de l’espèce $i$ choisie parmi les $P$ espèces du continent. $X_i$ est égale à 0 si l’espèce n’est pas sur l’île et 1 si elle est sur l’île. C’est une variable aléatoire de Bernoulli (encadré 4). Ainsi, le nombre d’espèces présentes sur l’île, $S$, est égale à la somme des $X_i$. Nous allons encore plus loin en enregistrant ces valeurs au cours du temps. C'est ainsi que nous définissons le processus stochastique $X_{i,t>0}$, qui n'est autre qu'une succession de 1 et de 0 indiquant à chaque instant si oui ou non l'espèce $i$ est sur l'île. A priori, les suites $X_{i,t}$ ne sont pas prévisibles, ce qui n’exclut pas que la fonction $S$ présente, en moyenne, un comportement tout à fait régulier.
 
-\subsection*{Les briques élémentaires du modèle stochastique}
+\subsection{Les briques élémentaires du modèle stochastique}
 Au temps $t=0$, l'espèce $i$ n'est pas sur l'île. Pour construire la suite de son histoire, il nous faut une règle simple pour décrire l'évolution de sa présence entre deux pas de temps très proches. Le modèle de MacArthur et Wilson postule que si l'espèce considérée est sur l'île au temps $t$, elle s'éteint avec un taux $e$ ; si elle est sur le continent, elle le colonise avec un taux $c$. Pour simplifier, nous supposerons que les taux d’extinction et de colonisation sont les mêmes pour toutes les espèces. Nous donnons maintenant une signification en terme de probabilité à ces taux : $c$ est la probabilité de colonisation par unité de temps (on parle de densité du processus), $e$ est la probabilité d'extinction par unité de temps. Ainsi, $edt$ désigne la probabilité d'extinction pendant l'intervalle de temps $dt$. De même, $cdt$ est la probabilité de colonisation pendant $dt$. En faisant appel aux probabilités conditionnelles (encadré 5), en supposant $dt$ assez petit, nous différencions quatre cas:
 \begin{eqnarray}
  \label{eqAnnI3a}  \forall t \in \mathbb{R}^+, ~~P(X_{i,t+dt}=1|X_{i,t}=0)&=&cdt\\
@@ -52,7 +52,7 @@ Au temps $t=0$, l'espèce $i$ n'est pas sur l'île. Pour construire la suite de 
 Il faut comprendre la première équation ainsi : sachant que l'espèce $i$ était absente au temps $t$, la probabilité qu'elle soit sur l'île au temps $t+dt$ est égale à la probabilité qu'elle colonise l'île durant $dt$, c'est-à-dire $cdt$. Vous pourriez avancer que durant $dt$, une espèce peut coloniser, s'éteindre et re-coloniser et que nous n'en parlons pas ! Tous ces évènements sont en fait beaucoup moins probables et nous pouvons les ignorer complètement à la limite quand dt tend vers 0. Les trois autres équations s'interprètent avec un raisonnement similaire. Ces quatre équations sont les briques du modèle stochastique que nous construisons. Nous devons maintenant les assembler correctement.
 
 
-\subsection*{Assemblons les briques!}
+\subsection{Assemblons les briques!}
 
 L'assemblage consiste en l'utilisation de la formule des probabilités totales expliquée dans l'encadré 5. Nous pouvons en déduire la probabilité de présence de l'espèce $i$ à l'instant $t+dt$ :
 \begin{eqnarray}
@@ -79,7 +79,7 @@ C'est l'équation que nous avons résolu dans l'encadré 1, avec $P=1$  :
 \label{eqAnnI5e} s_{i}(t)=\frac{c}{c+e} \left(1-\exp{(-(c+e)t)}\right)
 \end{equation}
 
-\subsection*{Retrouvons le modèle classique}
+\subsection{Retrouvons le modèle classique}
 Nous avons presque retrouvé la solution de l'équation déterministe; vous pourriez penser qu'il faut simplement multiplier par le nombre d'espèces $P$. L'idée est bonne, mais demande justification ! Nous allons effectivement considérer non pas une mais bien les $P$ espèces du continent pour lesquelles l'équation \eqref{eqAnnI5e} est valable. Nous allons alors définir un nouveau processus stochastique qui est simplement la somme des $P$ processus de présence que nous supposons indépendants $X_{i,t>0}$, $Y_t>0=X_{1,t>0}+X_{2,t>0}+....X_{P,t}$. Le problème est alors de connaître à tout instant $t$ la probabilité d'avoir un nombre donné $k$ d'espèces présentes sur l'île. À un instant donné $t$ nous faisons une somme de variable aléatoires de Bernoulli. La somme de $P$ variables de Bernoulli indépendantes est une variable aléatoire suivant une loi binomiale (encadré 5). Nous avons donc :
 \begin{equation}
  \forall t \in \mathbb{R}^+, ~~\label{eqAnnI6a} P(Y_t=k)=\binom{P}{k}s(t)^k(1-s(t))^{P-k}
@@ -105,7 +105,7 @@ Nous retrouvons la solution déterministe! Ainsi, le modèle déterministe peut 
 
 
 
-\section*{Applications et perspectives}
+\section{Applications et perspectives}
 
 Bien que datant du milieu des années 1960, le modèle de MacArthur et Wilson demeure très précieux, notamment pour étudier les habitats fragmentés (des îles!) et prendre des décisions relatives à la conservation des espèces. Prenons un exemple : vous êtes le gestionnaire d'une nouvelle zone protégée que nous assimilerons à une île. Cette zone a longtemps été exploitée par l'homme de sorte qu'au temps $t=0$ le nombre d'espèces est $S=0$. Dans la région, la richesse en espèces est de $P=100$, c'est-à-dire que vous pouvez rencontrer jusqu'à 100 espèces dans votre aire de gestion. À la suite de MacArthur et Wilson, nous allons supposer que la valeur du taux de colonisation $c$ dépend de la difficulté d'accès. De plus, la survie d'une espèce sur cette zone dépend de sa superficie : ainsi plus l'aire de conservation est grande, moins les espèces s'éteignent ; $e$ est donc plus faible pour les grandes aires de protection. Prenons trois situations :
 \begin{itemize}

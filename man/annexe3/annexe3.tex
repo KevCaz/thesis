@@ -1,61 +1,76 @@
 \selectlanguage{english}
-\appendice{Section kevin Massol paper}
+\appendice{Probabilités de transition entre réseaux trophiques}
 \label{annIII}
-\addtocounter{chapter}{3}
+\addtocounter{chapter}{1}
 \setcounter{equation}{0}
 
-\section{Food web transition}\label{food-web-transition}
+Dans la TTIB proposée par \cite{Gravel2011}, la collabration avec Francois Massol
+mériatit des claircissenet sur le traitment mathématiques
+Francois Massol a été invité à partcipé au volume qu'il co-édite sur les colonisations \emph{Advances in Ecological Research}
+Je présente la partie faite avant qu'elle soit intégrer. Volume combien??T
+La figure est de François Massol mais pour lier au texte je l'ai réutilisée.
+Pour moi l'occasion de valoriser l'annexe \ref{annII}.
+François Massol, Maxime Dubart, Vincent Calcagno, Claire Jacquet, Sonia Kéfi et Dominique Gravel
 
-\subsection{The model}\label{the-model}
 
-An alternative to study analytically the model of the TTIB is to derive
-master equations for community states (rather than individual species).
+\section{The model}\label{the-model}
+
+An alternative to study analytically the model of the TTIB proposed by \cite{Gravel2011} is to derive
+master equations associated to community states (rather than for individual species).
 The mathematical object is then the random process
-\(C_{t>0}=\cup_{i=1}^TX_i\) which is a vector of 0 and 1 that describes
+$(C_{t>0}=\cup_{i=1}^TX_i$ which is a vector of 0 and 1 decsribing
 the presence and absence for each species at any time \(t\). For \(T\)
-species, there are \(2^T\) community states, table 3 provides an example
-for species B, C, D and E presented in figure 2 .
+species, there are \(2^T\) community states, table \ref{tabAnnIII_1} provides an example
+for species B, C, D and E presented in figure \ref{ann3fig1} .
 
-\begin{longtable}[]{@{}llllll@{}}
-\caption{Community states associated to the B-C-D-E network. They are
+\begin{figure}[h!]
+\centering
+\includegraphics[width=\textwidth]{./annexe3/fig1.eps}
+\caption[Simple food webs illustrting the TTTIB]{Simple food webs used to illustrate the TTTIB \cite{Gravel2011}.
+ (a) The complete food web (on the mainland) consists in five different species (A,B,C,D,E);
+ (b) sub-food webs that species A can colonize; (c) sub-food webs that species A cannot colonize.
+}
+\label{ann3fig1}
+\end{figure}
+
+
+\begin{table}[]
+\centering
+\caption[Community states associated to simple networks]{Community states associated to the B-C-D-E network. They are
 all the combinations of presence and absence of species. At any time
 \(t\), \(C_{t>0}\) represents the species composition of the island and
 thus is in one of the sixteen possible \(S_k\) states listed. Here all
 communities are considered regardless whether there are TTIB-compatible
-as highlighted in the right column.}\tabularnewline
-\toprule
-Community states & B & C & D & E & TTIB-compatible\tabularnewline
-\midrule
-\endfirsthead
-\toprule
-Community states & B & C & D & E & TTIB-compatible\tabularnewline
-\midrule
-\endhead
-\(S_{0}\) & 0 & 0 & 0 & 0 & yes\tabularnewline
-\(S_{1}\) & 0 & 0 & 0 & 1 & no\tabularnewline
-\(S_{2}\) & 0 & 0 & 1 & 0 & yes\tabularnewline
-\(S_{3}\) & 0 & 0 & 1 & 1 & yes\tabularnewline
-\(S_{4}\) & 0 & 1 & 0 & 0 & yes\tabularnewline
-\(S_{5}\) & 0 & 1 & 0 & 1 & yes\tabularnewline
-\(S_{6}\) & 0 & 1 & 1 & 0 & yes\tabularnewline
-\(S_{7}\) & 0 & 1 & 1 & 1 & no\tabularnewline
-\(S_{8}\) & 1 & 0 & 0 & 0 & no\tabularnewline
-\(S_{9}\) & 1 & 0 & 0 & 1 & no\tabularnewline
-\(S_{10}\) & 1 & 0 & 1 & 0 & no\tabularnewline
-\(S_{11}\) & 1 & 0 & 1 & 1 & yes\tabularnewline
-\(S_{12}\) & 1 & 1 & 0 & 0 & yes\tabularnewline
-\(S_{13}\) & 1 & 1 & 0 & 1 & yes\tabularnewline
-\(S_{14}\) & 1 & 1 & 1 & 0 & yes\tabularnewline
-\(S_{15}\) & 1 & 1 & 1 & 1 & yes\tabularnewline
-\bottomrule
-\end{longtable}
+as highlighted in the right column.}
+\label{tabAnnIII_1}
+  \begin{tabular}{|l|l|l|l|l|l|}
+    Community states & B & C & D & E & TTIB-compatible \\ \hline
+    \(S_{0}\) & 0 & 0 & 0 & 0 & yes \\
+    \(S_{1}\) & 0 & 0 & 0 & 1 & no \\
+    \(S_{2}\) & 0 & 0 & 1 & 0 & yes \\
+    \(S_{3}\) & 0 & 0 & 1 & 1 & yes \\
+    \(S_{4}\) & 0 & 1 & 0 & 0 & yes \\
+    \(S_{5}\) & 0 & 1 & 0 & 1 & yes \\
+    \(S_{6}\) & 0 & 1 & 1 & 0 & yes \\
+    \(S_{7}\) & 0 & 1 & 1 & 1 & no \\
+    \(S_{8}\) & 1 & 0 & 0 & 0 & no \\
+    \(S_{9}\) & 1 & 0 & 0 & 1 & no \\
+    \(S_{10}\) & 1 & 0 & 1 & 0 & no \\
+    \(S_{11}\) & 1 & 0 & 1 & 1 & yes \\
+    \(S_{12}\) & 1 & 1 & 0 & 0 & yes \\
+    \(S_{13}\) & 1 & 1 & 0 & 1 & yes \\
+    \(S_{14}\) & 1 & 1 & 1 & 0 & yes \\
+    \(S_{15}\) & 1 & 1 & 1 & 1 & yes
+  \end{tabular}
+\end{table}
 
-Deriving the master equation associated to a given community states
+
+Deriving the master equation associated to a given community state
 \(S_k\) required to study the transition probabilities between community
-states between \(t\) and \(t+dt\) (\(dt\) is assumed to be short enough
-to permit only one transition). As all the community states are included
+states between \(t\) and \(t+dt\) (where \(dt\) is assumed to be short enough
+to  only one transition). As all the community states are included
 in the set \(S_k, k\in\{1,2,...,2^T\}\), following the law of total
-probability, for any community states :
+probability, for any community states:
 
 \begin{equation}
 P_{C_{t+dt}=S_{k}}= \sum_{l=0}^{2^T-1} P_{C_{t+dt}=S_k|C_{t}=S_l}P_{C_{t}=S_l}
@@ -121,7 +136,7 @@ irreducible), their probabilities reached an equilibrium
 \(\mathbf{P}^{\*}\) given by the vector in the kernel of \(\mathbf{M}\)
 whose elements sum to one.
 
-\subsection{Reasonable approximations}\label{reasonable-approximations}
+\section{Reasonable approximations}\label{reasonable-approximations}
 
 The formulation above allows the study of non-independent species
 between species but suffers from its generality : for \(T\) species, the
@@ -153,7 +168,7 @@ determined, the remaining \(T \times (2^T-2)\) coefficients needed can
 be found based on the biological knowledge of species studies,
 \emph{e.g.} the nature and the strength of interactions.
 
-\subsection{Deriving species richness}\label{deriving-species-richness}
+\section{Deriving species richness}\label{deriving-species-richness}
 
 The solution \(\mathbf{P}^{\*}\) contains the probabilities of all
 community states at equilibrium. This information is actually more than

@@ -98,19 +98,27 @@
 \BOOKMARK [2][-]{section*.76}{Des r\350gles en \351cologie et \351volution?}{section*.74}% 98
 \BOOKMARK [2][-]{section*.77}{Vers une th\351orie en int\351grative de la biog\351ographie}{section*.74}% 99
 \BOOKMARK [0][-]{annexe.1}{ \040Comment la biodiversit\351 s'installe en territoires isol\351s}{}% 100
-\BOOKMARK [0][-]{annexe.2}{ \040An integrative island biogeography stochastic model for ecological networks in a changing environment}{}% 101
-\BOOKMARK [1][-]{section.7.4}{Stochastic rules in MacArthur \046 Wilson's model}{annexe.2}% 102
-\BOOKMARK [1][-]{section.7.5}{A Markov chains model to describe island communities}{annexe.2}% 103
-\BOOKMARK [2][-]{subsection.7.5.1}{Model for P non-interacting species}{section.7.5}% 104
-\BOOKMARK [2][-]{subsection.7.5.2}{P Interacting species}{section.7.5}% 105
-\BOOKMARK [1][-]{section.7.6}{Environmental gradient and island biogeography}{annexe.2}% 106
-\BOOKMARK [1][-]{section.7.7}{Using Markov chains}{annexe.2}% 107
-\BOOKMARK [1][-]{section.7.8}{Time continuous Markov chain}{annexe.2}% 108
-\BOOKMARK [2][-]{subsection.7.8.1}{Solution for two species}{section.7.8}% 109
-\BOOKMARK [2][-]{subsection.7.8.2}{Solution for P species}{section.7.8}% 110
-\BOOKMARK [0][-]{annexe.3}{ \040Section kevin Massol paper}{}% 111
-\BOOKMARK [1][-]{section.10.9}{Food web transition}{annexe.3}% 112
-\BOOKMARK [2][-]{subsection.10.9.1}{The model}{section.10.9}% 113
-\BOOKMARK [2][-]{subsection.10.9.2}{Reasonable approximations}{section.10.9}% 114
-\BOOKMARK [2][-]{subsection.10.9.3}{Deriving species richness}{section.10.9}% 115
-\BOOKMARK [0][-]{section*.90}{R\351f\351rences}{}% 116
+\BOOKMARK [1][-]{section.5.4}{Pr\351ambule}{annexe.1}% 101
+\BOOKMARK [1][-]{section.5.5}{Le mod\350le de MacArthur et Wilson}{annexe.1}% 102
+\BOOKMARK [1][-]{section.5.6}{Comment un mod\350le d\351terministe \351merge-t-il de ph\351nom\350nes al\351atoires?}{annexe.1}% 103
+\BOOKMARK [2][-]{subsection.5.6.1}{Mod\350le stochastique?}{section.5.6}% 104
+\BOOKMARK [2][-]{subsection.5.6.2}{Les objets math\351matiques requis}{section.5.6}% 105
+\BOOKMARK [2][-]{subsection.5.6.3}{Les briques \351l\351mentaires du mod\350le stochastique}{section.5.6}% 106
+\BOOKMARK [2][-]{subsection.5.6.4}{Assemblons les briques!}{section.5.6}% 107
+\BOOKMARK [2][-]{subsection.5.6.5}{Retrouvons le mod\350le classique}{section.5.6}% 108
+\BOOKMARK [1][-]{section.5.7}{Applications et perspectives}{annexe.1}% 109
+\BOOKMARK [0][-]{annexe.2}{ \040Un mod\350le stochastique de la biog\351ographie insulaire pour les r\351seaux \351cologiques dans un environnement abiotique variable}{}% 110
+\BOOKMARK [1][-]{section.6.8}{Stochastic rules in MacArthur \046 Wilson's model}{annexe.2}% 111
+\BOOKMARK [1][-]{section.6.9}{A Markov chains model to describe island communities}{annexe.2}% 112
+\BOOKMARK [2][-]{subsection.6.9.1}{Model for P non-interacting species}{section.6.9}% 113
+\BOOKMARK [2][-]{subsection.6.9.2}{P Interacting species}{section.6.9}% 114
+\BOOKMARK [1][-]{section.6.10}{Environmental gradient and island biogeography}{annexe.2}% 115
+\BOOKMARK [1][-]{section.6.11}{Using Markov chains}{annexe.2}% 116
+\BOOKMARK [1][-]{section.6.12}{Time continuous Markov chain}{annexe.2}% 117
+\BOOKMARK [2][-]{subsection.6.12.1}{Solution for two species}{section.6.12}% 118
+\BOOKMARK [2][-]{subsection.6.12.2}{Solution for P species}{section.6.12}% 119
+\BOOKMARK [0][-]{annexe.3}{ \040Probabilit\351s de transition entre r\351seaux trophiques}{}% 120
+\BOOKMARK [1][-]{section.7.13}{The model}{annexe.3}% 121
+\BOOKMARK [1][-]{section.7.14}{Reasonable approximations}{annexe.3}% 122
+\BOOKMARK [1][-]{section.7.15}{Deriving species richness}{annexe.3}% 123
+\BOOKMARK [0][-]{section*.83}{R\351f\351rences}{}% 124
