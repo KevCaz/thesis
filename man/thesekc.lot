@@ -6,12 +6,12 @@
 \select@language {french}
 \select@language {english}
 \addvspace {0\p@ }
-\contentsline {table}{\numberline {1}{\ignorespaces Conditional probabilities between potential assemblages}}{50}{table.caption.38}
+\contentsline {table}{\numberline {1}{\ignorespaces Conditional probabilities between potential assemblages}}{51}{table.caption.38}
 \addvspace {0\p@ }
-\contentsline {table}{\numberline {2}{\ignorespaces Presence/absence dataset for three species and 10 sites.\relax }}{82}{table.caption.48}
-\contentsline {table}{\numberline {3}{\ignorespaces Direct associations between pairs of species for different modules}}{85}{table.caption.51}
+\contentsline {table}{\numberline {2}{\ignorespaces Presence/absence dataset for three species and 10 sites.\relax }}{83}{table.caption.48}
+\contentsline {table}{\numberline {3}{\ignorespaces Direct associations between pairs of species for different modules}}{86}{table.caption.51}
 \addvspace {0\p@ }
-\contentsline {table}{\numberline {4}{\ignorespaces Data sets analyzed in this article. \relax }}{106}{table.3.4}
+\contentsline {table}{\numberline {4}{\ignorespaces Data sets analyzed in this article. \relax }}{107}{table.3.4}
 \addvspace {0\p@ }
 \select@language {french}
 \select@language {french}
@@ -20,7 +20,7 @@
 \addvspace {10\p@ }
 \select@language {english}
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {9}{\ignorespaces Community states associated to the B-C-D-E network. They are all the combinations of presence and absence of species. At any time \(t\), \(C_{t>0}\) represents the species composition of the island and thus is in one of the sixteen possible \(S_k\) states listed. Here all communities are considered regardless whether there are TTIB-compatible as highlighted in the right column.\relax }}{180}{table.10.9}
-\contentsline {table}{\numberline {10}{\ignorespaces The transition matrix of the Markov chain continuous-time associated to all combinations of C,D and E species.\relax }}{184}{table.10.10}
+\contentsline {table}{\numberline {9}{\ignorespaces Community states associated to the B-C-D-E network. They are all the combinations of presence and absence of species. At any time \(t\), \(C_{t>0}\) represents the species composition of the island and thus is in one of the sixteen possible \(S_k\) states listed. Here all communities are considered regardless whether there are TTIB-compatible as highlighted in the right column.\relax }}{181}{table.10.9}
+\contentsline {table}{\numberline {10}{\ignorespaces The transition matrix of the Markov chain continuous-time associated to all combinations of C,D and E species.\relax }}{185}{table.10.10}
 \select@language {english}
 \select@language {english}
