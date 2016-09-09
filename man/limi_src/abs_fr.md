@@ -4,7 +4,7 @@ Parmis ces facteurs, il y a un particuleir, les interactions écologiques.
 Les espèces sont en effet relié par des interaction qui les rendent interdépendantes.
 Ce lien qui est au coeur de la biologe n,est cependant pas interprétter en imapct sur les distributions d'espèces.
 C'est un enejur crucila pour une meilleur connaissance des des détails dans les aires de réapritions mais aussi capital pour pouvoir prédire ces distribvutions.
-++ context
+++ cont
 
 Dans ma thèse, dans un premier temps je porpose une refleions sur l'int.frations des interactions dans un modèle théorique de distribution d'espèce issue d'une des théorie les plus importante  en Biogéographie: la Théorie de la biogéogrpahie des îles. Je montre comnent il est possible d'envisager les effetes sjumelées des contriantes biotiques et abiotiques sur les répatriton g.orgrpahiques des espèces.
 

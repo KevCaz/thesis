@@ -20,7 +20,7 @@
 \addvspace {10\p@ }
 \select@language {english}
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {9}{\ignorespaces Community states associated to the B-C-D-E network. They are all the combinations of presence and absence of species. At any time \(t\), \(C_{t>0}\) represents the species composition of the island and thus is in one of the sixteen possible \(S_k\) states listed. Here all communities are considered regardless whether there are TTIB-compatible as highlighted in the right column.\relax }}{181}{table.10.9}
-\contentsline {table}{\numberline {10}{\ignorespaces The transition matrix of the Markov chain continuous-time associated to all combinations of C,D and E species.\relax }}{185}{table.10.10}
+\contentsline {table}{\numberline {9}{\ignorespaces Community states associated to the B-C-D-E network. They are all the combinations of presence and absence of species. At any time \(t\), \(C_{t>0}\) represents the species composition of the island and thus is in one of the sixteen possible \(S_k\) states listed. Here all communities are considered regardless whether there are TTIB-compatible as highlighted in the right column.\relax }}{182}{table.10.9}
+\contentsline {table}{\numberline {10}{\ignorespaces The transition matrix of the Markov chain continuous-time associated to all combinations of C,D and E species.\relax }}{187}{table.10.10}
 \select@language {english}
 \select@language {english}

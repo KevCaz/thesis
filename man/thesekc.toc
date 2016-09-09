@@ -121,22 +121,22 @@
 \select@language {french}
 \contentsline {chapter}{\numberline {\MakeUppercase {Annexe} I} \\ \MakeUppercase {Comment la biodiversit\IeC {\'e} s'installe en territoires isol\IeC {\'e}s}}{154}{annexe.1}
 \select@language {english}
-\contentsline {chapter}{\numberline {\MakeUppercase {Annexe} II} \\ \MakeUppercase {An integrative island biogeography model for ecological networks in a changing environment}}{168}{annexe.2}
+\contentsline {chapter}{\numberline {\MakeUppercase {Annexe} II} \\ \MakeUppercase {An integrative island biogeography stochastic model for ecological networks in a changing environment}}{168}{annexe.2}
 \contentsline {section}{\numberline {7.4}Stochastic rules in MacArthur \& Wilson's model}{168}{section.7.4}
-\contentsline {section}{\numberline {7.5}Markov chain based model for community approach}{170}{section.7.5}
+\contentsline {section}{\numberline {7.5}A Markov chains model to describe island communities}{170}{section.7.5}
 \contentsline {subsection}{\numberline {7.5.1}Model for $P$ non-interacting species}{170}{subsection.7.5.1}
 \contentsline {subsection}{\numberline {7.5.2}$P$ Interacting species}{171}{subsection.7.5.2}
 \contentsline {section}{\numberline {7.6}Environmental gradient and island biogeography}{172}{section.7.6}
 \contentsline {section}{\numberline {7.7}Using Markov chains}{173}{section.7.7}
 \contentsline {section}{\numberline {7.8}Time continuous Markov chain}{174}{section.7.8}
 \contentsline {subsection}{\numberline {7.8.1}Solution for two species}{174}{subsection.7.8.1}
-\contentsline {subsection}{\numberline {7.8.2}Solution for $P$ species}{178}{subsection.7.8.2}
+\contentsline {subsection}{\numberline {7.8.2}Solution for $P$ species}{179}{subsection.7.8.2}
 \select@language {english}
-\contentsline {chapter}{\numberline {\MakeUppercase {Annexe} III} \\ \MakeUppercase {Section kevin Massol paper}}{181}{annexe.3}
-\contentsline {section}{\numberline {10.9}Food web transition}{181}{section.10.9}
-\contentsline {subsection}{\numberline {10.9.1}The model}{181}{subsection.10.9.1}
-\contentsline {subsection}{\numberline {10.9.2}Reasonable approximations}{183}{subsection.10.9.2}
-\contentsline {subsection}{\numberline {10.9.3}Deriving species richness}{184}{subsection.10.9.3}
-\contentsline {chapter}{\MakeUppercase {R\'ef\'erences}}{185}{section*.90}
+\contentsline {chapter}{\numberline {\MakeUppercase {Annexe} III} \\ \MakeUppercase {Section kevin Massol paper}}{182}{annexe.3}
+\contentsline {section}{\numberline {10.9}Food web transition}{182}{section.10.9}
+\contentsline {subsection}{\numberline {10.9.1}The model}{182}{subsection.10.9.1}
+\contentsline {subsection}{\numberline {10.9.2}Reasonable approximations}{185}{subsection.10.9.2}
+\contentsline {subsection}{\numberline {10.9.3}Deriving species richness}{186}{subsection.10.9.3}
+\contentsline {chapter}{\MakeUppercase {R\'ef\'erences}}{187}{section*.90}
 \select@language {english}
 \select@language {english}
