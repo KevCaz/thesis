@@ -1,33 +1,35 @@
-Au royaume des idées, chaque rencontre est la promesse d'un échange.
-Chaque conversation est une caisse de raisonnance offerte à nos propres songes.
-Chaque pensée nait de la recontre de notre propre histoire avec les mots des autres .
-Chaque lecture est un monologue que d'autres nous ont laissé.
-Comment alors, ne pas penser que tout le travail présenté n'est pas ma propre naration des longs échanges avec tous ces autres qui m'ont donné par l'écrit ou par l'oral.
+Au royaume des idées, chaque songe est un examen de notre propre expérience.
+Chaque conversation est une caisse de résonance offerte à nos propres songes.
+Chaque lecture est une conversation dans laquelle d’autres nous livrent leurs pensées.
+Comment ne pas croire que tout le travail ici présenté n'est autre que ma propre narration des tous ces échanges avec tous ces autres.
+
 L'aventure du doctorat est bien plus collective qu'elle n'y parait.   
-De fait, je ne puis faire la liste exahaustive des gens qui ont apporté leur pierre à cet édifice.
-Des pierres imposantes et solides qui servent de fondations au plus petit cailloux qui donne un rien de charme, beaucoup sont ceux qui m'on apporté durant ces quatres dernières années, qu'ils en soient tous chaleureusement remerciés.
+Longue est la liste de ceux qui ont apporté une pierre à l’édifice qui tient dans les pages qui suivent.
+Des pierres les plus solides dont j’ai fait mes fondations aux plus petits cailloux qui donnent un peu rien de charme et d'originalité à l’ensemble, nombreux sont les contributeurs au présent travail.
+Tous ces autres qui parfois ignorent ce qu’ils m’ont offert,  qu'ils en soient tous chaleureusement remerciés.
+Bien entendu, certaines rencontres laissent des empreintes plus profondes et je me dois de le signaler.
 
-Certaines rencontres sont plus mémorables, plus marquantes et je veux les remerciées personnellement.
 Pour m'avoir laisser ma chance et donner une confiance dans faille, je veux remercier chaleureusement Dom, Nico et David, sans qui l'aventure n'aurait pas été la même.
+Pour faire ces premiers pas sur un chemin incertain, mieux vaut partir avec ceux qui y croient.
 
-Une aventure bien particulière car elle a été sur deux continents, dans deux universités, dans deux laboratoires. Un laboratoire, c'est aussi des collègues qui ont considérablement alimenté mes reflexions, ainsi je remercie vivement Hedou, Idalflex, Jacquette, Jo Brasco, Pippin le solver, Tim que j'ai connu à Rimouski et aussi Claire, Clara, Isabelle, Flo, Alain, Pierre, Marie, Simon, Andreï que j'ai recontré à Montpellier. Solarik, les *behind the scenes* que nous avons abondemment échangés m'ont été d'une précieuse aide dans les derniers moments.
+Un chemin qui m’amena sur deux continents, dans deux pays, a travaillé dans deux universités au sein de deux laboratoires.
+Le laboratoire, ce n’est pas seulement un lieu, ce sont aussi des autres, des sources de réflexion et d’inspiration qui jamais ne tarissent.
+Pour de précieux échanges à Rimouski, je remercie Hedou, Idalflex, Jacquette, Jo Brasco, Pippin le Solver, Tim. Pour de passionnantes conversations je remercie Alain, Andreï, Claire, Clara, Florian, Isa,   Marie, Pierre, Simon, que j'ai rencontré à Montpellier. Solarik, les *behind the scenes* que nous avons abondamment échangés m'ont été d'une précieuse aide dans les derniers moments.
 
-Dans les couloirs des laboratoires, il y a aussi des liens plus étroits qui se forgent autour d'intérêts convergents, pour nos échanges aussi passionant qu'aggréable je Sonia (et Thomas), Albouy (et Séverine et Léo et Louis) et Legagneux (et Aurélie et Margaux et Juliette et Zéli et Romane). Dans les couloirs on parfois ceux qui se frottent leurs yeux fatigué par la lunière des écrans.... A mes geek préférés, ceux qui connaissent  comme moi l'appel du clavier, quand l'envie de coder est trop forte.
-Casajus et Team Zissou, j'ai été bien heureux de partager code et autres astuces. Flo et Dave, vous êtes officielement entrés dans cette joyeuse catégorie.
+Dans les couloirs des laboratoires, il y a aussi des liens forts qui se nouent autour d'intérêts convergents, pour nos échanges aussi passionnants qu'agréables, je remercie Sonia (et Thomas), Albouy (et Séverine et Léo et Louis) et Legagneux (et Aurélie et Margot et Juliette et Zélie et Romane). Dans ces même couloirs on croise parfois ceux qui se frottent des yeux fatigués par la lumière des écrans. À mes geek préférés, ceux qui connaissent l'appel du clavier, quand l'envie de coder est trop forte, je dis merci. Merci Casajus et Team Zissou pour les morceaux de code et bien plus, merci Flo et Dave pour votre enthousiasmes et votre curiosité.
 
-L'aventure n'est, bien heureusement, nullement monochromatique. Le rose de certains instants cède régulièrement à un gris parfois bien sombre. Partagés ces questionnenements, ces colères, ou sa tristesse avec des voyageurs sur le même chemin est un soutien des plus précieux, Marion, Matoche, Clem pour tout ce que vous m'avez apportés, je vous remercie mille fois.
+L'aventure n'est, bien heureusement, nullement monochromatique. Le rose de certains instants cède régulièrement la place à un gris parfois bien sombre. Partagés ces questionnements, ces colères, ou encore  sa tristesse avec d’autres voyageurs est un soutien des plus précieux. Marion, Matoche, Clem, pour tout ce que vous m'avez apportés, je vous remercie mille fois.
 
-Pour nous lancer dans nos péripéties, il faut établir un havre de paix pour se reposer dans lequel nous souflons entre deux combats. Le temps d'un doctorat il est important d'avoir une famille locale pour faire de chaque retour au camp un bonehur quotidie, pour ce havre, un immense merci à Camille, TriTri, Gigi, Élo, Léo, Lau, Jean, Jerem, Marie. Palette, biensur, un remerciement tout particulier pour toi et pour tout ce que nous partageons.
+Pour ne pas faiblir face aux péripéties, le lieu de repos soit être choisi avec grand soin. Le temps du doctorat il est important de trouver son havre de paix. Pour avoir été les co-locataires de cet endroit  paisible, un immense merci à Camille, Élo, Gigi,  Jean, Jerem, Jerem,  Lau, Léo, Marie, Palardy, TriTri. Palette, bien sur, un remerciement tout particulier pour toi et pour tout ce que nous partageons.
 
+Certains alliés étaient là avant même que l’aventure ne commence et sont restés, toujours là pour moi, autant de repères dans un voyages quelques fois déboussolant.
+A mes amis du TerTer de Nanterre, qui me rappellent où j'ai grandi et les joies que j'ai connu dans ma banlieue, à ceux que j’ai connu,  il y a parfois plus de vingt ans, Ariane, Bibi, Cendrars, Gomar, Gronico, K-wik,  Matos, Miste, Rufo, Tinico, Gomar, un grand cimer! Un spécial cimer pour toi Rhum, mon frérot, que je connais depuis tant d'années déjà et qui n,’a jamais cessé de me surprendre.
 
-Certains soutiens sont toujours là pour moi, autant de repères dans un voyages quelques fois déboussolant.
-A mes amis du TerTer de Nanterre, qui me rappellent où j'ai gradi, les joies que j'ai connu en banlieu avec ceux que je connais il y a parfois plus de vingt ans, Ariane, Cendrars, K-wik, Miste, Bibi, Rufo, Gronico, Tinico, Gomar, Ariane, Matos, un grand cimer! Un spécial remerciement pour toi Rhum, mon frérot, que je connais depuis tant d'annés déjà ...
+Il y a ma famille, ceux dont je partage parfois une bonne partie de mon patrimoine génétique, mais souvent tellement plus. Un grand en chaleureux merci à Jean Louis, Josette, Jean Claude, Yvette, Tatoche, Tonton François, c'est toujours une immense joie de vous voir.
 
-Il y a ma famille, ceux dont je partage parfois une bonne partie de mon patrimoine génétique, mais ils sont tellemnt plus. Merci Jean Louis, Josette, Jean Claude, Yvette, Tatoche, Tonton François, c'est toujours une immense joie de vous voir.
+Papi, Mami, éternels soutiens, des grands-parents comme vous tous les petits enfants en rêve... Je vous le promets, regardez, je fais de la science, j'essaye d'être docteur, c'est forcément vrai. L’aventure sans vous aurait été bien plus pénible.
 
-Papi, mami, éternel soutien, des grands-parents comme vous tous les petits enfants en rêve... Je vous le promets, regardez, je fais de la science, j'essaye d'être docteur, c'est forcément vrai.
-
-Papa, chercheur et papa, c'est quand même pas mal, ton soutien au court de ce long voyage m'a été d'une aide au combien précieuse...
+Papa, chercheur et papa, c'est quand même pas mal! Ton soutien au court de ce long voyage m'a été d'une aide au combien précieuse, je ne peux m’empêcher que si je suis là c’est que j’ai été franchement influencé, mais tu l’as fait discretement, à ta manière.
 
 ClaCla et Nico le haricot, merci pour votre générosité, la fraicheur que vous apporté, le bonheur que vous respirez, à l'avenir.
 Elisa, j'sais bien que j'ai que le grand frère n'a pas toujours été là, mais bone tu sais que je pense bien à toi même si je suis pas là, on s'rattrapera, promis!

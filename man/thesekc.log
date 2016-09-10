@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  9 SEP 2016 18:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  9 SEP 2016 20:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1193,9 +1193,9 @@ Package cleveref Info: loaded `english' language definitions on input line 45.
 \openout7 = `thesekc.lof'.
 
  [22] [23]
-Overfull \hbox (8.42453pt too wide) in paragraph at lines 108--109
+Overfull \hbox (13.09253pt too wide) in paragraph at lines 108--109
 []\OT1/txr/m/n/12 identifiant num[]erique d'ob-jet, un num[]ero unique pour ide
-n-ti-fier des res-sources num[]erique
+n-ti-fier des res-sources num[]eriques
  []
 
 [24
@@ -2607,7 +2607,7 @@ e/2016/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2016/tex
 mf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2016/texmf-dist/f
 onts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1
 /urw/times/utmri8a.pfb>
-Output written on thesekc.pdf (238 pages, 4046099 bytes).
+Output written on thesekc.pdf (238 pages, 4046534 bytes).
 PDF statistics:
  4555 PDF objects out of 5155 (max. 8388607)
  4143 compressed objects within 42 object streams
