@@ -1,4 +1,4 @@
-\begin{thebibliography}{227}
+\begin{thebibliography}{230}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{\texttt{#1}}\fi
@@ -225,6 +225,11 @@ Clark, J.~S., Gelfand, A.~E., Woodall, C.~W., Zhu, K., jul 2014. {More than the
 \newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/25154092
   http://doi.wiley.com/10.1890/13-1015.1}
 
+\bibitem[{Clavel et~al.(2011)Clavel, Julliard, and Devictor}]{Clavel2011}
+Clavel, J., Julliard, R., Devictor, V., 2011. {Worldwide decline of specialist
+  species: Toward a global functional homogenization?} Frontiers in Ecology and
+  the Environment 9~(4), 222--228.
+
 \bibitem[{Connor et~al.(2013)Connor, Collins, and Simberloff}]{Connor2013}
 Connor, E.~F., Collins, M.~D., Simberloff, D., nov 2013. {The checkered history
   of checkerboard distributions}. Ecology 94~(11), 2403--2414.
@@ -328,7 +333,7 @@ Dobzhansky, T., mar 1973. {Nothing in Biology Makes Sense except in the Light
 
 \bibitem[{Dray and Dufour(2007)}]{Dray2007}
 Dray, S., Dufour, A.~B., 2007. {The ade4 Package: Implementing the Duality
-  Diagram for Ecologists}. Journal of Statistical Software 22~(4), 1 -- 20.
+  Diagram for Ecologists}. J. Stat. Softw. 22~(4), 1--20.
 \newline\urlprefix\url{http://www.jstatsoft.org/}
 
 \bibitem[{Durance and Ormerod(2010)}]{Durance2010}
@@ -443,10 +448,9 @@ Godsoe, W., Harmon, L.~J., sep 2012. {How do species interactions affect
 \newline\urlprefix\url{http://doi.wiley.com/10.1111/j.1600-0587.2011.07103.x}
 
 \bibitem[{Gotelli(2000)}]{Gotelli2000}
-Gotelli, N.~J., sep 2000. {Null model analysis of species co-occurrence
-  patterns.} Ecology 81~(9), 2606--2621.
-\newline\urlprefix\url{http://www.jstor.org/stable/177478?origin=crossref
-  http://doi.wiley.com/10.1890/0012-9658(2000)081[2606:NMAOSC]2.0.CO;2}
+Gotelli, N.~J., 2000. {Null model analysis of species co-occurence patterns}.
+  Ecology 81~(9), 2606--2621.
+\newline\urlprefix\url{http://www.esajournals.org/doi/abs/10.1890/0012-9658(2000)081[2606:NMAOSC]2.0.CO;2}
 
 \bibitem[{Gotelli and Graves(1996)}]{Gotelli1996}
 Gotelli, N.~J., Graves, G.~R., 1996. {Null models in ecology}. Vol.~14.
@@ -468,20 +472,18 @@ Grant, P.~R., Grant, B.~R., 2008. {How and Why Species Multiply: The Radiation
   University Press.
 \newline\urlprefix\url{https://books.google.ca/books?id=h5urQiWUB7AC}
 
-\bibitem[{Gravel et~al.(2011{\natexlab{a}})Gravel, Canard, Guichard, and
-  Mouquet}]{Gravel2011a}
-Gravel, D., Canard, E., Guichard, F., Mouquet, N., may 2011{\natexlab{a}}.
-  {Persistence Increases with Diversity and Connectance in Trophic
-  Metacommunities}. PLoS ONE 6~(5), e19374.
-\newline\urlprefix\url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3103501{\&}tool=pmcentrez{\&}rendertype=abstract
-  http://dx.plos.org/10.1371/journal.pone.0019374}
-
 \bibitem[{Gravel et~al.(2006)Gravel, Canham, Beaudet, and
   Messier}]{Gravel2006a}
 Gravel, D., Canham, C.~D., Beaudet, M., Messier, C., apr 2006. {Reconciling
   niche and neutrality: the continuum hypothesis.} Ecology letters 9~(4),
   399--409.
 \newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/16623725}
+
+\bibitem[{Gravel et~al.(2011{\natexlab{a}})Gravel, Guichard, and
+  Hochberg}]{Gravel2011a}
+Gravel, D., Guichard, F., Hochberg, M.~E., jun 2011{\natexlab{a}}. {Species
+  coexistence in a variable world.} Ecology letters, 828--839.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/21682832}
 
 \bibitem[{Gravel et~al.(2011{\natexlab{b}})Gravel, Massol, Canard, Mouillot,
   and Mouquet}]{Gravel2011}
@@ -733,6 +735,11 @@ Lavergne, S., Mouquet, N., Thuiller, W., Ronce, O., dec 2010. {Biodiversity and
   and Communities}. Annual Review of Ecology, Evolution, and Systematics
   41~(1), 321--350.
 \newline\urlprefix\url{http://www.annualreviews.org/doi/abs/10.1146/annurev-ecolsys-102209-144628}
+
+\bibitem[{Lawton(1999)}]{Lawton1999}
+Lawton, J.~H., feb 1999. {Are There General Laws in Ecology?} Oikos 84~(2),
+  177.
+\newline\urlprefix\url{http://www.jstor.org/stable/3546712?origin=crossref}
 
 \bibitem[{Legendre and Legendre(2012)}]{legendre2012numerical}
 Legendre, P., Legendre, L. F.~J., 2012. {Numerical Ecology}. Developments in
@@ -1275,6 +1282,15 @@ Stouffer, D.~B., Camacho, J., Jiang, W., Amaral, L. A.~N., aug 2007. {Evidence
   for the existence of a robust pattern of prey selection in food webs.}
   Proceedings. Biological sciences / The Royal Society 274~(1621), 1931--1940.
 \newline\urlprefix\url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2275185{\&}tool=pmcentrez{\&}rendertype=abstract}
+
+\bibitem[{Suding et~al.(2015)Suding, Higgs, Palmer, Callicott, Anderson, Baker,
+  Gutrich, Hondula, LaFevor, Larson, Randall, Ruhl, and Schwartz}]{Suding2015}
+Suding, K., Higgs, E., Palmer, M., Callicott, J.~B., Anderson, C.~B., Baker,
+  M., Gutrich, J.~J., Hondula, K.~L., LaFevor, M.~C., Larson, B. M.~H.,
+  Randall, A., Ruhl, J.~B., Schwartz, K. Z.~S., may 2015. {Committing to
+  ecological restoration}. Science 348~(6235), 638--640.
+\newline\urlprefix\url{http://www.sciencemag.org/content/348/6235/638.short
+  http://www.sciencemag.org/cgi/doi/10.1126/science.aaa4216}
 
 \bibitem[{Suttle et~al.(2007)Suttle, Thomsen, and Power}]{Suttle2007}
 Suttle, K.~B., Thomsen, M.~A., Power, M.~E., feb 2007. {Species interactions
