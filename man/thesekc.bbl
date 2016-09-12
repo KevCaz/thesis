@@ -1,4 +1,4 @@
-\begin{thebibliography}{231}
+\begin{thebibliography}{235}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{\texttt{#1}}\fi
@@ -944,6 +944,13 @@ Mouquet, N., Lagadeuc, Y., Devictor, V., Doyen, L., Duputi{\'{e}}, A.,
   1293--1310.
 \newline\urlprefix\url{http://doi.wiley.com/10.1111/1365-2664.12482}
 
+\bibitem[{Myers et~al.(2007)Myers, Baum, Shepherd, Powers, and
+  Peterson}]{Myers2007}
+Myers, R.~a., Baum, J.~K., Shepherd, T.~D., Powers, S.~P., Peterson, C.~H., mar
+  2007. {Cascading effects of the loss of apex predatory sharks from a coastal
+  ocean.} Science (New York, N.Y.) 315~(5820), 1846--50.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/17395829}
+
 \bibitem[{Neigel(2003)}]{Neigel2003}
 Neigel, J., feb 2003. {Species-area relatioships and marine conservation}.
   Ecological Applications 13~(sp1), 138--145.
@@ -1134,6 +1141,15 @@ Ricklefs, R.~E., jan 1987. {Community Diversity: Relative Roles of Local and
 Ricklefs, R.~E., 2003. {A comment on Hubbell 's zero-sum ecological drift
   model}. Oikos 1001, 185--192.
 
+\bibitem[{Ripple et~al.(2014)Ripple, Estes, Beschta, Wilmers, Ritchie,
+  Hebblewhite, Berger, Elmhagen, Letnic, Nelson, Schmitz, Smith, Wallach, and
+  Wirsing}]{Ripple2014}
+Ripple, W.~J., Estes, J.~a., Beschta, R.~L., Wilmers, C.~C., Ritchie, E.~G.,
+  Hebblewhite, M., Berger, J., Elmhagen, B., Letnic, M., Nelson, M.~P.,
+  Schmitz, O., Smith, D.~W., Wallach, A., Wirsing, A., 2014. {Status and
+  ecological effects of the world's largest carnivores}. Science 343~(6167),
+  1241484.
+
 \bibitem[{Robinet et~al.(2016)Robinet, Suppo, and Darrouzet}]{Robinet2016}
 Robinet, C., Suppo, C., Darrouzet, E., jul 2016. {Rapid spread of the invasive
   yellow-legged hornet in France: the role of human-mediated dispersal and the
@@ -1233,6 +1249,10 @@ Simberloff, D.~S., Wilson, E.~O., mar 1969. {Experimental Zoogeography of
   Islands: The Colonization of Empty Islands}. Ecology 50~(2), 278--296.
 \newline\urlprefix\url{http://doi.wiley.com/10.2307/1934856}
 
+\bibitem[{Sinclair et~al.(2003)Sinclair, Mduma, and Brashares}]{Sinclair2003a}
+Sinclair, A. R.~E., Mduma, S., Brashares, J.~S., 2003. {Patterns of predation
+  in a diverse predator – prey system} 425~(September), 288--290.
+
 \bibitem[{Solarik et~al.(2016)Solarik, Gravel, Ameztegui, Bergeron, and
   Messier}]{Solarik2016}
 Solarik, K.~A., Gravel, D., Ameztegui, A., Bergeron, Y., Messier, C., jun 2016.
@@ -1305,6 +1325,14 @@ Suttle, K.~B., Thomsen, M.~A., Power, M.~E., feb 2007. {Species interactions
 Tao, T., Vu, V., Krishnapur, M., sep 2010. {Random matrices: Universality of
   ESDs and the circular law}. The Annals of Probability 38~(5), 2023--2065.
 \newline\urlprefix\url{http://projecteuclid.org/euclid.aop/1282053780}
+
+\bibitem[{Terborgh et~al.(2001)Terborgh, Lopez, Nu{\~{n}}ez, Rao, Shahabuddin,
+  Orihuela, Riveros, Ascanio, Adler, Lambert, and Balbas}]{Terborgh2001}
+Terborgh, J., Lopez, L., Nu{\~{n}}ez, P., Rao, M., Shahabuddin, G., Orihuela,
+  G., Riveros, M., Ascanio, R., Adler, G.~H., Lambert, T.~D., Balbas, L., nov
+  2001. {Ecological Meltdown in Predator-Free Forest Fragments}. Science
+  294~(5548), 1923--1926.
+\newline\urlprefix\url{http://www.sciencemag.org/cgi/doi/10.1126/science.1064397}
 
 \bibitem[{Th{\'{e}}bault and Fontaine(2010)}]{Thebault2010}
 Th{\'{e}}bault, E., Fontaine, C., aug 2010. {Stability of ecological
