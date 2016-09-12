@@ -8,7 +8,7 @@
 \contentsline {chapter}{\MakeUppercase {Table des mati\`eres}}{xv}{section*.5}
 \contentsline {chapter}{\MakeUppercase {Liste des tableaux}}{xx}{section*.6}
 \contentsline {chapter}{\MakeUppercase {Liste des figures}}{xxi}{section*.7}
-\contentsline {chapter}{\MakeUppercase {liste des abr\'{e}viations}}{xxvi}{section*.8}
+\contentsline {chapter}{\MakeUppercase {liste des abr\'{e}viations}}{xxv}{section*.8}
 \select@language {french}
 \gdef \the@ipfilectr {}
 \contentsline {chapter}{\MakeUppercase {Introduction g\'en\'erale}}{1}{section*.9}

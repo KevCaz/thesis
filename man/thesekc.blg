@@ -5,6 +5,18 @@ A level-1 auxiliary file: liminaires.aux
 The style file: elsarticle-harv.bst
 Reallocated field_info (elt_size=4) to 10904 items from 5000.
 Database file #1: /Users/KevCaz/Documents/library.bib.bib
+Repeated entry---line 3522 of file /Users/KevCaz/Documents/library.bib.bib
+ : @article{Gotelli2000
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 12059 of file /Users/KevCaz/Documents/library.bib.bib
+ : @article{Dray2007
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 14214 of file /Users/KevCaz/Documents/library.bib.bib
+ : @article{Gravel2011a
+ :                     ,
+I'm skipping whatever remains of this entry
 Reallocated buffer (elt_size=1) to 40000 items from 20000.
 Reallocated sv_buffer (elt_size=1) to 40000 items from 20000.
 Reallocated ex_buf (elt_size=1) to 40000 items from 20000.
@@ -17,48 +29,36 @@ Reallocated ex_buf (elt_size=1) to 60000 items from 40000.
 Reallocated out_buf (elt_size=1) to 60000 items from 40000.
 Reallocated name_tok (elt_size=4) to 60000 items from 40000.
 Reallocated name_sep_char (elt_size=1) to 60000 items from 40000.
-Repeated entry---line 9007 of file /Users/KevCaz/Documents/library.bib.bib
- : @article{Gravel2011a
- :                     ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 9774 of file /Users/KevCaz/Documents/library.bib.bib
- : @article{Gotelli2000
- :                     ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 15550 of file /Users/KevCaz/Documents/library.bib.bib
- : @article{Dray2007
- :                  ,
-I'm skipping whatever remains of this entry
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
-Repeated entry---line 15861 of file /Users/KevCaz/Documents/library.bib.bib
- : @article{Leibold2004
- :                     ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 15947 of file /Users/KevCaz/Documents/library.bib.bib
+Repeated entry---line 15809 of file /Users/KevCaz/Documents/library.bib.bib
  : @article{Davis1998
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 16040 of file /Users/KevCaz/Documents/library.bib.bib
- : @article{Suttle2007
- :                    ,
+Repeated entry---line 15826 of file /Users/KevCaz/Documents/library.bib.bib
+ : @article{Leibold2004
+ :                     ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 16104 of file /Users/KevCaz/Documents/library.bib.bib
- : @article{Koh2004
- :                 ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 16308 of file /Users/KevCaz/Documents/library.bib.bib
+Repeated entry---line 15888 of file /Users/KevCaz/Documents/library.bib.bib
  : @article{Ricklefs1987
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 16607 of file /Users/KevCaz/Documents/library.bib.bib
- : @book{Holyoak2005
- :                  ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 16614 of file /Users/KevCaz/Documents/library.bib.bib
+Repeated entry---line 16330 of file /Users/KevCaz/Documents/library.bib.bib
  : @article{Bellard2012
  :                     ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 16768 of file /Users/KevCaz/Documents/library.bib.bib
+Repeated entry---line 16347 of file /Users/KevCaz/Documents/library.bib.bib
+ : @article{Koh2004
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 16505 of file /Users/KevCaz/Documents/library.bib.bib
+ : @article{Suttle2007
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 16570 of file /Users/KevCaz/Documents/library.bib.bib
+ : @book{Holyoak2005
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 17051 of file /Users/KevCaz/Documents/library.bib.bib
  : @article{Brooks2014
  :                    ,
 I'm skipping whatever remains of this entry

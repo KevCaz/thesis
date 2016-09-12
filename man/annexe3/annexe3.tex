@@ -5,32 +5,36 @@
 \setcounter{equation}{0}
 
 
-La TTIB proposée par \cite{Gravel2011} est issue d'une colaboration entre cinq auteurs:
+La TTIB proposée par \cite{Gravel2011} est issue d'une colaboration entre cinq auteurs :
 Dominique Gravel, François Massol, Elsa Canard, David Mouillot et Nicolas Mouquet.
-Francois Massol a récemment été invité à proposer une contribution au volume XX sur XX de
-\emph{Advances in Ecological Research}, volume dont il est co-éditeur.
+Parmi ces auteurs, Francois Massol a récemment été invité à soumettre une
+contribution au volume 56 du journal scientifique
+\emph{Advances in Ecological Research} traitant du lien entre les réseaux
+écologiques et l'invasion des espèces, volume dont il est co-éditeur.
 Ce fut une opportunité pour montrer les possibilités offertes par la TTIB et aussi
 une occasion de pouvoir revenir en détail sur les mathématiques en arrière du modèle.
-L'article final, en court de révison, est une collaboration entre François Massol (premier auteur),
-Maxime Dubart, Vincent Calcagno, Kevin Cazelles, Claire Jacquet, Sonia Kéfi et Dominique Gravel (dernier auteur).
+L'article final, en court de révison, est une collaboration entre François Massol
+(premier auteur), Maxime Dubart, Vincent Calcagno, Claire Jacquet, Sonia Kéfi,
+Dominique Gravel (dernier auteur) et moi-même.
 
 C'est pour mon travail sur l'extension de la TIB présenté au chapitre \ref{chap1}
-que j'ai été invité à participer à cet article afin notamment d'y détailler de manière
-plus technique le modèle mathématique sur lequel je me suis appuyé.
-Dans cette annexe, je présente ma participation à l'article avant qu'elle ne soit intégrée
-dans l'articele qui est actuellement en cours de révision.
-La figure qui y est présentée est de Francois Massol qui m'a getillement permis de la réutiliser
-La notation représente $\P_{X}$ la probabilité de l'événement $X$, c'est donc
-comme équivalent de $\mathbb{P}(X)$ à l'annexe \ref{ann2}
+que j'ai été invité à contribuer à cet article. Ma participation détaille
+quelques aspects techniques du modèle mathématique ainsi que les nouvelles
+possibilités qu'il ajoute à la TIB.
+Dans cette annexe, je présente mon travail tel qu'il était avant d'être intégrer
+dans l'article qui est actuellement en cours de révision.
+La figure qui y est présentée est de Francois Massol qui m'a getillement permis
+de la réutiliser. La notation $\P_{X}$ représente la probabilité de l'événement
+$X$, c'est donc l'équivalent de la notation $\mathbb{P}(X)$ à l'annexe \ref{ann2}.
 
 
 
 \section{The model}\label{the-model}
 
-An alternative to study analytically the model of the TTIB proposed by \cite{Gravel2011} is to derive
-master equations associated to community states (rather than for individual species).
+An alternative to study analytically the model of the TTIB proposed by \cite{Gravel2011}
+is to derive master equations associated to community states (rather than for individual species).
 The mathematical object is then the random process
-$(C_{t>0}=\cup_{i=1}^TX_i$ which is a vector of 0 and 1 describing
+$(C_{t>0}=\cup_{i=1}^TX_i$, \emph{i.e.} a vector of 0 and 1 describing
 the presence and absence of all species at any time \(t\). For \(T\)
 species, there are \(2^T\) community states, Table \ref{tabAnnIII_1} provides an example
 for species B, C, D and E presented in Figure \ref{ann3fig1} .
@@ -69,7 +73,7 @@ as highlighted in the right column.}
 
 
 Deriving the master equation associated to a given community state
-\(S_k\) requires to study the transition probabilities between community
+\(S_k\) necessitates the consideration of transition probabilities among community
 states between \(t\) and \(t+dt\) (where \(dt\) is assumed to be small enough
 to permit only one transition). As all community states are included
 in the set \(S_k, k\in\{1,2,...,2^T\}\), following the law of total
@@ -96,7 +100,7 @@ P_{C_{t+dt}=S_k|C_{t}=S_k} = 1-\sum_{l \neq k}f(S_l,S_k)dt
 \(f(S_k,S_l)\) reflects how easy the transition between \(S_k\) and
 \(S_l\) is, it may be greater than one as long as
 \(f(S_k,S_l)dt\leqslant1\). The TTIB actually acknowledges the existence
-of trophic interactions by assuming:
+of trophic interactions since it assumes:
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -133,10 +137,9 @@ similar expression:
 \end{equation}
 
 This actually describes a continuous-time Markov chain. When all the
-community states communicate (\emph{i.e} the Markov chain is
-irreducible), their probabilities reached an equilibrium
-\(\mathbf{P}^{\*}\) given by the vector in the kernel of \(\mathbf{M}\)
-whose elements sum to one.
+community states are linked (\emph{i.e} the Markov chain is
+irreducible), an equilibrium \(\mathbf{P}^{\*}\) is reached and given by the
+vector in the kernel of \(\mathbf{M}\) whose elements sum to one.
 
 \begin{figure}[h!]
 \centering
@@ -161,9 +164,9 @@ compositions between \(t\) and \(t+dt\) cannot differ in more than one
 species, \emph{i.e.} \(f(S_k,S_l)=0\) if \(|S_k-S_l|>1\). This turns
 \(\mathbf{M}\) into a sparse matrix: only \(T \times (2^T-1)\) are not
 zero. This assumption is not possible in the TTIB as the extinction of a
-prey may lead to more than one extinction. However, this issue is easy
+prey leads to more than one extinction. However, this issue is easy
 to circumvent by allowing the predator to survive a (very) short period
-alone one the island. This can be done using large value for
+alone one the island which would be assumed using large value for
 \(f(S_k,S_l)\) that measures the transition of a community with a
 predator and the same community without it.
 
@@ -209,7 +212,7 @@ a particular set of species either a particular property of the
 community. For instance, this framework allows to derive the probability
 of finding a given set of predators but also the mean trophic level
 expected and even the probability of having a trophic chains of at least
-\(p\) levels. In all these situations, the calculus required the
+\(p\) levels. In all these situations, calculus necessitate the
 identification of the community states to be summed.
 
 
