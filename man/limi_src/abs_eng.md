@@ -1,7 +1,7 @@
 Biogeography is concerned with the study of mechanisms shaping the geographic
 repartition of species. Although the list of mechanisms is clearly identified,
 biogeographers still search for a consistent theory to structure their interplay.
-Among the challenge frequently pinpointed is the integration os ecological interaction in
+Among the challenge frequently pinpointed is the integration of ecological interactions in
 species distribution models. On the one hand, the literature points out evidences
 underlining the controlling role of interaction on local communities structure.
 On the other hand, relatively few studies unravel imprints of interaction in
@@ -36,14 +36,21 @@ for which the description of interactions was available. This analysis confirms
 the hypotheses made in chapter \ref{chap2}. I show that interacting species
 co-occur differently from non-interacting one. My results also point out the
 abundance of interaction must preclude their detection in co-occurrence data.
-However, by integrating the similarly of abiotic factor for the different sites, 
-I show that signals of interactions are weakened. My results suggest
+However, when accounting for abiotic similarities among sites, signals of
+interactions are weakened. Therefore, my results suggest that using abiotic
+factors to infer co-occurrence probabilities, a part of the links between species
+is captured, but this part remains uncertain. This questions the quality of
+the prediction classical species distribution models make.
+
+My findings bring new theoretical element on the contribution of ecological
+interactions on the shape of species geographical repartition and also introduce
+a original method to study the species co-occurrence : examining them in the
+light of ecological networks. Before concluding, I propose in chapter \ref{chap4}
+a promising avenue to go further in the integration of interaction in
+biogeography: introducing them through energetic constraints. This last chapter
+presents the hope I base for a metabolic theory of biogeography.
 
 
-Mes résultats indiquent également que l’abondance d'interactions est un frein à leur détection dans les données de co-occurrence. Cependant, en intégrant la similarité des facteurs abiotiques pour les différents sites, je montre que les signaux de co-occurrence s’affaiblissent e réduisent pour parfois disparaitre. Mes résultats suggèrent qu’en utilisant des facteurs abiotiques pour inférer les probabilités de co-occurrence entre espèces, une partie du lien entre les espèces est capturée, mais cette part capturée est entachée d’une grande incertitude. Ceci vient questionner la capacité des modèles de distribution d’espèces à prédire correctement la distribution des espèces.
-
-Mes résultats apportent des éléments théoriques nouveaux sur le rôle des interactions écologiques dans les modèles de distribution d’espèces en plus de proposer une démarche originale pour étudier les données de co-occurrence d’espèces : les regarder à la lumière des réseaux écologiques. Avant de conclure ma thèse, je propose au chapitre \ref{chap4} une démarche prometteuse pour aller encore plus loin dans l’intégration des interactions en biogéographie : intégrer ces dernières par le biais des contraintes énergétiques. Ce dernier chapitre livre les espoirs que je fonde sur une théorie métabolique de la biogéographie.
-
-
-> Mots clés: Biogéographie, Réseaux écologiques, contraintes abiotiques, co-occurrence,
-théorie de la biogéographie des îles, théorie métabolique de l'écologie.
+> Keywords: Biogeography, biotic interaction, ecological networks,
+abiotic constrains, co-occurrence, the theory of island biogeography,
+metabolic theory of ecology.
