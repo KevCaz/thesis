@@ -1,13 +1,49 @@
-La biogéographie est l’étude des mécanismes qui influencent la répartition géographique des espèces. Bien que ces mécanismes soient relativement bien identifiés, les biogéographes cherchent toujours une théorie cohérente pour les articuler. Parmi les problèmes les plus fréquemment pointés du doigt, figure le problème de l’intégration des interactions écologiques dans les modèles de distribution d’espèces.
-D’un côté la littérature scientifique apporte un ensemble de preuves soulignant le rôle prépondérant des interactions dans la structuration des communautés locales et de l’autre,  on trouve finalement assez peu d’études révélant les empreintes laissées par les interactions dans les données de distributions.
-Proposer une explication claire à la disparition de l’effet des interactions écologiques sur la distribution des espèces quand on augmente l’échelle spatiale, reste un défi important que la biogéographie doit mener.
-Le problème majeur que pose l’absence de réponse claire sur le rôle que jouent les interactions aux larges échelles est que la plupart des scénarios de biodiversité partent de l’hypothèse que ces interactions sont négligeables aux larges échelles spatiales.
-Si cette hypothèse est régulièrement montrée fausse, alors il faut réviser ces scénarios et soutenir le développement de méthodologies incluant les relations entre les espèces.
+Biogeography is concerned with the study of mechanisms shaping the geographic
+repartition of species. Although the list of mechanisms is clearly identified,
+biogeographers still search for a consistent theory to structure their interplay.
+Among the challenge frequently pinpointed is the integration os ecological interaction in
+species distribution models. On the one hand, the literature points out evidences
+underlining the controlling role of interaction on local communities structure.
+On the other hand, relatively few studies unravel imprints of interaction in
+species distribution data. Developing a clear explanation for this apparent
+vanishing remains a major challenge biogeography needs to take up.
+The main issue regarding the lack of a clear answer regarding the role of
+interactions at broad spatial scales is that most of scenarios of biodiversity
+changes assume that interactions can be neglected. If this hypothesis is often
+proved false, then the scenarios must be reviewed and sustain the development
+of methodologies including relationship among species.
 
-La travail de thèse présenté ici est une réflexion sur le rôle des interactions dans la répartition des espèces. Je pars de l’idée que la question des interactions en biogéographie doit être menée au niveau théorique. Les théories classiques en biogéographie relèguent souvent au second plan les interaction écologiques. Ainsi, au chapitre \ref{chap1} je propose une intégration des interactions écologiques dans un modèle théorique de distribution d'espèces issue d'une des théories les plus importantes en biogéographie: la théorie de la biogéographie des îles. Ce travail montre comment les effets conjoints des facteurs biotiques et abiotiques peuvent changer profondément les attendus de la théorie classique.
 
-En partant de cette première réflexion, je montre au chapitre \ref{chap2} comment les interactions peuvent se répercuter dans les données de co-occurrence. Ces données indiquent la présence ou l’absence de plusieurs espèces sur un même ensemble de sites dispersés le long d’un large gradient géographique. À l’aide d’un modèle probabiliste, j'obtiens des résultats théoriques liant les données de co-occurrence et l’information contenue dans les réseaux écologiques. Je démontre clairement que les interactions affectent les données de co-occurrence. Je montre également que plus le nombre d’interactions entre deux espèces est grand, moins ces interactions sont détectables et de même si une espèce entretient de nombreuses interactions, il sera difficile de trouver une quelconque trace des interactions dans les données de co-occurrence.
+The thesis herein presented is a brainwork on the role of interaction on species
+distribution. I start with a theoretical investigation on the topic as classical
+theories push ecological interactions into the background. Hence, in chapter
+\ref{chap1}, I present the integration of interaction into a a theoretical model
+of species distribution coming from one of the most important theory in biogeography:
+the theory of island biogeography. This work shows how the joint effect of biotic
+and abiotic factors affect the expectations derived from the classical theory.
+Based on this first chapter, in chapter \ref{chap2}, I show how interaction can
+affect co-occurrence data. Such data contains the presence or absence of several
+species for a similar set of sites dispersed along a large geographic gradient.
+Using a probabilistic model, I obtain theoretical results linking co-occurrence
+data and the information included in ecological networks. I clearly demonstrate
+that interactions shape co-occurrence data. I further show that the higher
+the number of links between two species the harder the detection of interactions.
+Similarly if a species experience many interactions, it is then challenging to
+detect any sign of interactions in co-occurrence data.
 
-Au chapitre \ref{chap3} de la présente thèse, je présente une analyse de cinq jeux de données de co-occurrence pour lesquels une description des interactions était disponible. Cette analyse confirme qu’un certain nombre d’hypothèses formulées au chapitre \ref{chap2}. Je montre que les espèces qui interagissent co-occurrent différemment qui celles n’interagissent pas.  Mes résultats indiquent également que l’abondance d'interactions est un frein à leur détection dans les données de co-occurrence. Cependant, en intégrant la similarité des facteurs abiotiques pour les différents sites, je montre que les signaux de co-occurrence sont très diminués et parfois disparaissent. Mes résultats suggèrent qu’en utilisant les données sur les facteurs abiotiques pour inférer les probabilités de co-occurrence entre espèces, une partie du lien entre les espèces est capturée mais qu’il existe une grande incertitude sur la part capturée, ce qui questionne la capacité des SDMs à prédire correctement les distributions d’espèces.
+In chapter\ref{chap3}, I print the analysis of five datasets of co-occurrence
+for which the description of interactions was available. This analysis confirms
+the hypotheses made in chapter \ref{chap2}. I show that interacting species
+co-occur differently from non-interacting one. My results also point out the
+abundance of interaction must preclude their detection in co-occurrence data.
+However, by integrating the similarly of abiotic factor for the different sites, 
+I show that signals of interactions are weakened. My results suggest
 
-Mes résultats apportent des éléments théoriques nouveaux sur le rôle des interactions dans les modèles de distributions et proposent une démarche nouvelle pour étudier les données de co-occurrence : les regarder à la lumière des réseaux écologiques. Avant de conclure ma thèse, je propose au chapitre \ref{chap4} une démarche prometteuse pour aller encore plus loin dans l’intégration des interaction en biogéographie : intégrer ces dernières par le biais des contraintes énergétiques. Ce dernier chapitre livre les espoirs que je fonde sur une théorie métabolique de la biogéographie.
+
+Mes résultats indiquent également que l’abondance d'interactions est un frein à leur détection dans les données de co-occurrence. Cependant, en intégrant la similarité des facteurs abiotiques pour les différents sites, je montre que les signaux de co-occurrence s’affaiblissent e réduisent pour parfois disparaitre. Mes résultats suggèrent qu’en utilisant des facteurs abiotiques pour inférer les probabilités de co-occurrence entre espèces, une partie du lien entre les espèces est capturée, mais cette part capturée est entachée d’une grande incertitude. Ceci vient questionner la capacité des modèles de distribution d’espèces à prédire correctement la distribution des espèces.
+
+Mes résultats apportent des éléments théoriques nouveaux sur le rôle des interactions écologiques dans les modèles de distribution d’espèces en plus de proposer une démarche originale pour étudier les données de co-occurrence d’espèces : les regarder à la lumière des réseaux écologiques. Avant de conclure ma thèse, je propose au chapitre \ref{chap4} une démarche prometteuse pour aller encore plus loin dans l’intégration des interactions en biogéographie : intégrer ces dernières par le biais des contraintes énergétiques. Ce dernier chapitre livre les espoirs que je fonde sur une théorie métabolique de la biogéographie.
+
+
+> Mots clés: Biogéographie, Réseaux écologiques, contraintes abiotiques, co-occurrence,
+théorie de la biogéographie des îles, théorie métabolique de l'écologie.

@@ -43,7 +43,7 @@ De même, en inférant la distribution d’une espèce à partir de la distribut
 Ce problème de choix des variables est illustré au chapitre \ref{chap3} dans lequel j’ai montré que l'utilisation de SDMs affaiblissait considérablement le signal observé sur les données de co-occurrence brutes (pour lequel les facteurs abiotiques ne sont pas intégrés).
 Au lieu de conclure que la co-occurrence est contrainte par le variables pédoclimatiques abiotiques, j’ai cherché la cohérence de cette affaiblissement et constaté que même les associations les plus fortes (pour les prédateurs spécialistes et leur proie) disparaissent et qu'un modèle simple basé sur la présence de proies soit plus performant que certains SDMs.
 Ainsi, l'association entre deux espèces interagissant n’est pas nécessairement capturée de manière adéquate par les SDMs, se qui jette un doute sur la qualité des prédictions basées sur les SDMs.
-Pour remédier à cela, il une fusion méthodiques des deux types d’informations est nécessaire [@Meier2010 ; @Thuilier2013].
+Pour remédier à cela, il une fusion méthodiques des deux types d’informations est nécessaire [@Meier2010; @Thuiller2013].
 Dans les cas précis d'un prédateur et ses proies[^pred], il y a un lien évident entre les distributions: le prédateur est nécessairement limité par la distribution conjointe de ces proies [@Holt2009; @Shenbrot2007].
 La reconnaissance des réalités des interactions biotiques auxquelles les espèces sont soumises doit être au coeur d'un renouvellement des approches pour prédire des espèce en réseaux [@Godsoe2015].
 
@@ -52,7 +52,6 @@ En partant initialement de la question *est-ce que les espèces qui interagissen
 Ce résultat sera, je pense, très utile pour amener une lumière nouvelle sur le débat qui anime la communauté des biogéographes autour de la question du rôle des interactions dans la distribution aux larges échelles spatiale [@Araujo2014; @Godsoe2015].
 Bien que dans les dernières années ont connu des avancements méthodologiques significatifs avec  l'essor des JSDMs [@Ovaskainen2010; @Pollock2014; @Warton2015b], il faut prolonger l’effort pour intégrer davantage d’informations biologiques dans les SDMs car l’intégration systématiques des co-occurrences n’est peut être pas suffisante.
 Je n’ai été capable d'interpréter de manière cohérente les données de co-occurrece qu’avec l’apport d’une données extérieure : celles des réseaux, grâce à laquelle j’ai pu montré que l’importance des interactions n'était pas seulement une question d'échelle spatiale [@Araujo2014; @Belmaker2015], mais aussi un problème de topologie du réseaux d’interaction du système étudié.
-
 
 
 [^pred]: cela est aussi valable pour un pollinisateur et les plantes qu'ils pollinisent ou encore pour un parasite et ses hôtes.
@@ -110,56 +109,38 @@ Aussi, constatant l’absence actuelle de lois universelles en écologie, je dir
 
 
 
-## Une théorie en intégrative de la biogéographie {-}
+## Une théorie intégrative de la biogéographie {-}
 
-L'effort en biogéographie doit se faire autrour d'intégration ordonnée des
-concepts clés issus de différents champs de l'écologie dans un même cadre
-conceptuel [@Thuiller2013].
+Malgré les avancements théoriques des dernières années en biogéographie,
+l'appel lancé par Mark Lomolino en 2000 reste d'actualité [@Lomolino2000].
+L'effort d'intégration ordonné de concepts clés issus de différents champs de
+l'écologie dans une théorie intégrative de la biogéographie doit être
+poursuivit [@Thuiller2013]. Avec l'éclairage que je propose sur la relation
+entre la distribution des espèces et les interactions écologiques, j'espère
+que mes travaux participeront à avancer vers une telle théorie.
 Comme je l'ai indiqué tout au long de ma thèse, ce n'est tant la liste des
-mécanismes qui pose problèmes que leur articlulation cohérente sans laquelle on
-ne peut connaître leur importance relative.
-Les biogéographes doivent proposer des scénarios les plus réalistes qu'ils soient
-avec les connaissances partielles que nous avons.
-Comme le souligne @Araujo2006:  des mécanismes que celui de
-leur
+mécanismes qui pose problème mais bien leur articulation cohérente sans laquelle on
+ne peut connaître leur importance relative, se qui freine l'émergence des méthodes
+les plus cohérentes pour prédire les distribution d'espèces. Néanmoins, comme le
+relevaient Miguel B. Araújo, et Carsten Rahbek, pendant
+que la recherche progresse, il faut essayer de tirer le meilleur
+parti de l'état actuel des connaissances [@Araujo2006] :
 
 >  We will never be able to predict the future with accuracy, but we need a strategy for using
-existing knowledge and bioclimatic modeling to improve understanding of the likely effects of future climate on biodiversity. [@Araujo2006].
+existing knowledge and bioclimatic modeling to improve understanding of the likely effects of future climate on biodiversity.
 
-Pour aller vers des préductions plus fiables, vers aussi la quantification de nos erreurs,
-l'effort théoriques soir être maintenus et mêe renforcées.
-J'ai montré dans ma thèse qu'il fallait parfois un peu changer l'angle
-d'apporche pour voire d'autre chose dans les dnnées existence.
-Je pense avoir apporté une contribution originale aux problèmes des interactions
- dans les données de distribution.
-Je souhaite biensure continuer à préciser ma pemsée sur le sujet à l'avenir.
-Je sohaite essayer de montere qu'il serait intéressant de catégoriser
- les systèmes et que c'est catégorisation peut prendre des formes pragmatique.
-Ainsi il y a des espèces pour lesqueles la prise en compte nscessaire et d'autre non.
-Il faut aller vrs une conpréension et une systématisation des apporches.
-
-
-
-Je souhaite également développer des apporches qui intègrent de manière cohérente
-les différents mécanismes. C'est à mon avis un écléments central pour arriver à
-aller vers plus des apprches plus auantctavives. Je propose au chapitre \ref{chap4}
-un esemble d'argumet pur marcher vers une théorie métabolique en biogéogrpahie.
-C'est surtour pour construire sur ce concntré sur les contraintes nécessaires pour
-aller vers le plus de compréhension sans pour autnat nier les contingences.
-La facinente compléxité ne doit pas être un refuche derrière lequel on justifie
-la limite des approchesque l'on développe mais nous devons batir des paprches large et ambitieuse qui
-se conrtaintes.
-Réféchire sur les il faut consture sur la TIB et aller au dela
-
-Il est plus facile de s'appuyer que sur des correlatons d'autant plus que si des correlatons fortes il existent une esplication peut alors voir le jour.
-avoir des erreurs quantifiables
-mieux dessiner ce qui est suremnet plus déterminsite de ceux qui l'ai moins
-Ca ne fat pas une théorie on peut esp.reer que c'est une bonne apporximation.
-orter ma contribution dans les prochaines année.s
-Les corrélations sont apperents On ne peut nier les corrélations mais il fvaut envisager où on peut se tromper que plusierus mécanismes mèment au mêmes observations.
-Des modèles repenser plus biologique et aussi comprdnre queles type s d'apporche pour quels systèems
-
-
-De  même peut être que des hypothèse eambietieurse, dans des que le tems à cerie à aller vers des systèmes énergétique Aller vers des contriantes énergétiques mais il est dur qu'on trouvera des règles fiables sur un système qui bien que régit par des règles physique assez nien comprise est un moteur de stochasticé..Oui de l'energie sur le temos et l'espace. Chapitre 3 Wallace
-
-> In the first place we must remember that new species can only be formed when and where there is room for them.(Wallace :56)
+Les écosystèmes sont des objets complexes, des réseaux dynamiques d'objets tout
+aussi complexes. Prédire la composition précise d'un écosystème donné semble un
+objectif inatteignable, mais estimer le temps de survie d'une espèce dans un
+contexte biotique et abiotique semble être plus à notre portée. Pour y arriver,
+pour une vision cohérente de la dynamique des écosystèmes sur des échelles de temps
+plus longue, on ne peut pas négliger ni les processus écologiques ni les processus
+évolutifs : nous devons construire des approches intégratives.
+Nous devons pour cela trouver le liant entre tous ces processus, examiner soigneusement
+les contraintes auxquelles les espèces n'échappent pas. Les contraintes énergétiques
+(voir chapitre \ref{chap4}) en sont un exemple. Même l'évolution, toute pourvoyeuse
+de contingence qu'elle soit, apporte son lot de contraintes: elle met en jeu une
+variation qui engendre un différentiel démographique dans un contexte biotique et abiotique donné.
+Comme le rappelait Wallace au troisième chapitre de son livre *Island Life*:
+&laquo; In the first place we must remember that new species can only be formed
+when and where there is room for them. &raquo;
