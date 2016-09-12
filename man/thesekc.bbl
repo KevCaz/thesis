@@ -1,4 +1,4 @@
-\begin{thebibliography}{230}
+\begin{thebibliography}{231}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{\texttt{#1}}\fi
@@ -446,6 +446,11 @@ Godsoe, W., 2010. {I can't define the niche but i know it when i see it: A
 Godsoe, W., Harmon, L.~J., sep 2012. {How do species interactions affect
   species distribution models?} Ecography 35~(9), 811--820.
 \newline\urlprefix\url{http://doi.wiley.com/10.1111/j.1600-0587.2011.07103.x}
+
+\bibitem[{Godsoe et~al.(2015)Godsoe, Murray, and Plank}]{Godsoe2015}
+Godsoe, W., Murray, R., Plank, M.~J., 2015. {The effect of competition on
+  species' distributions depends on coexistence, rather than scale alone}.
+  Ecography 38~(11), 1071--1079.
 
 \bibitem[{Gotelli(2000)}]{Gotelli2000}
 Gotelli, N.~J., 2000. {Null model analysis of species co-occurence patterns}.
@@ -969,11 +974,11 @@ Paquette, A., Messier, C., jan 2011. {The effect of biodiversity on tree
   Biogeography 20~(1), 170--180.
 \newline\urlprefix\url{http://doi.wiley.com/10.1111/j.1466-8238.2010.00592.x}
 
-\bibitem[{Parmesan(2006)}]{Parmesan2006}
-Parmesan, C., dec 2006. {Ecological and Evolutionary Responses to Recent
-  Climate Change}. Annual Review of Ecology, Evolution, and Systematics 37~(1),
-  637--669.
-\newline\urlprefix\url{http://www.annualreviews.org/doi/abs/10.1146/annurev.ecolsys.37.091305.110100}
+\bibitem[{Park and Friston(2013)}]{Park2013}
+Park, H.-J., Friston, K., nov 2013. {Structural and Functional Brain Networks:
+  From Connections to Cognition}. Science 342~(6158), 1238411--1238411.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/24179229$\backslash$nhttp://www.sciencemag.org/cgi/doi/10.1126/science.1238411
+  http://www.sciencemag.org/cgi/doi/10.1126/science.1238411}
 
 \bibitem[{Pearson and Dawson(2003)}]{Pearson2003}
 Pearson, R.~G., Dawson, T.~P., sep 2003. {Predicting the impacts of climate
@@ -1135,6 +1140,11 @@ Robinet, C., Suppo, C., Darrouzet, E., jul 2016. {Rapid spread of the invasive
   effects of control measures}. Journal of Applied Ecology.
 \newline\urlprefix\url{http://doi.wiley.com/10.1111/1365-2664.12724}
 
+\bibitem[{Rohr et~al.(2014)Rohr, Saavedra, and Bascompte}]{Rohr2014}
+Rohr, R.~P., Saavedra, S., Bascompte, J., jul 2014. {On the structural
+  stability of mutualistic systems}. Science 345~(6195), 1253497--1253497.
+\newline\urlprefix\url{http://www.sciencemag.org/cgi/doi/10.1126/science.1253497}
+
 \bibitem[{Rohr et~al.(2010)Rohr, Scherer, Kehrli, Mazza, and
   Bersier}]{Rohr2010}
 Rohr, R.~P., Scherer, H., Kehrli, P., Mazza, C., Bersier, L.-F., aug 2010.
@@ -1148,12 +1158,6 @@ Rosindell, J., Hubbell, S.~P., He, F., Harmon, L.~J., Etienne, R.~S., 2012.
   {The case for ecological neutral theory}. Trends in Ecology and Evolution
   27~(4), 203--208.
 \newline\urlprefix\url{http://dx.doi.org/10.1016/j.tree.2012.01.004}
-
-\bibitem[{Rosindell and Phillimore(2011)}]{Rosindell2011}
-Rosindell, J., Phillimore, A.~B., jun 2011. {A unified model of island
-  biogeography sheds light on the zone of radiation.} Ecology letters 14~(6),
-  552--60.
-\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/21481125}
 
 \bibitem[{Saavedra et~al.(2011)Saavedra, Stouffer, Uzzi, and
   Bascompte}]{Saavedra2011}

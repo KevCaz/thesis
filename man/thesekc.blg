@@ -3,7 +3,7 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: thesekc.aux
 A level-1 auxiliary file: liminaires.aux
 The style file: elsarticle-harv.bst
-Reallocated field_info (elt_size=4) to 10784 items from 5000.
+Reallocated field_info (elt_size=4) to 10832 items from 5000.
 Database file #1: /Users/KevCaz/Documents/library.bib.bib
 Reallocated buffer (elt_size=1) to 40000 items from 20000.
 Reallocated sv_buffer (elt_size=1) to 40000 items from 20000.
@@ -17,47 +17,47 @@ Reallocated ex_buf (elt_size=1) to 60000 items from 40000.
 Reallocated out_buf (elt_size=1) to 60000 items from 40000.
 Reallocated name_tok (elt_size=4) to 60000 items from 40000.
 Reallocated name_sep_char (elt_size=1) to 60000 items from 40000.
-Repeated entry---line 8969 of file /Users/KevCaz/Documents/library.bib.bib
+Repeated entry---line 8987 of file /Users/KevCaz/Documents/library.bib.bib
  : @article{Gravel2011a
  :                     ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 9736 of file /Users/KevCaz/Documents/library.bib.bib
+Repeated entry---line 9754 of file /Users/KevCaz/Documents/library.bib.bib
  : @article{Gotelli2000
  :                     ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 15513 of file /Users/KevCaz/Documents/library.bib.bib
+Repeated entry---line 15531 of file /Users/KevCaz/Documents/library.bib.bib
  : @article{Dray2007
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 15824 of file /Users/KevCaz/Documents/library.bib.bib
+Repeated entry---line 15842 of file /Users/KevCaz/Documents/library.bib.bib
  : @article{Leibold2004
  :                     ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 15910 of file /Users/KevCaz/Documents/library.bib.bib
+Repeated entry---line 15928 of file /Users/KevCaz/Documents/library.bib.bib
  : @article{Davis1998
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 16003 of file /Users/KevCaz/Documents/library.bib.bib
+Repeated entry---line 16021 of file /Users/KevCaz/Documents/library.bib.bib
  : @article{Suttle2007
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 16067 of file /Users/KevCaz/Documents/library.bib.bib
+Repeated entry---line 16085 of file /Users/KevCaz/Documents/library.bib.bib
  : @article{Koh2004
  :                 ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 16271 of file /Users/KevCaz/Documents/library.bib.bib
+Repeated entry---line 16289 of file /Users/KevCaz/Documents/library.bib.bib
  : @article{Ricklefs1987
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 16570 of file /Users/KevCaz/Documents/library.bib.bib
+Repeated entry---line 16588 of file /Users/KevCaz/Documents/library.bib.bib
  : @book{Holyoak2005
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 16577 of file /Users/KevCaz/Documents/library.bib.bib
+Repeated entry---line 16595 of file /Users/KevCaz/Documents/library.bib.bib
  : @article{Bellard2012
  :                     ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 16731 of file /Users/KevCaz/Documents/library.bib.bib
+Repeated entry---line 16749 of file /Users/KevCaz/Documents/library.bib.bib
  : @article{Brooks2014
  :                    ,
 I'm skipping whatever remains of this entry
@@ -72,49 +72,50 @@ Warning--I didn't find a database entry for "Chamberlain2016"
 Warning--I didn't find a database entry for "Cazelles2015b"
 Warning--I didn't find a database entry for "eq:id4"
 Warning--I didn't find a database entry for "eq:id5"
+Warning--I didn't find a database entry for "Thuilier2013"
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Warning--empty journal in Cazelles2015a
 Warning--there's a number but no volume in Cazelles2015a
 Warning--empty publisher in Coyne2004
-You've used 230 entries,
+You've used 231 entries,
             2821 wiz_defined-function locations,
-            2287 strings with 64492 characters,
-and the built_in function-call counts, 136083 in all, are:
-= -- 13117
-> -- 9095
-< -- 120
-+ -- 3406
-- -- 3170
-* -- 13675
-:= -- 24676
-add.period$ -- 698
-call.type$ -- 230
-change.case$ -- 2197
-chr.to.int$ -- 224
-cite$ -- 233
-duplicate$ -- 4091
-empty$ -- 7987
-format.name$ -- 3860
-if$ -- 26355
+            2298 strings with 64821 characters,
+and the built_in function-call counts, 136891 in all, are:
+= -- 13200
+> -- 9139
+< -- 119
++ -- 3422
+- -- 3185
+* -- 13763
+:= -- 24807
+add.period$ -- 701
+call.type$ -- 231
+change.case$ -- 2207
+chr.to.int$ -- 225
+cite$ -- 234
+duplicate$ -- 4111
+empty$ -- 8041
+format.name$ -- 3880
+if$ -- 26516
 int.to.chr$ -- 7
 int.to.str$ -- 1
-missing$ -- 243
-newline$ -- 879
-num.names$ -- 929
-pop$ -- 1987
+missing$ -- 244
+newline$ -- 882
+num.names$ -- 933
+pop$ -- 1998
 preamble$ -- 1
-purify$ -- 1974
+purify$ -- 1983
 quote$ -- 0
-skip$ -- 2801
+skip$ -- 2813
 stack$ -- 0
-substring$ -- 7629
-swap$ -- 665
+substring$ -- 7722
+swap$ -- 668
 text.length$ -- 10
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 2019
+type$ -- 2028
 warning$ -- 3
-while$ -- 1100
+while$ -- 1105
 width$ -- 0
-write$ -- 2701
+write$ -- 2712
 (There were 11 error messages)
