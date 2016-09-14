@@ -1,39 +1,92 @@
 Au royaume des idées, nous transformons les fragments de notre existence en songes.
 Chaque conversation est une caisse de résonance offerte à nos propres songes.
-Chaque lecture est une conversation, un échange avec d'autres, qui bien qu'absents,
- nous livrent leurs pensées. Comment alors ne pas croire que tout le travail ici
- présenté n'est autre qu'une histoire, la narration de ma rencontre et
- des échanges avec tous ces autres.
+Chaque lecture est une conversation, un échange avec d'autres qui bien qu'absents,
+nous livrent leurs pensées. Comment alors ne pas croire que tout le travail ici
+présenté n'est autre que le récit de ma rencontre et des échanges avec tous ces
+autres? Un récit qui à son tour deviendra une potentielle source de songes.
 
-L'aventure du doctorat est bien plus collective qu'elle n'y parait.   
-Longue est la liste de ceux qui ont apporté une pierre à l’édifice décrit dans les pages qui suivent.
-Des pierres les plus solides dont j’ai fait mes fondations aux plus petits cailloux qui donnent un rien de charme et d'originalité à l’ensemble, nombreux sont les contributeurs au présent travail.
-Tous ces autres qui parfois ignorent ce qu’ils m’ont offert, je souhaite qu'ils en soient chaleureusement remerciés.
-Bien entendu, certaines rencontres laissent des empreintes plus profondes et je me dois de les nommer.
+L'aventure du doctorat est bien plus collective qu'elle n'y parait. Longue est
+la liste de ceux qui ont apporté une pierre à l’édifice ici présenté.
+Des pierres les plus solides dont j’ai fait mes fondations aux plus petits
+cailloux qui donnent un rien de charme et d'originalité à l’ensemble, nombreux
+sont les contributeurs au présent travail. À tous ces autres qui parfois ignorent
+ce qu’ils m’ont offert, j'adresse un chaleureux merci. Certaines rencontres
+laissent des empreintes plus profondes et méritent que je leur destine des
+remerciements personnalisés.
 
-Pour m'avoir laissé ma chance et donné une confiance sans faille, je veux remercier vivement Dom, Nico et David, sans qui l'aventure n'aurait pas été la même.
-Pour faire ces premiers pas sur un chemin incertain, mieux vaut partir avec ceux pensent qu'on en trouvera la fin.
+Pour m'avoir donné ma chance et offert une confiance sans faille, je veux
+remercier vivement Dom, Nico et David, sans qui l'aventure n'aurait pas été la même.
+Pour faire ces premiers pas sur un chemin incertain,
+mieux vaut partir avec ceux pensent qu'on en trouvera la fin.
 
-Un chemin qui m’amena sur deux continents, dans deux pays, a travaillé dans deux universités au sein de deux laboratoires.
-Le laboratoire, ce n’est pas seulement un lieu, ce sont aussi des hommes et des femmes, autant de sources de réflexion et d’inspiration qui jamais ne tarissent.
-Pour de précieux échanges à Rimouski, je remercie Hedou, Idalflex, Jacquette, Jo Brasco, Pippin le Solver, Tim. Pour de passionnantes conversations à Montpellier, merci Alain, Andreï, Claire, Clara, Florian, Isa,   Marie, Pierre, Simon. Solarik, les *behind the scenes* que nous avons abondamment échangés m'ont été d'une précieuse aide dans les derniers moments.
+Un chemin qui m’amena sur deux continents, dans deux pays, à travailler dans
+deux universités au sein de deux laboratoires. Le laboratoire, ce n’est pas
+seulement un lieu, ce sont aussi des personnes, autant de sources de réflexion
+et d’inspiration qui jamais ne tarissent. Pour de précieux échanges à Rimouski,
+je remercie Hedou, Idalflex, Jacquette, Jo Brasco, Pippin le Solver, Tim.
+Solarik, les *behind the scenes* que nous avons abondamment échangés m'ont été
+d'une précieuse aide dans les derniers moments.
+Pour de passionnantes conversations à Montpellier, un grand merci Alain, Andreï,
+Claire, Clara, Florian, Isa, Marie, Pierre et Simon.
 
-Dans les couloirs des laboratoires, il y a aussi des liens forts qui se nouent autour d'intérêts convergents et qui se transforment en une amitié très appréciée. Pour tout ce qu'ils m'ont donné, je remercie Sonia (et Thomas), Albouy (et Séverine et Léo et Louis) et Legagneux (et Aurélie et Margot et Juliette et Zélie et Romane). Dans ces même couloirs, on croise parfois ceux qui se frottent des yeux fatigués par la lumière des écrans. À mes geek préférés, ceux qui connaissent l'appel du clavier, quand l'envie de coder devient trop forte, je dis merci. Merci Casajus, Team Zissou, Dave et Flor pour les morceaux de code et bien plus: votre enthousiasme et votre insatiable curiosité.
+Dans les couloirs des laboratoires, il y a aussi des liens qui se nouent autour
+d'intérêts convergents et qui se transforment en une amitié très appréciée.
+Pour tout ce qu'ils m'ont apporté, je remercie Sonia (et Thomas), Albouy
+(et Séverine et Léo et Louis) et Legagneux (et Aurélie et Margot et Juliette
+et Zélie et Romane). Dans ces même couloirs, j'en ai croisé certaines se frottant
+des yeux fatigués par la lumière des écrans. À mes geek préférés, ceux qui
+connaissent l'appel du clavier, quand l'envie de coder devient trop forte, un
+immense merci. Merci Casajus, Team Zissou, Dave et Flor pour les morceaux de
+code et bien plus: votre enthousiasme et votre insatiable curiosité.
 
-L'aventure n'est, bien heureusement, nullement monochromatique. Le rose de certains instants cède régulièrement la place à un gris parfois bien sombre. Partagés ces questionnements, ces colères, ou encore sa tristesse avec d’autres voyageurs est un soutien des plus précieux. Marion, Matoche, Clem, pour ce soutient qui a été si important, je vous remercie mille fois.
+D'un pays à l'autre, d'un laboratoire à l'autre, d'un couloir à l'autre,
+d'un projet à l'autre, l'aventure n'est, bien heureusement, nullement
+monochromatique et le rose de certains instants cède régulièrement la place à
+un gris parfois bien sombre. Partagés ses questionnements, ses colères, ou
+encore sa tristesse avec d’autres voyageurs est un soutien des plus précieux.
+Marion, Matoche, Clem, pour ce soutien qui a été si important, je vous remercie
+mille fois.
 
-Pour ne pas faiblir face aux péripéties, le lieu de repos soit être choisi avec grand soin. Le temps du doctorat il est important de trouver son havre de paix. Pour avoir été les co-locataires de cet endroit merveilleux qu'a été la maison des courges, un immense merci à Camille, Élo, Gigi, Jean, Jerem, Jerem, Lau, Léo, Marie, Palardy, TriTri. Palette, bien sur, un remerciement tout particulier pour toi et pour tout ce que nous partageons.
+Pour ne pas faiblir face aux péripéties, le lieu de repos soit être choisi avec
+soin. Le temps du doctorat, il est important de trouver son havre de paix.
+Pour avoir été les co-locataires de cet endroit merveilleux qu'a été la maison
+des courges, un immense merci à Camille, Élo, Gigi, Jean, Jerem, Jerem, Lau,
+Léo, Marie, Palardy, TriTri. Palette, bien sur, un remerciement tout particulier
+pour toi et pour tout ce que nous partageons.
 
-Certains alliés étaient là avant même que l’aventure ne commence et ont été des repères essentiels dans un voyages quelques fois déboussolant. Ces étoiles du sol qui nous guide quand la nuit vient de tomber.
-A mes amis du TerTer de Nanterre, qui me rappellent où j'ai grandi, les joies de mon parcours en banlieue, à ceux que j’ai connu il y a parfois plus de vingt ans, à vous Ariane, Bibi, Cendrars, Gomar, Gronico, K-wik, Matos, Miste, Rufo, Tinico, Gomar, je vous dit un immense cimer! Un spécial cimer pour toi Rhum, mon frérot n’a jamais cessé de me surprendre.
+Certains alliés étaient là avant même que l’aventure ne commence et furent
+des repères essentiels dans un voyage quelques fois très déboussolant.
+Ces étoiles du sol qui nous guident quand la nuit vient de tomber, merci.
 
-Il y a ma famille, ceux dont je partage parfois une bonne partie de mon patrimoine génétique, mais souvent tellement plus. Un grand et chaleureux merci à Jean Louis, Josette, Jean Claude, Yvette, Tatoche, Tonton François, c'est toujours un immense bonheur de vous voir.
+À mes amis du TerTer de Nanterre, qui me rappellent où j'ai grandi,
+les joies de mon parcours en banlieue, à ceux que j’ai connu il y a parfois plus
+de vingt ans, à vous Ariane, Bibi, Cendrars, Gomar, Gronico, K-wik, Matos, Miste,
+ Rufo, Tinico, Gomar, je vous dit un immense cimer! Un spécial cimer pour toi
+ Rhum, mon frérot, qui n’a jamais cessé de me surprendre.
 
-Papi, Mami, éternels soutiens, des grands-parents comme vous tous les petits enfants en rêve... Je vous le promets, regardez, je fais de la science, j'essaye d'être docteur, c'est forcément vrai. L’aventure sans vous aurait été bien plus pénible.
+À ma famille, ceux dont je partage parfois une bonne partie de mon patrimoine
+génétique, mais souvent tellement plus. Un profond et chaleureux merci à
+Jean-Louis, Josette, Jean-Claude, Yvette, Tatoche, Tonton François,
+c'est toujours un immense bonheur de vous voir.
 
-Papa, chercheur et papa, c'est quand même pas mal! Ton soutien au court de ce long voyage m'a été d'une aide au combien précieuse. Tu as été un éclaireur génial vers qui j'ai pu me tourner quand l'horizon semblait encore bien loin.
+Papi, Mami, éternels soutiens, guides indispensables de mes premier pas à
+aujourd'hui, merci. Des grands-parents comme vous tous les petits
+enfants en rêve... Je vous le promets, regardez, je fais de la science,
+j'essaye d'être docteur, c'est forcément vrai. Sachez que l’aventure sans vous
+aurait été bien plus pénible.
 
-ClaCla et Nico le haricot, merci pour votre générosité, votre folie, et pour le bonheur que vous respirez, je vous dois pas mal de sourire au moments les plus bas.
-Merci Pépette pour ta spontanéité et ta fraicheur, je sais que j'étais absent ces derniers temps, mais j'ai souvent pensé à toi!
+Papa, père et pair, c'est quand même pas mal! Ton appui au court de ce
+long voyage m'a été d'une aide au combien précieuse. Tu as été un éclaireur
+génial vers qui j'ai pu me tourner quand l'horizon semblait encore bien loin,
+merci papa.
 
-Maman, la plus belle des mamans. Ton fils n'est pas souvent passé à la maison ces dernières années, et oui, l'aventure m'a éloignée de mes terres d'origine. Rassures-toi, ton fils ne t'oubles pas, il sait très bien tout ce que tu as fait pour lui jusqu'à aujourd'hui et il t'en est éternellement reconnaissant.
+ClaCla et Nico le haricot, merci pour votre générosité, votre folie
+et pour le bonheur que vous respirez, je vous dois pas mal de sourire dans les
+moments où j'étais au plus bas.
+Merci Pépette pour ta spontanéité et ta fraicheur, je sais que j'étais absent
+ces derniers temps, il faudra qu'on se rattrape!
+
+Maman, la plus belle des mamans. Ton fils n'est pas souvent passé par la maison
+ces dernières années, et oui, l'aventure m'a éloignée de mes terres d'origine.
+Rassures-toi, ton fils ne t'oublie pas, il sait très bien tout ce que tu as fait
+pour lui jusqu'à aujourd'hui et il t'en est éternellement reconnaissant.

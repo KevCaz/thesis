@@ -1,8 +1,15 @@
-\begin{thebibliography}{235}
+\begin{thebibliography}{247}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{\texttt{#1}}\fi
 \expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+
+\bibitem[{{A. Piechnik} et~al.(2008){A. Piechnik}, {P. Lawler}, and {D.
+  Martinez}}]{Piechnik2008}
+{A. Piechnik}, D., {P. Lawler}, S., {D. Martinez}, N., feb 2008. {Food-web
+  assembly during a classic biogeographic study: species' "trophic breadth"
+  corresponds to colonization order}. Oikos 117~(5), 080211051304426--0.
+\newline\urlprefix\url{http://doi.wiley.com/10.1111/j.2008.0030-1299.15915.x}
 
 \bibitem[{Albouy et~al.(2012)Albouy, Guilhaumon, Ara{\'{u}}jo, Mouillot, and
   Leprieur}]{Albouy2012}
@@ -206,10 +213,10 @@ Chase, J.~M., Leibold, M.~A., 2003. {Ecological niches : linking classical and
   contemporary approaches}. The University of Chicago Press, Chicago.
 \newline\urlprefix\url{http://www.americanbanker.com/issues/179{\_}124/which-city-is-the-next-big-fintech-hub-new-york-stakes-its-claim-1068345-1.html$\backslash$nhttp://www.ncbi.nlm.nih.gov/pubmed/15003161$\backslash$nhttp://cid.oxfordjournals.org/lookup/doi/10.1093/cid/cir991$\backslash$nhttp://www.scielo.cl/pd}
 
-\bibitem[{Cirtwill and Stouffer(2015)}]{Cirtwill2015}
-Cirtwill, A.~R., Stouffer, D.~B., 2015. {Knowledge of predator-prey
+\bibitem[{Cirtwill and Stouffer(2016)}]{Cirtwill2015}
+Cirtwill, A.~R., Stouffer, D.~B., jul 2016. {Knowledge of predator-prey
   interactions improves predictions of immigration and extinction in island
-  biogeography}. Global Ecology and Biogeography, n/a--n/a.
+  biogeography}. Global Ecology and Biogeography 25~(7), 900--911.
 \newline\urlprefix\url{http://doi.wiley.com/10.1111/geb.12332}
 
 \bibitem[{Cirtwill et~al.(2015)Cirtwill, Stouffer, and Romanuk}]{Cirtwill2015a}
@@ -260,6 +267,16 @@ Costantino, R., Desharnais, R., Cushing, J., Dennis, B., 1997. {Chaotic
 
 \bibitem[{Coyne and Orr(2004)}]{Coyne2004}
 Coyne, J.~A., Orr, H.~A., 2004. {Speciation}.
+
+\bibitem[{Damuth(1981)}]{Damuth1981}
+Damuth, J., apr 1981. {Population density and body size in mammals}. Nature
+  290~(5808), 699--700.
+\newline\urlprefix\url{http://www.nature.com/doifinder/10.1038/290699a0}
+
+\bibitem[{Damuth(2007)}]{Damuth2007}
+Damuth, J., 2007. {A macroevolutionary explanation for energy equivalence in
+  the scaling of body size and population density.} The American naturalist
+  169~(5), 621--631.
 
 \bibitem[{Davis et~al.(1998)Davis, Jenkinson, Lawton, Shorrocks, and
   Wood}]{Davis1998}
@@ -333,7 +350,7 @@ Dobzhansky, T., mar 1973. {Nothing in Biology Makes Sense except in the Light
 
 \bibitem[{Dray and Dufour(2007)}]{Dray2007}
 Dray, S., Dufour, A.~B., 2007. {The ade4 Package: Implementing the Duality
-  Diagram for Ecologists}. J. Stat. Softw. 22~(4), 1--20.
+  Diagram for Ecologists}. Journal of Statistical Software 22~(4), 1 -- 20.
 \newline\urlprefix\url{http://www.jstatsoft.org/}
 
 \bibitem[{Durance and Ormerod(2010)}]{Durance2010}
@@ -484,17 +501,10 @@ Gravel, D., Canham, C.~D., Beaudet, M., Messier, C., apr 2006. {Reconciling
   399--409.
 \newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/16623725}
 
-\bibitem[{Gravel et~al.(2011{\natexlab{a}})Gravel, Guichard, and
-  Hochberg}]{Gravel2011a}
-Gravel, D., Guichard, F., Hochberg, M.~E., jun 2011{\natexlab{a}}. {Species
-  coexistence in a variable world.} Ecology letters, 828--839.
-\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/21682832}
-
-\bibitem[{Gravel et~al.(2011{\natexlab{b}})Gravel, Massol, Canard, Mouillot,
-  and Mouquet}]{Gravel2011}
-Gravel, D., Massol, F., Canard, E., Mouillot, D., Mouquet, N.,
-  2011{\natexlab{b}}. {Trophic theory of island biogeography}. Ecology Letters
-  14~(10), 1010--1016.
+\bibitem[{Gravel et~al.(2011)Gravel, Massol, Canard, Mouillot, and
+  Mouquet}]{Gravel2011}
+Gravel, D., Massol, F., Canard, E., Mouillot, D., Mouquet, N., 2011. {Trophic
+  theory of island biogeography}. Ecology Letters 14~(10), 1010--1016.
 
 \bibitem[{Gravel et~al.(2013)Gravel, Poisot, Albouy, Velez, and
   Mouillot}]{Gravel2013}
@@ -562,6 +572,10 @@ Hanski, I., 2010. {The Theories of Island Biogeography and Metapopulation
 Harris, D.~J., 2015. {Estimating species interactions from observational data
   with Markov networks}. bioRix preprint.
 
+\bibitem[{Hastings and Conrad(1979)}]{hastings1979}
+Hastings, H.~M., Conrad, M., 1979. {Length and evolutionary stability of food
+  chains}.
+
 \bibitem[{Hatton et~al.(2015)Hatton, McCann, Fryxell, Davies, Smerlak,
   Sinclair, and Loreau}]{Hatton2015}
 Hatton, I.~A., McCann, K.~S., Fryxell, J.~M., Davies, T.~J., Smerlak, M.,
@@ -569,6 +583,16 @@ Hatton, I.~A., McCann, K.~S., Fryxell, J.~M., Davies, T.~J., Smerlak, M.,
   scaling across terrestrial and aquatic biomes}. Science 349~(6252),
   aac6284--aac6284.
 \newline\urlprefix\url{http://www.sciencemag.org/content/349/6252/aac6284.abstract}
+
+\bibitem[{Hawkins et~al.(2003)Hawkins, Field, Cornell, Currie, Gu{\'{e}}gan,
+  Kaufman, Kerr, Mittelbach, Oberdorff, O'Brien, Porter, and
+  Turner}]{Hawkins2003}
+Hawkins, B.~A., Field, R., Cornell, H.~V., Currie, D.~J., Gu{\'{e}}gan, J.-F.,
+  Kaufman, D.~M., Kerr, J.~T., Mittelbach, G.~G., Oberdorff, T., O'Brien,
+  E.~M., Porter, E.~E., Turner, J. R.~G., dec 2003. {Energy, water and
+  broad-scale geographic patterns of species richness}. Ecology 84~(12),
+  3105--3117.
+\newline\urlprefix\url{http://doi.wiley.com/10.1890/03-8006}
 
 \bibitem[{He and Hubbell(2011)}]{He2011}
 He, F., Hubbell, S.~P., may 2011. {Species-area relationships always
@@ -798,6 +822,11 @@ Lomolino, M.~V., Brown, J.~H., 2009. {The reticulating phylogeny of island
 Losos, J.~B., Ricklefs, R.~E. (Eds.), 2010. {The Theory of Island Biogeography
   Revisited}. Princeton University Press, Princeton, NJ.
 
+\bibitem[{MacArthur(1955)}]{MacArthur1955}
+MacArthur, R., jul 1955. {Fluctuations of Animal Populations and a Measure of
+  Community Stability}. Ecology 36~(3), 533.
+\newline\urlprefix\url{http://www.jstor.org/stable/1929601?origin=crossref}
+
 \bibitem[{MacArthur(1972)}]{macarthur1972geographical}
 MacArthur, R.~H., 1972. {Geographical Ecology: Patterns in the Distribution of
   Species}. Biology / [Princeton University Press]. Princeton University Press.
@@ -963,12 +992,6 @@ Oksanen, L., Fretwell, S.~D., Arruda, J., Niemela, P., aug 1981. {Exploitation
   118~(2), 240--261.
 \newline\urlprefix\url{http://www.journals.uchicago.edu/doi/10.1086/283817}
 
-\bibitem[{Ott et~al.(2014)Ott, Digel, Rall, Maraun, Scheu, and Brose}]{Ott2014}
-Ott, D., Digel, C., Rall, B.~C., Maraun, M., Scheu, S., Brose, U., jul 2014.
-  {Unifying elemental stoichiometry and metabolic theory in predicting species
-  abundances}. Ecology Letters, n/a--n/a.
-\newline\urlprefix\url{http://doi.wiley.com/10.1111/ele.12330}
-
 \bibitem[{Ovaskainen et~al.(2010)Ovaskainen, Hottola, and
   Shtonen}]{Ovaskainen2010}
 Ovaskainen, O., Hottola, J., Shtonen, J., 2010. {Modeling species co-occurrence
@@ -1054,6 +1077,11 @@ Pielou, D.~P., Pielou, E.~C., nov 1968. {Association among species of
   (Bulliard) Fries.} Journal of theoretical biology 21~(2), 202--16.
 \newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/5700435}
 
+\bibitem[{Pimm and Lawton(1978)}]{Pimm1978}
+Pimm, S.~L., Lawton, J.~H., oct 1978. {On feeding on more than one trophic
+  level}. Nature 275~(5680), 542--544.
+\newline\urlprefix\url{http://www.nature.com/doifinder/10.1038/275542a0}
+
 \bibitem[{Poisot et~al.(2012)Poisot, Canard, Mouillot, Mouquet, Gravel, and
   Jordan}]{Poisot2012}
 Poisot, T., Canard, E., Mouillot, D., Mouquet, N., Gravel, D., Jordan, F., dec
@@ -1085,6 +1113,13 @@ Pollock, L.~J., Tingley, R., Morris, W.~K., Golding, N., O'Hara, R.~B., Parris,
 \bibitem[{Popper(1959)}]{Popper1959}
 Popper, K.~R., sep 1959. {The logic of scientific discovery}. Hutchinson.
 \newline\urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S0016003259904077}
+
+\bibitem[{Post(2002)}]{Post2002}
+Post, D.~M., jun 2002. {The long and short of food-chain length}. Trends in
+  Ecology {\&} Evolution 17~(6), 269--277.
+\newline\urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S1097276502006573
+  http://linkinghub.elsevier.com/retrieve/pii/S0169534702024552
+  http://www.ncbi.nlm.nih.gov/pubmed/12408811}
 
 \bibitem[{Post and Palkovacs(2009)}]{Post2009}
 Post, D.~M., Palkovacs, E.~P., jun 2009. {Eco-evolutionary feedbacks in
@@ -1155,6 +1190,11 @@ Robinet, C., Suppo, C., Darrouzet, E., jul 2016. {Rapid spread of the invasive
   yellow-legged hornet in France: the role of human-mediated dispersal and the
   effects of control measures}. Journal of Applied Ecology.
 \newline\urlprefix\url{http://doi.wiley.com/10.1111/1365-2664.12724}
+
+\bibitem[{Rohde(1992)}]{Rhode1992}
+Rohde, K., dec 1992. {Latitudinal Gradients in Species Diversity: The Search
+  for the Primary Cause}. Oikos 65~(3), 514.
+\newline\urlprefix\url{http://www.jstor.org/stable/3545569?origin=crossref}
 
 \bibitem[{Rohr et~al.(2014)Rohr, Saavedra, and Bascompte}]{Rohr2014}
 Rohr, R.~P., Saavedra, S., Bascompte, J., jul 2014. {On the structural
@@ -1244,10 +1284,18 @@ Simberloff, D.~S., nov 1974. {Equilibrium Theory of Island Biogeography and
   Ecology}. Annual Review of Ecology and Systematics 5~(1), 161--182.
 \newline\urlprefix\url{http://www.annualreviews.org/doi/abs/10.1146/annurev.es.05.110174.001113}
 
-\bibitem[{Simberloff and Wilson(1969)}]{Simberloff1969}
-Simberloff, D.~S., Wilson, E.~O., mar 1969. {Experimental Zoogeography of
-  Islands: The Colonization of Empty Islands}. Ecology 50~(2), 278--296.
+\bibitem[{Simberloff and Wilson(1969{\natexlab{a}})}]{Simberloff1969}
+Simberloff, D.~S., Wilson, E.~O., mar 1969{\natexlab{a}}. {Experimental
+  Zoogeography of Islands: The Colonization of Empty Islands}. Ecology 50~(2),
+  278--296.
 \newline\urlprefix\url{http://doi.wiley.com/10.2307/1934856}
+
+\bibitem[{Simberloff and Wilson(1969{\natexlab{b}})}]{Simberloff1969b}
+Simberloff, D. S.~D., Wilson, E. O.~E., mar 1969{\natexlab{b}}. {Experimental
+  Zoogeography of Islands: The Colonization of Empty Islands}. Ecology 50~(2),
+  278.
+\newline\urlprefix\url{http://www.jstor.org/stable/10.2307/1934856
+  http://www.jstor.org/stable/1934856?origin=crossref}
 
 \bibitem[{Sinclair et~al.(2003)Sinclair, Mduma, and Brashares}]{Sinclair2003a}
 Sinclair, A. R.~E., Mduma, S., Brashares, J.~S., sep 2003. {Patterns of
@@ -1291,10 +1339,21 @@ Springer, A., Swann, D., Crimmins, M., 2015. {Climate change impacts on high
 {Stephen P. Hubbell}, 2001. {The unified neutral theory of Biodiversity and
   Biogeography}. Princeton University Press, Princeton, NJ.
 
+\bibitem[{Stevens(1989)}]{Stevens1989}
+Stevens, G.~C., feb 1989. {The Latitudinal Gradient in Geographical Range: How
+  so Many Species Coexist in the Tropics}. The American Naturalist 133~(2),
+  240--256.
+\newline\urlprefix\url{http://www.journals.uchicago.edu/doi/10.1086/284913}
+
 \bibitem[{Stone and Roberts(1990)}]{Stone1990}
 Stone, L., Roberts, A., nov 1990. {The checkerboard score and species
   distributions}. Oecologia 85~(1), 74--79.
 \newline\urlprefix\url{http://link.springer.com/10.1007/BF00317345}
+
+\bibitem[{Storch et~al.(2005)Storch, Evans, and Gaston}]{Storch2005}
+Storch, D., Evans, K.~L., Gaston, K.~J., may 2005. {The species-area-energy
+  relationship}. Ecology Letters 8~(5), 487--492.
+\newline\urlprefix\url{http://doi.wiley.com/10.1111/j.1461-0248.2005.00740.x}
 
 \bibitem[{Stouffer and Bascompte(2010)}]{Stouffer2010c}
 Stouffer, D.~B., Bascompte, J., feb 2010. {Understanding food-web persistence
@@ -1326,6 +1385,12 @@ Suttle, K.~B., Thomsen, M.~A., Power, M.~E., feb 2007. {Species interactions
 Tao, T., Vu, V., Krishnapur, M., sep 2010. {Random matrices: Universality of
   ESDs and the circular law}. The Annals of Probability 38~(5), 2023--2065.
 \newline\urlprefix\url{http://projecteuclid.org/euclid.aop/1282053780}
+
+\bibitem[{Terborgh(1971)}]{Terborgh1971}
+Terborgh, J., 1971. {Distribution on Environmental Gradients : Theory and a
+  Preliminary Interpretation of Distributional Patterns in the Avifauna of the
+  Cordillera Vilcabamba , Peru Author ( s ): John Terborgh Published by :
+  Ecological Society of America Stable URL : http://w}. Ecology 52, 23--40.
 
 \bibitem[{Terborgh et~al.(2001)Terborgh, Lopez, Nu{\~{n}}ez, Rao, Shahabuddin,
   Orihuela, Riveros, Ascanio, Adler, Lambert, and Balbas}]{Terborgh2001}
@@ -1522,6 +1587,11 @@ Wootton, J.~T., jan 1994. {Predicting Direct and Indirect Effects: An
   Integrated Approach Using Experiments and Path Analysis}. Ecology 75~(1),
   151.
 \newline\urlprefix\url{http://www.jstor.org/stable/1939391?origin=crossref}
+
+\bibitem[{Wright(1983)}]{Wright1983}
+Wright, D.~H., dec 1983. {Species-Energy Theory: An Extension of Species-Area
+  Theory}. Oikos 41~(3), 496.
+\newline\urlprefix\url{http://www.jstor.org/stable/3544109?origin=crossref}
 
 \bibitem[{Yodzis(1988)}]{Yodzis1988}
 Yodzis, P., apr 1988. {The Indeterminacy of Ecological Interactions as
