@@ -16,13 +16,13 @@ sont négligeables. Si cette hypothèse est régulièrement rejetée, alors il f
 réviser ces scénarios et soutenir le développement de méthodologies incluant
 les relations entre les espèces.
 
-Le travail de thèse présenté, je me confronte au problème de l'intégration des
-interactions et dans la répartition des espèces et de leurs effet sur ces distribution.
+Dans le travail de thèse présenté, je me confronte au problème de l'intégration des
+interactions dans la répartition des espèces et de leurs effet sur ces distribution.
 Je commence cette thèse par un travail théorique sur le sujet car les théories
 classiques en biogéographie relèguent souvent au second plan les interactions
 écologiques. Au premier chapitre, je traite de l'intégration des interactions
-écologiques dans un modèle théorique de distribution d'espèces issue d'une d
-es théories les plus importantes en biogéographie: la théorie de la
+écologiques dans un modèle théorique de distribution d'espèces issue d'une des
+théories les plus importantes en biogéographie: la théorie de la
 biogéographie des îles. Ce travail montre comment les effets conjoints
 des facteurs biotiques et abiotiques changent les attendus de la théorie classique.
 En m'appuyant sur ce premier chapitre, je montre au second chapitre
@@ -32,10 +32,11 @@ sur un même ensemble de sites dispersés sur de larges étendues spatiales.
 À l’aide d’un modèle probabiliste, j'obtiens des résultats théoriques liant les
 données de co-occurrence et l’information contenue dans les réseaux écologiques.
 Je démontre clairement que les interactions affectent les données de
-co-occurrence. Je montre également que plus le nombre d’interactions entre deux
-espèces est grand, moins ces interactions sont détectables. De même si une
+co-occurrence. Je montre également que plus le nombre d’interactions séparant deux
+espèces est grand, moins leur interactions indirect est détectable. De même si une
 espèce entretient de nombreuses interactions, il sera difficile de trouver une
-quelconque trace des interactions dans les données de co-occurrence.
+quelconque trace des interactions dans les données de co-occurrence pour cette
+espèce.
 
 Au troisième chapitre, je présente l’analyse de cinq jeux de données de
 co-occurrence pour lesquels la description des interactions était disponible.
@@ -63,6 +64,3 @@ qui offre une base solide pour une théorie métabolique de la biogéographie.
 
 > Mots clés: Biogéographie, interactions biotiques, réseaux écologiques, contraintes abiotiques, co-occurrence,
 théorie de la biogéographie des îles, théorie métabolique de l'écologie.
-
-
-My research findings bring new theoretical elements to the forefront when considering the influence of ecological interactions and how they help shape species geographical distributions, while also introducing an original methodology for studying species co-occurrence: examining them in the light of ecological networks. Before concluding, my fourth and final chapter, I propose a promising new avenue to further investigate integrating species interactions in biogeography. Here, I introduce interactions in terms of energetic constraints, which will provide a sound basis for metabolic theory of biogeography.

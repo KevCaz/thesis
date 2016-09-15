@@ -163,6 +163,7 @@
 
 
 
+
 % ----------------------------------------------------------------------%
 % 5 - Bibliographie.                                                    %
 % ----------------------------------------------------------------------%
@@ -171,9 +172,11 @@
   \makeatletter
   \phantomsection\addcontentsline{toc}{chapter}{\MakeUppercase{\@references}}
   \makeatother
+  % \selectlanguage{english}
+  % \bibdata{/Users/KevCaz/Documents/library.bib}
+  % \bibliographystyle{elsarticle-harv} % Ici éditer le style
   \selectlanguage{english}
-  \bibdata{/Users/KevCaz/Documents/library.bib}
-  \bibliographystyle{elsarticle-harv} % Ici éditer le style
+  \bibliographystyle{apalike}
   \bibliography{/Users/KevCaz/Documents/library.bib} % Ici mettre le nom de la biblio, ici mylib.bib
 \end{singlespace}
 
