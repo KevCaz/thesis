@@ -59,37 +59,37 @@
 \BOOKMARK [0][-]{chapter.3}{ \040Do interacting species co-occur differently from not-interacting species?}{}% 59
 \BOOKMARK [1][-]{section.3.1}{R\351sum\351 en fran\347ais du troisi\350me article}{chapter.3}% 60
 \BOOKMARK [2][-]{subsection.3.1.1}{Publication envisag\351e}{section.3.1}% 61
-\BOOKMARK [1][-]{section.3.2}{Context}{chapter.3}% 62
-\BOOKMARK [1][-]{section.3.3}{Material and Methods}{chapter.3}% 63
-\BOOKMARK [2][-]{subsection.3.3.1}{Datasets}{section.3.3}% 64
-\BOOKMARK [2][-]{subsection.3.3.2}{Quantifying co-occurrence}{section.3.3}% 65
-\BOOKMARK [1][-]{section.3.4}{Results}{chapter.3}% 66
-\BOOKMARK [2][-]{subsection.3.4.1}{Discussion}{section.3.4}% 67
-\BOOKMARK [2][-]{subsection.3.4.2}{Box 1}{section.3.4}% 68
-\BOOKMARK [2][-]{subsection.3.4.3}{Tables}{section.3.4}% 69
-\BOOKMARK [1][-]{section.3.5}{Figures}{chapter.3}% 70
-\BOOKMARK [1][-]{section.3.6}{Material and methods}{chapter.3}% 71
-\BOOKMARK [2][-]{subsection.3.6.1}{Datasets}{section.3.6}% 72
-\BOOKMARK [2][-]{subsection.3.6.2}{Building metawebs}{section.3.6}% 73
-\BOOKMARK [2][-]{subsection.3.6.3}{Co-occurrence measurement}{section.3.6}% 74
-\BOOKMARK [2][-]{subsection.3.6.4}{Hypergeometric distribution}{section.3.6}% 75
-\BOOKMARK [2][-]{subsection.3.6.5}{GLM and RF}{section.3.6}% 76
-\BOOKMARK [1][-]{section.3.7}{Supporting Tables}{chapter.3}% 77
-\BOOKMARK [1][-]{section.3.8}{Supporting Figures}{chapter.3}% 78
-\BOOKMARK [0][-]{chapter.4}{ \040Towards a metabolic theory of biogeography}{}% 79
-\BOOKMARK [1][-]{subsection.4.0.1}{R\351sum\351 en fran\347ais du troisi\350me article}{chapter.4}% 80
-\BOOKMARK [2][-]{subsection.4.0.2}{Publication envisag\351e}{subsection.4.0.1}% 81
-\BOOKMARK [1][-]{section.4.1}{Introduction}{chapter.4}% 82
-\BOOKMARK [1][-]{section.4.2}{Model}{chapter.4}% 83
-\BOOKMARK [2][-]{subsection.4.2.1}{Primary producers and habitat heterogeneity}{section.4.2}% 84
-\BOOKMARK [2][-]{subsection.4.2.2}{Metawebs}{section.4.2}% 85
-\BOOKMARK [2][-]{subsection.4.2.3}{Migration of species from the metaweb}{section.4.2}% 86
-\BOOKMARK [2][-]{subsection.4.2.4}{Energetic constraints on local food webs}{section.4.2}% 87
-\BOOKMARK [2][-]{subsection.4.2.5}{Energy fluxes and transfer efficiency}{section.4.2}% 88
-\BOOKMARK [2][-]{subsection.4.2.6}{Extinctions}{section.4.2}% 89
-\BOOKMARK [2][-]{subsection.4.2.7}{Simulations}{section.4.2}% 90
-\BOOKMARK [1][-]{section.4.3}{Results and Discussions}{chapter.4}% 91
-\BOOKMARK [2][-]{subsection.4.3.1}{SER and Ecological Limit Hypothesis}{section.4.3}% 92
+\BOOKMARK [1][-]{section.3.2}{Title}{chapter.3}% 62
+\BOOKMARK [1][-]{section.3.3}{Abstract}{chapter.3}% 63
+\BOOKMARK [1][-]{section.3.4}{Introduction}{chapter.3}% 64
+\BOOKMARK [1][-]{section.3.5}{Material and Methods}{chapter.3}% 65
+\BOOKMARK [2][-]{subsection.3.5.1}{Datasets}{section.3.5}% 66
+\BOOKMARK [2][-]{subsection.3.5.2}{Quantifying co-occurrence}{section.3.5}% 67
+\BOOKMARK [1][-]{section.3.6}{Results}{chapter.3}% 68
+\BOOKMARK [2][-]{subsection.3.6.1}{Discussion}{section.3.6}% 69
+\BOOKMARK [2][-]{subsection.3.6.2}{Box 1}{section.3.6}% 70
+\BOOKMARK [2][-]{subsection.3.6.3}{Tables}{section.3.6}% 71
+\BOOKMARK [1][-]{section.3.7}{Figures}{chapter.3}% 72
+\BOOKMARK [1][-]{section.3.8}{Supporting Information}{chapter.3}% 73
+\BOOKMARK [2][-]{subsection.3.8.1}{Material and methods}{section.3.8}% 74
+\BOOKMARK [2][-]{subsection.3.8.2}{Co-occurrence measurement}{section.3.8}% 75
+\BOOKMARK [2][-]{subsection.3.8.3}{Hypergeometric distribution}{section.3.8}% 76
+\BOOKMARK [2][-]{subsection.3.8.4}{GLM and RF}{section.3.8}% 77
+\BOOKMARK [2][-]{subsection.3.8.5}{Supporting Tables}{section.3.8}% 78
+\BOOKMARK [1][-]{section.3.9}{Supporting Figures}{chapter.3}% 79
+\BOOKMARK [0][-]{chapter.4}{ \040Towards a metabolic theory of biogeography}{}% 80
+\BOOKMARK [1][-]{subsection.4.0.1}{R\351sum\351 en fran\347ais du troisi\350me article}{chapter.4}% 81
+\BOOKMARK [2][-]{subsection.4.0.2}{Publication envisag\351e}{subsection.4.0.1}% 82
+\BOOKMARK [1][-]{section.4.1}{Introduction}{chapter.4}% 83
+\BOOKMARK [1][-]{section.4.2}{Model}{chapter.4}% 84
+\BOOKMARK [2][-]{subsection.4.2.1}{Primary producers and habitat heterogeneity}{section.4.2}% 85
+\BOOKMARK [2][-]{subsection.4.2.2}{Metawebs}{section.4.2}% 86
+\BOOKMARK [2][-]{subsection.4.2.3}{Migration of species from the metaweb}{section.4.2}% 87
+\BOOKMARK [2][-]{subsection.4.2.4}{Energetic constraints on local food webs}{section.4.2}% 88
+\BOOKMARK [2][-]{subsection.4.2.5}{Energy fluxes and transfer efficiency}{section.4.2}% 89
+\BOOKMARK [2][-]{subsection.4.2.6}{Extinctions}{section.4.2}% 90
+\BOOKMARK [2][-]{subsection.4.2.7}{Simulations}{section.4.2}% 91
+\BOOKMARK [1][-]{section.4.3}{Results and Discussions}{chapter.4}% 92
 \BOOKMARK [0][-]{section*.70}{Conclusion g\351n\351rale}{}% 93
 \BOOKMARK [1][-]{section*.71}{Interactions \351cologiques et distribution des esp\350ces}{section*.70}% 94
 \BOOKMARK [2][-]{section*.72}{Des mod\350les th\351oriques \340 d\351velopper}{section*.71}% 95

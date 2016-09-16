@@ -15,7 +15,7 @@ Allesina, S. and Tang, S. (2012).
 \bibitem[Anderson, 1972]{Anderson1972}
 Anderson, P.~W. (1972).
 \newblock {More is different.}
-\newblock {\em Science (New York, N.Y.)}, 177(4047):393--396.
+\newblock {\em Science}, 177(4047):393--396.
 
 \bibitem[{Arabidopsis Genome Initiative},
   2000]{TheArabidopsisGenomeInitiative2000}
@@ -45,6 +45,13 @@ Ara{\'{u}}jo, M.~B., Rozenfeld, A., Rahbek, C., and Marquet, P.~A. (2011).
 \newblock {Using species co-occurrence networks to assess the impacts of
   climate change}.
 \newblock {\em Ecography}, 34(6):897--908.
+
+\bibitem[Baiser et~al., 2012]{Baiser2012}
+Baiser, B., Gotelli, N.~J., Buckley, H.~L., Miller, T.~E., and Ellison, A.~M.
+  (2012).
+\newblock {Geographic variation in network structure of a nearctic aquatic food
+  web}.
+\newblock {\em Global Ecology and Biogeography}, 21(5):579--591.
 
 \bibitem[Balany{\'{a}} et~al., 2006]{Balanya2006}
 Balany{\'{a}}, J., Oller, J.~M., Huey, R.~B., Gilchrist, G.~W., and Serra, L.
@@ -187,6 +194,11 @@ Chamberlain, S.~A., Bronstein, J.~L., and Rudgers, J.~A. (2014).
 \newblock {How context dependent are species interactions?}
 \newblock {\em Ecology Letters}, 17(7):881--890.
 
+\bibitem[Chamberlain and Sz{\"{o}}cs, 2013]{Chamberlain2013}
+Chamberlain, S.~a. and Sz{\"{o}}cs, E. (2013).
+\newblock {taxize: taxonomic search and retrieval in R}.
+\newblock {\em F1000Research}, 2(0):191.
+
 \bibitem[Chase and Leibold, 2003]{Chase2003}
 Chase, J.~M. and Leibold, M.~A. (2003).
 \newblock {\em {Ecological niches : linking classical and contemporary
@@ -248,16 +260,10 @@ Costantino, R., Desharnais, R., Cushing, J., and Dennis, B. (1997).
 Coyne, J.~A. and Orr, H.~A. (2004).
 \newblock {\em {Speciation}}.
 
-\bibitem[Damuth, 1981]{Damuth1981}
-Damuth, J. (1981).
-\newblock {Population density and body size in mammals}.
-\newblock {\em Nature}, 290(5808):699--700.
-
-\bibitem[Damuth, 2007]{Damuth2007}
-Damuth, J. (2007).
-\newblock {A macroevolutionary explanation for energy equivalence in the
-  scaling of body size and population density.}
-\newblock {\em The American naturalist}, 169(5):621--631.
+\bibitem[Cs{\'{a}}rdi and Nepusz, 2006]{Csardi2006}
+Cs{\'{a}}rdi, G. and Nepusz, T. (2006).
+\newblock {The igraph software package for complex network research}.
+\newblock {\em InterJournal Complex Systems}, 1695:1695.
 
 \bibitem[Davis et~al., 1998]{Davis1998}
 Davis, A.~J., Jenkinson, L.~S., Lawton, J.~H., Shorrocks, B., and Wood, S.
@@ -527,15 +533,16 @@ Hanski, I. (2010).
 \newblock In {\em The Theory of Island Biogeography Revisited}, page 476.
   Princeton University Press, Princeton, NJ.
 
+\bibitem[{Harrell Jr} et~al., 2016]{HarrellJr2016}
+{Harrell Jr}, F.~E., {with contributions from Charles Dupont}, and others., M.
+  (2016).
+\newblock {\em {Hmisc: Harrell Miscellaneous}}.
+
 \bibitem[Harris, 2015]{Harris2015}
 Harris, D.~J. (2015).
 \newblock {Estimating species interactions from observational data with Markov
   networks}.
 \newblock {\em bioRix preprint}.
-
-\bibitem[Hastings and Conrad, 1979]{hastings1979}
-Hastings, H.~M. and Conrad, M. (1979).
-\newblock {Length and evolutionary stability of food chains}.
 
 \bibitem[Hatton et~al., 2015]{Hatton2015}
 Hatton, I.~A., McCann, K.~S., Fryxell, J.~M., Davies, T.~J., Smerlak, M.,
@@ -624,12 +631,6 @@ Hubbell, S.~P. (2010).
 \newblock In Losos, J.~B. and Ricklefs, R.~E., editors, {\em The Theory of
   Island Biogeography Revisited}, page 479. Princeton University Press,
   Princeton, NJ.
-
-\bibitem[Hurlbert and Stegen, 2014]{Hurlbert2014}
-Hurlbert, A.~H. and Stegen, J.~C. (2014).
-\newblock {When should species richness be energy limited, and how would we
-  know?}
-\newblock {\em Ecology Letters}, 17:401--413.
 
 \bibitem[Hutchinson, 1957]{Hutchinson1957}
 Hutchinson, G.~E. (1957).
@@ -760,6 +761,11 @@ Levins, R. and Heatwole, H. (1963).
 \newblock {On the distribution of organisms on islands}.
 \newblock {\em Caribbean Journal of Science}, 3:173--177.
 
+\bibitem[Liaw and Wiener, 2002]{Liaw2002}
+Liaw, A. and Wiener, M. (2002).
+\newblock {Classification and Regression by randomForest}.
+\newblock {\em R News}, 2(3):18--22.
+
 \bibitem[Lomolino, 2000a]{Lomolino2000a}
 Lomolino, M. (2000a).
 \newblock {Ecology's most general, yet protean pattern : the species area
@@ -780,12 +786,6 @@ Lomolino, M.~V. and Brown, J.~H. (2009).
 Losos, J.~B. and Ricklefs, R.~E., editors (2010).
 \newblock {\em {The Theory of Island Biogeography Revisited}}.
 \newblock Princeton University Press, Princeton, NJ.
-
-\bibitem[MacArthur, 1955]{MacArthur1955}
-MacArthur, R. (1955).
-\newblock {Fluctuations of Animal Populations and a Measure of Community
-  Stability}.
-\newblock {\em Ecology}, 36(3):533.
 
 \bibitem[MacArthur, 1972]{macarthur1972geographical}
 MacArthur, R.~H. (1972).
@@ -1008,22 +1008,11 @@ Phillips, S.~J., Anderson, R.~P., and Schapire, R.~E. (2006).
 \newblock {Maximum entropy modeling of species geographic distributions}.
 \newblock {\em Ecological Modelling}, 190(3-4):231--259.
 
-\bibitem[Piechnik et~al., 2008]{Piechnik2008}
-Piechnik, D.~A., Lawler, S.~P., and Martinez, N.~D. (2008).
-\newblock {Food-web assembly during a classic biogeographic study: species'
-  "trophic breadth" corresponds to colonization order}.
-\newblock {\em Oikos}, 117(5):080211051304426--0.
-
 \bibitem[Pielou and Pielou, 1968]{Pielou1968}
 Pielou, D.~P. and Pielou, E.~C. (1968).
 \newblock {Association among species of infrequent occurrence: the insect and
   spider fauna of Polyporus betulinus (Bulliard) Fries.}
 \newblock {\em Journal of theoretical biology}, 21(2):202--16.
-
-\bibitem[Pimm and Lawton, 1978]{Pimm1978}
-Pimm, S.~L. and Lawton, J.~H. (1978).
-\newblock {On feeding on more than one trophic level}.
-\newblock {\em Nature}, 275(5680):542--544.
 
 \bibitem[Poisot et~al., 2012]{Poisot2012}
 Poisot, T., Canard, E., Mouillot, D., Mouquet, N., Gravel, D., and Jordan, F.
@@ -1055,11 +1044,6 @@ Pollock, L.~J., Tingley, R., Morris, W.~K., Golding, N., O'Hara, R.~B., Parris,
 Popper, K.~R. (1959).
 \newblock {\em {The logic of scientific discovery}}.
 \newblock Hutchinson.
-
-\bibitem[Post, 2002]{Post2002}
-Post, D.~M. (2002).
-\newblock {The long and short of food-chain length}.
-\newblock {\em Trends in Ecology {\&} Evolution}, 17(6):269--277.
 
 \bibitem[Post and Palkovacs, 2009]{Post2009}
 Post, D.~M. and Palkovacs, E.~P. (2009).
@@ -1222,17 +1206,11 @@ Simberloff, D.~S. (1974).
 \newblock {Equilibrium Theory of Island Biogeography and Ecology}.
 \newblock {\em Annual Review of Ecology and Systematics}, 5(1):161--182.
 
-\bibitem[Simberloff and Wilson, 1969a]{Simberloff1969}
-Simberloff, D.~S. and Wilson, E.~O. (1969a).
+\bibitem[Simberloff and Wilson, 1969]{Simberloff1969}
+Simberloff, D.~S. and Wilson, E.~O. (1969).
 \newblock {Experimental Zoogeography of Islands: The Colonization of Empty
   Islands}.
 \newblock {\em Ecology}, 50(2):278--296.
-
-\bibitem[Simberloff and Wilson, 1969b]{Simberloff1969b}
-Simberloff, D. S.~D. and Wilson, E. O.~E. (1969b).
-\newblock {Experimental Zoogeography of Islands: The Colonization of Empty
-  Islands}.
-\newblock {\em Ecology}, 50(2):278.
 
 \bibitem[Sinclair et~al., 2003]{Sinclair2003a}
 Sinclair, A. R.~E., Mduma, S., and Brashares, J.~S. (2003).
@@ -1316,14 +1294,6 @@ Suttle, K.~B., Thomsen, M.~A., and Power, M.~E. (2007).
 Tao, T., Vu, V., and Krishnapur, M. (2010).
 \newblock {Random matrices: Universality of ESDs and the circular law}.
 \newblock {\em The Annals of Probability}, 38(5):2023--2065.
-
-\bibitem[Terborgh, 1971]{Terborgh1971}
-Terborgh, J. (1971).
-\newblock {Distribution on Environmental Gradients : Theory and a Preliminary
-  Interpretation of Distributional Patterns in the Avifauna of the Cordillera
-  Vilcabamba , Peru Author ( s ): John Terborgh Published by : Ecological
-  Society of America Stable URL : http://w}.
-\newblock {\em Ecology}, 52:23--40.
 
 \bibitem[Terborgh et~al., 2001]{Terborgh2001}
 Terborgh, J., Lopez, L., Nu{\~{n}}ez, P., Rao, M., Shahabuddin, G., Orihuela,

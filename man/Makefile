@@ -22,8 +22,8 @@ CHP2 = chapitre2/chap2.tex
 ##-- CHAP3
 MD3 = /Users/KevCaz/ownCloud/Dom_cooc_inter/ms/ms_cooc.md
 MD3SI = /Users/KevCaz/ownCloud/Dom_cooc_inter/ms/SI_cooc.md
+MDMAIN = chapitre3/main.md
 CHP3MN = chapitre3/main.tex
-CHP3SI = chapitre3/supinf.tex
 CHP3HE = chapitre3/head.tex
 CHP3 = chapitre3/chap3.tex
 ##-- CHAP4
@@ -44,7 +44,7 @@ CSL = elsevier-harvard.csl
 PFLAGS = --filter pandoc-fignos --filter pandoc-tablenos --filter pandoc-eqnos --natbib --bibliography=$(REF) --csl=$(CSL) --latex-engine=pdflatex
 
 
-ALL: $(MCI) $(PDF) $(PDFC) $(THES) $(CHP3) $(CHP4) $(DOCX) $(CCL) $(APT) $(ABFT) $(ABET) 
+ALL: $(MCI) $(PDF) $(PDFC) $(THES) $(CHP3) $(CHP4) $(DOCX) $(CCL) $(APT) $(ABFT) $(ABET)
 
 $(THES): $(SRC) $(INTR) $(CHP1) $(CHP2) $(CHP3) $(CHP4) $(CCL) $(MCI) $(APT) $(ABFT) $(ABET) $(ANN1) $(ANN2) $(ANN3) $(DOCX)
 	pdflatex $(SRC)
@@ -66,17 +66,16 @@ $(INTR): $(MD)
 $(CCL): $(MDC)
 	pandoc $< -o $@ $(PFLAGS)
 
-$(CHP3): $(CHP3MN) $(CHP3SI) $(CHP3HE)
-	cat  $(CHP3HE) $(CHP3MN) $(CHP3SI) > $@
+$(CHP3): $(CHP3MN)  $(CHP3HE)
+	cat  $(CHP3HE) $(CHP3MN) > $@
 	sed -i -e 's/..\/fig/chapitre3/g' chapitre3/chap3.tex
 	cp ~/ownCloud/Dom_cooc_inter/fig/fig* chapitre3/
 
-
-$(CHP3MN): $(MD3)
+$(CHP3MN): $(MDMAIN)
 	pandoc $< -o $@ $(PFLAGS)
 
-$(CHP3SI): $(MD3SI)
-	pandoc $< -o $@ $(PFLAGS)
+$(MDMAIN): $(MD3) $(MD3SI)
+	cat $(MD3) $(MD3SI) > $@
 
 
 $(CHP4): $(CHP4MN) $(CHP4HE) $(MD4)

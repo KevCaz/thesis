@@ -1,28 +1,34 @@
-\section{Material and methods}\label{material-and-methods}
+\section{Supporting Information}\label{supporting-information}
+
+\label{chap3si}
+
+\subsection{Material and methods}\label{material-and-methods}
 
 In this section, we present in more details, the datasets and the
 methodology we used. All analyses have been performed using R
-environment software (table S1 includes functions and packages we used).
+environment software (Table \citet{tbl:rpkges} includes functions and
+packages we used).
 
-\subsection{Datasets}\label{datasets}
+\subsubsection{Datasets}\label{datasets}
 
 Sites for the five datasets are reported on five maps gathered in Fig
 S1. The total number of species, the number of species present in at
 least 1\% of the total number of site and the number of species for
-which traits information were available are reported in table S2.
+which traits information were available are reported in Table
+\citet{tbl:numsp}.
 
 \paragraph{Traits-based distance}\label{traits-based-distance}
 
 We used a distance built upon nine functional traits whose values were
-retrieved from \citep{Paquette2011}, see \textbf{Supplementary Table 3}
-available at
+retrieved from \citep{Paquette2011}, see Supplementary Table
+\citet{tbl:trees} available at
 \url{http://onlinelibrary.wiley.com/doi/10.1111/j.1466-8238.2010.00592.x/suppinfo}.
 Each of the nine selected variables were centered and scaled (R
-functions used reported in table S1) then used as is to derive Euclidean
-distances for all pairs of species. Then, we use agglomeration
-clustering with Ward's method (implemented in the \emph{hclust()}
-function we used, see Table S1) to obtain the dendrogram presented in
-\ref{fig:dendro}.
+functions used reported in Table \citet{tbl:rpkges}) then used as is to
+derive Euclidean distances for all pairs of species. Then, we use
+agglomeration clustering with Ward's method (implemented in the
+\emph{hclust()} function we used, see Table \citet{tbl:rpkges}) to
+obtain the dendrogram presented in \ref{fig:dendro}.
 
 \subsubsection{French Breeding Birds Survey
 datasets}\label{french-breeding-birds-survey-datasets}
@@ -37,21 +43,22 @@ to derive Euclidean distances for all pairs of species.
 For four datasets, we built network based on all observed interactions
 and derived associated quantities, \emph{i.e.} the connectance of the
 metawebs, the degrees of species and the shortest-path, using the R
-package ``igraph'' (table S1).
+package \emph{igraph} (Table \citet{tbl:rpkges}).
 
 \subsection{Co-occurrence measurement}\label{co-occurrence-measurement}
 
-For a given pair of species \(i\) and \(j\), we examined the
-relationship between the observed co-occurrence \(O_{i,j}\) and the
-expected co-occurrence \(E_{i,j}\). Here, we provide more information
-about the three methods wed used to analyse co-occurrence.
+As mentioned in the main text, for three different scenarios, we derive
+a standardized co-occurrence : for a given pair of species \(i\) and
+\(j\), we examined \(\frac{O_{i,j}-E_{i,j}}{SD_{i,j}}\). Here, we
+provide more information about the three methods wed used to analyze
+co-occurrence.
 
 \subsection{Hypergeometric
 distribution}\label{hypergeometric-distribution}
 
 This distribution has been mentioned in a different context
 \citep[see][]{Gilpin1982} and have been fully exploited in
-\citet{Veech_2013} despite the author never mentioned it is a classical
+\citet{Veech2013} despite the author never mentioned it is a classical
 distribution. To clarify this, we start from the distribution written in
 equation (1) in \citet{Veech2013}. We consider the co-occurrence of two
 species on \(n\) sites. Species 1 is present in \(n_1\) while species 2
@@ -81,15 +88,16 @@ identical for all species.
 \subsection{GLM and RF}\label{glm-and-rf}
 
 For GLM and RF, \(E_{i,j}\) correspond to probabilities of occurrence
-computed based on climatic data. R functions are reported in Table S1.
+computed based on climatic data. R functions are reported in Table
+\citet{tbl:rpkges}.
 
 \subsubsection{Climatic data}\label{climatic-data}
 
 We used the global climate layers provided data WolrdClim, version 1.4,
-available at \url{http://www.worldclim.org} \citep{Hijmans2005}. For
-each dataset, we performed a principal component analysis and keep as
-many axes as needed to explain 90\% of the total inertia. We used these
-axis in GLM and RF.
+available online at \url{http://www.worldclim.org} \citep{Hijmans2005}.
+For each dataset, we performed a principal component analysis and keep
+as many axes as needed to explain 90\% of the total inertia. We used
+these axis in GLM and RF.
 
 \subsubsection{Generalized Linear Model}\label{generalized-linear-model}
 
@@ -99,7 +107,7 @@ of degree 2. To constraints the number of parameters, we did not
 evaluate the interactions among axis. We also performed a selection
 model based on the Akaike's information criterion (AIC) C in a Stepwise
 Algorithm. R functions used to carry out the analyses are indexed in
-table SX.
+table S .
 
 \subsubsection{Random Forests}\label{random-forests}
 
@@ -117,7 +125,7 @@ using the Area Under the Receiver Operating Characteristic (AUROC)
 frequencies corresponding to the score for all species for each of the
 four ecological systems we studied (see Fig \citet{fig:idauc}).
 
-\section{Supporting Tables}\label{supporting-tables}
+\subsection{Supporting Tables}\label{supporting-tables}
 
 \subsubsection{R packages used}\label{r-packages-used}
 
@@ -136,13 +144,15 @@ PCA & dudi.pca & ade4 & 1.7.4 & \citet{Dray2007}\tabularnewline
 GLM & glm & stats & 3.3.1 & \citet{Rcoreteam2015}\tabularnewline
 GLM Selection & step & stats & 3.3.1 &
 \citet{Rcoreteam2015}\tabularnewline
+Random Forests & randomForest & randomForest & 4.6.12 &
+\citet{Liaw2002}\tabularnewline
 Degree of species & degree & igraph & 1.0.1 &
 \citet{Csardi2006}\tabularnewline
 Shortest Paths & shortest.paths & igraph & 1.0.1 &
 \citet{Csardi2006}\tabularnewline
 AUROC & somers2 & Hmisc & 3.17.2 & \citet{Harrell2016}\tabularnewline
-TSN retrieving & get\_tsn & taxize & 0.7.4 & \citet{hamberlain2013},
-\citet{Chamberlain2016}\tabularnewline
+TSN retrieving & get\_tsn & taxize & 0.7.4 &
+\citet{Chamberlain2013},\tabularnewline
 Wilcoxon tests & wilcox.test & stats & 3.3.1 &
 \citet{Rcoreteam2015}\tabularnewline
 \bottomrule
@@ -150,7 +160,7 @@ Wilcoxon tests & wilcox.test & stats & 3.3.1 &
 
 \textbf{Supplementary Table 1}: R and packages used for the analyses.
 GLM: Generalized Linear Model, PCA: Principal Component Analysis. AUROC:
-Area Under the Receiver Operating Characteristic.\{\#tbl:code\}
+Area Under the Receiver Operating Characteristic. \{\#tbl:rpkges\}
 
 \begin{longtable}[]{@{}lrrr@{}}
 \toprule
@@ -165,11 +175,12 @@ French Breeding Birds Survey & 340 & 179 & 321\tabularnewline
 \bottomrule
 \end{longtable}
 
-\textbf{Supplementary Table 2}: For each datasets the total number of
-species (column \emph{Total}), the number of species present in more
-that 1\% of the total number of sites (column \emph{Selected}), andthe
-number of species for which traits information are available (column
-\emph{Traits}). The symbol `-' means `not relevant'. \{\#tbl:numsp\}
+\textbf{Supplementary Table 2}: For each datasets we provide the total
+number of species (column \emph{Total}), the number of species present
+in more that 1\% of the total number of sites (column \emph{Selected}),
+and the number of species for which traits information are available
+(column \emph{Traits}). The symbol `-' means `not relevant'.
+\{\#tbl:numsp\}
 
 \begin{longtable}[]{@{}lrrrrrrrrrr@{}}
 \toprule
@@ -245,11 +256,11 @@ Ulmus rubra & 19050 & 25 & 3 & 0.48 & 3.3 & 3.0 & 1 & 0 & 59.88 &
 \textbf{Supplementary Table 3}: Tree species and traits used.
 Abbreviations are as follows: TSN - Taxonomic Serial Number defined by
 Integrated Taxonomic Information System (ITIS), maxH - Average maximum
-height, GR - Growth rate, WD - Wood Density, TolS - Shade tolerance,
-TolD - Drought tolerance, AM - Arbuscular mycorrhiza (Endomycorrhiza),
-EM - Ectomycorrhiza, LMA - Leaf mass per area, Nmass - Nitrogen content
-per leaf mass unit\citep{Paquette2011} available at:
-\url{http://onlinelibrary.wiley.com/doi/10.1111/j.1466-8238.2010.00592.x/suppinfo}.\{\#tbl:trees\}
+height, GR - Growth rate, WD - Wood Density,\\
+TolS - Shade tolerance, TolD - Drought tolerance, AM - Arbuscular
+mycorrhiza (Endomycorrhiza), EM - Ectomycorrhiza, LMA - Leaf mass per
+area, Nmass - Nitrogen content per leaf mass
+unit\citep{Paquette2011}.\{\#tbl:trees\}
 
 \begin{longtable}[]{@{}lr@{}}
 \toprule
@@ -467,7 +478,3 @@ of willow it interacts with (triangles) to AUC obtained for GLM (A) and
 RF (B). Positive values indicated that species based model outperformed
 the SDM model.\label{fig:ratauc}}
 \end{figure}
-
-\newpage
-
-\newpage

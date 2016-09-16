@@ -3,13 +3,13 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: thesekc.aux
 A level-1 auxiliary file: liminaires.aux
 The style file: apalike.bst
-Reallocated field_info (elt_size=4) to 10720 items from 5000.
+Reallocated field_info (elt_size=4) to 10390 items from 5000.
 Database file #1: /Users/KevCaz/Documents/library.bib.bib
-Repeated entry---line 5872 of file /Users/KevCaz/Documents/library.bib.bib
+Repeated entry---line 5877 of file /Users/KevCaz/Documents/library.bib.bib
  : @article{Dray2007
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 10582 of file /Users/KevCaz/Documents/library.bib.bib
+Repeated entry---line 10612 of file /Users/KevCaz/Documents/library.bib.bib
  : @article{Gotelli2000
  :                     ,
 I'm skipping whatever remains of this entry
@@ -25,92 +25,86 @@ Reallocated ex_buf (elt_size=1) to 60000 items from 40000.
 Reallocated out_buf (elt_size=1) to 60000 items from 40000.
 Reallocated name_tok (elt_size=4) to 60000 items from 40000.
 Reallocated name_sep_char (elt_size=1) to 60000 items from 40000.
-Repeated entry---line 15964 of file /Users/KevCaz/Documents/library.bib.bib
+Repeated entry---line 16027 of file /Users/KevCaz/Documents/library.bib.bib
  : @article{Bellard2012
  :                     ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 16043 of file /Users/KevCaz/Documents/library.bib.bib
+Repeated entry---line 16106 of file /Users/KevCaz/Documents/library.bib.bib
  : @article{Leibold2004
  :                     ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 16349 of file /Users/KevCaz/Documents/library.bib.bib
+Repeated entry---line 16412 of file /Users/KevCaz/Documents/library.bib.bib
  : @article{Ricklefs1987
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 16466 of file /Users/KevCaz/Documents/library.bib.bib
+Repeated entry---line 16529 of file /Users/KevCaz/Documents/library.bib.bib
  : @article{Koh2004
  :                 ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 16497 of file /Users/KevCaz/Documents/library.bib.bib
+Repeated entry---line 16560 of file /Users/KevCaz/Documents/library.bib.bib
  : @book{Holyoak2005
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 16534 of file /Users/KevCaz/Documents/library.bib.bib
+Repeated entry---line 16567 of file /Users/KevCaz/Documents/library.bib.bib
+ : @article{Baiser2012
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 16597 of file /Users/KevCaz/Documents/library.bib.bib
  : @article{Suttle2007
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 16722 of file /Users/KevCaz/Documents/library.bib.bib
+Repeated entry---line 16785 of file /Users/KevCaz/Documents/library.bib.bib
  : @article{Davis1998
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 17213 of file /Users/KevCaz/Documents/library.bib.bib
+Repeated entry---line 17276 of file /Users/KevCaz/Documents/library.bib.bib
  : @article{Brooks2014
  :                    ,
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "tbl:id"
-Warning--I didn't find a database entry for "Baiser_2011"
-Warning--I didn't find a database entry for "Veech_2013"
-Warning--I didn't find a database entry for "fig:idauc"
-Warning--I didn't find a database entry for "Csardi2006"
-Warning--I didn't find a database entry for "Harrell2016"
-Warning--I didn't find a database entry for "hamberlain2013"
-Warning--I didn't find a database entry for "Chamberlain2016"
 Warning--I didn't find a database entry for "Shenbrot2007t"
 Warning--I didn't find a database entry for "William2000"
-Warning--I didn't find a database entry for "fig:etib1"
-Warning--I didn't find a database entry for "Wright2983"
 Warning--empty journal in Cazelles2015a
 Warning--there's a number but no volume in Cazelles2015a
 Warning--empty publisher in Coyne2004
-You've used 248 entries,
+You've used 243 entries,
             1935 wiz_defined-function locations,
-            2052 strings with 55111 characters,
-and the built_in function-call counts, 116479 in all, are:
-= -- 11141
-> -- 6304
-< -- 131
-+ -- 2250
-- -- 2244
-* -- 11176
-:= -- 20420
-add.period$ -- 749
-call.type$ -- 248
-change.case$ -- 2341
-chr.to.int$ -- 242
-cite$ -- 251
-duplicate$ -- 3526
-empty$ -- 7291
-format.name$ -- 2606
-if$ -- 22029
-int.to.chr$ -- 7
+            2011 strings with 54278 characters,
+and the built_in function-call counts, 114693 in all, are:
+= -- 10946
+> -- 6284
+< -- 125
++ -- 2245
+- -- 2240
+* -- 11029
+:= -- 20119
+add.period$ -- 734
+call.type$ -- 243
+change.case$ -- 2313
+chr.to.int$ -- 238
+cite$ -- 246
+duplicate$ -- 3459
+empty$ -- 7138
+format.name$ -- 2595
+if$ -- 21674
+int.to.chr$ -- 6
 int.to.str$ -- 0
-missing$ -- 260
-newline$ -- 1238
-num.names$ -- 753
-pop$ -- 1845
+missing$ -- 255
+newline$ -- 1213
+num.names$ -- 738
+pop$ -- 1836
 preamble$ -- 1
-purify$ -- 2358
+purify$ -- 2331
 quote$ -- 0
-skip$ -- 2630
+skip$ -- 2577
 stack$ -- 0
-substring$ -- 8522
-swap$ -- 297
+substring$ -- 8310
+swap$ -- 294
 text.length$ -- 11
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1454
+type$ -- 1424
 warning$ -- 3
-while$ -- 935
+while$ -- 915
 width$ -- 0
-write$ -- 3216
-(There were 10 error messages)
+write$ -- 3151
+(There were 11 error messages)
