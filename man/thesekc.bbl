@@ -842,7 +842,7 @@ May, R.~M. (1973).
 \bibitem[May, 2004]{May2004}
 May, R.~M. (2004).
 \newblock {Uses and abuses of mathematics in biology.}
-\newblock {\em Science (New York, N.Y.)}, 303(5659):790--3.
+\newblock {\em Science}, 303(5659):790--3.
 
 \bibitem[McCann, 2000]{McCann2000}
 McCann, K.~S. (2000).
@@ -916,7 +916,7 @@ Mouquet, N., Lagadeuc, Y., Devictor, V., Doyen, L., Duputi{\'{e}}, A.,
   Jarne, P., Joly, D., Julliard, R., K{\'{e}}fi, S., Kergoat, G.~J., Lavorel,
   S., {Le Gall}, L., Meslin, L., Morand, S., Morin, X., Morlon, H., Pinay, G.,
   Pradel, R., Schurr, F.~M., Thuiller, W., and Loreau, M. (2015).
-\newblock {REVIEW: Predictive ecology in a changing world}.
+\newblock {Predictive ecology in a changing world}.
 \newblock {\em Journal of Applied Ecology}, 52(5):1293--1310.
 
 \bibitem[Myers et~al., 2007]{Myers2007}
@@ -1076,7 +1076,7 @@ Pulliam, H.~R. (2000).
 Rabosky, D.~L. and Hurlbert, A.~H. (2015).
 \newblock {Species Richness at Continental Scales Is Dominated by Ecological
   Limits*}.
-\newblock {\em The American Naturalist}, 185(5):000--000.
+\newblock {\em The American Naturalist}, 185(5):572--583.
 
 \bibitem[Razafindratsima et~al., 2013]{Razafindratsima2013}
 Razafindratsima, O.~H., Mehtani, S., and Dunham, A.~E. (2013).
@@ -1086,7 +1086,7 @@ Razafindratsima, O.~H., Mehtani, S., and Dunham, A.~E. (2013).
 
 \bibitem[Rehfeldt et~al., 2006]{Rehfeldt2006}
 Rehfeldt, G.~E., Crookston, N.~L., Warwell, M.~V., and Evans, J.~S. (2006).
-\newblock {Empirical Analyses of Plant‐Climate Relationships for the Western
+\newblock {Empirical Analyses of Plant-Climate Relationships for the Western
   United States}.
 \newblock {\em International Journal of Plant Sciences}, 167(6):1123--1150.
 
@@ -1274,7 +1274,7 @@ Stouffer, D.~B. and Bascompte, J. (2010).
 Stouffer, D.~B., Camacho, J., Jiang, W., and Amaral, L. A.~N. (2007).
 \newblock {Evidence for the existence of a robust pattern of prey selection in
   food webs.}
-\newblock {\em Proceedings. Biological sciences / The Royal Society},
+\newblock {\em Proceedings of the Royal Society B: Biological Sciences},
   274(1621):1931--1940.
 
 \bibitem[Suding et~al., 2015]{Suding2015}
@@ -1340,9 +1340,9 @@ Thuiller, W., M{\"{u}}nkem{\"{u}}ller, T., Lavergne, S., Mouillot, D., Mouquet,
 \bibitem[Tingley et~al., 2009]{Tingley2009}
 Tingley, M.~W., Monahan, W.~B., Beissinger, S.~R., and Moritz, C. (2009).
 \newblock {Birds track their Grinnellian niche through a century of climate
-  change.}
-\newblock {\em Proceedings of the National Academy of Sciences of the United
-  States of America}, 106 Suppl:19637--43.
+  change}.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  106(Supplement{\_}2):19637--19643.
 
 \bibitem[Trebilco et~al., 2013]{Trebilco2013}
 Trebilco, R., Baum, J.~K., Salomon, A.~K., and Dulvy, N.~K. (2013).

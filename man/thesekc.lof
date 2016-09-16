@@ -30,16 +30,20 @@
 \contentsline {figure}{\numberline {20}{\ignorespaces *Reversed figure 4** This figures correspond to the figure 4 in the main text but the Z-score are calculated for preys (host plants) rather than for predators 9pollinators). Mean Z-score are computed for willows (A-C) and herbivores (based on the herbivores-parasitoids only, D-F) of the willows leafs network, the hosts plants in the Caribbean hummingbirds datasets (G-I) and species that feed on the detritus in the pitcher plants network (panels J-L). The x-axis is expressed as a log proportion of the total number of sites included in the considered dataset. Black symbols are mean Z-scores significantly different from 0 (see SI Text). In each panel, the dotted line represents the linear regression \(y~ax+b\) for which the \(R^2\) is provided. The size of circles reflects the degree of species for which the Z-score was calculated, the relation size-degree for each row is given in the middle panel.\relax }}{131}{figure.caption.68}
 \contentsline {figure}{\numberline {21}{\ignorespaces \textbf {Predicting herbivore distribution based on the distribution of willows} For the herbivores in the willow leafs network dataset, we compared the AUC obtained when using willow it does not interact with (circles) a willow in interacts with (squares) and the set of willow it interacts with (triangles) to AUC obtained for GLM (A) and RF (B). Positive values indicated that species based model outperformed the SDM model.\relax }}{132}{figure.caption.69}
 \addvspace {0\p@ }
+\contentsline {figure}{\numberline {22}{\ignorespaces \textbf {SAR and BAR} Cool\relax }}{145}{figure.caption.70}
+\contentsline {figure}{\numberline {23}{\ignorespaces \textbf {cool2} Cool\relax }}{146}{figure.caption.71}
+\contentsline {figure}{\numberline {24}{\ignorespaces \textbf {all} Cool\relax }}{147}{figure.caption.72}
+\contentsline {figure}{\numberline {25}{\ignorespaces \textbf {ols} Cool\relax }}{148}{figure.caption.73}
 \select@language {french}
 \select@language {french}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {22}{\ignorespaces Repr\IeC {\'e}sentation graphique de la solution de l'\IeC {\'e}quation diff\IeC {\'e}rentielle}}{161}{figure.caption.78}
-\contentsline {figure}{\numberline {23}{\ignorespaces Dynamique de la biodiversit\IeC {\'e} de trois zones prot\IeC {\'e}g\IeC {\'e}es}}{166}{figure.caption.79}
-\contentsline {figure}{\numberline {24}{\ignorespaces Repr\IeC {\'e}sentation de la formule des probabilit\IeC {\'e}s totales.}}{171}{figure.caption.80}
+\contentsline {figure}{\numberline {26}{\ignorespaces Repr\IeC {\'e}sentation graphique de la solution de l'\IeC {\'e}quation diff\IeC {\'e}rentielle}}{162}{figure.caption.82}
+\contentsline {figure}{\numberline {27}{\ignorespaces Dynamique de la biodiversit\IeC {\'e} de trois zones prot\IeC {\'e}g\IeC {\'e}es}}{167}{figure.caption.83}
+\contentsline {figure}{\numberline {28}{\ignorespaces Repr\IeC {\'e}sentation de la formule des probabilit\IeC {\'e}s totales.}}{172}{figure.caption.84}
 \select@language {english}
 \addvspace {10\p@ }
 \select@language {english}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {25}{\ignorespaces Simple food webs illustrting the TTTIB}}{191}{figure.caption.82}
+\contentsline {figure}{\numberline {29}{\ignorespaces Simple food webs illustrting the TTTIB}}{192}{figure.caption.86}
 \select@language {english}
 \select@language {english}
