@@ -3,7 +3,7 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: thesekc.aux
 A level-1 auxiliary file: liminaires.aux
 The style file: apalike.bst
-Reallocated field_info (elt_size=4) to 10544 items from 5000.
+Reallocated field_info (elt_size=4) to 10610 items from 5000.
 Database file #1: /Users/KevCaz/Documents/library.bib.bib
 Reallocated buffer (elt_size=1) to 40000 items from 20000.
 Reallocated sv_buffer (elt_size=1) to 40000 items from 20000.
@@ -17,7 +17,7 @@ Reallocated ex_buf (elt_size=1) to 60000 items from 40000.
 Reallocated out_buf (elt_size=1) to 60000 items from 40000.
 Reallocated name_tok (elt_size=4) to 60000 items from 40000.
 Reallocated name_sep_char (elt_size=1) to 60000 items from 40000.
-Repeated entry---line 9351 of file /Users/KevCaz/Documents/library.bib.bib
+Repeated entry---line 9343 of file /Users/KevCaz/Documents/library.bib.bib
  : @article{Dray2007
  :                  ,
 I'm skipping whatever remains of this entry
@@ -61,42 +61,45 @@ Repeated entry---line 17083 of file /Users/KevCaz/Documents/library.bib.bib
  : @article{Brooks2014
  :                    ,
 I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "Currie1993"
+Warning--I didn't find a database entry for "Albouy2016"
+Warning--I didn't find a database entry for "Lindeman1943"
 Warning--I didn't find a database entry for "tbl:scena"
 Warning--I didn't find a database entry for "fig:etib4"
 Warning--empty journal in Cazelles2015a
 Warning--there's a number but no volume in Cazelles2015a
 You've used 250 entries,
             1935 wiz_defined-function locations,
-            2054 strings with 55493 characters,
-and the built_in function-call counts, 117852 in all, are:
-= -- 11263
-> -- 6415
-< -- 127
-+ -- 2289
-- -- 2284
-* -- 11329
-:= -- 20656
+            2059 strings with 55774 characters,
+and the built_in function-call counts, 118152 in all, are:
+= -- 11283
+> -- 6460
+< -- 126
++ -- 2307
+- -- 2302
+* -- 11368
+:= -- 20713
 add.period$ -- 756
 call.type$ -- 250
-change.case$ -- 2370
+change.case$ -- 2379
 chr.to.int$ -- 245
 cite$ -- 252
 duplicate$ -- 3557
-empty$ -- 7362
-format.name$ -- 2650
-if$ -- 22286
+empty$ -- 7365
+format.name$ -- 2666
+if$ -- 22335
 int.to.chr$ -- 6
 int.to.str$ -- 0
 missing$ -- 263
 newline$ -- 1249
 num.names$ -- 759
-pop$ -- 1879
+pop$ -- 1889
 preamble$ -- 1
-purify$ -- 2388
+purify$ -- 2397
 quote$ -- 0
-skip$ -- 2648
+skip$ -- 2647
 stack$ -- 0
-substring$ -- 8604
+substring$ -- 8613
 swap$ -- 301
 text.length$ -- 11
 text.prefix$ -- 0

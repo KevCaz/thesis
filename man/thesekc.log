@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  22 SEP 2016 11:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  22 SEP 2016 14:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -998,7 +998,7 @@ d-to.pdf img/logo_uqar.eps>
 (epstopdf)             \includegraphics on input line 10.
 Package epstopdf Info: Output file is already uptodate.
 
-<img/logo_uqar-eps-converted-to.pdf, id=502, 867.24pt x 505.89pt>
+<img/logo_uqar-eps-converted-to.pdf, id=494, 867.24pt x 505.89pt>
 File: img/logo_uqar-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/logo_uqar-eps-converted-to.pdf>
@@ -1149,22 +1149,21 @@ RACTION []
  []
 
 [16] [17]
-Package cleveref Info: loaded `french' language definitions on input line 116.
-Package cleveref Info: loaded `french' language definitions on input line 124.
+Package cleveref Info: loaded `french' language definitions on input line 117.
+Package cleveref Info: loaded `french' language definitions on input line 125.
+Package cleveref Info: loaded `english' language definitions on input line 136.
+
  [18]
-Package cleveref Info: loaded `english' language definitions on input line 135.
-
-
-Overfull \hbox (3.72054pt too wide) in paragraph at lines 136--136
+Overfull \hbox (3.72054pt too wide) in paragraph at lines 137--137
 \OT1/txr/m/n/12 R[]ESEAUX []ECOLOGIQUES DANS UN EN-VI-RON-NEMENT ABI-O-TIQUE VA
 RI-ABLE []  
  []
 
-Package cleveref Info: loaded `english' language definitions on input line 146.
-
-Package cleveref Info: loaded `english' language definitions on input line 152.
+Package cleveref Info: loaded `english' language definitions on input line 147.
 
 Package cleveref Info: loaded `english' language definitions on input line 153.
+
+Package cleveref Info: loaded `english' language definitions on input line 154.
 
 )
 \tf@toc=\write5
@@ -1216,21 +1215,10 @@ rit []a l'[]echelle r[]egionale
 Package cleveref Info: loaded `english' language definitions on input line 9.
 [21
 
-] [22]
-Overfull \hbox (4.54092pt too wide) in paragraph at lines 24--24
- [][] []\OT1/txr/bx/n/12 Dendrogram rep-re-sent-ing the trait-based dis-tances 
-be-tween the 31 species 
- []
-
-
-Overfull \hbox (0.47292pt too wide) in paragraph at lines 28--28
- [][] []\OT1/txr/m/it/12 Changes in co-occurrence sig-nal with in-creased dis-t
-ance be-tween two species 
- []
-
-[23] [24]
+]
 Package cleveref Info: loaded `french' language definitions on input line 37.
 Package cleveref Info: loaded `french' language definitions on input line 38.
+ [22]
 Package cleveref Info: loaded `english' language definitions on input line 43.
 Package cleveref Info: loaded `english' language definitions on input line 45.
 Package cleveref Info: loaded `english' language definitions on input line 48.
@@ -1239,7 +1227,7 @@ Package cleveref Info: loaded `english' language definitions on input line 49.
 \tf@lof=\write7
 \openout7 = `thesekc.lof'.
 
- [25] [26
+ [23] [24
 
 ])
 Package cleveref Info: loaded `french' language definitions on input line 127.
@@ -1278,7 +1266,7 @@ Overfull \hbox (1.9016pt too wide) in paragraph at lines 965--979
 pen-ser que la th[]eorie a []et[]e d[]evelopp[]ee
  []
 
-[25] [26] [27] <fig/fig1.pdf, id=1285, 461.725pt x 461.725pt>
+[25] [26] [27] <fig/fig1.pdf, id=1262, 461.725pt x 461.725pt>
 File: fig/fig1.pdf Graphic file (type pdf)
 
 <use fig/fig1.pdf>
@@ -1310,7 +1298,7 @@ Overfull \hbox (10.67433pt too wide) in paragraph at lines 1282--1301
 nt[]egrer les re-la-tions []ecologiques
  []
 
-[34] <fig/fig2.pdf, id=1446, 461.725pt x 241.90375pt>
+[34] <fig/fig2.pdf, id=1423, 461.725pt x 241.90375pt>
 File: fig/fig2.pdf Graphic file (type pdf)
  <use fig/fig2.pdf>
 Package pdftex.def Info: fig/fig2.pdf used on input line 1319.
@@ -1369,7 +1357,7 @@ de dis-tri-bu-tions esp[]ece-centr[]ee
  []
 
 [42] [43] [44] [45] [46] [47] [48] [49] [50]
-<./chapitre1/table1.pdf, id=1684, 538.60861pt x 124.20102pt>
+<./chapitre1/table1.pdf, id=1661, 538.60861pt x 124.20102pt>
 File: ./chapitre1/table1.pdf Graphic file (type pdf)
 
 <use ./chapitre1/table1.pdf>
@@ -1395,7 +1383,7 @@ rted-to.pdf ./chapitre1/fig1.eps>
 (epstopdf)             \includegraphics on input line 159.
 Package epstopdf Info: Output file is already uptodate.
 
-<./chapitre1/fig1-eps-converted-to.pdf, id=1736, 650.43pt x 198.7425pt>
+<./chapitre1/fig1-eps-converted-to.pdf, id=1712, 650.43pt x 198.7425pt>
 File: ./chapitre1/fig1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./chapitre1/fig1-eps-converted-to.pdf>
@@ -1426,7 +1414,7 @@ rted-to.pdf ./chapitre1/fig2.eps>
 (epstopdf)             \includegraphics on input line 200.
 Package epstopdf Info: Output file is already uptodate.
 
-<./chapitre1/fig2-eps-converted-to.pdf, id=1765, 433.62pt x 389.455pt>
+<./chapitre1/fig2-eps-converted-to.pdf, id=1742, 433.62pt x 389.455pt>
 File: ./chapitre1/fig2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./chapitre1/fig2-eps-converted-to.pdf>
@@ -1453,7 +1441,7 @@ rted-to.pdf ./chapitre1/fig3.eps>
 (epstopdf)             \includegraphics on input line 224.
 Package epstopdf Info: Output file is already uptodate.
 
-<./chapitre1/fig3-eps-converted-to.pdf, id=1800, 433.62pt x 389.455pt>
+<./chapitre1/fig3-eps-converted-to.pdf, id=1777, 433.62pt x 389.455pt>
 File: ./chapitre1/fig3-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./chapitre1/fig3-eps-converted-to.pdf>
@@ -1476,7 +1464,7 @@ rted-to.pdf ./chapitre1/fig4.eps>
 (epstopdf)             \includegraphics on input line 246.
 Package epstopdf Info: Output file is already uptodate.
 
-<./chapitre1/fig4-eps-converted-to.pdf, id=1832, 650.43pt x 216.81pt>
+<./chapitre1/fig4-eps-converted-to.pdf, id=1809, 650.43pt x 216.81pt>
 File: ./chapitre1/fig4-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./chapitre1/fig4-eps-converted-to.pdf>
@@ -1495,7 +1483,7 @@ rted-to.pdf ./chapitre1/fig5.eps>
 (epstopdf)             \includegraphics on input line 266.
 Package epstopdf Info: Output file is already uptodate.
 
-<./chapitre1/fig5-eps-converted-to.pdf, id=1869, 650.43pt x 230.8625pt>
+<./chapitre1/fig5-eps-converted-to.pdf, id=1845, 650.43pt x 230.8625pt>
 File: ./chapitre1/fig5-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./chapitre1/fig5-eps-converted-to.pdf>
@@ -1543,7 +1531,7 @@ Package epstopdf Info: Source file: <./chapitre2/fig1.eps>
 rted-to.pdf ./chapitre2/fig1.eps>
 (epstopdf)             \includegraphics on input line 477.
 Package epstopdf Info: Output file is already uptodate.
-<./chapitre2/fig1-eps-converted-to.pdf, id=2252, 1156.32pt x 317.185pt>
+<./chapitre2/fig1-eps-converted-to.pdf, id=2229, 1156.32pt x 317.185pt>
 File: ./chapitre2/fig1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./chapitre2/fig1-eps-converted-to.pdf>
@@ -1563,241 +1551,152 @@ Overfull \hbox (11.8849pt too wide) in paragraph at lines 6--19
 -reg-istrements de pr[]esences et d'absences
  []
 
-! Undefined control sequence.
-l.25 ...ver des signaux de co-occurrence\footenote
-                                                  {Il s'agit de
-? 
 [94
 
 ] [95] [96] [97] [98] [99] [100] [101]
-Overfull \hbox (12.72563pt too wide) in paragraph at lines 309--316
+Overfull \hbox (12.81252pt too wide) in paragraph at lines 289--291
+ []|\OT1/txr/m/n/12 Connectance|
+ []
+
+
+Overfull \hbox (12.81252pt too wide) in paragraph at lines 305--307
+ []|\OT1/txr/m/n/12 Connectance|
+ []
+
+[102
+
+] <chapitre3/figIntVsNoint.pdf, id=2443, 505.89pt x 379.4175pt>
+File: chapitre3/figIntVsNoint.pdf Graphic file (type pdf)
+
+<use chapitre3/figIntVsNoint.pdf>
+Package pdftex.def Info: chapitre3/figIntVsNoint.pdf used on input line 404.
+(pdftex.def)             Requested size: 443.86316pt x 332.90422pt.
+
+Overfull \hbox (12.72563pt too wide) in paragraph at lines 439--446
 []\OT1/txr/m/n/12 When we ac-count for suit-abil-ity dis-crep-an-cies among sit
 es us-ing SDMs, the co-occurrence
  []
 
-[102] [103] [104] [105] [106] [107] [108] [109]
-Overfull \hbox (80.31902pt too wide) in paragraph at lines 557--557
-[] [] 
- []
+[103
 
-
-Overfull \hbox (26.47015pt too wide) in paragraph at lines 567--569
- []|\OT1/txr/m/n/12 Connectance|
- []
-
-
-Overfull \hbox (26.47015pt too wide) in paragraph at lines 583--585
- []|\OT1/txr/m/n/12 Connectance|
- []
-
-
-Overfull \hbox (2.30762pt too wide) in paragraph at lines 635--637
- []|\OT1/txr/m/n/12 Competition|
- []
-
-<chapitre3/figConcept.pdf, id=2567, 296.10625pt x 394.47375pt>
-File: chapitre3/figConcept.pdf Graphic file (type pdf)
-
-<use chapitre3/figConcept.pdf>
-Package pdftex.def Info: chapitre3/figConcept.pdf used on input line 662.
-(pdftex.def)             Requested size: 296.10551pt x 394.47278pt.
- [110] [111 <./chapitre3/figConcept.pdf>]
-<chapitre3/figIntVsNoint.pdf, id=2587, 505.89pt x 379.4175pt>
-File: chapitre3/figIntVsNoint.pdf Graphic file (type pdf)
-
-<use chapitre3/figIntVsNoint.pdf>
-Package pdftex.def Info: chapitre3/figIntVsNoint.pdf used on input line 680.
-(pdftex.def)             Requested size: 505.88875pt x 379.41656pt.
-
-Overfull \hbox (62.02559pt too wide) in paragraph at lines 680--694
- [][] 
- []
-
-<chapitre3/figOrder.pdf, id=2588, 505.89pt x 172.645pt>
+] [104 <./chapitre3/figIntVsNoint.pdf>]
+<chapitre3/figOrder.pdf, id=2472, 505.89pt x 172.645pt>
 File: chapitre3/figOrder.pdf Graphic file (type pdf)
 
 <use chapitre3/figOrder.pdf>
-Package pdftex.def Info: chapitre3/figOrder.pdf used on input line 701.
-(pdftex.def)             Requested size: 505.88875pt x 172.64456pt.
-
-Overfull \hbox (62.02559pt too wide) in paragraph at lines 701--710
- [][] 
- []
-
-<chapitre3/figdegocc.pdf, id=2589, 505.89pt x 505.89pt>
+Package pdftex.def Info: chapitre3/figOrder.pdf used on input line 449.
+(pdftex.def)             Requested size: 443.86316pt x 151.48021pt.
+ [105 <./chapitre3/figOrder.pdf>]
+<chapitre3/figdegocc.pdf, id=2504, 505.89pt x 505.89pt>
 File: chapitre3/figdegocc.pdf Graphic file (type pdf)
 
 <use chapitre3/figdegocc.pdf>
-Package pdftex.def Info: chapitre3/figdegocc.pdf used on input line 717.
-(pdftex.def)             Requested size: 505.88875pt x 505.88875pt.
-
-Overfull \hbox (62.02559pt too wide) in paragraph at lines 717--734
- [][] 
- []
+Package pdftex.def Info: chapitre3/figdegocc.pdf used on input line 516.
+(pdftex.def)             Requested size: 421.66864pt x 421.67944pt.
 
 
-LaTeX Warning: Float too large for page by 89.5354pt on input line 735.
+LaTeX Warning: Float too large for page by 19.8261pt on input line 535.
+
+[106] [107 <./chapitre3/figdegocc.pdf>] [108] [109] [110] [111] [112]
+<chapitre3/figConcept.pdf, id=2596, 296.10625pt x 394.47375pt>
+File: chapitre3/figConcept.pdf Graphic file (type pdf)
+
+<use chapitre3/figConcept.pdf>
+Package pdftex.def Info: chapitre3/figConcept.pdf used on input line 723.
+(pdftex.def)             Requested size: 377.28639pt x 502.63737pt.
 
 
-Overfull \hbox (17.6326pt too wide) in paragraph at lines 762--772
+LaTeX Warning: Float too large for page by 28.28403pt on input line 736.
+
+[113] [114 <./chapitre3/figConcept.pdf>]
+Overfull \hbox (17.6326pt too wide) in paragraph at lines 766--776
 \OT1/txr/m/n/12 ([][][]Pa-que-tte and Messier[][], [][]2011[][]), see Sup-ple-m
 en-tary Ta-ble [][]7[][] avail-able at [][]$\OT1/txtt/m/n/12 http : / / onlinel
 ibrary .
  []
 
-[112] [113 <./chapitre3/figIntVsNoint.pdf>] [114 <./chapitre3/figOrder.pdf>]
-[115 <./chapitre3/figdegocc.pdf>] [116] [117]
-Overfull \hbox (80.31902pt too wide) in paragraph at lines 876--876
-[] [] 
- []
+[115] [116] [117] [118] [119
+
+] [120
 
 
-Overfull \hbox (31.03694pt too wide) in alignment at lines 873--880
- [] [] [] [] [] 
- []
+] [121
 
 
-Overfull \hbox (31.03694pt too wide) in alignment at lines 880--884
- [] [] [] [] [] 
- []
+] [122] [123
 
 
-Overfull \hbox (31.03694pt too wide) in alignment at lines 884--907
- [] [] [] [] [] 
- []
-
-
-Overfull \hbox (80.31902pt too wide) in paragraph at lines 915--915
-[] [] 
- []
-
-[118]
-Overfull \hbox (80.31902pt too wide) in paragraph at lines 940--940
-[] [] 
- []
-
-
-Overfull \hbox (42.233pt too wide) in alignment at lines 932--945
- [] [] [] [] [] [] [] [] [] [] [] 
- []
-
-
-Overfull \hbox (42.233pt too wide) in alignment at lines 945--950
- [] [] [] [] [] [] [] [] [] [] [] 
- []
-
-
-Overfull \hbox (42.233pt too wide) in alignment at lines 950--991
- [] [] [] [] [] [] [] [] [] [] [] 
- []
-
-
-Overfull \hbox (42.233pt too wide) in alignment at lines 991--1014
- [] [] [] [] [] [] [] [] [] [] [] 
- []
-
-[119]
-Overfull \hbox (80.31902pt too wide) in paragraph at lines 1019--1019
-[] [] 
- []
-
-[120] [121] [122] [123]
-<chapitre3/figS1.png, id=2749, 2107.875pt x 3161.8125pt>
+] [124] [125] [126]
+[127] <chapitre3/figS1.png, id=2749, 2107.875pt x 3161.8125pt>
 File: chapitre3/figS1.png Graphic file (type png)
 
 <use chapitre3/figS1.png>
-Package pdftex.def Info: chapitre3/figS1.png used on input line 1112.
-(pdftex.def)             Requested size: 2107.86987pt x 3161.80482pt.
+Package pdftex.def Info: chapitre3/figS1.png used on input line 1154.
+(pdftex.def)             Requested size: 372.84341pt x 559.25966pt.
 
-Overfull \hbox (1664.00671pt too wide) in paragraph at lines 1112--1113
- [][] 
- []
-
-
-LaTeX Warning: Float too large for page by 2585.95148pt on input line 1114.
-
-[124] [125 <./chapitre3/figS1.png>]
-<chapitre3/figS2.pdf, id=2761, 246.9225pt x 493.845pt>
+<chapitre3/figS2.pdf, id=2751, 246.9225pt x 493.845pt>
 File: chapitre3/figS2.pdf Graphic file (type pdf)
 
 <use chapitre3/figS2.pdf>
-Package pdftex.def Info: chapitre3/figS2.pdf used on input line 1120.
-(pdftex.def)             Requested size: 246.92188pt x 493.84378pt.
+Package pdftex.def Info: chapitre3/figS2.pdf used on input line 1162.
+(pdftex.def)             Requested size: 284.07214pt x 568.17354pt.
 
-<chapitre3/figS3.pdf, id=2762, 246.9225pt x 650.43pt>
+
+LaTeX Warning: Float too large for page by 21.32019pt on input line 1168.
+
+<chapitre3/figS3.pdf, id=2752, 246.9225pt x 650.43pt>
 File: chapitre3/figS3.pdf Graphic file (type pdf)
 
 <use chapitre3/figS3.pdf>
-Package pdftex.def Info: chapitre3/figS3.pdf used on input line 1131.
-(pdftex.def)             Requested size: 246.92188pt x 650.4284pt.
+Package pdftex.def Info: chapitre3/figS3.pdf used on input line 1174.
+(pdftex.def)             Requested size: 221.93158pt x 584.59753pt.
 
 
-LaTeX Warning: Float too large for page by 89.07506pt on input line 1135.
+LaTeX Warning: Float too large for page by 23.24419pt on input line 1178.
 
-<chapitre3/figS4.pdf, id=2763, 325.215pt x 308.15125pt>
+<chapitre3/figS4.pdf, id=2753, 325.215pt x 308.15125pt>
 File: chapitre3/figS4.pdf Graphic file (type pdf)
 
 <use chapitre3/figS4.pdf>
-Package pdftex.def Info: chapitre3/figS4.pdf used on input line 1141.
-(pdftex.def)             Requested size: 325.2142pt x 308.15048pt.
- <chapitre3/figS5.pdf, id=2764, 505.89pt x 184.69pt>
+Package pdftex.def Info: chapitre3/figS4.pdf used on input line 1184.
+(pdftex.def)             Requested size: 443.86316pt x 420.60829pt.
+ <chapitre3/figS5.pdf, id=2754, 505.89pt x 184.69pt>
 File: chapitre3/figS5.pdf Graphic file (type pdf)
 
 <use chapitre3/figS5.pdf>
-Package pdftex.def Info: chapitre3/figS5.pdf used on input line 1162.
-(pdftex.def)             Requested size: 505.88875pt x 184.68953pt.
+Package pdftex.def Info: chapitre3/figS5.pdf used on input line 1206.
+(pdftex.def)             Requested size: 443.86316pt x 162.0486pt.
 
-Overfull \hbox (62.02559pt too wide) in paragraph at lines 1162--1167
- [][] 
- []
-
-<chapitre3/figS6.pdf, id=2765, 505.89pt x 404.51125pt>
+<chapitre3/figS6.pdf, id=2755, 505.89pt x 404.51125pt>
 File: chapitre3/figS6.pdf Graphic file (type pdf)
 
 <use chapitre3/figS6.pdf>
-Package pdftex.def Info: chapitre3/figS6.pdf used on input line 1174.
-(pdftex.def)             Requested size: 505.88875pt x 404.51025pt.
-
-Overfull \hbox (62.02559pt too wide) in paragraph at lines 1174--1182
- [][] 
- []
-
-<chapitre3/figS7.pdf, id=2766, 505.89pt x 505.89pt>
+Package pdftex.def Info: chapitre3/figS6.pdf used on input line 1219.
+(pdftex.def)             Requested size: 443.86316pt x 354.92169pt.
+ <chapitre3/figS7.pdf, id=2756, 505.89pt x 505.89pt>
 File: chapitre3/figS7.pdf Graphic file (type pdf)
- <use chapitre3/figS7.pdf>
-Package pdftex.def Info: chapitre3/figS7.pdf used on input line 1189.
-(pdftex.def)             Requested size: 505.88875pt x 505.88875pt.
 
-Overfull \hbox (62.02559pt too wide) in paragraph at lines 1189--1198
- [][] 
- []
-
-
-LaTeX Warning: Float too large for page by 17.0354pt on input line 1199.
-
-<chapitre3/figS8.pdf, id=2767, 505.89pt x 505.89pt>
+<use chapitre3/figS7.pdf>
+Package pdftex.def Info: chapitre3/figS7.pdf used on input line 1234.
+(pdftex.def)             Requested size: 443.86316pt x 443.87228pt.
+ <chapitre3/figS8.pdf, id=2757, 505.89pt x 505.89pt>
 File: chapitre3/figS8.pdf Graphic file (type pdf)
- <use chapitre3/figS8.pdf>
-Package pdftex.def Info: chapitre3/figS8.pdf used on input line 1205.
-(pdftex.def)             Requested size: 505.88875pt x 505.88875pt.
 
-Overfull \hbox (62.02559pt too wide) in paragraph at lines 1205--1219
- [][] 
- []
+<use chapitre3/figS8.pdf>
+Package pdftex.def Info: chapitre3/figS8.pdf used on input line 1251.
+(pdftex.def)             Requested size: 421.66864pt x 421.67944pt.
 
-
-LaTeX Warning: Float too large for page by 60.5354pt on input line 1220.
-
-<chapitre3/figS9.pdf, id=2768, 246.9225pt x 308.15125pt>
+<chapitre3/figS9.pdf, id=2759, 246.9225pt x 308.15125pt>
 File: chapitre3/figS9.pdf Graphic file (type pdf)
 
 <use chapitre3/figS9.pdf>
-Package pdftex.def Info: chapitre3/figS9.pdf used on input line 1226.
-(pdftex.def)             Requested size: 246.92188pt x 308.15048pt.
-) (./chapitre4/chap4.tex [126 <./chapitre3/figS2.pdf>] [127 <./chapitre3/figS3.
-pdf>] [128 <./chapitre3/figS4.pdf>] [129 <./chapitre3/figS5.pdf>] [130 <./chapi
-tre3/figS6.pdf>] [131 <./chapitre3/figS7.pdf>]
-[132 <./chapitre3/figS8.pdf>] [133 <./chapitre3/figS9.pdf>]
+Package pdftex.def Info: chapitre3/figS9.pdf used on input line 1275.
+(pdftex.def)             Requested size: 319.58202pt x 398.85211pt.
+) (./chapitre4/chap4.tex [128 <./chapitre3/figS1.png>] [129 <./chapitre3/figS2.
+pdf>] [130 <./chapitre3/figS3.pdf>] [131 <./chapitre3/figS4.pdf>] [132 <./chapi
+tre3/figS5.pdf>] [133 <./chapitre3/figS6.pdf>]
+[134 <./chapitre3/figS7.pdf>] [135 <./chapitre3/figS8.pdf>] [136 <./chapitre3/f
+igS9.pdf>]
 article 4.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
@@ -1807,29 +1706,26 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 5.
 
-[134
+[137
 
-] [135] [136]
 
-Package natbib Warning: Citation `Currie1993' on page 137 undefined on input li
+] [138] [139]
+
+Package natbib Warning: Citation `Currie1993' on page 140 undefined on input li
 ne 107.
 
 
-Package natbib Warning: Citation `Currie2004' on page 137 undefined on input li
-ne 109.
-
-
-Package natbib Warning: Citation `Albouy2016' on page 137 undefined on input li
+Package natbib Warning: Citation `Albouy2016' on page 140 undefined on input li
 ne 118.
 
-[137]
+[140]
 
-Package natbib Warning: Citation `Lindeman1943' on page 138 undefined on input 
+Package natbib Warning: Citation `Lindeman1943' on page 141 undefined on input 
 line 165.
 
-[138] [139] [140] [141] [142] [143]
+[141] [142] [143] [144] [145] [146]
 
-Package natbib Warning: Citation `tbl:scena' on page 144 undefined on input lin
+Package natbib Warning: Citation `tbl:scena' on page 147 undefined on input lin
 e 373.
 
 
@@ -1837,12 +1733,12 @@ Overfull \hbox (80.31902pt too wide) in paragraph at lines 377--377
 [] [] 
  []
 
-[144] [145]
+[147] [148]
 
-Package natbib Warning: Citation `fig:etib4' on page 146 undefined on input lin
+Package natbib Warning: Citation `fig:etib4' on page 149 undefined on input lin
 e 459.
 
-[146] [147] <chapitre4/fig/fig1.pdf, id=3149, 252.945pt x 650.43pt>
+[149] [150] <chapitre4/fig/fig1.pdf, id=3151, 252.945pt x 650.43pt>
 File: chapitre4/fig/fig1.pdf Graphic file (type pdf)
 
 <use chapitre4/fig/fig1.pdf>
@@ -1852,7 +1748,7 @@ Package pdftex.def Info: chapitre4/fig/fig1.pdf used on input line 530.
 
 LaTeX Warning: Float too large for page by 89.07506pt on input line 534.
 
-<chapitre4/fig/fig2.pdf, id=3150, 505.89pt x 433.62pt>
+<chapitre4/fig/fig2.pdf, id=3152, 505.89pt x 433.62pt>
 File: chapitre4/fig/fig2.pdf Graphic file (type pdf)
 
 <use chapitre4/fig/fig2.pdf>
@@ -1863,7 +1759,7 @@ Overfull \hbox (62.02559pt too wide) in paragraph at lines 538--542
  [][] 
  []
 
-<chapitre4/fig/fig3.pdf, id=3151, 505.89pt x 397.485pt>
+<chapitre4/fig/fig3.pdf, id=3153, 505.89pt x 397.485pt>
 File: chapitre4/fig/fig3.pdf Graphic file (type pdf)
 
 <use chapitre4/fig/fig3.pdf>
@@ -1874,7 +1770,7 @@ Overfull \hbox (62.02559pt too wide) in paragraph at lines 547--550
  [][] 
  []
 
-<chapitre4/fig/fig4.pdf, id=3152, 542.025pt x 505.89pt>
+<chapitre4/fig/fig4.pdf, id=3154, 542.025pt x 505.89pt>
 File: chapitre4/fig/fig4.pdf Graphic file (type pdf)
 
 <use chapitre4/fig/fig4.pdf>
@@ -1885,13 +1781,13 @@ Overfull \hbox (98.1605pt too wide) in paragraph at lines 555--559
  [][] 
  []
 
-) [148] [149 <./chapitre4/fig/fig1.pdf>] [150 <./chapitre4/fig/fig2.pdf>]
-[151 <./chapitre4/fig/fig3.pdf>] [152 <./chapitre4/fig/fig4.pdf>]
+) [151] [152 <./chapitre4/fig/fig1.pdf>] [153 <./chapitre4/fig/fig2.pdf>]
+[154 <./chapitre4/fig/fig3.pdf>] [155 <./chapitre4/fig/fig4.pdf>]
 Package cleveref Info: loaded `french' language definitions on input line 145.
- (./conclu.tex [153
+ (./conclu.tex [156
 
 
-] [154]
+] [157]
 Overfull \hbox (17.29686pt too wide) in paragraph at lines 93--118
 \OT1/txr/m/n/12 r[]eflexion im-por-tante pour les biog[]eographes sur les-quell
 es se concentre l'ef-fort de d[]eveloppement
@@ -1903,13 +1799,13 @@ Overfull \hbox (5.20515pt too wide) in paragraph at lines 93--118
 ne r[]eflexion de l'im-pact des in-ter-ac-tions []ecologiques
  []
 
-[155] [156]
+[158] [159]
 Overfull \hbox (1.72232pt too wide) in paragraph at lines 173--194
 \OT1/txr/m/it/12 pas\OT1/txr/m/n/12 , j'ai com-pris qu'il n'y avait pas de r[]e
 ponse tranch[]ee, mais plut[]ot une r[]eponse qui d[]ependait
  []
 
-[157] [158] [159] [160] [161]) [162] [163] (./annexe1/annexe1.tex
+[160] [161] [162] [163] [164]) [165] [166] (./annexe1/annexe1.tex
 Package cleveref Info: loaded `french' language definitions on input line 1.
 
 \MakeUppercase {Annexe} I
@@ -1923,10 +1819,10 @@ Overfull \hbox (5.43597pt too wide) in paragraph at lines 10--13
 versite-[]en-[]territoires-[]isoles/$[][] 
  []
 
-[164
+[167
 
 
-] <annexe1/fig/figAnnI1.pdf, id=3424, 391.95084pt x 241.77597pt>
+] <annexe1/fig/figAnnI1.pdf, id=3426, 391.95084pt x 241.77597pt>
 File: annexe1/fig/figAnnI1.pdf Graphic file (type pdf)
 
 <use annexe1/fig/figAnnI1.pdf>
@@ -1936,13 +1832,13 @@ Package pdftex.def Info: annexe1/fig/figAnnI1.pdf used on input line 29.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[165] [166 <./annexe1/fig/figAnnI1.pdf>] [167] [168] [169]
+[168] [169 <./annexe1/fig/figAnnI1.pdf>] [170] [171] [172]
 Overfull \hbox (15.2132pt too wide) in paragraph at lines 97--98
 []\OT1/txr/m/n/12 Nous re-trou-vons la so-lu-tion d[]eterministe ! Ainsi, le mo
 d[]ele d[]eterministe peut []etre consid[]er[]e
  []
 
-<annexe1/fig/figAnnI2.pdf, id=3551, 578.16pt x 433.62pt>
+<annexe1/fig/figAnnI2.pdf, id=3553, 578.16pt x 433.62pt>
 File: annexe1/fig/figAnnI2.pdf Graphic file (type pdf)
 
 <use annexe1/fig/figAnnI2.pdf>
@@ -1952,7 +1848,7 @@ Package pdftex.def Info: annexe1/fig/figAnnI2.pdf used on input line 101.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[170] [171 <./annexe1/fig/figAnnI2.pdf>] [172]
+[173] [174 <./annexe1/fig/figAnnI2.pdf>] [175]
 Underfull \hbox (badness 10000) in paragraph at lines 146--148
 \OT1/txr/m/n/12 En rempla[]ant dans l'[]equation
  []
@@ -1963,7 +1859,7 @@ LaTeX Warning: Command \textquoteright invalid in math mode on input line 149.
 
 LaTeX Warning: Command \textquoteright invalid in math mode on input line 153.
 
-[173] [174pdfTeX warning (ext4): destination with the same identifier (name{equ
+[176] [177pdfTeX warning (ext4): destination with the same identifier (name{equ
 ation.5.8.16}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -2020,29 +1916,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 180--197
 
  []
 
-<annexe1/fig/figAnnI3.pdf, id=3592, 1205.50375pt x 810.02625pt>
+<annexe1/fig/figAnnI3.pdf, id=3594, 1205.50375pt x 810.02625pt>
 File: annexe1/fig/figAnnI3.pdf Graphic file (type pdf)
 
 <use annexe1/fig/figAnnI3.pdf>
 Package pdftex.def Info: annexe1/fig/figAnnI3.pdf used on input line 201.
 (pdftex.def)             Requested size: 421.66864pt x 283.32803pt.
- [175]) (./annexe2/annexe2.tex
+ [178]) (./annexe2/annexe2.tex
 Package cleveref Info: loaded `english' language definitions on input line 1.
- [176 <./annexe1/fig/figAnnI3.pdf>] [177]
+ [179 <./annexe1/fig/figAnnI3.pdf>] [180]
 \MakeUppercase {Annexe} II
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\\' on input line 3.
 
-[178
+[181
 
-] [179pdfTeX warning (ext4): destination with the same identifier (name{equatio
+] [182pdfTeX warning (ext4): destination with the same identifier (name{equatio
 n.6.9.5}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.53 \end{eqnarray}
-                   ] [180]
+                   ] [183]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 100.
@@ -2059,17 +1955,17 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 110.
 
-[181] [182]
+[184] [185]
 Overfull \hbox (0.70421pt too wide) in alignment at lines 143--146
  [][][] []
  []
 
-[183] [184] [185]
+[186] [187] [188]
 Overfull \hbox (75.79904pt too wide) in alignment at lines 271--279
  [][][] []
  []
 
-[186] [187pdfTeX warning (ext4): destination with the same identifier (name{equ
+[189] [190pdfTeX warning (ext4): destination with the same identifier (name{equ
 ation.6.13.31}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -2085,7 +1981,7 @@ Overfull \hbox (15.34114pt too wide) in alignment at lines 332--344
  [][][] []
  []
 
-[188pdfTeX warning (ext4): destination with the same identifier (name{equation.
+[191pdfTeX warning (ext4): destination with the same identifier (name{equation.
 6.13.42}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -2104,7 +2000,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 404.
 
-[189pdfTeX warning (ext4): destination with the same identifier (name{equation.
+[192pdfTeX warning (ext4): destination with the same identifier (name{equation.
 6.13.45}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -2115,25 +2011,25 @@ Overfull \hbox (7.89752pt too wide) in alignment at lines 429--432
  [][][] []
  []
 
-[190]) (./annexe3/annexe3.tex
+[193]) (./annexe3/annexe3.tex
 Package cleveref Info: loaded `english' language definitions on input line 1.
- [191]
+ [194]
 \MakeUppercase {Annexe} III
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\\' on input line 2.
 
 
-LaTeX Warning: Reference `ann2' on page 192 undefined on input line 28.
+LaTeX Warning: Reference `ann2' on page 195 undefined on input line 28.
 
-[192
+[195
 
 ]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 43.
 
-[193] [194]
+[196] [197]
 ! Undefined control sequence.
 l.107 \tightlist
                 
@@ -2148,7 +2044,7 @@ Package epstopdf Info: Source file: <./annexe3/fig1.eps>
 ed-to.pdf ./annexe3/fig1.eps>
 (epstopdf)             \includegraphics on input line 146.
 Package epstopdf Info: Output file is already uptodate.
-<./annexe3/fig1-eps-converted-to.pdf, id=3778, 1087.06125pt x 305.14pt>
+<./annexe3/fig1-eps-converted-to.pdf, id=3780, 1087.06125pt x 305.14pt>
 File: ./annexe3/fig1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./annexe3/fig1-eps-converted-to.pdf>
@@ -2159,7 +2055,7 @@ Package pdftex.def Info: ./annexe3/fig1-eps-converted-to.pdf used on input line
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[195] [196 <./annexe3/fig1-eps-converted-to.pdf>] [197] [198
+[198] [199 <./annexe3/fig1-eps-converted-to.pdf>] [200] [201
 
 ]
 Overfull \hbox (18.45486pt too wide) in alignment at lines 254--260
@@ -2171,7 +2067,7 @@ Overfull \hbox (18.45486pt too wide) in alignment at lines 260--275
  [] [] [] [] [] 
  []
 
-[199
+[202
 
 
 ])
@@ -2181,15 +2077,15 @@ Package cleveref Info: loaded `english' language definitions on input line 178.
 \tf@brf=\write8
 \openout8 = `thesekc.brf'.
 
- [200
+ [203
 
 
 ]
 (/usr/local/texlive/2016/texmf-dist/tex/latex/ucs/data/uni-34.def
 File: uni-34.def 2013/05/13 UCS: Unicode data U+2200..U+22FF
-) [201]
-[202] [203] [204] [205] [206] [207] [208] [209] [210] [211] [212] [213]
-[214] [215] [216] [217] [218])
+) [204]
+[205] [206] [207] [208] [209] [210] [211] [212] [213] [214] [215] [216]
+[217] [218] [219] [220] [221])
 Package cleveref Info: loaded `english' language definitions on input line 181.
 
 
@@ -2197,7 +2093,7 @@ Package cleveref Info: loaded `english' language definitions on input line 181.
 Package natbib Warning: There were undefined citations.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 198.
-[219]
+[222]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 198.
  (./thesekc.aux (./liminaires.aux
 Package cleveref Info: loaded `french' language definitions on input line 4.
@@ -2209,25 +2105,25 @@ Package cleveref Info: loaded `french' language definitions on input line 25.
 Package cleveref Info: loaded `french' language definitions on input line 31.
 Package cleveref Info: loaded `english' language definitions on input line 415.
 
-Package cleveref Info: loaded `french' language definitions on input line 1381.
+Package cleveref Info: loaded `french' language definitions on input line 1379.
 
-Package cleveref Info: loaded `french' language definitions on input line 1500.
+Package cleveref Info: loaded `french' language definitions on input line 1498.
 
-Package cleveref Info: loaded `english' language definitions on input line 1557
+Package cleveref Info: loaded `english' language definitions on input line 1555
 .
-Package cleveref Info: loaded `english' language definitions on input line 1647
+Package cleveref Info: loaded `english' language definitions on input line 1645
 .
-Package cleveref Info: loaded `english' language definitions on input line 1714
+Package cleveref Info: loaded `english' language definitions on input line 1712
 .
-Package cleveref Info: loaded `english' language definitions on input line 1954
+Package cleveref Info: loaded `english' language definitions on input line 1952
 .
 )
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 198.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 198.
 Package rerunfilecheck Info: File `thesekc.out' has not changed.
-(rerunfilecheck)             Checksum: FF3E5D8EC0BB060884485219842D737E;9979.
+(rerunfilecheck)             Checksum: 3F4DAE1EBAFDC63786B31FED20A7E09D;9863.
 Package rerunfilecheck Info: File `thesekc.brf' has not changed.
-(rerunfilecheck)             Checksum: C9F91121CF48BE60C604BA2F53BF0646;27270.
+(rerunfilecheck)             Checksum: 6EA7385474C3B97185BB8B82EE879BE8;27288.
 
 
 LaTeX Warning: There were undefined references.
@@ -2238,13 +2134,13 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 198.
  ) 
 Here is how much of TeX's memory you used:
- 18912 strings out of 493014
- 291349 string characters out of 6133351
- 411580 words of memory out of 5000000
- 21230 multiletter control sequences out of 15000+600000
+ 18908 strings out of 493014
+ 291303 string characters out of 6133351
+ 409580 words of memory out of 5000000
+ 21223 multiletter control sequences out of 15000+600000
  59581 words of font info for 139 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,17n,53p,2349b,1448s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,17n,53p,2349b,1444s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/te
 xlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/texl
@@ -2267,10 +2163,10 @@ e/2016/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2016/tex
 mf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2016/texmf-dist/f
 onts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1
 /urw/times/utmri8a.pfb>
-Output written on thesekc.pdf (245 pages, 4113046 bytes).
+Output written on thesekc.pdf (246 pages, 4108744 bytes).
 PDF statistics:
- 4635 PDF objects out of 5155 (max. 8388607)
+ 4636 PDF objects out of 5155 (max. 8388607)
  4207 compressed objects within 43 object streams
- 806 named destinations out of 1000 (max. 500000)
- 1148 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 809 named destinations out of 1000 (max. 500000)
+ 1132 words of extra memory for PDF output out of 10000 (max. 10000000)
 

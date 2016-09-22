@@ -8,7 +8,7 @@
 \contentsline {chapter}{\MakeUppercase {Table des mati\`eres}}{xv}{section*.5}
 \contentsline {chapter}{\MakeUppercase {Liste des tableaux}}{xx}{section*.6}
 \contentsline {chapter}{\MakeUppercase {Liste des figures}}{xxi}{section*.7}
-\contentsline {chapter}{\MakeUppercase {liste des abr\'{e}viations}}{xxvi}{section*.8}
+\contentsline {chapter}{\MakeUppercase {liste des abr\'{e}viations}}{xxiv}{section*.8}
 \select@language {french}
 \gdef \the@ipfilectr {}
 \contentsline {chapter}{\MakeUppercase {Introduction g\'en\'erale}}{1}{section*.9}
@@ -78,76 +78,77 @@
 \contentsline {section}{\numberline {3.5}Material and Methods}{100}{section.3.5}
 \contentsline {subsection}{\numberline {3.5.1}Datasets}{100}{subsection.3.5.1}
 \contentsline {subsection}{\numberline {3.5.2}Quantifying co-occurrence}{101}{subsection.3.5.2}
-\contentsline {section}{\numberline {3.6}Results}{101}{section.3.6}
-\contentsline {subsection}{\numberline {3.6.1}Discussion}{104}{subsection.3.6.1}
-\contentsline {subsection}{\numberline {3.6.2}Box 1}{107}{subsection.3.6.2}
-\contentsline {subsection}{\numberline {3.6.3}Tables}{110}{subsection.3.6.3}
-\contentsline {section}{\numberline {3.7}Figures}{110}{section.3.7}
-\contentsline {section}{\numberline {3.8}Supporting Information}{112}{section.3.8}
-\contentsline {subsection}{\numberline {3.8.1}Material and methods}{112}{subsection.3.8.1}
-\contentsline {subsubsection}{\numberline {3.8.1.1}Datasets}{112}{subsubsection.3.8.1.1}
-\contentsline {paragraph}{\numberline {3.8.1.1.1}Traits-based distance}{112}{paragraph.3.8.1.1.1}
-\contentsline {subsubsection}{\numberline {3.8.1.2}North American Trees}{112}{subsubsection.3.8.1.2}
-\contentsline {subsubsection}{\numberline {3.8.1.3}French Breeding Birds Survey datasets}{112}{subsubsection.3.8.1.3}
-\contentsline {paragraph}{\numberline {3.8.1.3.1}Traits-based distance}{114}{paragraph.3.8.1.3.1}
-\contentsline {subsubsection}{\numberline {3.8.1.4}Building metawebs}{114}{subsubsection.3.8.1.4}
-\contentsline {subsection}{\numberline {3.8.2}Co-occurrence measurement}{114}{subsection.3.8.2}
-\contentsline {subsection}{\numberline {3.8.3}Hypergeometric distribution}{116}{subsection.3.8.3}
-\contentsline {subsection}{\numberline {3.8.4}GLM and RF}{117}{subsection.3.8.4}
-\contentsline {subsubsection}{\numberline {3.8.4.1}Climatic data}{117}{subsubsection.3.8.4.1}
-\contentsline {subsubsection}{\numberline {3.8.4.2}Generalized Linear Model}{117}{subsubsection.3.8.4.2}
-\contentsline {subsubsection}{\numberline {3.8.4.3}Random Forests}{117}{subsubsection.3.8.4.3}
-\contentsline {subsubsection}{\numberline {3.8.4.4}Evaluating the models}{118}{subsubsection.3.8.4.4}
-\contentsline {subsection}{\numberline {3.8.5}Supporting Tables}{118}{subsection.3.8.5}
-\contentsline {subsubsection}{\numberline {3.8.5.1}R packages used}{118}{subsubsection.3.8.5.1}
-\contentsline {section}{\numberline {3.9}Supporting Figures}{124}{section.3.9}
-\contentsline {chapter}{\numberline {\MakeUppercase {article} \MakeUppercase {4}} \\ \MakeUppercase {Towards a metabolic theory of biogeography}}{134}{chapter.4}
-\contentsline {subsection}{\numberline {4.0.1}R\IeC {\'e}sum\IeC {\'e} en fran\IeC {\c c}ais du troisi\IeC {\`e}me article}{134}{subsection.4.0.1}
-\contentsline {subsection}{\numberline {4.0.2}Publication envisag\IeC {\'e}e}{134}{subsection.4.0.2}
-\contentsline {section}{\numberline {4.1}Introduction}{135}{section.4.1}
-\contentsline {section}{\numberline {4.2}Model description}{139}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Energetic constraints on local food webs}{140}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}Energy fluxes and transfer efficiency}{141}{subsection.4.2.2}
-\contentsline {subsection}{\numberline {4.2.3}Extinctions}{144}{subsection.4.2.3}
-\contentsline {subsection}{\numberline {4.2.4}Simulations}{145}{subsection.4.2.4}
-\contentsline {section}{\numberline {4.3}Results}{145}{section.4.3}
-\contentsline {section}{\numberline {4.4}Discussion}{146}{section.4.4}
-\contentsline {chapter}{\MakeUppercase {Conclusion g\'en\'erale}}{153}{section*.74}
+\contentsline {section}{\numberline {3.6}Results}{103}{section.3.6}
+\contentsline {subsection}{\numberline {3.6.1}Discussion}{108}{subsection.3.6.1}
+\contentsline {subsection}{\numberline {3.6.2}Box 1}{111}{subsection.3.6.2}
+\contentsline {section}{\numberline {3.7}Supporting Information}{115}{section.3.7}
+\contentsline {subsection}{\numberline {3.7.1}Material and methods}{115}{subsection.3.7.1}
+\contentsline {subsubsection}{\numberline {3.7.1.1}Datasets}{115}{subsubsection.3.7.1.1}
+\contentsline {paragraph}{\numberline {3.7.1.1.1}Traits-based distance}{115}{paragraph.3.7.1.1.1}
+\contentsline {subsubsection}{\numberline {3.7.1.2}North American Trees}{115}{subsubsection.3.7.1.2}
+\contentsline {subsubsection}{\numberline {3.7.1.3}French Breeding Birds Survey datasets}{115}{subsubsection.3.7.1.3}
+\contentsline {paragraph}{\numberline {3.7.1.3.1}Traits-based distance}{116}{paragraph.3.7.1.3.1}
+\contentsline {subsubsection}{\numberline {3.7.1.4}Building metawebs}{116}{subsubsection.3.7.1.4}
+\contentsline {subsection}{\numberline {3.7.2}Co-occurrence measurement}{116}{subsection.3.7.2}
+\contentsline {subsection}{\numberline {3.7.3}Hypergeometric distribution}{116}{subsection.3.7.3}
+\contentsline {subsection}{\numberline {3.7.4}GLM and RF}{117}{subsection.3.7.4}
+\contentsline {subsubsection}{\numberline {3.7.4.1}Climatic data}{117}{subsubsection.3.7.4.1}
+\contentsline {subsubsection}{\numberline {3.7.4.2}Generalized Linear Model}{118}{subsubsection.3.7.4.2}
+\contentsline {subsubsection}{\numberline {3.7.4.3}Random Forests}{118}{subsubsection.3.7.4.3}
+\contentsline {subsubsection}{\numberline {3.7.4.4}Evaluating the models}{118}{subsubsection.3.7.4.4}
+\contentsline {subsection}{\numberline {3.7.5}Supporting Tables}{118}{subsection.3.7.5}
+\contentsline {subsubsection}{\numberline {3.7.5.1}R packages used}{119}{subsubsection.3.7.5.1}
+\contentsline {subsubsection}{\numberline {3.7.5.2}Number of psecies used in the analyses}{120}{subsubsection.3.7.5.2}
+\contentsline {subsubsection}{\numberline {3.7.5.3}Functional traits North Anerocan Tree species studied}{121}{subsubsection.3.7.5.3}
+\contentsline {subsubsection}{\numberline {3.7.5.4}Boolean traits for the French Breeding Birds Survey.}{123}{subsubsection.3.7.5.4}
+\contentsline {section}{\numberline {3.8}Supporting Figures}{127}{section.3.8}
+\contentsline {chapter}{\numberline {\MakeUppercase {article} \MakeUppercase {4}} \\ \MakeUppercase {Towards a metabolic theory of biogeography}}{137}{chapter.4}
+\contentsline {subsection}{\numberline {4.0.1}R\IeC {\'e}sum\IeC {\'e} en fran\IeC {\c c}ais du troisi\IeC {\`e}me article}{137}{subsection.4.0.1}
+\contentsline {subsection}{\numberline {4.0.2}Publication envisag\IeC {\'e}e}{137}{subsection.4.0.2}
+\contentsline {section}{\numberline {4.1}Introduction}{138}{section.4.1}
+\contentsline {section}{\numberline {4.2}Model description}{142}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Energetic constraints on local food webs}{143}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Energy fluxes and transfer efficiency}{144}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Extinctions}{147}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}Simulations}{148}{subsection.4.2.4}
+\contentsline {section}{\numberline {4.3}Results}{148}{section.4.3}
+\contentsline {section}{\numberline {4.4}Discussion}{149}{section.4.4}
+\contentsline {chapter}{\MakeUppercase {Conclusion g\'en\'erale}}{156}{section*.74}
 \select@language {french}
-\contentsline {section}{Interactions \IeC {\'e}cologiques et distribution des esp\IeC {\`e}ces}{153}{section*.75}
-\contentsline {subsection}{Des mod\IeC {\`e}les th\IeC {\'e}oriques \IeC {\`a} d\IeC {\'e}velopper}{153}{section*.76}
-\contentsline {subsection}{Des th\IeC {\'e}ories pour mieux appr\IeC {\'e}hender les donn\IeC {\'e}es de co-occurrence}{155}{section*.77}
-\contentsline {section}{Vers une biog\IeC {\'e}ographie pr\IeC {\'e}dictive?}{158}{section*.78}
-\contentsline {subsection}{Les d\IeC {\'e}fis \IeC {\`a} relever dans un monde en changement}{158}{section*.79}
-\contentsline {subsection}{Des r\IeC {\`e}gles en \IeC {\'e}cologie?}{160}{section*.80}
-\contentsline {subsection}{Une th\IeC {\'e}orie int\IeC {\'e}grative de la biog\IeC {\'e}ographie}{162}{section*.81}
+\contentsline {section}{Interactions \IeC {\'e}cologiques et distribution des esp\IeC {\`e}ces}{156}{section*.75}
+\contentsline {subsection}{Des mod\IeC {\`e}les th\IeC {\'e}oriques \IeC {\`a} d\IeC {\'e}velopper}{156}{section*.76}
+\contentsline {subsection}{Des th\IeC {\'e}ories pour mieux appr\IeC {\'e}hender les donn\IeC {\'e}es de co-occurrence}{158}{section*.77}
+\contentsline {section}{Vers une biog\IeC {\'e}ographie pr\IeC {\'e}dictive?}{161}{section*.78}
+\contentsline {subsection}{Les d\IeC {\'e}fis \IeC {\`a} relever dans un monde en changement}{161}{section*.79}
+\contentsline {subsection}{Des r\IeC {\`e}gles en \IeC {\'e}cologie?}{163}{section*.80}
+\contentsline {subsection}{Une th\IeC {\'e}orie int\IeC {\'e}grative de la biog\IeC {\'e}ographie}{165}{section*.81}
 \select@language {french}
-\contentsline {chapter}{\numberline {\MakeUppercase {Annexe} I} \\ \MakeUppercase {Comment la biodiversit\IeC {\'e} s'installe en territoires isol\IeC {\'e}s}}{164}{annexe.1}
-\contentsline {section}{\numberline {5.5}Pr\IeC {\'e}ambule}{164}{section.5.5}
-\contentsline {section}{\numberline {5.6}Le mod\IeC {\`e}le de MacArthur et Wilson}{165}{section.5.6}
-\contentsline {section}{\numberline {5.7}Comment un mod\IeC {\`e}le d\IeC {\'e}terministe \IeC {\'e}merge-t-il de ph\IeC {\'e}nom\IeC {\`e}nes al\IeC {\'e}atoires?}{166}{section.5.7}
-\contentsline {subsection}{\numberline {5.7.1}Mod\IeC {\`e}le stochastique?}{166}{subsection.5.7.1}
-\contentsline {subsection}{\numberline {5.7.2}Les objets math\IeC {\'e}matiques requis}{167}{subsection.5.7.2}
-\contentsline {subsection}{\numberline {5.7.3}Les briques \IeC {\'e}l\IeC {\'e}mentaires du mod\IeC {\`e}le stochastique}{167}{subsection.5.7.3}
-\contentsline {subsection}{\numberline {5.7.4}Assemblons les briques!}{168}{subsection.5.7.4}
-\contentsline {subsection}{\numberline {5.7.5}Retrouvons le mod\IeC {\`e}le classique}{169}{subsection.5.7.5}
-\contentsline {section}{\numberline {5.8}Applications et perspectives}{170}{section.5.8}
+\contentsline {chapter}{\numberline {\MakeUppercase {Annexe} I} \\ \MakeUppercase {Comment la biodiversit\IeC {\'e} s'installe en territoires isol\IeC {\'e}s}}{167}{annexe.1}
+\contentsline {section}{\numberline {5.5}Pr\IeC {\'e}ambule}{167}{section.5.5}
+\contentsline {section}{\numberline {5.6}Le mod\IeC {\`e}le de MacArthur et Wilson}{168}{section.5.6}
+\contentsline {section}{\numberline {5.7}Comment un mod\IeC {\`e}le d\IeC {\'e}terministe \IeC {\'e}merge-t-il de ph\IeC {\'e}nom\IeC {\`e}nes al\IeC {\'e}atoires?}{169}{section.5.7}
+\contentsline {subsection}{\numberline {5.7.1}Mod\IeC {\`e}le stochastique?}{169}{subsection.5.7.1}
+\contentsline {subsection}{\numberline {5.7.2}Les objets math\IeC {\'e}matiques requis}{170}{subsection.5.7.2}
+\contentsline {subsection}{\numberline {5.7.3}Les briques \IeC {\'e}l\IeC {\'e}mentaires du mod\IeC {\`e}le stochastique}{170}{subsection.5.7.3}
+\contentsline {subsection}{\numberline {5.7.4}Assemblons les briques!}{171}{subsection.5.7.4}
+\contentsline {subsection}{\numberline {5.7.5}Retrouvons le mod\IeC {\`e}le classique}{172}{subsection.5.7.5}
+\contentsline {section}{\numberline {5.8}Applications et perspectives}{173}{section.5.8}
 \select@language {english}
-\contentsline {chapter}{\numberline {\MakeUppercase {Annexe} II} \\ \MakeUppercase {Un mod\IeC {\`e}le stochastique de la biog\IeC {\'e}ographie insulaire pour les r\IeC {\'e}seaux \IeC {\'e}cologiques dans un environnement abiotique variable}}{178}{annexe.2}
-\contentsline {section}{\numberline {6.9}Stochastic rules in MacArthur \& Wilson's model}{178}{section.6.9}
-\contentsline {section}{\numberline {6.10}A Markov chains model to describe island communities}{181}{section.6.10}
-\contentsline {subsection}{\numberline {6.10.1}Model for $P$ non-interacting species}{181}{subsection.6.10.1}
-\contentsline {subsection}{\numberline {6.10.2}$P$ Interacting species}{181}{subsection.6.10.2}
-\contentsline {section}{\numberline {6.11}Environmental gradient and island biogeography}{183}{section.6.11}
-\contentsline {section}{\numberline {6.12}Using Markov chains}{183}{section.6.12}
-\contentsline {section}{\numberline {6.13}Time continuous Markov chain}{185}{section.6.13}
-\contentsline {subsection}{\numberline {6.13.1}Solution for two species}{185}{subsection.6.13.1}
-\contentsline {subsection}{\numberline {6.13.2}Solution for $P$ species}{190}{subsection.6.13.2}
+\contentsline {chapter}{\numberline {\MakeUppercase {Annexe} II} \\ \MakeUppercase {Un mod\IeC {\`e}le stochastique de la biog\IeC {\'e}ographie insulaire pour les r\IeC {\'e}seaux \IeC {\'e}cologiques dans un environnement abiotique variable}}{181}{annexe.2}
+\contentsline {section}{\numberline {6.9}Stochastic rules in MacArthur \& Wilson's model}{181}{section.6.9}
+\contentsline {section}{\numberline {6.10}A Markov chains model to describe island communities}{184}{section.6.10}
+\contentsline {subsection}{\numberline {6.10.1}Model for $P$ non-interacting species}{184}{subsection.6.10.1}
+\contentsline {subsection}{\numberline {6.10.2}$P$ Interacting species}{184}{subsection.6.10.2}
+\contentsline {section}{\numberline {6.11}Environmental gradient and island biogeography}{186}{section.6.11}
+\contentsline {section}{\numberline {6.12}Using Markov chains}{186}{section.6.12}
+\contentsline {section}{\numberline {6.13}Time continuous Markov chain}{188}{section.6.13}
+\contentsline {subsection}{\numberline {6.13.1}Solution for two species}{188}{subsection.6.13.1}
+\contentsline {subsection}{\numberline {6.13.2}Solution for $P$ species}{193}{subsection.6.13.2}
 \select@language {english}
-\contentsline {chapter}{\numberline {\MakeUppercase {Annexe} III} \\ \MakeUppercase {Probabilit\IeC {\'e}s de transition entre r\IeC {\'e}seaux trophiques}}{192}{annexe.3}
-\contentsline {section}{\numberline {7.14}The model}{193}{section.7.14}
-\contentsline {section}{\numberline {7.15}Reasonable approximations}{196}{section.7.15}
-\contentsline {section}{\numberline {7.16}Deriving species richness}{197}{section.7.16}
-\contentsline {chapter}{\MakeUppercase {R\'ef\'erences}}{200}{section*.87}
+\contentsline {chapter}{\numberline {\MakeUppercase {Annexe} III} \\ \MakeUppercase {Probabilit\IeC {\'e}s de transition entre r\IeC {\'e}seaux trophiques}}{195}{annexe.3}
+\contentsline {section}{\numberline {7.14}The model}{196}{section.7.14}
+\contentsline {section}{\numberline {7.15}Reasonable approximations}{199}{section.7.15}
+\contentsline {section}{\numberline {7.16}Deriving species richness}{200}{section.7.16}
+\contentsline {chapter}{\MakeUppercase {R\'ef\'erences}}{203}{section*.87}
 \select@language {english}
 \select@language {english}
