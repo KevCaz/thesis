@@ -3,16 +3,8 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: thesekc.aux
 A level-1 auxiliary file: liminaires.aux
 The style file: apalike.bst
-Reallocated field_info (elt_size=4) to 10390 items from 5000.
+Reallocated field_info (elt_size=4) to 10544 items from 5000.
 Database file #1: /Users/KevCaz/Documents/library.bib.bib
-Repeated entry---line 5878 of file /Users/KevCaz/Documents/library.bib.bib
- : @article{Dray2007
- :                  ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 10613 of file /Users/KevCaz/Documents/library.bib.bib
- : @article{Gotelli2000
- :                     ,
-I'm skipping whatever remains of this entry
 Reallocated buffer (elt_size=1) to 40000 items from 20000.
 Reallocated sv_buffer (elt_size=1) to 40000 items from 20000.
 Reallocated ex_buf (elt_size=1) to 40000 items from 20000.
@@ -25,86 +17,93 @@ Reallocated ex_buf (elt_size=1) to 60000 items from 40000.
 Reallocated out_buf (elt_size=1) to 60000 items from 40000.
 Reallocated name_tok (elt_size=4) to 60000 items from 40000.
 Reallocated name_sep_char (elt_size=1) to 60000 items from 40000.
-Repeated entry---line 16028 of file /Users/KevCaz/Documents/library.bib.bib
- : @article{Bellard2012
- :                     ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 16107 of file /Users/KevCaz/Documents/library.bib.bib
- : @article{Leibold2004
- :                     ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 16413 of file /Users/KevCaz/Documents/library.bib.bib
- : @article{Ricklefs1987
- :                      ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 16530 of file /Users/KevCaz/Documents/library.bib.bib
- : @article{Koh2004
- :                 ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 16561 of file /Users/KevCaz/Documents/library.bib.bib
- : @book{Holyoak2005
+Repeated entry---line 9351 of file /Users/KevCaz/Documents/library.bib.bib
+ : @article{Dray2007
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 16568 of file /Users/KevCaz/Documents/library.bib.bib
+Repeated entry---line 15960 of file /Users/KevCaz/Documents/library.bib.bib
+ : @article{Gotelli2000
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 16229 of file /Users/KevCaz/Documents/library.bib.bib
  : @article{Baiser2012
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 16598 of file /Users/KevCaz/Documents/library.bib.bib
+Repeated entry---line 16283 of file /Users/KevCaz/Documents/library.bib.bib
+ : @article{Leibold2004
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 16393 of file /Users/KevCaz/Documents/library.bib.bib
+ : @article{Koh2004
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 16472 of file /Users/KevCaz/Documents/library.bib.bib
+ : @article{Ricklefs1987
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 16559 of file /Users/KevCaz/Documents/library.bib.bib
+ : @book{Holyoak2005
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 16612 of file /Users/KevCaz/Documents/library.bib.bib
  : @article{Suttle2007
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 16786 of file /Users/KevCaz/Documents/library.bib.bib
+Repeated entry---line 16835 of file /Users/KevCaz/Documents/library.bib.bib
  : @article{Davis1998
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 17277 of file /Users/KevCaz/Documents/library.bib.bib
+Repeated entry---line 16883 of file /Users/KevCaz/Documents/library.bib.bib
+ : @article{Bellard2012
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 17083 of file /Users/KevCaz/Documents/library.bib.bib
  : @article{Brooks2014
  :                    ,
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "Shenbrot2007t"
-Warning--I didn't find a database entry for "William2000"
+Warning--I didn't find a database entry for "tbl:scena"
+Warning--I didn't find a database entry for "fig:etib4"
 Warning--empty journal in Cazelles2015a
 Warning--there's a number but no volume in Cazelles2015a
-Warning--empty publisher in Coyne2004
-You've used 243 entries,
+You've used 250 entries,
             1935 wiz_defined-function locations,
-            2012 strings with 54285 characters,
-and the built_in function-call counts, 114725 in all, are:
-= -- 10949
-> -- 6284
-< -- 125
-+ -- 2245
-- -- 2240
-* -- 11035
-:= -- 20122
-add.period$ -- 734
-call.type$ -- 243
-change.case$ -- 2313
-chr.to.int$ -- 238
-cite$ -- 246
-duplicate$ -- 3459
-empty$ -- 7142
-format.name$ -- 2595
-if$ -- 21681
+            2054 strings with 55493 characters,
+and the built_in function-call counts, 117852 in all, are:
+= -- 11263
+> -- 6415
+< -- 127
++ -- 2289
+- -- 2284
+* -- 11329
+:= -- 20656
+add.period$ -- 756
+call.type$ -- 250
+change.case$ -- 2370
+chr.to.int$ -- 245
+cite$ -- 252
+duplicate$ -- 3557
+empty$ -- 7362
+format.name$ -- 2650
+if$ -- 22286
 int.to.chr$ -- 6
 int.to.str$ -- 0
-missing$ -- 255
-newline$ -- 1213
-num.names$ -- 738
-pop$ -- 1836
+missing$ -- 263
+newline$ -- 1249
+num.names$ -- 759
+pop$ -- 1879
 preamble$ -- 1
-purify$ -- 2331
+purify$ -- 2388
 quote$ -- 0
-skip$ -- 2577
+skip$ -- 2648
 stack$ -- 0
-substring$ -- 8319
-swap$ -- 294
+substring$ -- 8604
+swap$ -- 301
 text.length$ -- 11
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1424
-warning$ -- 3
-while$ -- 915
+type$ -- 1464
+warning$ -- 2
+while$ -- 941
 width$ -- 0
-write$ -- 3151
+write$ -- 3245
 (There were 11 error messages)

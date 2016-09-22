@@ -1,20 +1,105 @@
-\chapter{Do interacting species co-occur differently from not-interacting species?}
+\chapter{Quelles traces les interactions biotiques laissent-elles dans les données de co-occurrence des espèces?}
 \label{chap3}
 
 \section{Résumé en français du troisième article}
 
-Dans ce troisième article, je me suis me confronter aux données d'occurrence qui sont une données essentielle en biogéograhie pour répondre avec ces données à la question centrale de ma thèse~:Afin de répondre èà la quetsion centrale de ma thèse sur le rôle des interactions dans les conséquencens
-Le but de l'article est de tester les prédictions du chapitre précédents, pour évaluer la pertinence d'utiliser l'information
-contenue dans les réseaux écologiques pour expliquer les co-occurrences.
-Bien que la théori ait été dévoloppé, les données requisent osnt particulièrement rares car elles demandesnt des distribution d'une même communauté sur un large gradient. Dominique Gravel a cependent réussi à réunir de tels jeux de données. Notamment grâce à la partcipiation de Thomas Roselin, Bo Dalsgaard, Wilfred Thuillier, Benjamin Baiser qui nous ont données accès à quatre jeux de données dont les efforts pour les constitués ont été conséquents et je suis redevable à tous ceux qui ont permis la réalisation.
+Dans ce troisième article, je me suis me intéressé aux données de co-occurrence.
+Ces données, très importantes en biogéographie, sont des enregistrements
+de présences et d'absences pour un certain nombre d'espèces
+le long d'un gradient géographique (par exemple latitudinal).
+On dispose alors d’un grand nombre de sites sur lesquels les conditions abiotiques
+varient et pour lesquels nous disposons également de la connaissance
+d’une partie du contexte biotiques (les présences de différentes espèces).
+En plus de ces informations, les jeux de données présentés sont munis
+d’observations relatives aux information réelles avec lesquelles il es possible
+de construire des réseaux d'interaction. J'ai donc analysé la co-occurrence à la
+lumière des propriétés des réseaux de type trophiques, mutualistes ou de compétition
+avec des espèces plus ou moins généralistes ce qui m’a permis de tester les
+hypothèses faîtes au chapitre \ref{chap2}.
 
-J'ai anlyser la co-occurrence à la lumnière du réseaux pour certain jeux de donnes les inetraction spour un jeux de données sur les arbres nous avons sonctruit un arbre de trait fincitonnel et suput.é uteacrtion. Nos résulats jettent une lumière forteintéressante nous montrons que quand les espèces sont éloignos dans  que les inetractions ont très porbablement un effet sur la co-occureence mais que la détection de cet effet est très vite rendu impossible quand 1) les espèces sont éloignés dans le réseaux et 2) quand les interactions sont nombreuses. Les interaction indirectes n'ont donc pas d'effet mais aussi le nombre affecte notre capcité de sdetection. Il ne fat donc pas conslue et aussi pensé que ce qui est vrai dans un mondre riche en esèces ne l'est pas quand nous alterrons la biovidersité.
+
+Nos résultats montrent que les interactions ont un effet sur la co-occurrence
+mais que la détection de cet effet est délicate quand 1) les espèces sont éloignées
+dans le réseaux :les interaction indirectes sont finalement presque
+indétectables et 2) quand les interactions sont nombreuses, il est plus
+difficile de trouver des signaux de co-occurrence\footenote{Il s'agit de
+dévations par rapport à des attendus sous l'hypothèse que n'ont pas d'influence}
+pour les espèces généralistes. De plus, en intégrant la similarité des facteurs
+abiotiques pour les différents sites, je montre que les signaux de
+co-occurrence s’affaiblissent et parfois disparaissent. Mes résultats suggèrent
+donc qu’en utilisant des facteurs abiotiques pour inférer les probabilités de
+co-occurrence, une partie du lien entre les espèces est capturée, mais cette
+part est entachée d’une grande incertitude. Ceci vient questionner la
+qualité des prédictions données par les modèles classiques de distribution
+d'espèces actuellement utilisés. Nos résultats jettent une lumière forte
+intéressante sur un débat classique en
+écologie concernant la détection des interaction à partir des aires de
+distribution. Nous montrons que la configuration du réseau est aussi
+importante et qu’il ne faut pas trop rapidement conclure que les espèces sont
+indépendantes, ce qui est souvent à la base des projections que nous faisons
+pour anticiper les changements de biodiversité.
 
 
 
 \subsection{Publication envisagée}
 
-Due à la nouveauté de nos résultats et la qualité des données j'envsage, J,ai rédigé je serais premier auteur, Dominique Gravel à supervisé dernier et tous les auteures ayanit apportés des données et aprticipé à la rédaction serint includ dans la liste des auteurs. Nous souhaiterins publié dans un et nuso envsoageon de sounettre dans les prochaines semaines à \emph{Proceedings of the National Academy of Sciences} ou le récent journal \emph{Nature Ecology \& Evolution}.
+Le travail ici présenté a été rendu possible grâce à une collaboration entre différents
+chercheurs menée avec Dominique Gravel. Les jeux de données que j'ai analysé
+sont, en effet, difficiles à trouver et particulièrement riche en informations.
+Je remercie tous les chercheurs qui m'ont accordé leur confiance
+pour analyser les données et toutes les personnes qui ont contribué à la collecte
+des données. Pour les données sur les colibris et les plantes des Caraïbes,
+je remecie Bo Dalsgaard, Louise J. Lehmann, Ana M. Martín González,
+Andrea Baquero, Allan Timmermann. Pour les données sur les communautés des feuilles de Saules,
+je remercie Tomas Roslin. Pour les données sur les communautés microbiennes des
+Sarracénies (\emph{Sarracenia purpurea}), je remercie Benjamin Baiser.
+Pour les données du Suivi Temporel des Oiseaux Communs (STOC), je remercie Wilfried Thuiller
+et pour les données des arbres, je remercie Dominique Gravel et Steve Vissault.
+
+L'article qui suit est le fruit de discussions avec Dominique Gravel sur le type
+d'analyse à mener pour donner suite au chapitre \ref{chap2}. Je me suis occupé
+de l'ensemble des analyses, des figures, de la rédaction de la première version
+relue par Dominique Gravel. J'ai également bénéficié d'une précieuse et
+attentive relecture de David Beauchesne que je merci chaleureusement.
+Due à la qualité des jeux de données, à l'originalité de nos analyses et
+nos résultats, je nourris l'espoir que mes résulats intéresseront
+une revue généraliste. C'est pour cela que le chapitre est dans un format court avec une
+longue section "Supplementary information" (SI, \ref{chap3si}). Se confronter
+à la rédaction en format court fut aussi un exercie très enrichissant bien que délicat.
+
+
+
+
+\subsection{Traduction du résumé en anglais}
+
+Un problème majeur en biogéographie et en modélisation de la biodiversité
+est de savoir si la co-occurrence des espèces contient une trace des
+interactions. L'hypothèse conventionnelle affirme que les interactions
+négatives et positives conduiraient respectivement à des répulsions et
+des attractions. La rareté des jeux de données combinant des distributions
+à larges échelles avec des données d'interactions a longtemps empêché
+les biogéographes d'obtenir des idées claires sur ce problème. Pour répondre
+à cette question, nous avons utilisé cinq jeux de données sur un large
+gradient de conditions climatiques incluant des informations sur les interactions écologiques,
+représentant un total de 793 espèces pour 354015 observations de co-occurrence.
+Nous avons comparé la co-occurrence des pairs d'espèces interagissant avec
+celle de paire d'espèces n'interagissant pas en intégrant ou non les
+variables abiotiques. Nous avons trouvé un effet des interactions sur la
+distribution des espèce de co-occurrence brute mais pas de preuve d'un tel
+effet lorsque les variables abiotiques étaient intégrées. De plus, nous avons
+trouvé que certaines propriétés du réseau d'interactions pouvaient masquer l'impact
+des interactions sur la co-occurrence. Nous avons ainsi montré que plus le nombre
+d'interactions qu'une espèce entretenait était grand, plus notre capacité
+à détecter le signal dans les données d'interactions statiques était faible.
+De plus, nous démontrons clairement que le signal de co-occurrence entre un
+prédateur et ses proies disparait quand la proportion de sites couverts par
+l'ensemble de proie augmente. Dans un contexte où les écosystèmes sont
+fortement perturbés par l'activité humaine, nos résultats insistent
+sur le besoin d'intégrer les processus écologiques dans les
+modes de distribution d'espèces pour mieux prédire la biodiversité de demain.
+
+
+
 
 
 
@@ -39,16 +124,16 @@ this problem. To address this question, we compile five datasets of
 species distribution over a large range of climatic conditions, along
 with their ecological interactions, representing of a total 793 species
 and 354015 occurrence observations. We compared co-occurrence of
-interacting versus non-interacting pairs of species and found no clear
-effect of interactions on distribution. We however found that some
-properties of the network of interactions could hide the impact of
-interactions on co-occurrence. When show that the larger the number of
+interacting versus non-interacting pairs of species accounting or not
+for abiotic variables. We found an effect of interactions on species
+distribution in raw co-occurrence data but no clear evidence of such
+effect once when accounted for abiotic factors. Moreover we found that
+some properties of the network of interactions could hide the impact of
+interactions on co-occurrence. We showed that the larger the number of
 interactions a species is experiencing, the weaker our ability to detect
 signals in static co-occurrence data. Also, we clearly demonstrate that
 the signal of co-occurrence between a predator and its preys vanishes
 when the proportion of the sites covered by the set of preys increases.
-Our findings suggest that most methods for species distribution modeling
-may often fail in describing appropriately fundamental climatic niches.
 In a context where ecosystems are dramatically disturbed by human
 activities, our results emphasize the need for integrating ecological
 processes into distribution models to better predict tomorrow's
@@ -658,9 +743,9 @@ already analyzed (see SI \ref{chap3si}).\label{fig:degocc}}
 \subsection{Material and methods}\label{material-and-methods-1}
 
 In this section, we present in more details, the datasets and the
-methodology we used. All analyses have been performed using R
-environment software and Table \ref{tbl:rpkges} includes functions and
-packages we used.
+methodology we used. All analyses have been performed using the R
+environment software and Table \ref{tbl:rpkges} present the functions
+and packages we used.
 
 \subsubsection{Datasets}\label{datasets-1}
 
@@ -680,10 +765,10 @@ retrieved from \citep{Paquette2011}, see Supplementary Table
 \url{http://onlinelibrary.wiley.com/doi/10.1111/j.1466-8238.2010.00592.x/suppinfo}.
 Each of the nine selected variables were centered and scaled (R
 functions used reported in Table \ref{tbl:rpkges}) then used as is to
-derive Euclidean distances for all pairs of species. Then, we use
+derive Euclidean distances for all pairs of species. Then, we used
 agglomeration clustering with the Ward's method (implemented in the
-\emph{hclust()} function we used, see Table \ref{tbl:rpkges}) to obtain
-the dendrogram presented in \ref{fig:dendro}.
+\emph{hclust()} function, see Table \ref{tbl:rpkges}) to obtain the
+dendrogram presented in \ref{fig:dendro}.
 
 \subsubsection{French Breeding Birds Survey
 datasets}\label{french-breeding-birds-survey-datasets}
@@ -691,7 +776,7 @@ datasets}\label{french-breeding-birds-survey-datasets}
 \paragraph{Traits-based distance}\label{traits-based-distance-1}
 
 We used 73 traits that are boolean variables reported in Table
-\ref{tbl:trtfbbs}) based on which we derive Euclidean distances between
+\ref{tbl:trtfbbs} based on which we derive Euclidean distances between
 all pairs of species.
 
 \subsubsection{Building metawebs}\label{building-metawebs}
@@ -704,7 +789,7 @@ package \emph{igraph} (Table \ref{tbl:rpkges}).
 \subsection{Co-occurrence measurement}\label{co-occurrence-measurement}
 
 As mentioned in the main text, for three different scenarios, we derive
-a standardized co-occurrence : for a given pair of species \(i\) and
+a standardized co-occurrence: for a given pair of species \(i\) and
 \(j\), we examined \(\frac{O_{i,j}-E_{i,j}}{SD_{i,j}}\). Here, we
 provide more information about the three methods wed used to analyze
 co-occurrence.
@@ -713,13 +798,13 @@ co-occurrence.
 distribution}\label{hypergeometric-distribution}
 
 This distribution has been mentioned in a different context
-\citep[see][]{Gilpin1982} and have been fully exploited in
-\citet{Veech2013} despite the author never mentioned it is a classical
-distribution. To clarify this, we start from the distribution written in
-equation (1) in \citet{Veech2013}. We consider the co-occurrence of two
-species on \(n\) sites. Species 1 is present in \(n_1\) while species 2
-is present in \(n_2\) sites. The probability of having \(j\)
-co\_occurrence, \(p_j\) is:
+\citep[see][]{Gilpin1982} and has been fully exploited in
+\citet{Veech2013} despite the author never referring to it as a
+classical distribution. To clarify this, we start from the distribution
+written in equation (1) in \citet{Veech2013}. We consider the
+co-occurrence of two species on \(n\) sites. Species 1 is present in
+\(n_1\) while species 2 is present in \(n_2\). The probability of having
+\(j\) co\_occurrence, \(p_j\) is:
 
 \[ p_j= \frac{\binom{n}{j} \binom{n-j}{n_2-j} \binom{n-n_2}{n_1-j}}{\binom{n}{n_2} \binom{n}{n_2}} \]
 
@@ -737,46 +822,46 @@ once sorted out, this yields:
 \[ p_j= \frac{\binom{n_1}{j} \binom{n-n_1}{n_2-j}}{\binom{n}{n_2}} \]
 
 Thus, the number of co-occurrence follows a hypergeometric distribution
-of parameters \((n,n_1,n_2)\) we used to calculated the expected
-co-occurrence \(E_{i,j}\) under the hypothesis that all site were
+of parameters \((n,n_1,n_2)\), which we used to calculate the expected
+co-occurrence \(E_{i,j}\) under the hypothesis that all sites were
 identical for all species.
 
 \subsection{GLM and RF}\label{glm-and-rf}
 
-For GLM and RF, \(E_{i,j}\) correspond to probabilities of occurrence
+For GLM and RF, \(E_{i,j}\) corresponds to probabilities of occurrence
 computed based on climatic data. R functions are reported in Table
 \ref{tbl:rpkges}.
 
 \subsubsection{Climatic data}\label{climatic-data}
 
-We used the global climate layers provided data WolrdClim, version 1.4,
-available online at \url{http://www.worldclim.org} \citep{Hijmans2005}.
-For each dataset, we performed a principal component analysis and keep
-as many axes as needed to explain 90\% of the total inertia. We used
-these axes for GLMs and RFs.
+We used the global climate layers provided by the data WolrdClim,
+version 1.4, available online at \url{http://www.worldclim.org}
+\citep{Hijmans2005}. For each dataset, we performed a principal
+component analysis and kept as many axes as needed to explain 90\% of
+the total inertia. We used these axes for GLMs and RFs.
 
 \subsubsection{Generalized Linear Model}\label{generalized-linear-model}
 
 For all datasets, we performed a Generalized Linear Model
 \citep{Elith2006} using all the axes provided by the PCA as polynomials
-of degree 2. To constraints the number of parameters, we did not
-evaluate the interactions among axis. We also performed a selection
-model based on the Akaike's information criterion (AIC) C in a Stepwise
-Algorithm. R functions used to carry out the analyses are indexed in
-Table \ref{tbl:rpkges}.
+of degree 2. To constrain the number of parameters, we did not evaluate
+the interactions among axis. We also performed model selection based on
+the Akaike's information criterion (AIC) in a Stepwise Algorithm
+\citep{burnham2013model}. R functions used to carry out the analyses are
+indexed in Table \ref{tbl:rpkges}.
 
 \subsubsection{Random Forests}\label{random-forests}
 
 Random Forests \citep{Prasad2006} were performed using the same formula
 as for GLMs. For all species, 10000 trees were computed and the
-probability for a species being in a given site were calculated based on
+probability of a species being in a given site were calculated based on
 the number of votes the sites were granted.
 
 \subsubsection{Evaluating the models}\label{evaluating-the-models}
 
-For all species, we assess the performance of the Species Distribution
-Models we used, \emph{i.e.} Generalized Linear Model and Random Forest,
-using the Area Under the Receiver Operating Characteristic
+For all species, we assessed the performance of the Species Distribution
+Models, \emph{i.e.} Generalized Linear Model and Random Forest, using
+the Area Under the Receiver Operating Characteristic
 \citep[AUROC,][]{Elith2006}. We present the results as a cumulative sum
 of frequencies corresponding to the score for all species for each of
 the four ecological systems we studied (see Fig. \ref{fig:ratauc}).
@@ -1044,10 +1129,9 @@ Gymnosperm species are in a lighter grey.\label{fig:dendro}}
 \begin{figure}[htbp]
 \centering
 \includegraphics{../fig/figS3.pdf}
-\caption{\textbf{Evaluation of the SDM approaches} For each dataset, the
-distributions of performance of generalized linear models (light grey
-symbols) and random Forest (dark grey symbols) for all species are
-presented.\label{fig:auc}}
+\caption{\textbf{Evaluation of the SDMs} For each dataset, the
+distributions of AUC for GLMs (light grey symbols) and RFs (dark grey
+symbols) for all species are presented.\label{fig:auc}}
 \end{figure}
 
 \newpage
@@ -1057,17 +1141,18 @@ presented.\label{fig:auc}}
 \includegraphics{../fig/figS4.pdf}
 \caption{** Co-occurrence and the nature of the trait-based distance in
 the FBBS dataset** The different panels correspond to four different set
-of trait upon which for different distance are built. Similar species
-are defined as the species for which the trait-based distance is less
-than or equal to the lower decile of this distance distribution. Note
-that outliers are not displayed. The light grey rectangle corresponds to
-the 95\% confidence interval for the standard normal distribution which
+of trait upon which different distances are built. Similar species are
+defined as the species for which the trait-based distance is less than
+or equal to the lower decile of this distance distribution. Note that
+outliers are not displayed. The light grey rectangle corresponds to the
+95\% confidence interval for the standard normal distribution which
 gives insight into the proportion of pairs of species significantly
 different from 0. P values were computed using the Wilcoxon rank sum
 test, to compare interacting versus not-interacting Z-score distribution
-calculated for the three different methods (black symbols) and to show
-whether whether Z-score were greater for hypergeometric versus GLM and
-whether GLM versus RF (grey symbols).\label{fig:dist}}
+calculated for the three different methods (black symbols). They were
+also computed to show whether whether Z-score were greater for
+hypergeometric versus GLM and GLM versus RF (grey
+symbols).\label{fig:dist}}
 \end{figure}
 
 \newpage
@@ -1087,7 +1172,7 @@ species included within the distributions.\label{fig:sht_pth2}}
 \begin{figure}[htbp]
 \centering
 \includegraphics{../fig/figS6.pdf}
-\caption{\emph{Changes co-occurrence signal when increasing the distance
+\caption{\emph{Changes in co-occurrence signal with increased distance
 between two species} Points represent the result for all pairs of
 interaction for two datasets: the North American Tree dataset (A=C) and
 the FBBS (D-I). For the latter, we used the trait-based distance
@@ -1118,9 +1203,9 @@ the \(R^2\) is provided.\label{fig:degree}}
 \begin{figure}[htbp]
 \centering
 \includegraphics{../fig/figS8.pdf}
-\caption{*Reversed figure 4** This figures correspond to the figure 4 in
-the main text but the Z-score are calculated for preys (host plants)
-rather than for predators 9pollinators). Mean Z-score are computed for
+\caption{*Reversed figure 4** This figure corresponds to figure 4 in the
+main text, but the Z-score were calculated for preys (host plants)
+rather than for predators (pollinators). Mean Z-score are computed for
 willows (A-C) and herbivores (based on the herbivores-parasitoids only,
 D-F) of the willows leafs network, the hosts plants in the Caribbean
 hummingbirds datasets (G-I) and species that feed on the detritus in the

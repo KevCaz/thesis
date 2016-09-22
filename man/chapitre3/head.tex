@@ -1,9 +1,9 @@
-\chapter{La co-occurrence d'une paire d'espèce intéragissant est-elle différente de la co-occurrecnce d'une paire n'interagisssant pas?}
+\chapter{Quelles traces les interactions biotiques laissent-elles dans les données de co-occurrence des espèces?}
 \label{chap3}
 
 \section{Résumé en français du troisième article}
 
-Dans ce troisième article, je me suis me intéresser aux données de co-occurrence.
+Dans ce troisième article, je me suis me intéressé aux données de co-occurrence.
 Ces données, très importantes en biogéographie, sont des enregistrements
 de présences et d'absences pour un certain nombre d'espèces
 le long d'un gradient géographique (par exemple latitudinal).
@@ -15,22 +15,24 @@ d’observations relatives aux information réelles avec lesquelles il es possib
 de construire des réseaux d'interaction. J'ai donc analysé la co-occurrence à la
 lumière des propriétés des réseaux de type trophiques, mutualistes ou de compétition
 avec des espèces plus ou moins généralistes ce qui m’a permis de tester les
-hypothèses faîtes au chapitre \ref{chap2}
+hypothèses faîtes au chapitre \ref{chap2}.
 
 
-Les résultats montrent que les interactions ont un effet sur la co-occurrence
+Nos résultats montrent que les interactions ont un effet sur la co-occurrence
 mais que la détection de cet effet est délicate quand 1) les espèces sont éloignées
-dans le réseaux : les interaction indirectes sont finalement presque
-indétectables et 2) quand les interactions sont nombreuses : il est plus
-difficile de trouver des signaux de co-occurrence pour les espèces généralistes.
-De plus, en intégrant la similarité des facteurs abiotiques
-pour les différents sites, je montre que les signaux de co-occurrence
-s’affaiblissent et parfois disparaissent. Mes résultats suggèrent donc qu’en
-utilisant des facteurs abiotiques pour inférer les probabilités de co-occurrence,
-une partie du lien entre les espèces est capturée, mais cette part est entachée
-d’une grande incertitude. Ceci vient questionner la qualité des prédictions
-données par les modèles classiques de distribution d'espèces actuellement utilisés.
-Nos résultats jettent une lumière forte intéressante sur un débat classique en
+dans le réseaux :les interaction indirectes sont finalement presque
+indétectables et 2) quand les interactions sont nombreuses, il est plus
+difficile de trouver des signaux de co-occurrence\footenote{Il s'agit de
+dévations par rapport à des attendus sous l'hypothèse que n'ont pas d'influence}
+pour les espèces généralistes. De plus, en intégrant la similarité des facteurs
+abiotiques pour les différents sites, je montre que les signaux de
+co-occurrence s’affaiblissent et parfois disparaissent. Mes résultats suggèrent
+donc qu’en utilisant des facteurs abiotiques pour inférer les probabilités de
+co-occurrence, une partie du lien entre les espèces est capturée, mais cette
+part est entachée d’une grande incertitude. Ceci vient questionner la
+qualité des prédictions données par les modèles classiques de distribution
+d'espèces actuellement utilisés. Nos résultats jettent une lumière forte
+intéressante sur un débat classique en
 écologie concernant la détection des interaction à partir des aires de
 distribution. Nous montrons que la configuration du réseau est aussi
 importante et qu’il ne faut pas trop rapidement conclure que les espèces sont
@@ -39,32 +41,66 @@ pour anticiper les changements de biodiversité.
 
 
 
-
 \subsection{Publication envisagée}
 
-
-L'article a été rendu possible grâce à une collaboration entre différents
-chercheurs menéee avec Gravel. Les jeux de données que j'ai analysé
-sont en effet rares et particulièrement riche en informations.
+Le travail ici présenté a été rendu possible grâce à une collaboration entre différents
+chercheurs menée avec Dominique Gravel. Les jeux de données que j'ai analysé
+sont, en effet, difficiles à trouver et particulièrement riche en informations.
 Je remercie tous les chercheurs qui m'ont accordé leur confiance
-pour analyser les données et tous ceux qui ont contribué à la collect des données
-analysé. Pour les données sur les collibris et les plantes des Carraibes,
+pour analyser les données et toutes les personnes qui ont contribué à la collecte
+des données. Pour les données sur les colibris et les plantes des Caraïbes,
 je remecie Bo Dalsgaard, Louise J. Lehmann, Ana M. Martín González,
 Andrea Baquero, Allan Timmermann. Pour les données sur les communautés des feuilles de Saules,
-je remercie Tomas Roslin.Pour les données sur les communautés microbiennes des
+je remercie Tomas Roslin. Pour les données sur les communautés microbiennes des
 Sarracénies (\emph{Sarracenia purpurea}), je remercie Benjamin Baiser.
 Pour les données du Suivi Temporel des Oiseaux Communs (STOC), je remercie Wilfried Thuiller
 et pour les données des arbres, je remercie Dominique Gravel et Steve Vissault.
 
-L'article qui suit est le fruit de discussions avec Dominique Grave sur le type
-d'analyse à mener. Je me suis occupé de l'ensemble des analyses, des figures,
-de la rédaction de la première version relue par Dominique Gravel. J'ai
-bénéficié d'une précieurse relecture attentive de David Beauchesne que je
-merci particulièremnt. Due à l'originalité et la nouveauté de nos résultats
-produits sur des jeux de données, je nourris l'espoir que mes résulats intéresseront
-une revue généraliste. C'estpour cela que le chapitre est formatté court avec une
-longue section "Supplementary information" (SI, \ref{chap3si}). Ce fut aussi
-un exercie très enrichissant bien que délicat. 
+L'article qui suit est le fruit de discussions avec Dominique Gravel sur le type
+d'analyse à mener pour donner suite au chapitre \ref{chap2}. Je me suis occupé
+de l'ensemble des analyses, des figures, de la rédaction de la première version
+relue par Dominique Gravel. J'ai également bénéficié d'une précieuse et
+attentive relecture de David Beauchesne que je merci chaleureusement.
+Due à la qualité des jeux de données, à l'originalité de nos analyses et
+nos résultats, je nourris l'espoir que mes résulats intéresseront
+une revue généraliste. C'est pour cela que le chapitre est dans un format court avec une
+longue section "Supplementary information" (SI, \ref{chap3si}). Se confronter
+à la rédaction en format court fut aussi un exercie très enrichissant bien que délicat.
+
+
+
+
+\subsection{Traduction du résumé en anglais}
+
+Un problème majeur en biogéographie et en modélisation de la biodiversité
+est de savoir si la co-occurrence des espèces contient une trace des
+interactions. L'hypothèse conventionnelle affirme que les interactions
+négatives et positives conduiraient respectivement à des répulsions et
+des attractions. La rareté des jeux de données combinant des distributions
+à larges échelles avec des données d'interactions a longtemps empêché
+les biogéographes d'obtenir des idées claires sur ce problème. Pour répondre
+à cette question, nous avons utilisé cinq jeux de données sur un large
+gradient de conditions climatiques incluant des informations sur les interactions écologiques,
+représentant un total de 793 espèces pour 354015 observations de co-occurrence.
+Nous avons comparé la co-occurrence des pairs d'espèces interagissant avec
+celle de paire d'espèces n'interagissant pas en intégrant ou non les
+variables abiotiques. Nous avons trouvé un effet des interactions sur la
+distribution des espèce de co-occurrence brute mais pas de preuve d'un tel
+effet lorsque les variables abiotiques étaient intégrées. De plus, nous avons
+trouvé que certaines propriétés du réseau d'interactions pouvaient masquer l'impact
+des interactions sur la co-occurrence. Nous avons ainsi montré que plus le nombre
+d'interactions qu'une espèce entretenait était grand, plus notre capacité
+à détecter le signal dans les données d'interactions statiques était faible.
+De plus, nous démontrons clairement que le signal de co-occurrence entre un
+prédateur et ses proies disparait quand la proportion de sites couverts par
+l'ensemble de proie augmente. Dans un contexte où les écosystèmes sont
+fortement perturbés par l'activité humaine, nos résultats insistent
+sur le besoin d'intégrer les processus écologiques dans les
+modes de distribution d'espèces pour mieux prédire la biodiversité de demain.
+
+
+
+
 
 
 \emph{Les sections qui suivent sont celles de l'article envisagé.}

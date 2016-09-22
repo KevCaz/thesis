@@ -12,6 +12,14 @@ Allesina, S. and Tang, S. (2012).
 \newblock {Stability criteria for complex ecosystems.}
 \newblock {\em Nature}, 483(7388):205--208.
 
+\bibitem[Allouche et~al., 2012]{Allouche2012}
+Allouche, O., Kalyuzhny, M., Moreno-Rueda, G., Pizarro, M., and Kadmon, R.
+  (2012).
+\newblock {Area-heterogeneity tradeoff and the diversity of ecological
+  communities}.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  109(43):17495--17500.
+
 \bibitem[Anderson, 1972]{Anderson1972}
 Anderson, P.~W. (1972).
 \newblock {More is different.}
@@ -132,6 +140,12 @@ Brose, U., Williams, R.~J., and Martinez, N.~D. (2006).
 \newblock {Allometric scaling enhances stability in complex food webs.}
 \newblock {\em Ecology letters}, 9(11):1228--36.
 
+\bibitem[Brown et~al., 2013]{Brown2013}
+Brown, G.~P., Ujvari, B., Madsen, T., and Shine, R. (2013).
+\newblock {Invader impact clarifies the roles of top-down and bottom-up effects
+  on tropical snake populations}.
+\newblock {\em Functional Ecology}, 27(2):351--361.
+
 \bibitem[Brown, 1971]{Brown1971}
 Brown, J.~H. (1971).
 \newblock {Mechanisms of Competitive Exclusion Between Two Species of
@@ -156,6 +170,12 @@ Brown, J.~H. and Lomolino, M.~V. (1989).
 \newblock {Independent Discovery of the Equilibrium Theory of Island
   Biogeography}.
 \newblock {\em Ecology}, 70(6):1954--1957.
+
+\bibitem[Burnham and Anderson, 2013]{burnham2013model}
+Burnham, K.~P. and Anderson, D.~R. (2013).
+\newblock {\em {Model Selection and Inference: A Practical
+  Information-Theoretic Approach}}.
+\newblock Springer New York, second edi edition.
 
 \bibitem[Cahill et~al., 2013]{Cahill2013}
 Cahill, A.~E., Aiello-Lammens, M.~E., Fisher-Reid, M.~C., Hua, X., Karanewsky,
@@ -259,6 +279,7 @@ Costantino, R., Desharnais, R., Cushing, J., and Dennis, B. (1997).
 \bibitem[Coyne and Orr, 2004]{Coyne2004}
 Coyne, J.~A. and Orr, H.~A. (2004).
 \newblock {\em {Speciation}}.
+\newblock Sinauer Associates, Sunderland, MA.
 
 \bibitem[Cs{\'{a}}rdi and Nepusz, 2006]{Csardi2006}
 Cs{\'{a}}rdi, G. and Nepusz, T. (2006).
@@ -279,6 +300,12 @@ Davis, M.~a., Chew, M.~K., Hobbs, R.~J., Lugo, A.~E., Ewel, J.~J., Vermeij,
   K.~N., Ehrenfeld, J.~G., Grime, J.~P., Mascaro, J., and Briggs, J.~C. (2011).
 \newblock {Don't judge species on their origins.}
 \newblock {\em Nature}, 474(7350):153--4.
+
+\bibitem[de~Ruiter et~al., 1995]{DeRuiter1995}
+de~Ruiter, P.~C., Neutel, a.~M., and Moore, J.~C. (1995).
+\newblock {Energetics, patterns of interaction strengths, and stability in real
+  ecosystems.}
+\newblock {\em Science (New York, N.Y.)}, 269(5228):1257--1260.
 
 \bibitem[DeCandido et~al., 2004]{DeCandido2004}
 DeCandido, R., Muir, A.~A., and Gargiullo, M.~B. (2004).
@@ -1008,6 +1035,12 @@ Phillips, S.~J., Anderson, R.~P., and Schapire, R.~E. (2006).
 \newblock {Maximum entropy modeling of species geographic distributions}.
 \newblock {\em Ecological Modelling}, 190(3-4):231--259.
 
+\bibitem[Piechnik et~al., 2008]{Piechnik2008}
+Piechnik, D.~A., Lawler, S.~P., and Martinez, N.~D. (2008).
+\newblock {Food-web assembly during a classic biogeographic study: species'
+  "trophic breadth" corresponds to colonization order}.
+\newblock {\em Oikos}, 117(5):080211051304426--0.
+
 \bibitem[Pielou and Pielou, 1968]{Pielou1968}
 Pielou, D.~P. and Pielou, E.~C. (1968).
 \newblock {Association among species of infrequent occurrence: the insect and
@@ -1044,6 +1077,11 @@ Pollock, L.~J., Tingley, R., Morris, W.~K., Golding, N., O'Hara, R.~B., Parris,
 Popper, K.~R. (1959).
 \newblock {\em {The logic of scientific discovery}}.
 \newblock Hutchinson.
+
+\bibitem[Post et~al., 2000]{Post2000}
+Post, D.~M., Pace, M.~L., and Hairston, N.~G. (2000).
+\newblock {Ecosystem size determines food-chain length in lakes}.
+\newblock {\em Nature}, 405(6790):1047--1049.
 
 \bibitem[Post and Palkovacs, 2009]{Post2009}
 Post, D.~M. and Palkovacs, E.~P. (2009).
@@ -1366,6 +1404,11 @@ Urban, M.~C., Leibold, M.~A., Amarasekare, P., {De Meester}, L., Gomulkiewicz,
 Vanbergen, A.~J. (2013).
 \newblock {Threats to an ecosystem service: Pressures on pollinators}.
 \newblock {\em Frontiers in Ecology and the Environment}, 11(5):251--259.
+
+\bibitem[V{\'{a}}zquez and Stevens, 2004]{Vazquez2011a}
+V{\'{a}}zquez, D.~P. and Stevens, R.~D. (2004).
+\newblock {The Latitudinal Gradient in Niche Breadth: Concepts and Evidence}.
+\newblock {\em The American Naturalist}, 164(1):E1--E19.
 
 \bibitem[Veech, 2013]{Veech2013}
 Veech, J.~A. (2013).

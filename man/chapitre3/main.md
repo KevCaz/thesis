@@ -23,7 +23,7 @@ Do interacting species co-occur differently from not-interacting species?
 
 # Abstract
 
-A major problem in biogeography and biodiversity modeling is whether species co-occurrence holds an imprint of ecological interactions. The conventional hypothesis poses that negative and positive interactions should yield repulsion and attraction, respectively. The scarcity of datasets combining broad scale distributions with observed interactions has long prevented biogeographers from obtaining clear insights into this problem. To address this question, we compile five datasets of species distribution over a large range of climatic conditions, along with their ecological interactions, representing of a total 793 species and 354015 occurrence observations. We compared co-occurrence of interacting versus non-interacting pairs of species and found no clear effect of interactions on distribution. We however found that some properties of the network of interactions could hide the impact of interactions on co-occurrence. When show that the larger the number of interactions a species is experiencing, the weaker our ability to detect signals in static co-occurrence data. Also, we clearly demonstrate that the signal of co-occurrence between a predator and its preys vanishes when the proportion of the sites covered by the set of preys increases. Our findings suggest that most methods for species distribution modeling may often fail in describing appropriately fundamental climatic niches. In a context where ecosystems are dramatically disturbed by human activities, our results emphasize the need for integrating ecological processes into  distribution models to better predict tomorrow's biodiversity.
+A major problem in biogeography and biodiversity modeling is whether species co-occurrence holds an imprint of ecological interactions. The conventional hypothesis poses that negative and positive interactions should yield repulsion and attraction, respectively. The scarcity of datasets combining broad scale distributions with observed interactions has long prevented biogeographers from obtaining clear insights into this problem. To address this question, we compile five datasets of species distribution over a large range of climatic conditions, along with their ecological interactions, representing of a total 793 species and 354015 occurrence observations. We compared co-occurrence of interacting versus non-interacting pairs of species accounting or not for abiotic variables. We found an effect of interactions on species distribution in raw co-occurrence data but no clear evidence of such effect once when accounted for abiotic factors. Moreover we found that some properties of the network of interactions could hide the impact of interactions on co-occurrence. We showed that the larger the number of interactions a species is experiencing, the weaker our ability to detect signals in static co-occurrence data. Also, we clearly demonstrate that the signal of co-occurrence between a predator and its preys vanishes when the proportion of the sites covered by the set of preys increases. In a context where ecosystems are dramatically disturbed by human activities, our results emphasize the need for integrating ecological processes into  distribution models to better predict tomorrow's biodiversity.
 
 
 
@@ -459,8 +459,6 @@ If no difference are found, 0 is expected.](../fig/figConcept.pdf){#fig:box1}
 
 
 <!-- # Author Contributions
-- Camille Albouy
-- David Mouillot
 - Nicolas Mouquet
 - Benjamin Baiser
 - Loic Pelissier
@@ -495,7 +493,7 @@ If no difference are found, 0 is expected.](../fig/figConcept.pdf){#fig:box1}
 
 
 In this section, we present in more details, the datasets and the methodology we used.
-All analyses have been performed using R environment software and Table @tbl:rpkges includes
+All analyses have been performed using the R environment software and Table @tbl:rpkges present the
 functions and packages we used.
 
 
@@ -515,8 +513,8 @@ We used a distance built upon nine functional traits whose values were
 retrieved from [@Paquette2011], see Supplementary Table @tbl:trees available at [http://onlinelibrary.wiley.com/doi/10.1111/j.1466-8238.2010.00592.x/suppinfo](http://onlinelibrary.wiley.com/doi/10.1111/j.1466-8238.2010.00592.x/suppinfo).
 Each of the nine selected variables were centered and scaled
 (R functions used reported in Table @tbl:rpkges) then used as is to derive Euclidean
-distances for all pairs of species. Then, we use agglomeration clustering
-with the Ward’s method (implemented in the *hclust()* function we used, see
+distances for all pairs of species. Then, we used agglomeration clustering
+with the Ward’s method (implemented in the *hclust()* function, see
 Table @tbl:rpkges) to obtain the dendrogram presented in @fig:dendro.
 
 
@@ -524,7 +522,7 @@ Table @tbl:rpkges) to obtain the dendrogram presented in @fig:dendro.
 
 #### Traits-based distance
 
-We used 73 traits that are boolean variables reported in Table @tbl:trtfbbs)
+We used 73 traits that are boolean variables reported in Table @tbl:trtfbbs
 based on which we derive Euclidean distances between all pairs of species.
 
 
@@ -542,7 +540,7 @@ the degrees of species and the shortest-path, using the R package *igraph*
 ## Co-occurrence measurement
 
 As mentioned in the main text, for three different scenarios, we derive a
-standardized co-occurrence : for a given pair of species $i$ and $j$,
+standardized co-occurrence: for a given pair of species $i$ and $j$,
 we examined $\frac{O_{i,j}-E_{i,j}}{SD_{i,j}}$. Here, we provide more information
 about the three methods wed used to analyze co-occurrence.
 
@@ -551,11 +549,11 @@ about the three methods wed used to analyze co-occurrence.
 ## Hypergeometric distribution
 
 This distribution has been mentioned in a different context [see @Gilpin1982]
-and have been fully exploited in @Veech2013 despite the author never mentioned
-it is a classical distribution. To clarify this, we start from the distribution
+and has been fully exploited in @Veech2013 despite the author never referring to
+it as a classical distribution. To clarify this, we start from the distribution
 written in equation (1) in @Veech2013. We consider the co-occurrence of two
 species on $n$ sites. Species 1 is present in $n_1$ while species 2 is
-present in $n_2$ sites. The probability of having $j$ co_occurrence, $p_j$ is:
+present in $n_2$. The probability of having $j$ co_occurrence, $p_j$ is:
 
 $$ p_j= \frac{\binom{n}{j} \binom{n-j}{n_2-j} \binom{n-n_2}{n_1-j}}{\binom{n}{n_2} \binom{n}{n_2}} $$
 
@@ -572,23 +570,21 @@ once sorted out, this yields:
 $$ p_j= \frac{\binom{n_1}{j} \binom{n-n_1}{n_2-j}}{\binom{n}{n_2}} $$
 
 Thus, the number of co-occurrence follows a hypergeometric distribution of
-parameters  $(n,n_1,n_2)$ we used to calculated the expected co-occurrence
-$E_{i,j}$ under the hypothesis that all site were identical for all species.
+parameters $(n,n_1,n_2)$, which we used to calculate the expected co-occurrence
+$E_{i,j}$ under the hypothesis that all sites were identical for all species.
 
 
 ## GLM and RF
 
-For GLM and RF, $E_{i,j}$ correspond to probabilities of occurrence computed based on climatic data.
+For GLM and RF, $E_{i,j}$ corresponds to probabilities of occurrence computed based on climatic data.
 R functions are reported in Table @tbl:rpkges.
 
 
 ### Climatic data  
 
-<!-- We used eight climatic variables for the niche modelling, ex-
-tracted from the BIOCLIM database as 5 arc min grids (http:// www.worldclim.org/; Hijmans et al., 2005). -->
-We used the global climate layers provided data WolrdClim, version 1.4, available
+We used the global climate layers provided by the data WolrdClim, version 1.4, available
 online at [http://www.worldclim.org](http://www.worldclim.org) [@Hijmans2005].
-For each dataset, we performed a principal component analysis and keep as
+For each dataset, we performed a principal component analysis and kept as
 many axes as needed to explain 90% of the total inertia. We used these axes for
 GLMs and RFs.
 
@@ -596,17 +592,17 @@ GLMs and RFs.
 ### Generalized Linear Model
 
 For all datasets, we performed a Generalized Linear Model [@Elith2006] using all
-the axes provided by the PCA as polynomials of degree 2. To constraints the number
-of parameters, we did not evaluate the interactions among axis. We also performed a
-selection model based on the Akaike's information criterion (AIC) C in a Stepwise
-Algorithm. R functions used to carry out the analyses are indexed in Table @tbl:rpkges.
+the axes provided by the PCA as polynomials of degree 2. To constrain the number
+of parameters, we did not evaluate the interactions among axis. We also performed
+model selection based on the Akaike's information criterion (AIC) in a Stepwise
+Algorithm  [@burnham2013model]. R functions used to carry out the analyses are indexed in Table @tbl:rpkges.
 
 <!-- step(glm(fmla, data=pcas, family="binomial"), direction="both", trace=0) -->
 
 ### Random Forests
 
 Random Forests [@Prasad2006] were performed using the same formula as for GLMs.
-For all species, 10000 trees were computed and the probability for a species
+For all species, 10000 trees were computed and the probability of a species
 being in a given site were calculated based on the number of votes the sites
 were granted.
 
@@ -617,8 +613,8 @@ were granted.
 C. Villemant et al. / Biological Conservation 144 (2011) 2142–2150 2145
 (ROC) curve and the Area Under the Curve (AUC) (Fielding and Bell, 1997). We replicated the data splitting five times and calculated the average AUC of the cross-validations, -->
 
-For all species, we assess the performance of the Species Distribution Models
-we used, *i.e.* Generalized Linear Model and Random Forest, using the Area
+For all species, we assessed the performance of the Species Distribution Models,
+*i.e.* Generalized Linear Model and Random Forest, using the Area
 Under the Receiver Operating Characteristic [AUROC, @Elith2006]. We present
 the results as a cumulative sum of frequencies corresponding to the score for
 all species for each of the four ecological systems we studied (see Fig. @fig:ratauc).
@@ -810,11 +806,13 @@ grey.](../fig/figS2.pdf){#fig:dendro}
 
 \newpage
 
-![**Evaluation of the SDM approaches** For each dataset, the distributions of performance of generalized linear models (light grey symbols) and random Forest (dark grey symbols)  for all species are presented.](../fig/figS3.pdf){#fig:auc}
+![**Evaluation of the SDMs** For each dataset, the distributions of AUC for
+ GLMs (light grey symbols) and RFs (dark grey symbols) for all species
+ are presented.](../fig/figS3.pdf){#fig:auc}
 
 \newpage
 
-![** Co-occurrence and the nature of the trait-based distance in the FBBS dataset** The different panels correspond to four different set of trait upon which for different distance are built. Similar species are defined as the species for which the trait-based distance is less than or equal to the lower decile of this distance distribution. Note that outliers are not displayed. The light grey rectangle corresponds to the 95% confidence interval for the standard normal distribution which gives insight into the proportion of pairs of species significantly different from 0. P values were computed using the Wilcoxon rank sum test, to compare interacting versus not-interacting Z-score distribution calculated for the three different methods (black symbols) and to show whether whether Z-score were greater for hypergeometric versus GLM and whether GLM  versus RF (grey symbols).](../fig/figS4.pdf){#fig:dist}
+![** Co-occurrence and the nature of the trait-based distance in the FBBS dataset** The different panels correspond to four different set of trait upon which different distances are built. Similar species are defined as the species for which the trait-based distance is less than or equal to the lower decile of this distance distribution. Note that outliers are not displayed. The light grey rectangle corresponds to the 95% confidence interval for the standard normal distribution which gives insight into the proportion of pairs of species significantly different from 0. P values were computed using the Wilcoxon rank sum test, to compare interacting versus not-interacting Z-score distribution calculated for the three different methods (black symbols). They were also computed to show whether whether Z-score were greater for hypergeometric versus GLM and GLM versus RF (grey symbols).](../fig/figS4.pdf){#fig:dist}
 
 \newpage
 
@@ -822,7 +820,7 @@ grey.](../fig/figS2.pdf){#fig:dendro}
 
 \newpage
 
-![*Changes co-occurrence signal when increasing the distance between two species* Points represent the result for all pairs of interaction for two datasets: the North American Tree dataset (A=C) and the FBBS (D-I). For the latter, we used the trait-based distance computed with all available traits (D-F) and the body-size ratios (the lighter species over the heavier, panels G-I). In each panel, the equation on the bottom-left corner indicated the results of the linear regression depicted by the dotted line.](../fig/figS6.pdf){#fig:distrev}
+![*Changes in co-occurrence signal with increased distance between two species* Points represent the result for all pairs of interaction for two datasets: the North American Tree dataset (A=C) and the FBBS (D-I). For the latter, we used the trait-based distance computed with all available traits (D-F) and the body-size ratios (the lighter species over the heavier, panels G-I). In each panel, the equation on the bottom-left corner indicated the results of the linear regression depicted by the dotted line.](../fig/figS6.pdf){#fig:distrev}
 
 \newpage
 
@@ -830,7 +828,7 @@ grey.](../fig/figS2.pdf){#fig:dendro}
 
 \newpage
 
-![*Reversed figure 4** This figures correspond to the figure 4 in the main text but the Z-score are calculated for preys (host plants) rather than for predators 9pollinators). Mean Z-score are computed for willows (A-C) and herbivores (based on the herbivores-parasitoids only, D-F) of the willows leafs network, the hosts plants in the Caribbean hummingbirds datasets (G-I) and species that feed on the detritus in the pitcher plants network (panels J-L). The x-axis is expressed as a log proportion of the total number of sites included in the considered dataset. Black symbols are mean Z-scores significantly different from 0 (see SI Text). In each panel, the dotted line represents the linear regression $y~ax+b$ for which the $R^2$ is provided. The size of circles reflects the degree of species for which the Z-score was calculated, the relation size-degree for each row is given in the middle panel.](../fig/figS8.pdf){#fig:degocc2}
+![*Reversed figure 4** This figure corresponds to figure 4 in the main text, but the Z-score were calculated for preys (host plants) rather than for predators (pollinators). Mean Z-score are computed for willows (A-C) and herbivores (based on the herbivores-parasitoids only, D-F) of the willows leafs network, the hosts plants in the Caribbean hummingbirds datasets (G-I) and species that feed on the detritus in the pitcher plants network (panels J-L). The x-axis is expressed as a log proportion of the total number of sites included in the considered dataset. Black symbols are mean Z-scores significantly different from 0 (see SI Text). In each panel, the dotted line represents the linear regression $y~ax+b$ for which the $R^2$ is provided. The size of circles reflects the degree of species for which the Z-score was calculated, the relation size-degree for each row is given in the middle panel.](../fig/figS8.pdf){#fig:degocc2}
 
 \newpage
 
