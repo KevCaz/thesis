@@ -66,10 +66,10 @@ $(INTR): $(MD)
 $(CCL): $(MDC)
 	pandoc $< -o $@ $(PFLAGS)
 
-$(CHP3): $(CHP3MN)  $(CHP3HE)
-	cat  $(CHP3HE) $(CHP3MN) > $@
-	sed -i -e 's/..\/fig/chapitre3/g' chapitre3/chap3.tex
-	cp ~/ownCloud/Dom_cooc_inter/fig/fig* chapitre3/
+# $(CHP3): $(CHP3MN)  $(CHP3HE)
+# 	cat  $(CHP3HE) $(CHP3MN) > $@
+# 	sed -i -e 's/..\/fig/chapitre3/g' chapitre3/chap3.tex
+# 	cp ~/ownCloud/Dom_cooc_inter/fig/fig* chapitre3/
 
 $(CHP3MN): $(MDMAIN)
 	pandoc $< -o $@ $(PFLAGS)
