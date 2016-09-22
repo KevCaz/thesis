@@ -4,8 +4,8 @@
 \select@language {french}
 \gdef \the@ipfilectr {}
 \select@language {french}
-\contentsline {figure}{\numberline {1}{\ignorespaces \textbf {La Th\IeC {\'e}orie de la biog\IeC {\'e}ographie des Iles.} (A) illustre l'\IeC {\'e}volution des taux de colonisation et d'extinction pour deux \IeC {\^\i }les aux caract\IeC {\'e}ristiques diff\IeC {\'e}rentes. Les tailles relatives des \IeC {\^\i }les et les distances qui les s\IeC {\'e}parent du continent sont sch\IeC {\'e}matis\IeC {\'e}es sur la droite, les couleurs associent les \IeC {\^\i }les \IeC {\`a} leurs courbes respectives. Le r\IeC {\'e}servoir d'esp\IeC {\`e}ce r\IeC {\'e}gional (\(P\)) est constitu\IeC {\'e} de 100 esp\IeC {\`e}ces, les taux de colonisation et d'extinction sont exprim\IeC {\'e}s en terme de probabilit\IeC {\'e} d'\IeC {\'e}v\IeC {\'e}nement (de colonisation ou d'extinction). Les points marquent les intersections entre les courbes d'extinction et de colonisation c'est-\IeC {\`a}-dire lorsque ces processus s'\IeC {\'e}quilibrent. L'abscisse de ces points indique les richesses sp\IeC {\'e}cifiques de l'\IeC {\^\i }le \IeC {\`a} l'\IeC {\'e}quilibre \(S_{eq}\). (B) et (C) sont respectivement les Figures 4 et 5 extraites de l'article de 1963 de MacArthur et Wilson qui livre essentiellement le m\IeC {\^e}me message que celui illustr\IeC {\'e} en (A) \citep {MacArthur1963}. La forme convexe des courbes de 1963 est justifi\IeC {\'e}e par des facteurs biologiques qui ne sont pas int\IeC {\'e}gr\IeC {\'e}s dans l'\IeC {\'e}quation qui conf\IeC {\`e}re une forme concave aux courbes, comme montr\IeC {\'e} en (A).\relax }}{29}{figure.caption.29}
-\contentsline {figure}{\numberline {2}{\ignorespaces \textbf {Int\IeC {\'e}gration des interactions et des contraintes abiotiques dans la TIB.} Pour int\IeC {\'e}grer les interactions j'ai consid\IeC {\'e}r\IeC {\'e} non pas un ensemble d'esp\IeC {\`e}ces ind\IeC {\'e}pendantes mais des esp\IeC {\`e}ces au sein d'un r\IeC {\'e}seau d\IeC {\'e}crit \IeC {\`a} l'\IeC {\'e}chelle r\IeC {\'e}gionale (a). Comme dans la TIB, ces esp\IeC {\`e}ces peuvent coloniser l'\IeC {\^\i }le (b), mais les taux de colonisation varient le long d'un gradient environnemental (c). Enfin, les interactions influencent les taux d'extinction locale (d). Voir le chapitre \ref {chap1} pour une description compl\IeC {\`e}te du mod\IeC {\`e}le.\relax }}{36}{figure.caption.35}
+\contentsline {figure}{\numberline {1}{\ignorespaces La Th\IeC {\'e}orie de la Biog\IeC {\'e}ographie des Iles (TIB).}}{29}{figure.caption.29}
+\contentsline {figure}{\numberline {2}{\ignorespaces Int\IeC {\'e}gration des interactions et des contraintes abiotiques dans la TIB}}{36}{figure.caption.35}
 \select@language {english}
 \addvspace {0\p@ }
 \contentsline {figure}{\numberline {3}{\ignorespaces Dynamics of the community assembly}}{54}{figure.caption.39}
@@ -17,7 +17,7 @@
 \contentsline {figure}{\numberline {8}{\ignorespaces Co-occurrence in multi-species networks}}{88}{figure.caption.53}
 \addvspace {0\p@ }
 \contentsline {figure}{\numberline {9}{\ignorespaces Co-occurrence of interacting versus not-interacting pairs of species}}{104}{figure.caption.57}
-\contentsline {figure}{\numberline {10}{\ignorespaces Co-occurrence signal decays when the shortest path between a pair of species decay}}{105}{figure.caption.58}
+\contentsline {figure}{\numberline {10}{\ignorespaces Co-occurrence signal decays when the shortest path between a pair of species increases}}{105}{figure.caption.58}
 \contentsline {figure}{\numberline {11}{\ignorespaces Co-occurrence significance decreases as the cumulated occupancy increases}}{107}{figure.caption.59}
 \contentsline {figure}{\numberline {12}{\ignorespaces Probabilistic description of fundamental and realized niches}}{114}{figure.caption.60}
 \contentsline {figure}{\numberline {13}{\ignorespaces Sites of the study}}{128}{figure.caption.61}
@@ -30,20 +30,20 @@
 \contentsline {figure}{\numberline {20}{\ignorespaces Co-occurrence significance decreases as the cumulated occupancy of predators (pollinators) increases}}{135}{figure.caption.68}
 \contentsline {figure}{\numberline {21}{\ignorespaces \textbf {Predicting herbivores distributions based on the distributions of willows} For all herbivores in the WLN dataset, we compared the AUC obtained when using willow species they do not interact with (circles) or a willow species they interact with (squares) or the set of willow species they interacts with (triangles) as predictor variables to the AUC obtained for GLM (A) and RF (B). Positive values indicate that species based model outperformed the SDM model.\relax }}{136}{figure.caption.69}
 \addvspace {0\p@ }
-\contentsline {figure}{\numberline {22}{\ignorespaces \textbf {Species-Energy Relationship} using 100 replicates for each of the four scenarios for (A) mean species richness, (B) logarithm of the mean, and (C) coefficient of variation.\relax }}{152}{figure.caption.70}
-\contentsline {figure}{\numberline {23}{\ignorespaces \textbf {Species occurrence probability along an energy gradient, grouped by trophic level}; herbivores, or by their shortest path linking to a herbivore species. The top right letters indicates the scenarios.\relax }}{153}{figure.caption.71}
-\contentsline {figure}{\numberline {24}{\ignorespaces \textbf {Species occurrence probability by energy gradient grouped by body mass class}. The top right letters indicates the scenarios.\relax }}{154}{figure.caption.72}
-\contentsline {figure}{\numberline {25}{\ignorespaces \textbf {Average number of preys, predators, and mean body mass of predator species on the island} in regards to the energy gradient for four scenarios: (A) A,E,I, (B) B, F, J, (C) C, G, K, and (D) D, H, L.\relax }}{155}{figure.caption.73}
+\contentsline {figure}{\numberline {22}{\ignorespaces \textbf {Species-Energy Relationship} using 100 replicates for each of the four scenarios for (A) mean species richness, (B) logarithm of the mean, and (C) coefficient of variation.\relax }}{153}{figure.caption.70}
+\contentsline {figure}{\numberline {23}{\ignorespaces \textbf {Species occurrence probability along an energy gradient, grouped by trophic level}; herbivores, or by their shortest path linking to a herbivore species. The top right letters indicates the scenarios.\relax }}{154}{figure.caption.71}
+\contentsline {figure}{\numberline {24}{\ignorespaces \textbf {Species occurrence probability by energy gradient grouped by body mass class}. The top right letters indicates the scenarios.\relax }}{155}{figure.caption.72}
+\contentsline {figure}{\numberline {25}{\ignorespaces \textbf {Average number of preys, predators, and mean body mass of predator species on the island} in regards to the energy gradient for four scenarios: (A) A,E,I, (B) B, F, J, (C) C, G, K, and (D) D, H, L.\relax }}{156}{figure.caption.73}
 \select@language {french}
 \select@language {french}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {26}{\ignorespaces Repr\IeC {\'e}sentation graphique de la solution de l'\IeC {\'e}quation diff\IeC {\'e}rentielle}}{169}{figure.caption.82}
-\contentsline {figure}{\numberline {27}{\ignorespaces Dynamique de la biodiversit\IeC {\'e} de trois zones prot\IeC {\'e}g\IeC {\'e}es}}{174}{figure.caption.83}
-\contentsline {figure}{\numberline {28}{\ignorespaces Repr\IeC {\'e}sentation de la formule des probabilit\IeC {\'e}s totales.}}{179}{figure.caption.84}
+\contentsline {figure}{\numberline {26}{\ignorespaces Repr\IeC {\'e}sentation graphique de la solution de l'\IeC {\'e}quation diff\IeC {\'e}rentielle}}{170}{figure.caption.82}
+\contentsline {figure}{\numberline {27}{\ignorespaces Dynamique de la biodiversit\IeC {\'e} de trois zones prot\IeC {\'e}g\IeC {\'e}es}}{175}{figure.caption.83}
+\contentsline {figure}{\numberline {28}{\ignorespaces Repr\IeC {\'e}sentation de la formule des probabilit\IeC {\'e}s totales.}}{180}{figure.caption.84}
 \select@language {english}
 \addvspace {10\p@ }
 \select@language {english}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {29}{\ignorespaces Simple food webs illustrting the TTTIB}}{199}{figure.caption.86}
+\contentsline {figure}{\numberline {29}{\ignorespaces Simple food webs illustrting the TTTIB}}{200}{figure.caption.86}
 \select@language {english}
 \select@language {english}

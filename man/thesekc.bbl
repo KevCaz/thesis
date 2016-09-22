@@ -197,13 +197,7 @@ Cazelles, K., Ara{\'{u}}jo, M.~B., Mouquet, N., and Gravel, D. (2016a).
 \newblock {A theory for species co-occurrence in interaction networks}.
 \newblock {\em Theoretical Ecology}, 9(1):39--48.
 
-\bibitem[Cazelles et~al., 2015]{Cazelles2015a}
-Cazelles, K., Mouquet, N., Mouillot, D., and Gravel, D. (2015).
-\newblock {On the integration of biotic interaction and environmental
-  constraints at the biogeographical scale}.
-\newblock (October):1--11.
-
-\bibitem[Cazelles et~al., 2016b]{Cazelles2015}
+\bibitem[Cazelles et~al., 2016b]{Cazelles2016a}
 Cazelles, K., Mouquet, N., Mouillot, D., and Gravel, D. (2016b).
 \newblock {On the integration of biotic interaction and environmental
   constraints at the biogeographical scale}.
@@ -368,7 +362,7 @@ Dobzhansky, T. (1973).
 \bibitem[Dray and Dufour, 2007]{Dray2007}
 Dray, S. and Dufour, A.~B. (2007).
 \newblock {The ade4 Package: Implementing the Duality Diagram for Ecologists}.
-\newblock {\em Journal of Statistical Software}, 22(4):1 -- 20.
+\newblock {\em J. Stat. Softw.}, 22(4):1--20.
 
 \bibitem[Durance and Ormerod, 2010]{Durance2010}
 Durance, I. and Ormerod, S.~J. (2010).
@@ -480,7 +474,7 @@ Godsoe, W., Murray, R., and Plank, M.~J. (2015).
 
 \bibitem[Gotelli, 2000]{Gotelli2000}
 Gotelli, N.~J. (2000).
-\newblock {Null model analysis of species co-occurrence patterns.}
+\newblock {Null model analysis of species co-occurence patterns}.
 \newblock {\em Ecology}, 81(9):2606--2621.
 
 \bibitem[Gotelli and Graves, 1996]{Gotelli1996}

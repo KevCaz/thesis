@@ -59,8 +59,8 @@ $(THES): $(SRC) $(INTR) $(CHP1) $(CHP2) $(CHP3) $(CHP4) $(CCL) $(MCI) $(APT) $(A
 	# pdflatex $(SRC)
 
 
-$(INTR): $(MD)
-	pandoc $< -o $@ $(PFLAGS)
+# $(INTR): $(MD)
+# 	pandoc $< -o $@ $(PFLAGS)
 
 
 $(CCL): $(MDC)

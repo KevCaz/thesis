@@ -76,47 +76,50 @@
 \BOOKMARK [2][-]{subsection.3.7.4}{GLM and RF}{section.3.7}% 76
 \BOOKMARK [2][-]{subsection.3.7.5}{Supporting Tables}{section.3.7}% 77
 \BOOKMARK [1][-]{section.3.8}{Supporting Figures}{chapter.3}% 78
-\BOOKMARK [0][-]{chapter.4}{ \040Towards a metabolic theory of biogeography}{}% 79
+\BOOKMARK [0][-]{chapter.4}{ \040Vers une th\351orie m\351tabolique de la biog\351ographie}{}% 79
 \BOOKMARK [1][-]{subsection.4.0.1}{R\351sum\351 en fran\347ais du troisi\350me article}{chapter.4}% 80
 \BOOKMARK [2][-]{subsection.4.0.2}{Publication envisag\351e}{subsection.4.0.1}% 81
-\BOOKMARK [1][-]{section.4.1}{Introduction}{chapter.4}% 82
-\BOOKMARK [1][-]{section.4.2}{Model description}{chapter.4}% 83
-\BOOKMARK [2][-]{subsection.4.2.1}{Energetic constraints on local food webs}{section.4.2}% 84
-\BOOKMARK [2][-]{subsection.4.2.2}{Energy fluxes and transfer efficiency}{section.4.2}% 85
-\BOOKMARK [2][-]{subsection.4.2.3}{Extinctions}{section.4.2}% 86
-\BOOKMARK [2][-]{subsection.4.2.4}{Simulations}{section.4.2}% 87
-\BOOKMARK [1][-]{section.4.3}{Results}{chapter.4}% 88
-\BOOKMARK [1][-]{section.4.4}{Discussion}{chapter.4}% 89
-\BOOKMARK [0][-]{section*.74}{Conclusion g\351n\351rale}{}% 90
-\BOOKMARK [1][-]{section*.75}{Interactions \351cologiques et distribution des esp\350ces}{section*.74}% 91
-\BOOKMARK [2][-]{section*.76}{Des mod\350les th\351oriques \340 d\351velopper}{section*.75}% 92
-\BOOKMARK [2][-]{section*.77}{Des th\351ories pour mieux appr\351hender les donn\351es de co-occurrence}{section*.75}% 93
-\BOOKMARK [1][-]{section*.78}{Vers une biog\351ographie pr\351dictive?}{section*.74}% 94
-\BOOKMARK [2][-]{section*.79}{Les d\351fis \340 relever dans un monde en changement}{section*.78}% 95
-\BOOKMARK [2][-]{section*.80}{Des r\350gles en \351cologie?}{section*.78}% 96
-\BOOKMARK [2][-]{section*.81}{Une th\351orie int\351grative de la biog\351ographie}{section*.78}% 97
-\BOOKMARK [0][-]{annexe.1}{ \040Comment la biodiversit\351 s'installe en territoires isol\351s}{}% 98
-\BOOKMARK [1][-]{section.5.5}{Pr\351ambule}{annexe.1}% 99
-\BOOKMARK [1][-]{section.5.6}{Le mod\350le de MacArthur et Wilson}{annexe.1}% 100
-\BOOKMARK [1][-]{section.5.7}{Comment un mod\350le d\351terministe \351merge-t-il de ph\351nom\350nes al\351atoires?}{annexe.1}% 101
-\BOOKMARK [2][-]{subsection.5.7.1}{Mod\350le stochastique?}{section.5.7}% 102
-\BOOKMARK [2][-]{subsection.5.7.2}{Les objets math\351matiques requis}{section.5.7}% 103
-\BOOKMARK [2][-]{subsection.5.7.3}{Les briques \351l\351mentaires du mod\350le stochastique}{section.5.7}% 104
-\BOOKMARK [2][-]{subsection.5.7.4}{Assemblons les briques!}{section.5.7}% 105
-\BOOKMARK [2][-]{subsection.5.7.5}{Retrouvons le mod\350le classique}{section.5.7}% 106
-\BOOKMARK [1][-]{section.5.8}{Applications et perspectives}{annexe.1}% 107
-\BOOKMARK [0][-]{annexe.2}{ \040Un mod\350le stochastique de la biog\351ographie insulaire pour les r\351seaux \351cologiques dans un environnement abiotique variable}{}% 108
-\BOOKMARK [1][-]{section.6.9}{Stochastic rules in MacArthur \046 Wilson's model}{annexe.2}% 109
-\BOOKMARK [1][-]{section.6.10}{A Markov chains model to describe island communities}{annexe.2}% 110
-\BOOKMARK [2][-]{subsection.6.10.1}{Model for P non-interacting species}{section.6.10}% 111
-\BOOKMARK [2][-]{subsection.6.10.2}{P Interacting species}{section.6.10}% 112
-\BOOKMARK [1][-]{section.6.11}{Environmental gradient and island biogeography}{annexe.2}% 113
-\BOOKMARK [1][-]{section.6.12}{Using Markov chains}{annexe.2}% 114
-\BOOKMARK [1][-]{section.6.13}{Time continuous Markov chain}{annexe.2}% 115
-\BOOKMARK [2][-]{subsection.6.13.1}{Solution for two species}{section.6.13}% 116
-\BOOKMARK [2][-]{subsection.6.13.2}{Solution for P species}{section.6.13}% 117
-\BOOKMARK [0][-]{annexe.3}{ \040Probabilit\351s de transition entre r\351seaux trophiques}{}% 118
-\BOOKMARK [1][-]{section.7.14}{The model}{annexe.3}% 119
-\BOOKMARK [1][-]{section.7.15}{Reasonable approximations}{annexe.3}% 120
-\BOOKMARK [1][-]{section.7.16}{Deriving species richness}{annexe.3}% 121
-\BOOKMARK [0][-]{section*.87}{R\351f\351rences}{}% 122
+\BOOKMARK [2][-]{subsection.4.0.3}{R\351sum\351 de l'article en anglais}{subsection.4.0.1}% 82
+\BOOKMARK [1][-]{section.4.1}{Title}{chapter.4}% 83
+\BOOKMARK [1][-]{section.4.2}{Abstract}{chapter.4}% 84
+\BOOKMARK [1][-]{section.4.3}{Introduction}{chapter.4}% 85
+\BOOKMARK [1][-]{section.4.4}{Model description}{chapter.4}% 86
+\BOOKMARK [2][-]{subsection.4.4.1}{Energetic constraints on local food webs}{section.4.4}% 87
+\BOOKMARK [2][-]{subsection.4.4.2}{Energy fluxes and transfer efficiency}{section.4.4}% 88
+\BOOKMARK [2][-]{subsection.4.4.3}{Extinctions}{section.4.4}% 89
+\BOOKMARK [2][-]{subsection.4.4.4}{Simulations}{section.4.4}% 90
+\BOOKMARK [1][-]{section.4.5}{Results}{chapter.4}% 91
+\BOOKMARK [1][-]{section.4.6}{Discussion}{chapter.4}% 92
+\BOOKMARK [0][-]{section*.74}{Conclusion g\351n\351rale}{}% 93
+\BOOKMARK [1][-]{section*.75}{Interactions \351cologiques et distribution des esp\350ces}{section*.74}% 94
+\BOOKMARK [2][-]{section*.76}{Des mod\350les th\351oriques \340 d\351velopper}{section*.75}% 95
+\BOOKMARK [2][-]{section*.77}{Des th\351ories pour mieux appr\351hender les donn\351es de co-occurrence}{section*.75}% 96
+\BOOKMARK [1][-]{section*.78}{Vers une biog\351ographie pr\351dictive?}{section*.74}% 97
+\BOOKMARK [2][-]{section*.79}{Les d\351fis \340 relever dans un monde en changement}{section*.78}% 98
+\BOOKMARK [2][-]{section*.80}{Des r\350gles en \351cologie?}{section*.78}% 99
+\BOOKMARK [2][-]{section*.81}{Une th\351orie int\351grative de la biog\351ographie}{section*.78}% 100
+\BOOKMARK [0][-]{annexe.1}{ \040Comment la biodiversit\351 s'installe en territoires isol\351s}{}% 101
+\BOOKMARK [1][-]{section.5.7}{Pr\351ambule}{annexe.1}% 102
+\BOOKMARK [1][-]{section.5.8}{Le mod\350le de MacArthur et Wilson}{annexe.1}% 103
+\BOOKMARK [1][-]{section.5.9}{Comment un mod\350le d\351terministe \351merge-t-il de ph\351nom\350nes al\351atoires?}{annexe.1}% 104
+\BOOKMARK [2][-]{subsection.5.9.1}{Mod\350le stochastique?}{section.5.9}% 105
+\BOOKMARK [2][-]{subsection.5.9.2}{Les objets math\351matiques requis}{section.5.9}% 106
+\BOOKMARK [2][-]{subsection.5.9.3}{Les briques \351l\351mentaires du mod\350le stochastique}{section.5.9}% 107
+\BOOKMARK [2][-]{subsection.5.9.4}{Assemblons les briques!}{section.5.9}% 108
+\BOOKMARK [2][-]{subsection.5.9.5}{Retrouvons le mod\350le classique}{section.5.9}% 109
+\BOOKMARK [1][-]{section.5.10}{Applications et perspectives}{annexe.1}% 110
+\BOOKMARK [0][-]{annexe.2}{ \040Un mod\350le stochastique de la biog\351ographie insulaire pour les r\351seaux \351cologiques dans un environnement abiotique variable}{}% 111
+\BOOKMARK [1][-]{section.6.11}{Stochastic rules in MacArthur \046 Wilson's model}{annexe.2}% 112
+\BOOKMARK [1][-]{section.6.12}{A Markov chains model to describe island communities}{annexe.2}% 113
+\BOOKMARK [2][-]{subsection.6.12.1}{Model for P non-interacting species}{section.6.12}% 114
+\BOOKMARK [2][-]{subsection.6.12.2}{P Interacting species}{section.6.12}% 115
+\BOOKMARK [1][-]{section.6.13}{Environmental gradient and island biogeography}{annexe.2}% 116
+\BOOKMARK [1][-]{section.6.14}{Using Markov chains}{annexe.2}% 117
+\BOOKMARK [1][-]{section.6.15}{Time continuous Markov chain}{annexe.2}% 118
+\BOOKMARK [2][-]{subsection.6.15.1}{Solution for two species}{section.6.15}% 119
+\BOOKMARK [2][-]{subsection.6.15.2}{Solution for P species}{section.6.15}% 120
+\BOOKMARK [0][-]{annexe.3}{ \040Probabilit\351s de transition entre r\351seaux trophiques}{}% 121
+\BOOKMARK [1][-]{section.7.16}{The model}{annexe.3}% 122
+\BOOKMARK [1][-]{section.7.17}{Reasonable approximations}{annexe.3}% 123
+\BOOKMARK [1][-]{section.7.18}{Deriving species richness}{annexe.3}% 124
+\BOOKMARK [0][-]{section*.87}{R\351f\351rences}{}% 125
