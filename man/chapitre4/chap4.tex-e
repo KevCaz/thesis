@@ -23,7 +23,7 @@ TTIB, j'obtiens une relation espèce-énergie (SER) pour laquelle la probabilit�
 d'occurrence des les espèces en fonction de leur masse corporelle et
 leur statut trophique est connu. Je montre alors l'importance du statut trophique
 pour comprendre la probabilité d'occurrence et montre alors comment une relation
-energie-longeur de la chaine trophique se met en place.
+énergie-longeur de la chaine trophique se met en place.
 
 Cette approche est un pas significative vers une intégration plus aboutie des
 mécanismes écologiques dans la TIB, notamment pour les
@@ -41,8 +41,8 @@ se propagent à l’échelle des populations puis aux échelles biogéographique
 
 Présentement, l'article offre des perspectives intéressantes sur une
 théorie métabolique en biogéographie mais aussi des pistes de réflexion
- pour s'affranchir simplement de certaines contraintes de modélisation
-qui pourraient hautement  complexifier le modèles (par exemple,  je ne considère
+pour s'affranchir simplement de certaines contraintes de modélisation
+qui pourraient hautement complexifier le modèles (par exemple,  je ne considère
 pas explicitement de dynamiques de population). Je vois deux opportunités
 associées au présent travail. Premièrement, orienter davantage mon travail
 sur les aspects techniques et mathématiques du modèle et essayer,
@@ -52,7 +52,6 @@ pour un journal plus spécialisé. Deuxièmement, aller plus loin dans l'explora
 des possibilités offertes par le modèle, insister sur les perspectives, notamment
 sur l'impact de la structure sur la relation énergie -espèces. Cela m'orienterait plutôt vers
 un article de perspective pour un journal d’écologie plus généraliste.
-
 
 Pour cet article ma réflexion a été alimentée par discussion avec Dominique Gravel,
 Miguel Araújo, Loïc Pelissier que je remercie. Je me suis occupé de concevoir le modèle,
@@ -65,31 +64,30 @@ Cet article est également la base de réflexion du travail que
 j’aimerais mener dans un projet post-doctoral.
 
 
-\subsection{Résumé de l'article en anglais}
+\subsection{Traduction du résumé en anglais}
 
-La disponibilité en énergie contôle la biodiversité; la disponibilités en
+L’énergie façonne la biodiversité; l’abondance de l’
 énergie solaire et la disponibilité en eau décrivent bien les écosystèmes
 terrestres de même que la température de surface de la mer et la disponibilité
-en nutriments écrivent les écsystèmes marins. À l'échelle de la communauté,
+en nutriments écrivent les écosystèmes marins. À l'échelle de la communauté,
 les réseaux trophiques et leurs structures déterminent les échanges d'énergie
-du producteur primaire au top prédateur. En dépit de sa grande importance,
-l'introduction de l'énergie dans les théories classiques en biogepgraphie a été
-négligée qui soit considèrent les espèces équivalentes (c'est le cas de la
-Théorie de la Biogéographie des îles) soit se concentrent sur le concept de niche
-écologique. Pour réctifier cela, nous dévelopons une théorie pour inclure
-les contraintes énergétiques pour d.écire la réparttition de la biodiversité.
-Comme illustration des perspectives offertes par cette approche, nous dérivons
-la richesse spécifique attenfu et la structure des r.seau le long d'un gradient
-d'énergier. Avec l'augmentation de l'énergie disponible, nous obtennons une succession claire
-des espèces selon leur sttaut trophique, des plus bas nieaux triophiques sur
-les îles de peu d'energie jsuqu'au plus haut niveaux sur les îles où l'énergie
-est abondante. C'est une piste prometeuse pour prédire plus qu'un nombre
-d'espèces attendues losque les habitats sont frangementés mais aussi le role qu'elles
-ont dans le réseau écologique. Nous pensons que l'iutisation de ce modèle
-sera benéfique oour l'intégration de l'écologie des communaut.e ne biogéograpni,
-tout en permettant yne meilleur paramétrisation des modèles de dsitribution
+des producteurs primaires aux top prédateurs. En dépit de sa grande importance,
+l'introduction de l'énergie dans les théories classiques en biogéographie a été
+négligée, ces théories considèrent les espèces équivalentes (c'est le cas de la
+Théorie de la Biogéographie des îles) ou se concentrent sur le concept de niche
+écologique. Pour rectifier cela, nous développons une théorie pour inclure
+les contraintes énergétiques pour décrire la répartition de la biodiversité.
+Comme illustration des perspectives offertes par cette approche, nous étudions
+la richesse spécifique et a structure des réseau le long d'un gradient
+d'énergie. Avec l'augmentation de l'énergie disponible, nous obtenons une succession claire
+des espèces selon leur statut trophique :des plus bas niveaux trophiques sur
+les îles pauvre en énergie  jusqu'au plus haut niveaux sur les îles où l'énergie
+est abondante. C'est une piste prometteuse pour aller au-delà de la prédiction quantitative
+des pertes d’espèces lorsque les habitats sont fragmentés et prédire le rôle qu'elles
+ont au sein du réseau écologique. Nous pensons que l'utilisation de ce modèle
+sera très utile pour une intégration de l'écologie des communauté en biogéographie,
+tout en permettant aussi une meilleure paramétrisation des modèles de distribution
 d'espèces.
-
 
 
 
@@ -583,7 +581,9 @@ body mass as the niche axis][]{Williams2000, Gravel2013}. Finally, under
 scenarios A and B small species with several predators colonize low
 energy islands while under scenarios C and D the same species colonize
 the island with higher energy availability as they are preceded by
-larger and more generalist species (\ref{fig:etib4} I-L).
+larger and more generalist species (\ref{fig:etib4} I-L). Consequently,
+the number of interactions per species increases faster under scenarios
+C and D than under scenarios A and B (\ref{fig:etib4} M-P).
 
 \begin{figure}[htbp]
 \centering
@@ -624,10 +624,11 @@ ecology and genetics?'' \citep[p.183]{MacArthur1967}.
 \begin{figure}[htbp]
 \centering
 \includegraphics{fig/fig4.pdf}
-\caption{\textbf{Average number of preys, predators, and mean body mass
-of predator species on the island} in regards to the energy gradient for
-four scenarios: (A) A,E,I, (B) B, F, J, (C) C, G, K, and (D) D, H,
-L.\label{fig:etib4}}
+\caption{\textbf{Average body mass, number of preys, predators of
+predator species and the average number of interaction per species on
+the island} in regards to the energy gradient for four scenarios: (A)
+A,E,I, (B) B, F, J, M (C) C, G, K, O and (D) D, H, L,
+P.\label{fig:etib4}}
 \end{figure}
 
 The formulation of the TIB in terms of energy offers a great opportunity

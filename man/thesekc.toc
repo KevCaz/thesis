@@ -105,7 +105,7 @@
 \contentsline {chapter}{\numberline {\MakeUppercase {article} \MakeUppercase {4}} \\ \MakeUppercase {Vers une th\IeC {\'e}orie m\IeC {\'e}tabolique de la biog\IeC {\'e}ographie}}{137}{chapter.4}
 \contentsline {subsection}{\numberline {4.0.1}R\IeC {\'e}sum\IeC {\'e} en fran\IeC {\c c}ais du troisi\IeC {\`e}me article}{137}{subsection.4.0.1}
 \contentsline {subsection}{\numberline {4.0.2}Publication envisag\IeC {\'e}e}{138}{subsection.4.0.2}
-\contentsline {subsection}{\numberline {4.0.3}R\IeC {\'e}sum\IeC {\'e} de l'article en anglais}{139}{subsection.4.0.3}
+\contentsline {subsection}{\numberline {4.0.3}Traduction du r\IeC {\'e}sum\IeC {\'e} en anglais}{139}{subsection.4.0.3}
 \contentsline {section}{\numberline {4.1}Title}{139}{section.4.1}
 \contentsline {section}{\numberline {4.2}Abstract}{140}{section.4.2}
 \contentsline {section}{\numberline {4.3}Introduction}{140}{section.4.3}
@@ -115,7 +115,7 @@
 \contentsline {subsection}{\numberline {4.4.3}Extinctions}{150}{subsection.4.4.3}
 \contentsline {subsection}{\numberline {4.4.4}Simulations}{151}{subsection.4.4.4}
 \contentsline {section}{\numberline {4.5}Results}{151}{section.4.5}
-\contentsline {section}{\numberline {4.6}Discussion}{156}{section.4.6}
+\contentsline {section}{\numberline {4.6}Discussion}{155}{section.4.6}
 \contentsline {chapter}{\MakeUppercase {Conclusion g\'en\'erale}}{160}{section*.74}
 \select@language {french}
 \contentsline {section}{Interactions \IeC {\'e}cologiques et distribution des esp\IeC {\`e}ces}{160}{section*.75}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  23 SEP 2016 12:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  23 SEP 2016 13:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1712,7 +1712,7 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 
 ] [138] [139] [140] [141] [142] [143] [144] [145] [146] [147] [148]
 [149]
-Overfull \hbox (80.31902pt too wide) in paragraph at lines 475--475
+Overfull \hbox (80.31902pt too wide) in paragraph at lines 473--473
 [] [] 
  []
 
@@ -1720,25 +1720,25 @@ Overfull \hbox (80.31902pt too wide) in paragraph at lines 475--475
 File: chapitre4/fig/fig1.pdf Graphic file (type pdf)
 
 <use chapitre4/fig/fig1.pdf>
-Package pdftex.def Info: chapitre4/fig/fig1.pdf used on input line 529.
+Package pdftex.def Info: chapitre4/fig/fig1.pdf used on input line 527.
 (pdftex.def)             Requested size: 252.94438pt x 650.4284pt.
 
 
-LaTeX Warning: Float too large for page by 89.07506pt on input line 533.
+LaTeX Warning: Float too large for page by 89.07506pt on input line 531.
 
 [151] [152 <./chapitre4/fig/fig1.pdf>]
 <chapitre4/fig/fig2.pdf, id=3147, 505.89pt x 433.62pt>
 File: chapitre4/fig/fig2.pdf Graphic file (type pdf)
 
 <use chapitre4/fig/fig2.pdf>
-Package pdftex.def Info: chapitre4/fig/fig2.pdf used on input line 565.
+Package pdftex.def Info: chapitre4/fig/fig2.pdf used on input line 563.
 (pdftex.def)             Requested size: 505.88875pt x 433.61894pt.
 
-Overfull \hbox (62.02559pt too wide) in paragraph at lines 565--569
+Overfull \hbox (62.02559pt too wide) in paragraph at lines 563--567
  [][] 
  []
 
-<chapitre4/fig/fig3.pdf, id=3155, 505.89pt x 397.485pt>
+<chapitre4/fig/fig3.pdf, id=3156, 505.89pt x 397.485pt>
 File: chapitre4/fig/fig3.pdf Graphic file (type pdf)
 
 <use chapitre4/fig/fig3.pdf>
@@ -1750,16 +1750,19 @@ Overfull \hbox (62.02559pt too wide) in paragraph at lines 590--593
  []
 
 [153] [154 <./chapitre4/fig/fig2.pdf>] [155 <./chapitre4/fig/fig3.pdf>]
-<chapitre4/fig/fig4.pdf, id=3193, 542.025pt x 505.89pt>
+<chapitre4/fig/fig4.pdf, id=3194, 542.025pt x 578.16pt>
 File: chapitre4/fig/fig4.pdf Graphic file (type pdf)
 
 <use chapitre4/fig/fig4.pdf>
 Package pdftex.def Info: chapitre4/fig/fig4.pdf used on input line 626.
-(pdftex.def)             Requested size: 542.02367pt x 505.88875pt.
+(pdftex.def)             Requested size: 542.02367pt x 578.15858pt.
 
-Overfull \hbox (98.1605pt too wide) in paragraph at lines 626--630
+Overfull \hbox (98.1605pt too wide) in paragraph at lines 626--631
  [][] 
  []
+
+
+LaTeX Warning: Float too large for page by 31.30524pt on input line 632.
 
 [156] [157 <./chapitre4/fig/fig4.pdf>] [158]) [159]
 Package cleveref Info: loaded `french' language definitions on input line 145.
@@ -1802,7 +1805,7 @@ versite-[]en-[]territoires-[]isoles/$[][]
 [171
 
 
-] <annexe1/fig/figAnnI1.pdf, id=3484, 391.95084pt x 241.77597pt>
+] <annexe1/fig/figAnnI1.pdf, id=3485, 391.95084pt x 241.77597pt>
 File: annexe1/fig/figAnnI1.pdf Graphic file (type pdf)
 
 <use annexe1/fig/figAnnI1.pdf>
@@ -1818,7 +1821,7 @@ Overfull \hbox (15.2132pt too wide) in paragraph at lines 97--98
 d[]ele d[]eterministe peut []etre consid[]er[]e
  []
 
-<annexe1/fig/figAnnI2.pdf, id=3611, 578.16pt x 433.62pt>
+<annexe1/fig/figAnnI2.pdf, id=3612, 578.16pt x 433.62pt>
 File: annexe1/fig/figAnnI2.pdf Graphic file (type pdf)
 
 <use annexe1/fig/figAnnI2.pdf>
@@ -1896,7 +1899,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 180--197
 
  []
 
-<annexe1/fig/figAnnI3.pdf, id=3650, 1205.50375pt x 810.02625pt>
+<annexe1/fig/figAnnI3.pdf, id=3651, 1205.50375pt x 810.02625pt>
 File: annexe1/fig/figAnnI3.pdf Graphic file (type pdf)
 
 <use annexe1/fig/figAnnI3.pdf>
@@ -2018,7 +2021,7 @@ ed-to.pdf ./annexe3/fig1.eps>
 (epstopdf)             \includegraphics on input line 144.
 Package epstopdf Info: Output file is already uptodate.
 
-<./annexe3/fig1-eps-converted-to.pdf, id=3839, 1087.06125pt x 305.14pt>
+<./annexe3/fig1-eps-converted-to.pdf, id=3840, 1087.06125pt x 305.14pt>
 File: ./annexe3/fig1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./annexe3/fig1-eps-converted-to.pdf>
@@ -2090,11 +2093,17 @@ Package cleveref Info: loaded `english' language definitions on input line 1979
 )
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 198.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 198.
-Package rerunfilecheck Info: File `thesekc.out' has not changed.
-(rerunfilecheck)             Checksum: BEB7111F2A8411987649A2DCCB2B4BE6;10085.
-Package rerunfilecheck Info: File `thesekc.brf' has not changed.
-(rerunfilecheck)             Checksum: A663EF2A6D0D4856E38595F25A35516E;27985.
 
+
+Package rerunfilecheck Warning: File `thesekc.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `thesekc.out':
+(rerunfilecheck)             Before: BEB7111F2A8411987649A2DCCB2B4BE6;10085
+(rerunfilecheck)             After:  AC2987116E97E92E48C2EA89A88E7644;10086.
+Package rerunfilecheck Info: File `thesekc.brf' has not changed.
+(rerunfilecheck)             Checksum: F81A8BFBA7DF3EC186EF49834292A169;27985.
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -2130,10 +2139,10 @@ e/2016/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2016/tex
 mf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2016/texmf-dist/f
 onts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1
 /urw/times/utmri8a.pfb>
-Output written on thesekc.pdf (250 pages, 3738724 bytes).
+Output written on thesekc.pdf (250 pages, 3743569 bytes).
 PDF statistics:
- 4711 PDF objects out of 5155 (max. 8388607)
- 4279 compressed objects within 43 object streams
+ 4712 PDF objects out of 5155 (max. 8388607)
+ 4280 compressed objects within 43 object streams
  820 named destinations out of 1000 (max. 500000)
  1156 words of extra memory for PDF output out of 10000 (max. 10000000)
 
