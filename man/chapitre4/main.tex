@@ -4,24 +4,27 @@ Towards a metabolic theory of island biogeography
 
 \section{Abstract}\label{abstract}
 
-Energy availability shapes biodiversity: solar radiation and water
-availabilities well describe terrestrial ecosystems as well as sea
-surface temperature and nutrients availability describe maritime ones.
-Energy has been early envisioned as a key factor to understand
-biodiversity over large latitudinal gradients. At the community scale,
-food webs structure the partitioning of energy from the primary
-producers to the top predators. Despite its crucial importance, energy
-has been overlooked in classical theories of biogeography that either
-assume ecological equivalence (\emph{e.g} the Theory of Island
-Biogeography) or remain focused on the concept of the ecological niche.
-To rectify this, we develop a theory of biodiversity distribution based
-on first principles of energetic constraints, including allometric
-relationship, in order to investigate the impact of trophic interactions
-along an energy gradient. Based on this theory we derive expected
-species richness and network structure along gradients of primary
-productivity. Our model offers immense possibilities for the integration
-of community ecology with biogeography as well as insights to propose
-better species distribution models.
+Energy availability shapes biodiversity; solar radiation and water
+availability describes the terrestrial ecosystems well, just as sea
+surface temperature and nutrients availability describe marine
+ecosystems. At the community scale, food webs and their structures
+control energy exchanges from primary producers to top predators.
+Despite its crucial importance, the implementation of energy has been
+overlooked in classical theories in biogeography, which often assume
+species are equivalent (\emph{e.g} the Theory of Island Biogeography) or
+either remain too focused on the concept of the ecological niche. In
+order to rectify this, we develop a theory to include energy constraints
+to describe the distribution of biodiversity. As an illustration of the
+perspectives offered by this framework, we derive expected species
+richness and network structure along an energy gradient. When increasing
+the energy availability, we obtain a clear succession of species
+according to their trophic status, from the lowest trophic level on poor
+energy islands to the highest species when energy is abundant. This a
+promising avenue to predict more than a expected number of species we
+loss when habitat is fragmented but also their role in the ecological
+network. We are confident the use of this model will be proven
+beneficial for the integration of community ecology with biogeography,
+while also better parameterize species distribution models.
 
 \section{Introduction}\label{introduction}
 
@@ -127,17 +130,17 @@ ecology][]{Brown2004, Woodward2005a}. The scaling of the metabolic rates
 with body mass is the fundamental observation underlying this theory
 \citep{Gillooly2001}, which typically follows a power function with
 coefficients often between 2/3 and 3/4 \citep{White2013}. Even if all
-the relationships are not well-understood \citep[see the case of
-abundances reviewed in][ and the recent relationship between prey and
-predator biomasses \citet{Hatton2015}]{White2007}, the ubiquity of
-allometric relationships makes body mass distribution a key variable to
-reduce the complexity of ecosystems. Allometric relationships and energy
-flows also provide the mean to parameterize models of population
-dynamics \citep{Yodzis1992}. Recent developments of food web theory have
-convincingly shown that allometric relationships are the cog to analyze
-the properties of ecological networks \citep{Gravel2013, Petchey2008},
-their dynamics \citep{Brose2006} and to characterize the role of species
-within them \citep{Schneider2012}.
+the relationships are not well-understood \citetext{\citealp[see the
+case of abundances reviewed in][]{White2007}; \citealp[and the recent
+relationship between prey and predator biomasses][]{Hatton2015}}, the
+ubiquity of allometric relationships makes body mass distribution a key
+variable to reduce the complexity of ecosystems. Allometric
+relationships and energy flows also provide the mean to parameterize
+models of population dynamics \citep{Yodzis1992}. Recent developments of
+food web theory have convincingly shown that allometric relationships
+are the cog to analyze the properties of ecological networks
+\citep{Gravel2013, Petchey2008}, their dynamics \citep{Brose2006} and to
+characterize the role of species within them \citep{Schneider2012}.
 
 Our objective in this study is to develop a theory of biodiversity
 distribution based on first principles of energetic constraints in order
@@ -424,6 +427,14 @@ iterations and the 100,000 remaining to do our analyses. For all the 91
 values of the energy gradient we used 100 replicates, meaning 100
 different regional metawebs.
 
+\begin{figure}[htbp]
+\centering
+\includegraphics{fig/fig1.pdf}
+\caption{\textbf{Species-Energy Relationship} using 100 replicates for
+each of the four scenarios for (A) mean species richness, (B) logarithm
+of the mean, and (C) coefficient of variation.\label{fig:etib1}}
+\end{figure}
+
 \section{Results}\label{results}
 
 We found a sigmoidal SER for all scenarios (Fig. \ref{fig:etib1} A).
@@ -452,6 +463,15 @@ especially given it strongly impacts the cost of a species; suggesting
 that this is the cause of the main differences among random and
 cost-based extinction rates.
 
+\begin{figure}[htbp]
+\centering
+\includegraphics{fig/fig2.pdf}
+\caption{\textbf{Species occurrence probability along an energy
+gradient, grouped by trophic level}; herbivores, or by their shortest
+path linking to a herbivore species. The top right letters indicates the
+scenarios.\label{fig:etib2}}
+\end{figure}
+
 The average species body mass increased with energy under scenarios A
 and B, but decreased under scenarios C and D. The reduction of MVP with
 body mass would therefore allow for larger species to maintain on small
@@ -468,132 +488,6 @@ energy islands while under scenarios C and D the same species colonize
 the island with higher energy availability as they are preceded by
 larger and more generalist species (\ref{fig:etib4} I-L).
 
-\section{Discussion}\label{discussion}
-
-We proposed a of the classical TIB in terms of energy and turns the
-well-known colonization/extinction dynamics into a successional assembly
-process, starting with herbivores and then building up the food web. We
-link species extinction to energy requirements, making extinctions more
-mechanistic than in the TIB. Moreover, species are no longer
-ecologically equivalent as in TIB \citep{Lomolino2009}, they have a body
-mass, a trophic level and specific interactions. Based on these
-characteristics, we compute a cost associated to the MVP on the island.
-Therefore an insular community become an assemblage of population that
-should not exceed a given amount of energy. Although the energy
-allocation we use here is simple, we think it is a significative step
-towards the interactions of community dynamics in biogeography theory.
-The next step would be to integrate more realistic energy partitioning
-\citep{DeRuiter1995} and to take into account variations of population
-caused by bottom up and top-down effects we introduced here
-\citep{Terborgh2001, Brown2013}. Ultimately, the downscaling from
-species to population we attempted here should lead to integrate
-principles of population dynamics as well as concepts of the community
-ecology such as the stability of a community \citep{Allesina2012a}. This
-would lead us to follow the path MacArthur and Wilson mapped 50 years
-ago: ``{[}\ldots{}{]} biogeography appears to us to have developed to
-the extent that it can be reformulated in the terms of the first
-principles of population ecology and genetics?''
-\citep[p.183]{MacArthur1967}.
-
-The formulation of the TIB in terms of energy offers a great hope
-towards a mechanistic biogeography as it strongly eases the integration
-of ecological processes. As an example, we here showed how three
-ecological necessities, overlooked in classical theories, can be taken
-into account: 1- the necessity of a minimal population to sustain on
-island 2- the necessity of finding resources/preys to maintain this
-population and 3- the difference of energy uptake due to variations in
-body mass and trophic levels among species. Based on this integration,
-we showed how the structure of the community is constrained by the
-energy availability on islands. We also pointed out that the structure
-of the food webs, which determines the energy requirements of the whole
-community, controls the species richness and the characteristics of
-species present of the island. In our study, we study the SER under two
-scenario regarding the MVP: either it decreased with the body mass or
-not. The results were qualitatively similar but quantitatively
-different: in the first case, larger species can colonize earlier which
-increases the species richness of the island. Having a lower MVP for
-larger species could compensate the energy cost associated to the
-maintenance of a larger body. Furthermore, this could explain the
-``energetic equivalence rules'' \citep{Nee1991} which states that
-species have an equal share of energy allocated irrespective to their
-body mass \citep{Brown2003, Damuth2007}. In our case, this holds true as
-long as the island is ``saturated'' by species. Remarkably, under this
-condition, the relationship between the logarithm of the species
-richness and the logarithm of available energy (\ref{fig:etib1} B) is
-linear, which is consistent with empirical observations (see Fig 3. and
-Fig 4. in \citet{Wright1983}). Over evolutionary scales, these
-observation, would also be consistent with the Ecological Limits
-hypothesis to diversification dynamics \citep{Rabosky2015}.
-
-Our findings suggest the existence of a clear relationship between the
-trophic status of species and its occurrence probability: species of
-higher trophic levels, irrespective of their body mass, colonize island
-with higher energy. This indicates that the food-chain length is limited
-by the energy availability. Remarkably, a comparable relationship has
-already been observed by \citet{Post2000}, who have found a correlation
-among maximal food-chain length and lake size which is consistent with
-the idea that higher predator needs larger areas to a sufficient amount
-pf prey to survive in the lakes. This would suggest that larger
-predators actually uses a broader areas to find more energy.
-
-Using our framework, we showed that under scenarios C and D (for which
-MVP decreases with the body mass), generalist species are the first to
-colonize the island. Remarkably, the early colonization of generalist
-species has been highlighted by \citet{Piechnik2008} when they revisited
-the classical study by \citet{Simberloff1969}. Also, reading Fig
-\ref{fig:etib4} G-H in the direction of a loss of energy we observe an
-increasing in generalist species such as currently observed
-\citet{Clavel2011}. The classical TIB has provided a theoretical basis
-for the SAR \citep{MacArthur1967}, that has been largely used in
-conservation to determine the size of protected areas
-\citep{Neigel2003}. However, as in the TIB, the SAR ignores the identity
-of species, there is currently no theory integrating the position of a
-species within the network it is embedded to predict its distribution.
-However, the role of a species in the network must be of first
-importance to understand the consequence of its loss
-\citep{Saterberg2013}. The model we described here offers testable
-hypothesis regarding the role of the species that are expected to go
-extinct first: from the higher trophic level to the lower and from the
-more generalist to the lower.
-
-Finally, our framework is an opportunity to review the way we build
-SMDMs. Here, our model describes the food web dynamic associated to
-patch of primary producers. Fortunately, the primary production have
-been proven highly correlated to climate variables
-\citep{Wright1983, Hawkins2003, Evans2005} and are readily quantifiable
-using index such as the normalized difference vegetation index
-\citep[NDVI][]{Evans2005}. According to our framework, such quantity is
-not only a proxy to assess the diversity of primary producers and the
-productivity associated but also a potential metric of the species
-richness \citep{Wright1983} and even a predictor of the structure of the
-network (a predictor of the food chain length for instance). Current
-species distribution model are based on the correlation between abiotic
-factor and its occurrence probability is ascribed to this abiotic niche
-while its presence could be best explained by the presence of its prey
-(see chapter \ref{chap4}). Therefore, focusing on the prediction of the
-distribution of primary producers while using information about energy
-they should provide to add higher trophic levels based appears, in the
-light of our study, as a promosing avenue to propose new approach that
-would likely enhance the robustness of the scenarios of tomorrow's
-biodiversity.
-
-\begin{figure}[htbp]
-\centering
-\includegraphics{fig/fig1.pdf}
-\caption{\textbf{Species-Energy Relationship} using 100 replicates for
-each of the four scenarios for (A) mean species richness, (B) logarithm
-of the mean, and (C) coefficient of variation.\label{fig:etib1}}
-\end{figure}
-
-\begin{figure}[htbp]
-\centering
-\includegraphics{fig/fig2.pdf}
-\caption{\textbf{Species occurrence probability along an energy
-gradient, grouped by trophic level}; herbivores, or by their shortest
-path linking to a herbivore species. The top right letters indicates the
-scenarios.\label{fig:etib2}}
-\end{figure}
-
 \begin{figure}[htbp]
 \centering
 \includegraphics{fig/fig3.pdf}
@@ -601,6 +495,34 @@ scenarios.\label{fig:etib2}}
 grouped by body mass class}. The top right letters indicates the
 scenarios.\label{fig:etib3}}
 \end{figure}
+
+\section{Discussion}\label{discussion}
+
+Here, we formulated the classical TIB in terms of first energetic
+principles, which turns the well known colonization/extinction dynamics
+into a successional assembly process, beginning with herbivores and then
+builds upon the food wed (until top predators). Here, we link species
+extinctions to their energy requirements, thus making extinctions more
+mechanistic than in the classical TIB. Moreover, species are no longer
+ecologically equivalent as in TIB \citep{Lomolino2009}, where they now
+have a body mass, trophic level, and specific interactions. Based on
+these characteristics, we compute a cost association to the MVP on an
+island. Therefore, an insular community becomes an assemblage of a
+population that should not exceed a given amount of energy. Although the
+energy allocation we use here is simple, we believe it provides a
+significant step forward towards implementing the interactions of
+community dynamics into biogeography theory. The next step would be to
+integrate more realistic energy partitioning \citep{DeRuiter1995}, while
+also taking into account variations of population caused by bottom up
+and top-down effects we introduced here \citep{Terborgh2001, Brown2013}.
+Ultimately, the downscaling from species to populations we begin here,
+will allow for the integration of the principles of population dynamics
+as well as concepts of community ecology \citep[\emph{i.e.}, stability
+of a community][]{Allesina2012a}. Furthermore, this would lead us down
+the path paved by MacArthur and Wilson 50 years ago: ``{[}\ldots{}{]}
+biogeography appears to us to have developed to the extent that it can
+be reformulated in the terms of the first principles of population
+ecology and genetics?'' \citep[p.183]{MacArthur1967}.
 
 \begin{figure}[htbp]
 \centering
@@ -610,3 +532,87 @@ of predator species on the island} in regards to the energy gradient for
 four scenarios: (A) A,E,I, (B) B, F, J, (C) C, G, K, and (D) D, H,
 L.\label{fig:etib4}}
 \end{figure}
+
+The formulation of the TIB in terms of energy offers a great opportunity
+to integrate to a mechanistic biogeography, one which strongly eases the
+integration of various ecological processes. For example, here we show
+how three ecological necessities are continually overlooked in classical
+biogeographical theories: (1)- the necessity for a minimum population in
+order to sustain presence on an island, (2)- the necessity of finding
+resource/prey to maintain this population, and (3)- the difference in
+energy uptake due to body mass and trophic level variations among
+species. Based on this integration, we showed how the structure of the
+community is constrained by the energy availability to the species in
+question on islands. We also point out that the structure of the food
+webs, which determines the energy requirements of the whole community,
+controls the species richness and the characteristics of species
+presence of the island.
+
+In our study, we study the SER under two dfferent scenarios considering
+the MVP either decreased with the body mass (C and D) or did not (A and
+B). The results were qualitatively similar, however, were also
+quantitatively different. In our first case, we find that larger species
+can colonize earlier -- leading to increases in species richness for the
+island. Where having a lower MVP for larger species can allow for energy
+compensation costs associated with the maintenance of a larger body.
+Furthermore, this could explain the ``energetic equivalence rules''
+\citep{Nee1991} - species have an equal share of energy allocated
+irrespective to their body mass \citep{Brown2003, Damuth2007}. In our
+case, this holds true as long as the island is ``saturated'' with
+species. Remarkably, under this condition, the relationship between the
+logarithm of species richness and the logarithm of available energy
+(\ref{fig:etib1} B) is linear, which is consistent with empirical
+observations \citep[see Fig 3. and Fig 4. in][]{Wright1983}. Over
+evolutionary scales, these observation would also be consistent with the
+Ecological Limits hypothesis to diversification dynamics
+\citep{Rabosky2015}.
+
+Our findings suggest that there is a clear relationship between the
+trophic status of species and its occurrence probability: species of
+higher trophic levels, irrespective of their body mass, colonize islands
+with higher energy. This indicates that the food-chain length is limited
+by the energy availability. Remarkably, a comparable relationship has
+already been observed by \citet{Post2000}, who has found a correlation
+among maximal food-chain length and lake size, which is consistent with
+the idea that higher trophic level predators need larger areas that are
+accompanied with sufficient amount of prey species in order to survive
+in these lakes (larger area = more potential energy to consume).
+
+Using our framework, we showed that under scenarios C and D (for which
+MVP decreases with the body mass), generalist species are the first to
+colonize the island. Remarkably, the early colonization of generalist
+species has been highlighted by \citet{Piechnik2008} when they revisited
+the classical study by \citet{Simberloff1969}. Also, reading Fig
+\ref{fig:etib4} G-H in the direction of a loss of energy, we observe an
+increase in generalist species similarly found by \citet{Clavel2011}.
+The classical TIB has provided a theoretical basis for the SAR
+\citep{MacArthur1967}, that has been largely used in conservation
+practices to help determine the size of protected areas
+\citep{Neigel2003}. However, as in the TIB, the SAR ignores the identity
+of species, there is currently no theory integrating the position of a
+species within the network it is embedded to predict its distribution.
+The role of a species in the network must be of first importance to help
+better understand the consequences of its loss \citep{Saterberg2013}.
+The model we described here offers a testable hypothesis regarding the
+role of the species that are expected to go extinct first, beginning
+with the highest trophic level cascading to the lowest.
+
+Finally, our framework is an opportunity to review the way we build
+SDMs. Here, our model describes the food web dynamic associated to a
+patch of primary producers. Fortunately, that primary production have
+been proven highly correlated to climate variables
+\citep{Wright1983, Hawkins2003, Evans2005} and are readily quantifiable
+using indices such as the normalized difference vegetation index
+\citep[NDVI][]{Evans2005}. Here, such a quantity is not only a proxy to
+assess the diversity of primary producers and their productivity, but
+also a potential metric of the species richness \citep{Wright1983}, and
+a predictor for network structure (\emph{e.g.} a predictor of the food
+chain length for instance). Current species distribution models are
+based on the correlations between abiotic factors and their occurrence
+probabilities. It is described as a species abiotic niche, while its
+presence could be best explained by the presence of its preys (see
+chapter \ref{chap4}). Therefore, focusing on the prediction of the
+distribution of primary producers while using information gathered
+concerning the associated energy that they could provide to higher
+trophic levels provides a promising avenue to enhance our understandings
+of tomorrow's biodiversity.

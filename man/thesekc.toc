@@ -105,53 +105,53 @@
 \contentsline {chapter}{\numberline {\MakeUppercase {article} \MakeUppercase {4}} \\ \MakeUppercase {Vers une th\IeC {\'e}orie m\IeC {\'e}tabolique de la biog\IeC {\'e}ographie}}{137}{chapter.4}
 \contentsline {subsection}{\numberline {4.0.1}R\IeC {\'e}sum\IeC {\'e} en fran\IeC {\c c}ais du troisi\IeC {\`e}me article}{137}{subsection.4.0.1}
 \contentsline {subsection}{\numberline {4.0.2}Publication envisag\IeC {\'e}e}{138}{subsection.4.0.2}
-\contentsline {subsection}{\numberline {4.0.3}R\IeC {\'e}sum\IeC {\'e} de l'article en anglais}{138}{subsection.4.0.3}
+\contentsline {subsection}{\numberline {4.0.3}R\IeC {\'e}sum\IeC {\'e} de l'article en anglais}{139}{subsection.4.0.3}
 \contentsline {section}{\numberline {4.1}Title}{139}{section.4.1}
-\contentsline {section}{\numberline {4.2}Abstract}{139}{section.4.2}
-\contentsline {section}{\numberline {4.3}Introduction}{139}{section.4.3}
-\contentsline {section}{\numberline {4.4}Model description}{143}{section.4.4}
-\contentsline {subsection}{\numberline {4.4.1}Energetic constraints on local food webs}{145}{subsection.4.4.1}
-\contentsline {subsection}{\numberline {4.4.2}Energy fluxes and transfer efficiency}{146}{subsection.4.4.2}
-\contentsline {subsection}{\numberline {4.4.3}Extinctions}{149}{subsection.4.4.3}
-\contentsline {subsection}{\numberline {4.4.4}Simulations}{150}{subsection.4.4.4}
-\contentsline {section}{\numberline {4.5}Results}{150}{section.4.5}
-\contentsline {section}{\numberline {4.6}Discussion}{152}{section.4.6}
-\contentsline {chapter}{\MakeUppercase {Conclusion g\'en\'erale}}{159}{section*.74}
+\contentsline {section}{\numberline {4.2}Abstract}{140}{section.4.2}
+\contentsline {section}{\numberline {4.3}Introduction}{140}{section.4.3}
+\contentsline {section}{\numberline {4.4}Model description}{144}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Energetic constraints on local food webs}{146}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Energy fluxes and transfer efficiency}{147}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}Extinctions}{150}{subsection.4.4.3}
+\contentsline {subsection}{\numberline {4.4.4}Simulations}{151}{subsection.4.4.4}
+\contentsline {section}{\numberline {4.5}Results}{151}{section.4.5}
+\contentsline {section}{\numberline {4.6}Discussion}{156}{section.4.6}
+\contentsline {chapter}{\MakeUppercase {Conclusion g\'en\'erale}}{160}{section*.74}
 \select@language {french}
-\contentsline {section}{Interactions \IeC {\'e}cologiques et distribution des esp\IeC {\`e}ces}{159}{section*.75}
-\contentsline {subsection}{Des mod\IeC {\`e}les th\IeC {\'e}oriques \IeC {\`a} d\IeC {\'e}velopper}{159}{section*.76}
-\contentsline {subsection}{Des th\IeC {\'e}ories pour mieux appr\IeC {\'e}hender les donn\IeC {\'e}es de co-occurrence}{161}{section*.77}
-\contentsline {section}{Vers une biog\IeC {\'e}ographie pr\IeC {\'e}dictive?}{164}{section*.78}
-\contentsline {subsection}{Les d\IeC {\'e}fis \IeC {\`a} relever dans un monde en changement}{164}{section*.79}
-\contentsline {subsection}{Des r\IeC {\`e}gles en \IeC {\'e}cologie?}{166}{section*.80}
-\contentsline {subsection}{Une th\IeC {\'e}orie int\IeC {\'e}grative de la biog\IeC {\'e}ographie}{168}{section*.81}
+\contentsline {section}{Interactions \IeC {\'e}cologiques et distribution des esp\IeC {\`e}ces}{160}{section*.75}
+\contentsline {subsection}{Des mod\IeC {\`e}les th\IeC {\'e}oriques \IeC {\`a} d\IeC {\'e}velopper}{160}{section*.76}
+\contentsline {subsection}{Des th\IeC {\'e}ories pour mieux appr\IeC {\'e}hender les donn\IeC {\'e}es de co-occurrence}{162}{section*.77}
+\contentsline {section}{Vers une biog\IeC {\'e}ographie pr\IeC {\'e}dictive?}{165}{section*.78}
+\contentsline {subsection}{Les d\IeC {\'e}fis \IeC {\`a} relever dans un monde en changement}{165}{section*.79}
+\contentsline {subsection}{Des r\IeC {\`e}gles en \IeC {\'e}cologie?}{167}{section*.80}
+\contentsline {subsection}{Une th\IeC {\'e}orie int\IeC {\'e}grative de la biog\IeC {\'e}ographie}{169}{section*.81}
 \select@language {french}
-\contentsline {chapter}{\numberline {\MakeUppercase {Annexe} I} \\ \MakeUppercase {Comment la biodiversit\IeC {\'e} s'installe en territoires isol\IeC {\'e}s}}{170}{annexe.1}
-\contentsline {section}{\numberline {5.7}Pr\IeC {\'e}ambule}{170}{section.5.7}
-\contentsline {section}{\numberline {5.8}Le mod\IeC {\`e}le de MacArthur et Wilson}{171}{section.5.8}
-\contentsline {section}{\numberline {5.9}Comment un mod\IeC {\`e}le d\IeC {\'e}terministe \IeC {\'e}merge-t-il de ph\IeC {\'e}nom\IeC {\`e}nes al\IeC {\'e}atoires?}{172}{section.5.9}
-\contentsline {subsection}{\numberline {5.9.1}Mod\IeC {\`e}le stochastique?}{172}{subsection.5.9.1}
-\contentsline {subsection}{\numberline {5.9.2}Les objets math\IeC {\'e}matiques requis}{173}{subsection.5.9.2}
-\contentsline {subsection}{\numberline {5.9.3}Les briques \IeC {\'e}l\IeC {\'e}mentaires du mod\IeC {\`e}le stochastique}{173}{subsection.5.9.3}
-\contentsline {subsection}{\numberline {5.9.4}Assemblons les briques!}{174}{subsection.5.9.4}
-\contentsline {subsection}{\numberline {5.9.5}Retrouvons le mod\IeC {\`e}le classique}{175}{subsection.5.9.5}
-\contentsline {section}{\numberline {5.10}Applications et perspectives}{176}{section.5.10}
+\contentsline {chapter}{\numberline {\MakeUppercase {Annexe} I} \\ \MakeUppercase {Comment la biodiversit\IeC {\'e} s'installe en territoires isol\IeC {\'e}s}}{171}{annexe.1}
+\contentsline {section}{\numberline {5.7}Pr\IeC {\'e}ambule}{171}{section.5.7}
+\contentsline {section}{\numberline {5.8}Le mod\IeC {\`e}le de MacArthur et Wilson}{172}{section.5.8}
+\contentsline {section}{\numberline {5.9}Comment un mod\IeC {\`e}le d\IeC {\'e}terministe \IeC {\'e}merge-t-il de ph\IeC {\'e}nom\IeC {\`e}nes al\IeC {\'e}atoires?}{173}{section.5.9}
+\contentsline {subsection}{\numberline {5.9.1}Mod\IeC {\`e}le stochastique?}{173}{subsection.5.9.1}
+\contentsline {subsection}{\numberline {5.9.2}Les objets math\IeC {\'e}matiques requis}{174}{subsection.5.9.2}
+\contentsline {subsection}{\numberline {5.9.3}Les briques \IeC {\'e}l\IeC {\'e}mentaires du mod\IeC {\`e}le stochastique}{174}{subsection.5.9.3}
+\contentsline {subsection}{\numberline {5.9.4}Assemblons les briques!}{175}{subsection.5.9.4}
+\contentsline {subsection}{\numberline {5.9.5}Retrouvons le mod\IeC {\`e}le classique}{176}{subsection.5.9.5}
+\contentsline {section}{\numberline {5.10}Applications et perspectives}{177}{section.5.10}
 \select@language {english}
-\contentsline {chapter}{\numberline {\MakeUppercase {Annexe} II} \\ \MakeUppercase {Un mod\IeC {\`e}le stochastique de la biog\IeC {\'e}ographie insulaire pour les r\IeC {\'e}seaux \IeC {\'e}cologiques dans un environnement abiotique variable}}{184}{annexe.2}
-\contentsline {section}{\numberline {6.11}Stochastic rules in MacArthur \& Wilson's model}{184}{section.6.11}
-\contentsline {section}{\numberline {6.12}A Markov chains model to describe island communities}{187}{section.6.12}
-\contentsline {subsection}{\numberline {6.12.1}Model for $P$ non-interacting species}{187}{subsection.6.12.1}
-\contentsline {subsection}{\numberline {6.12.2}$P$ Interacting species}{187}{subsection.6.12.2}
-\contentsline {section}{\numberline {6.13}Environmental gradient and island biogeography}{189}{section.6.13}
-\contentsline {section}{\numberline {6.14}Using Markov chains}{189}{section.6.14}
-\contentsline {section}{\numberline {6.15}Time continuous Markov chain}{191}{section.6.15}
-\contentsline {subsection}{\numberline {6.15.1}Solution for two species}{191}{subsection.6.15.1}
-\contentsline {subsection}{\numberline {6.15.2}Solution for $P$ species}{196}{subsection.6.15.2}
+\contentsline {chapter}{\numberline {\MakeUppercase {Annexe} II} \\ \MakeUppercase {Un mod\IeC {\`e}le stochastique de la biog\IeC {\'e}ographie insulaire pour les r\IeC {\'e}seaux \IeC {\'e}cologiques dans un environnement abiotique variable}}{185}{annexe.2}
+\contentsline {section}{\numberline {6.11}Stochastic rules in MacArthur \& Wilson's model}{185}{section.6.11}
+\contentsline {section}{\numberline {6.12}A Markov chains model to describe island communities}{188}{section.6.12}
+\contentsline {subsection}{\numberline {6.12.1}Model for $P$ non-interacting species}{188}{subsection.6.12.1}
+\contentsline {subsection}{\numberline {6.12.2}$P$ Interacting species}{188}{subsection.6.12.2}
+\contentsline {section}{\numberline {6.13}Environmental gradient and island biogeography}{190}{section.6.13}
+\contentsline {section}{\numberline {6.14}Using Markov chains}{190}{section.6.14}
+\contentsline {section}{\numberline {6.15}Time continuous Markov chain}{192}{section.6.15}
+\contentsline {subsection}{\numberline {6.15.1}Solution for two species}{192}{subsection.6.15.1}
+\contentsline {subsection}{\numberline {6.15.2}Solution for $P$ species}{197}{subsection.6.15.2}
 \select@language {english}
-\contentsline {chapter}{\numberline {\MakeUppercase {Annexe} III} \\ \MakeUppercase {Probabilit\IeC {\'e}s de transition entre r\IeC {\'e}seaux trophiques}}{198}{annexe.3}
-\contentsline {section}{\numberline {7.16}The model}{199}{section.7.16}
-\contentsline {section}{\numberline {7.17}Reasonable approximations}{202}{section.7.17}
-\contentsline {section}{\numberline {7.18}Deriving species richness}{203}{section.7.18}
-\contentsline {chapter}{\MakeUppercase {R\'ef\'erences}}{206}{section*.87}
+\contentsline {chapter}{\numberline {\MakeUppercase {Annexe} III} \\ \MakeUppercase {Probabilit\IeC {\'e}s de transition entre r\IeC {\'e}seaux trophiques}}{199}{annexe.3}
+\contentsline {section}{\numberline {7.16}The model}{200}{section.7.16}
+\contentsline {section}{\numberline {7.17}Reasonable approximations}{203}{section.7.17}
+\contentsline {section}{\numberline {7.18}Deriving species richness}{204}{section.7.18}
+\contentsline {chapter}{\MakeUppercase {R\'ef\'erences}}{207}{section*.87}
 \select@language {english}
 \select@language {english}
