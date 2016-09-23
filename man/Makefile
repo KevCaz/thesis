@@ -78,13 +78,13 @@ $(CCL): $(MDC)
 # 	cat $(MD3) $(MD3SI) > $@
 
 
-$(CHP4): $(CHP4MN) $(CHP4HE)
-	cat  $(CHP4HE) $(CHP4MN) > $@
-	sed -i -e 's/fig\//chapitre4\/fig\//g' chapitre4/chap4.tex
-	cp  -r ~/ownCloud/ms_biogenerg/fig chapitre4/
-
-$(CHP4MN): $(MD4)
-		pandoc $< -o $@ $(PFLAGS)
+# $(CHP4): $(CHP4MN) $(CHP4HE)
+# 	cat  $(CHP4HE) $(CHP4MN) > $@
+# 	sed -i -e 's/fig\//chapitre4\/fig\//g' chapitre4/chap4.tex
+# 	cp  -r ~/ownCloud/ms_biogenerg/fig chapitre4/
+#
+# $(CHP4MN): $(MD4)
+# 		pandoc $< -o $@ $(PFLAGS)
 
 $(PDF): $(MD)
 	pandoc $< -o $@ $(PFLAGS)
