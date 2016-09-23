@@ -115,16 +115,16 @@
 \contentsline {subsection}{\numberline {4.4.3}Extinctions}{150}{subsection.4.4.3}
 \contentsline {subsection}{\numberline {4.4.4}Simulations}{151}{subsection.4.4.4}
 \contentsline {section}{\numberline {4.5}Results}{151}{section.4.5}
-\contentsline {section}{\numberline {4.6}Discussion}{155}{section.4.6}
-\contentsline {chapter}{\MakeUppercase {Conclusion g\'en\'erale}}{160}{section*.74}
+\contentsline {section}{\numberline {4.6}Discussion}{154}{section.4.6}
+\contentsline {chapter}{\MakeUppercase {Conclusion g\'en\'erale}}{160}{section*.75}
 \select@language {french}
-\contentsline {section}{Interactions \IeC {\'e}cologiques et distribution des esp\IeC {\`e}ces}{160}{section*.75}
-\contentsline {subsection}{Des mod\IeC {\`e}les th\IeC {\'e}oriques \IeC {\`a} d\IeC {\'e}velopper}{160}{section*.76}
-\contentsline {subsection}{Des th\IeC {\'e}ories pour mieux appr\IeC {\'e}hender les donn\IeC {\'e}es de co-occurrence}{162}{section*.77}
-\contentsline {section}{Vers une biog\IeC {\'e}ographie pr\IeC {\'e}dictive?}{165}{section*.78}
-\contentsline {subsection}{Les d\IeC {\'e}fis \IeC {\`a} relever dans un monde en changement}{165}{section*.79}
-\contentsline {subsection}{Des r\IeC {\`e}gles en \IeC {\'e}cologie?}{167}{section*.80}
-\contentsline {subsection}{Une th\IeC {\'e}orie int\IeC {\'e}grative de la biog\IeC {\'e}ographie}{169}{section*.81}
+\contentsline {section}{Interactions \IeC {\'e}cologiques et distribution des esp\IeC {\`e}ces}{160}{section*.76}
+\contentsline {subsection}{Des mod\IeC {\`e}les th\IeC {\'e}oriques \IeC {\`a} d\IeC {\'e}velopper}{160}{section*.77}
+\contentsline {subsection}{Des th\IeC {\'e}ories pour mieux appr\IeC {\'e}hender les donn\IeC {\'e}es de co-occurrence}{162}{section*.78}
+\contentsline {section}{Vers une biog\IeC {\'e}ographie pr\IeC {\'e}dictive?}{165}{section*.79}
+\contentsline {subsection}{Les d\IeC {\'e}fis \IeC {\`a} relever dans un monde en changement}{165}{section*.80}
+\contentsline {subsection}{Des r\IeC {\`e}gles en \IeC {\'e}cologie?}{167}{section*.81}
+\contentsline {subsection}{Une th\IeC {\'e}orie int\IeC {\'e}grative de la biog\IeC {\'e}ographie}{169}{section*.82}
 \select@language {french}
 \contentsline {chapter}{\numberline {\MakeUppercase {Annexe} I} \\ \MakeUppercase {Comment la biodiversit\IeC {\'e} s'installe en territoires isol\IeC {\'e}s}}{171}{annexe.1}
 \contentsline {section}{\numberline {5.7}Pr\IeC {\'e}ambule}{171}{section.5.7}
@@ -152,6 +152,6 @@
 \contentsline {section}{\numberline {7.16}The model}{200}{section.7.16}
 \contentsline {section}{\numberline {7.17}Reasonable approximations}{203}{section.7.17}
 \contentsline {section}{\numberline {7.18}Deriving species richness}{204}{section.7.18}
-\contentsline {chapter}{\MakeUppercase {R\'ef\'erences}}{207}{section*.87}
+\contentsline {chapter}{\MakeUppercase {R\'ef\'erences}}{207}{section*.88}
 \select@language {english}
 \select@language {english}

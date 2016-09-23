@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  23 SEP 2016 13:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  23 SEP 2016 14:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1705,72 +1705,50 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 5.
+(hyperref)                than one, level fixed on input line 6.
 
 [137
 
 
 ] [138] [139] [140] [141] [142] [143] [144] [145] [146] [147] [148]
-[149]
-Overfull \hbox (80.31902pt too wide) in paragraph at lines 473--473
-[] [] 
- []
-
-[150] <chapitre4/fig/fig1.pdf, id=3121, 252.945pt x 650.43pt>
+[149] <chapitre4/fig/fig1.pdf, id=3113, 252.945pt x 650.43pt>
 File: chapitre4/fig/fig1.pdf Graphic file (type pdf)
 
 <use chapitre4/fig/fig1.pdf>
-Package pdftex.def Info: chapitre4/fig/fig1.pdf used on input line 527.
-(pdftex.def)             Requested size: 252.94438pt x 650.4284pt.
+Package pdftex.def Info: chapitre4/fig/fig1.pdf used on input line 516.
+(pdftex.def)             Requested size: 221.93158pt x 570.69296pt.
 
 
-LaTeX Warning: Float too large for page by 89.07506pt on input line 531.
+LaTeX Warning: Float too large for page by 9.33961pt on input line 520.
 
-[151] [152 <./chapitre4/fig/fig1.pdf>]
-<chapitre4/fig/fig2.pdf, id=3147, 505.89pt x 433.62pt>
+[150] [151] [152 <./chapitre4/fig/fig1.pdf>]
+<chapitre4/fig/fig2.pdf, id=3145, 505.89pt x 433.62pt>
 File: chapitre4/fig/fig2.pdf Graphic file (type pdf)
 
 <use chapitre4/fig/fig2.pdf>
-Package pdftex.def Info: chapitre4/fig/fig2.pdf used on input line 563.
-(pdftex.def)             Requested size: 505.88875pt x 433.61894pt.
-
-Overfull \hbox (62.02559pt too wide) in paragraph at lines 563--567
- [][] 
- []
-
-<chapitre4/fig/fig3.pdf, id=3156, 505.89pt x 397.485pt>
+Package pdftex.def Info: chapitre4/fig/fig2.pdf used on input line 566.
+(pdftex.def)             Requested size: 443.86316pt x 380.46198pt.
+ [153 <./chapitre4/fig/fig2.pdf>]
+<chapitre4/fig/fig3.pdf, id=3166, 505.89pt x 397.485pt>
 File: chapitre4/fig/fig3.pdf Graphic file (type pdf)
 
 <use chapitre4/fig/fig3.pdf>
-Package pdftex.def Info: chapitre4/fig/fig3.pdf used on input line 590.
-(pdftex.def)             Requested size: 505.88875pt x 397.48402pt.
-
-Overfull \hbox (62.02559pt too wide) in paragraph at lines 590--593
- [][] 
- []
-
-[153] [154 <./chapitre4/fig/fig2.pdf>] [155 <./chapitre4/fig/fig3.pdf>]
+Package pdftex.def Info: chapitre4/fig/fig3.pdf used on input line 610.
+(pdftex.def)             Requested size: 443.86316pt x 348.7568pt.
+ [154] [155 <./chapitre4/fig/fig3.pdf>]
 <chapitre4/fig/fig4.pdf, id=3194, 542.025pt x 578.16pt>
 File: chapitre4/fig/fig4.pdf Graphic file (type pdf)
 
 <use chapitre4/fig/fig4.pdf>
-Package pdftex.def Info: chapitre4/fig/fig4.pdf used on input line 626.
-(pdftex.def)             Requested size: 542.02367pt x 578.15858pt.
-
-Overfull \hbox (98.1605pt too wide) in paragraph at lines 626--631
- [][] 
- []
-
-
-LaTeX Warning: Float too large for page by 31.30524pt on input line 632.
-
-[156] [157 <./chapitre4/fig/fig4.pdf>] [158]) [159]
+Package pdftex.def Info: chapitre4/fig/fig4.pdf used on input line 647.
+(pdftex.def)             Requested size: 443.86316pt x 473.46791pt.
+ [156] [157 <./chapitre4/fig/fig4.pdf>] [158])
+[159]
 Package cleveref Info: loaded `french' language definitions on input line 145.
  (./conclu.tex [160
 
 
-]
-[161]
+] [161]
 Overfull \hbox (17.29686pt too wide) in paragraph at lines 93--118
 \OT1/txr/m/n/12 r[]eflexion im-por-tante pour les biog[]eographes sur les-quell
 es se concentre l'ef-fort de d[]eveloppement
@@ -2078,32 +2056,26 @@ Package cleveref Info: loaded `french' language definitions on input line 25.
 Package cleveref Info: loaded `french' language definitions on input line 31.
 Package cleveref Info: loaded `english' language definitions on input line 415.
 
-Package cleveref Info: loaded `french' language definitions on input line 1403.
+Package cleveref Info: loaded `french' language definitions on input line 1399.
 
-Package cleveref Info: loaded `french' language definitions on input line 1522.
+Package cleveref Info: loaded `french' language definitions on input line 1518.
 
-Package cleveref Info: loaded `english' language definitions on input line 1579
+Package cleveref Info: loaded `english' language definitions on input line 1575
 .
-Package cleveref Info: loaded `english' language definitions on input line 1669
+Package cleveref Info: loaded `english' language definitions on input line 1665
 .
-Package cleveref Info: loaded `english' language definitions on input line 1736
+Package cleveref Info: loaded `english' language definitions on input line 1732
 .
-Package cleveref Info: loaded `english' language definitions on input line 1979
+Package cleveref Info: loaded `english' language definitions on input line 1975
 .
 )
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 198.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 198.
-
-
-Package rerunfilecheck Warning: File `thesekc.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `thesekc.out':
-(rerunfilecheck)             Before: BEB7111F2A8411987649A2DCCB2B4BE6;10085
-(rerunfilecheck)             After:  AC2987116E97E92E48C2EA89A88E7644;10086.
+Package rerunfilecheck Info: File `thesekc.out' has not changed.
+(rerunfilecheck)             Checksum: BE6F24E48FCBFB6BC182F54B3F355692;10086.
 Package rerunfilecheck Info: File `thesekc.brf' has not changed.
-(rerunfilecheck)             Checksum: F81A8BFBA7DF3EC186EF49834292A169;27985.
+(rerunfilecheck)             Checksum: 679BDC62EB6017BC302EAB6100C11AC5;27985.
+
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -2111,7 +2083,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 198.
  ) 
 Here is how much of TeX's memory you used:
  18918 strings out of 493014
- 291473 string characters out of 6133351
+ 291482 string characters out of 6133351
  409584 words of memory out of 5000000
  21225 multiletter control sequences out of 15000+600000
  59581 words of font info for 139 fonts, out of 8000000 for 9000
@@ -2139,7 +2111,7 @@ e/2016/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2016/tex
 mf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2016/texmf-dist/f
 onts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1
 /urw/times/utmri8a.pfb>
-Output written on thesekc.pdf (250 pages, 3743569 bytes).
+Output written on thesekc.pdf (250 pages, 3743457 bytes).
 PDF statistics:
  4712 PDF objects out of 5155 (max. 8388607)
  4280 compressed objects within 43 object streams

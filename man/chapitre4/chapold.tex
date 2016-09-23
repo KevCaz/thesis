@@ -2,7 +2,6 @@
 \label{chap4}
 
 
-
 \subsection{Résumé en français du troisième article}
 
 Dans ce chapitre, je présente une formulation énergétique du modèle
@@ -469,37 +468,23 @@ satisfied. Note that the deterministic nature of extinctions lays in in
 the fact that they occur when energy is lacking, the identity of the
 species that actually goes extinct remains stochastic.
 
-% \begin{table}[]{@{}lll@{}}
-% \caption{Hypotheses associated to the four scenarios.
-% \label{tbl:scena}}\tabularnewline
-% \toprule
-% Scenario & MVP & extinction\tabularnewline
-% \midrule
-% \endfirsthead
-% \toprule
-% Scenario & MVP & extinction\tabularnewline
-% \midrule
-% \endhead
-% A & \(n_0\) & random\tabularnewline
-% B & \(n_0\) & costs-based\tabularnewline
-% C & \(n_0m^{-.75}\) & random\tabularnewline
-% D & \(n_0m^{-.75}\) & costs-based\tabularnewline
-% \bottomrule
-% \end{longtable}
-
-\begin{table}
-  \centering
-  \caption{Hypotheses associated to the four scenarios.
-  \label{tbl:scena}}
-  \begin{tabular}{lll}
-    Scenario & MVP & extinction \\ \hline
-    A & \(n_0\) & random \\
-    B & \(n_0\) & costs-based \\
-    C & \(n_0m^{-.75}\) & random \\
-    D & \(n_0m^{-.75}\) & costs-based
-  \end{tabular}
-\end{table}
-
+\begin{longtable}[]{@{}lll@{}}
+\caption{Hypotheses associated to the four scenarios.
+\label{tbl:scena}}\tabularnewline
+\toprule
+Scenario & MVP & extinction\tabularnewline
+\midrule
+\endfirsthead
+\toprule
+Scenario & MVP & extinction\tabularnewline
+\midrule
+\endhead
+A & \(n_0\) & random\tabularnewline
+B & \(n_0\) & costs-based\tabularnewline
+C & \(n_0m^{-.75}\) & random\tabularnewline
+D & \(n_0m^{-.75}\) & costs-based\tabularnewline
+\bottomrule
+\end{longtable}
 
 Although the assumptions we have made here are likely unrealistic, our
 intentions are merely to examine the model under the special case of an
@@ -510,14 +495,6 @@ associated to one predator is not based on inherent properties only, as
 it is determined also by the identity of its preys present on the island
 (in other words, via apparent competition). Hypotheses made for the four
 scenario are recapitulated in Table \ref{tbl:scena}.
-
-\begin{figure}[htbp]
-\centering
-\includegraphics[width=0.5\textwidth]{chapitre4/fig/fig1.pdf}
-\caption[Species-Energy Relationship]{\textbf{Species-Energy Relationship} using 100 replicates for
-each of the four scenarios for (A) mean species richness, (B) logarithm
-of the mean, and (C) coefficient of variation.\label{fig:etib1}}
-\end{figure}
 
 \subsection{Simulations}\label{simulations}
 
@@ -545,7 +522,13 @@ iterations and the 100,000 remaining to do our analyses. For all the 91
 values of the energy gradient we used 100 replicates, meaning 100
 different regional metawebs.
 
-
+\begin{figure}[htbp]
+\centering
+\includegraphics{chapitre4/fig/fig1.pdf}
+\caption{\textbf{Species-Energy Relationship} using 100 replicates for
+each of the four scenarios for (A) mean species richness, (B) logarithm
+of the mean, and (C) coefficient of variation.\label{fig:etib1}}
+\end{figure}
 
 \section{Results}\label{results}
 
@@ -561,17 +544,6 @@ where the extinction rate was cost-based than randomly based (Fig.
 \ref{fig:etib1} A-B), which also results in less variability (Fig.
 \ref{fig:etib1} C).
 
-\begin{figure}[htbp]
-\centering
-\includegraphics[width=\textwidth]{chapitre4/fig/fig2.pdf}
-\caption[Species occurrence probability along an energy
-gradient, grouped by trophic level]{\textbf{Species occurrence probability along an energy
-gradient, grouped by trophic level}; herbivores, or by their shortest
-path linking to a herbivore species. The top right letters indicates the
-scenarios.\label{fig:etib2}}
-\end{figure}
-
-
 Occurrence probability increases with available energy and decreases
 with trophic level for all scenarios (\ref{fig:etib2}). Herbivores were
 found to colonize the island first, followed by predators of increasing
@@ -586,6 +558,14 @@ especially given it strongly impacts the cost of a species; suggesting
 that this is the cause of the main differences among random and
 cost-based extinction rates.
 
+\begin{figure}[htbp]
+\centering
+\includegraphics{chapitre4/fig/fig2.pdf}
+\caption{\textbf{Species occurrence probability along an energy
+gradient, grouped by trophic level}; herbivores, or by their shortest
+path linking to a herbivore species. The top right letters indicates the
+scenarios.\label{fig:etib2}}
+\end{figure}
 
 The average species body mass increased with energy under scenarios A
 and B, but decreased under scenarios C and D. The reduction of MVP with
@@ -607,9 +587,8 @@ C and D than under scenarios A and B (\ref{fig:etib4} M-P).
 
 \begin{figure}[htbp]
 \centering
-\includegraphics[width=\textwidth]{chapitre4/fig/fig3.pdf}
-\caption[Species occurrence probability by energy gradient
-grouped by body mass class]{\textbf{Species occurrence probability by energy gradient
+\includegraphics{chapitre4/fig/fig3.pdf}
+\caption{\textbf{Species occurrence probability by energy gradient
 grouped by body mass class}. The top right letters indicates the
 scenarios.\label{fig:etib3}}
 \end{figure}
@@ -644,11 +623,9 @@ ecology and genetics?'' \citep[p.183]{MacArthur1967}.
 
 \begin{figure}[htbp]
 \centering
-\includegraphics[width=\textwidth]{chapitre4/fig/fig4.pdf}
-\caption[Average body mass, number of preys, predators of
-predator species and the average number of interactions per species on
-the island]{\textbf{Average body mass, number of preys, predators of
-predator species and the average number of interactions per species on
+\includegraphics{chapitre4/fig/fig4.pdf}
+\caption{\textbf{Average body mass, number of preys, predators of
+predator species and the average number of interaction per species on
 the island} in regards to the energy gradient for four scenarios: (A)
 A,E,I, (B) B, F, J, M (C) C, G, K, O and (D) D, H, L,
 P.\label{fig:etib4}}
