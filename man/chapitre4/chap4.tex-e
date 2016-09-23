@@ -72,9 +72,32 @@ j’aimerais mener dans un projet post-doctoral.
 \emph{Les sections qui suivent sont celles de l'article publié.}
 \section{Title}\label{title}
 
-Towards a metabolic theory of biogeography
+Towards a metabolic theory of island biogeography
 
 \section{Abstract}\label{abstract}
+
+Food webs structure the partitioning of energy from the primary
+producers to the top predators. Although energy is one of the most
+important factor diversity, it remains overlooked by classical theories
+in biogepgraphy that either assume ecological equivalence (\emph{e.g}
+the TIB) or remain focused on the concept of the ecological niche.
+Energy is however a factor early envisioned as a key to understand the
+structure of food web and the coexistence of species. Classical
+gradients in biogeography are linked to energy such as latitudinal
+diversity gradient. Moreover the classical view of biomes is actually
+rooted on energy and water availibities. Therefore funding a theory of
+biogeography on the bases a energy partitioning among food is a
+promising avenur to gather diffenret pece of infornation within one
+conceptual framework. Here we undertake such integrated model that
+integrate energy contrain as quantity of primary producers on the island
+and take different into account. We derive an assemblage nased on
+stochastic colonisatin and randonm. Bases on we show how energy
+consriant the food web and how enegry transfer efficiency is important.
+l'impact des interactions trophiques sur la distribution de la
+biodiversité au long de gradients de productivit. along gradient As a
+consequence, our theory encompasses both the species-area and the
+species-energy relationships, making it a very general framework to
+understand and predict biodiversity distribution
 
 \section{Introduction}\label{introduction}
 
@@ -93,14 +116,14 @@ integrated approach at the crossroad between species distribution
 modelling and community ecology.
 
 Biotic interactions should be integrated as a constraint for species
-co-distribution in meta-communities \citep[ ]{Jabot2012, Cazelles2016a}.
+co-distribution in meta-communities \citep{Jabot2012, Cazelles2016a}.
 Ecological interactions may explain, at least partially, the dynamics of
 local extinctions, which in turn would further explain some properties
 of the geometrical shape of species ranges \citep[\emph{e.g.} nested
 distributions of parasitoid and its host,][]{Shenbrot2007}. We have
 however limited evidence of the effect of biotic interactions on large
-scale species distribution (See Chapter 3 - but see
-\citet{Gotelli2010}). Incidently, two of the most influential models in
+scale species distribution \citep[see Chapter \ref{chap3} - but
+see][]{Gotelli2010}. Incidentally, two of the most influential models in
 biogeography assume ecological equivalence of species; the Theory of
 Island Biogeography of MacArthur and Wilson \citep[hereafter
 TIB,][]{MacArthur1967} overlook the variation among species
@@ -109,7 +132,7 @@ networks. In his neutral theory, Hubbell assumes that individuals of
 different species are ecologically equivalent and predicts the
 distribution of abundance without considering interactions
 \citep{Hubbell1997, Hubbell2001}. These two theoretical models have been
-prove relevant for certain groups of species and inadequate for others,
+proven relevant for certain groups of species and inadequate for others,
 and none of them were initially intended to describe exhaustively the
 structure of ecological communities. The integration of ecological
 interactions into biogeography however offers promising perspectives and
@@ -121,16 +144,16 @@ includes two fundamental processes of biogeography, immigration and
 extinction, in an elegant fashion that eases its extension
 \citep{Losos2010, Warren2015}. Building upon the classical model of
 MacArthur and Wilson, recent studies have included various forms of
-interactions in the TIB \citep[ ]{Gravel2011, Cazelles2016a}. The
-regional species pool becomes a \emph{metaweb}, not only listing
-potential colonists but also their interactions. With this approach,
-species are inter-dependent entities with specificities (\emph{e.g.} a
-given trophic level) rather than indistinguishable units. As a
-consequence, colonization and extinction rates vary with respect to
-species identity \emph{and} the composition of the local community.
-\citet{Gravel2011} proposed the Trophic TIB (hereinafter TTIB) to
-represent food web assembly on isolated communities, where predators can
-persist locally as long as they find at least one preys. More generally,
+interactions in the TIB \citep{Gravel2011, Cazelles2016a}. The regional
+species pool becomes a \emph{metaweb}, not only listing potential
+colonists but also their interactions. With this approach, species are
+inter-dependent entities with specificities (\emph{e.g.} a given trophic
+level) rather than indistinguishable units. As a consequence,
+colonization and extinction rates vary with respect to species identity
+\emph{and} the composition of the local community. \citet{Gravel2011}
+proposed the Trophic TIB (hereinafter TTIB) to represent food web
+assembly on isolated communities, where predators can persist locally as
+long as they find at least one preys. More generally,
 \citet{Cazelles2016a} presented a Lotka-Volterra like model in which the
 composition of the local community determines both colonization and
 extinction rates. Adding new ecological processes in the TIB increases
@@ -149,48 +172,47 @@ latitudinal diversity gradient
 primary producers is generally found the best predictor of species
 richness at large spatial scales \citep{Evans2005, Storch2005}. Others
 found a strong correlation between richness, water availability and
-temperature \citep[\citet{Hawkins2003}]{Currie1993}. Several mechanisms
-have been proposed to explain this relationship
-\citep[see][\citet{Evans2005} for a review]{Currie2004}, including
-higher speciation rates in tropical areas, greater biomass and finer
-niche partitioning. Recently, some investigated how networks could
-change with latitude. Based on the meta-analysis of 196 empirical food
-webs, \citet{Cirtwill2015a} shown that ecological networks of
-interactions also vary along this gradient but that the density of links
-remains constant throughout. In the majority of ecosystems theses
-authors studied, an increased energy results in a wider niche space,
-rather than an increase of niche breadth poleward. Similarly,
-\citet{Albouy2016} reconstructed marine networks across the globe and
-found significant latitudinal-network gradients (LNG). These studies are
-however descriptive only, as there is currently no theory to explain how
-and why energy constraints should impact food web structure. In 1983,
-\citet{Wright1983} developed the species-energy theory and replaced the
-``area'' with ``available energy'' to derive a meaningful Species Energy
-Relationship (SER). Although area and energy may bring more information
-taken together \citep{Storch2005}, the rationale behind it allows the
-derivation of species abundance and occurrence probability based on
-energetic constraint \citep{Wright1983}. Wright's approach however do
-not specifically account for network structure and thereby remains
-limited to species richness.
+temperature \citep{Currie1993, Hawkins2003}. Several mechanisms have
+been proposed to explain this relationship \citep[see][ for a
+review]{Currie2004, Evans2005}, including higher speciation rates in
+tropical areas, greater biomass and finer niche partitioning. Recently,
+some authors investigated how networks could change with latitude. Based
+on the meta-analysis of 196 empirical food webs, \citet{Cirtwill2015a}
+shown that ecological networks of interactions also vary along this
+gradient but that the density of links remains constant throughout. In
+the majority of ecosystems theses authors studied, an increased energy
+results in a wider niche space, rather than an increase of niche breadth
+poleward. Similarly, \citet{Albouy2016} reconstructed marine networks
+across the globe and found significant latitudinal-network gradients
+(LNG). These studies are however descriptive only, as there is currently
+no theory to explain how and why energy constraints should impact food
+web structure. In 1983, \citet{Wright1983} developed the species-energy
+theory and replaced the ``area'' with ``available energy'' to derive a
+meaningful Species Energy Relationship (SER). Although area and energy
+may bring more information taken together \citep{Storch2005}, the
+rationale behind it allows the derivation of species abundance and
+occurrence probability based on energetic constraint \citep{Wright1983}.
+Wright's approach however do not specifically account for network
+structure and thereby remains limited to species richness.
 
 Species do not escape from the laws of thermodynamics and as a
 consequence, despite the complexity of evolutionary trajectories, many
 key ecological properties and processes scale with body mass
-\citep[i.e.~metabolic theory of ecology@Brown2004;][]{Woodward2005a}.
-The scaling of the metabolic rates with body mass is the fundamental
-observation underlying this theory \citep{Gillooly2001}, which typically
-follows a power function with coefficients often between 2/3 and 3/4
-\citep{White2013}. Even if all the relationships are not well-understood
-\citep[see the case of abundances reviewed in][ and the recent
-relationship between prey and predator biomasses
-\citet{Hatton2015}]{White2007}, the ubiquity of allometric relationships
-makes body mass distribution a key variable to reduce the complexity of
-ecosystems. Allometric relationships and energy flows also provide the
-mean to parameterize models of population dynamics \citep{Yodzis1992}.
-Recent developments of food web theory have convincingly shown that
-allometric relationships are the cog to analyze the properties of
-ecological networks {[}\citet{Gravel2013}; \citet{Petchey2008}, their
-dynamics \citep{Brose2006} and to characterize the role of species
+\citep[\emph{i.e.} metabolic theory of
+ecology][]{Brown2004, Woodward2005a}. The scaling of the metabolic rates
+with body mass is the fundamental observation underlying this theory
+\citep{Gillooly2001}, which typically follows a power function with
+coefficients often between 2/3 and 3/4 \citep{White2013}. Even if all
+the relationships are not well-understood \citep[see the case of
+abundances reviewed in][ and the recent relationship between prey and
+predator biomasses \citet{Hatton2015}]{White2007}, the ubiquity of
+allometric relationships makes body mass distribution a key variable to
+reduce the complexity of ecosystems. Allometric relationships and energy
+flows also provide the mean to parameterize models of population
+dynamics \citep{Yodzis1992}. Recent developments of food web theory have
+convincingly shown that allometric relationships are the cog to analyze
+the properties of ecological networks \citep{Gravel2013, Petchey2008},
+their dynamics \citep{Brose2006} and to characterize the role of species
 within them \citep{Schneider2012}.
 
 Our objective in this study is to develop a theory of biodiversity
@@ -207,7 +229,7 @@ latitudinal-network gradient. To do so, we propose a theoretical model
 of food web assembly driven by colonization from the regional metaweb
 and energetic constraints. We derive expected species richness and
 network structure along gradients of primary productivity. We use
-``Lindeman'' \citep{Lindeman1943} transfer efficiency (\emph{i.e.}
+``Lindeman'' \citep{Lindeman1942} transfer efficiency (\emph{i.e.}
 energy transferred to another trophic level) to integrate
 species-specific differences in their source of energy. We derive a SER
 and the relationship between body-mass distribution and available
@@ -221,15 +243,14 @@ The model developed by MacArthur and Wilson predicts species richness on
 an island according to the size of the island and its distance from the
 mainland \citep{MacArthur1967}. One promising direction to extend this
 theory is to include biotic interactions into the classical model
-\citep[\citet{Gravel2011}, \citet{Cazelles2016a}]{Holt2010}. Following
-this avenue, we consider explicit interactions among the regional pool
-of species based on allometric relationships. Body mass is used to
-determine the quantity of energy a given species requires to maintain
-its local population on an island. Extinction follows if the island
-cannot sustain a minimal population of any given species. Therefore, in
-the model described below, we simulate the TIB with purely stochastic
-colonization events together with deterministic extinction based on an
-energy rational.
+\citep{Holt2010, Gravel2011, Cazelles2016a}. Following this avenue, we
+consider explicit interactions among the regional pool of species based
+on allometric relationships. Body mass is used to determine the quantity
+of energy a given species requires to maintain its local population on
+an island. Extinction follows if the island cannot sustain a minimal
+population of any given species. Therefore, in the model described
+below, we simulate the TIB with purely stochastic colonization events
+together with deterministic extinction based on an energy rational.
 
 We consider an island as an isolated piece of land covered by a maximal
 quantity of primary producers, which determine the amount of available
@@ -322,7 +343,7 @@ upon a herbivore \(i\). The cost to maintain the MVP of \(i\) is
 convert \(n_j\) into an extra population of \(i\), \(n_{i,j}\) herbivore
 individuals dedicated to \(j\) consumption. Furthermore, we account for
 the energy loss during consumption by including a transfer efficiency
-(sensu Lindeman1943) \(\tau\). Hence, the conversion from \(n_{j}\) to
+(sensu Lindeman1942) \(\tau\). Hence, the conversion from \(n_{j}\) to
 \(n_{i,j}\) is given by the following equation:
 \begin{equation} \tau n_{i,j} c_im_i^b = n_jc_jm_j^b \label{eq:id1}\end{equation}
 
@@ -415,11 +436,11 @@ of community dynamics. As an important remark, the energy cost
 associated to one predator is not based on inherent properties only, as
 it is determined also by the identity of its preys present on the island
 (in otehr words, via apparent competition). Hypotheses made for the four
-scenario are recapitulated in Table \citet{tbl:scena}.
+scenario are recapitulated in Table \ref{tbl:scena}.
 
 \begin{longtable}[]{@{}lll@{}}
-\caption{Hypotheses associated to the four
-scenarios.\{\#tbl:scena\}}\tabularnewline
+\caption{Hypotheses associated to the four scenarios.
+\label{tbl:scena}}\tabularnewline
 \toprule
 Scenario & MVP & extinction\tabularnewline
 \midrule
@@ -444,9 +465,11 @@ are then sorted, the lowest values are assigned to the herbivores and we
 use the vector obtained as the niche axis in the niche model, with
 connectance set to \(0.05\) \citep{Williams2000}. Species that are not
 connected are assumed to be herbivores and to allow comparisons among
-simulation we standardize the number of herbivore to 10. We also use the
-\(p_i\) number to derive the biomass of all species, we do so by using
-\(10^{p_i}\). The smallest species has the smallest niche axis.
+simulation we standardize the number of herbivore to 10. To do so we
+keep generating new metawebs until one we obtain one metweb with 10
+species that were not connected. We also use the \(p_i\) number to
+derive the biomass of all species, we do so by using \(10^{p_i}\). The
+smallest species has the smallest niche axis.
 
 We simulated the model along a gradient of energy ranging in
 \(\frac{E_0}{n_0}\) from \(.1\) to \(10^8\). We start with an empty

@@ -1,5 +1,12 @@
 \begin{thebibliography}{}
 
+\bibitem[Albouy et~al., 2016]{Albouy2016}
+Albouy, C., Archambault, P., Ward, A., Ara{\'{u}}jo, M.~B., Cazelles, K.,
+  Cirtwill, A.~R., Fortin, M.-J., Leroux, S.~J., Pellissier, L., Poisot, T.,
+  Stouffer, D.~B., Wood, S., and Gravel, D. (2016).
+\newblock {No Title}.
+\newblock {\em in prep}.
+
 \bibitem[Albouy et~al., 2012]{Albouy2012}
 Albouy, C., Guilhaumon, F., Ara{\'{u}}jo, M.~B., Mouillot, D., and Leprieur, F.
   (2012).
@@ -279,6 +286,11 @@ Coyne, J.~A. and Orr, H.~A. (2004).
 Cs{\'{a}}rdi, G. and Nepusz, T. (2006).
 \newblock {The igraph software package for complex network research}.
 \newblock {\em InterJournal Complex Systems}, 1695:1695.
+
+\bibitem[Currie and Fritz, 1993]{Currie1993}
+Currie, D.~J. and Fritz, J.~T. (1993).
+\newblock {Global Patterns of Animal Abundance and Species Energy Use}.
+\newblock {\em Oikos}, 67(1):56.
 
 \bibitem[Currie et~al., 2004]{Currie2004}
 Currie, D.~J., Mittelbach, G.~G., Cornell, H.~V., Field, R., Guegan, J.-F.,
@@ -794,6 +806,11 @@ Levins, R. and Heatwole, H. (1963).
 Liaw, A. and Wiener, M. (2002).
 \newblock {Classification and Regression by randomForest}.
 \newblock {\em R News}, 2(3):18--22.
+
+\bibitem[Lindeman, 1942]{Lindeman1942}
+Lindeman, R.~L. (1942).
+\newblock {The Trophic-Dynamic Aspect of Ecology}.
+\newblock {\em Ecology}, 23(4):399--417.
 
 \bibitem[Lomolino, 2000a]{Lomolino2000a}
 Lomolino, M. (2000a).

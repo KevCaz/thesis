@@ -30,20 +30,20 @@
 \contentsline {figure}{\numberline {20}{\ignorespaces Co-occurrence significance decreases as the cumulated occupancy of predators (pollinators) increases}}{135}{figure.caption.68}
 \contentsline {figure}{\numberline {21}{\ignorespaces \textbf {Predicting herbivores distributions based on the distributions of willows} For all herbivores in the WLN dataset, we compared the AUC obtained when using willow species they do not interact with (circles) or a willow species they interact with (squares) or the set of willow species they interacts with (triangles) as predictor variables to the AUC obtained for GLM (A) and RF (B). Positive values indicate that species based model outperformed the SDM model.\relax }}{136}{figure.caption.69}
 \addvspace {0\p@ }
-\contentsline {figure}{\numberline {22}{\ignorespaces \textbf {Species-Energy Relationship} using 100 replicates for each of the four scenarios for (A) mean species richness, (B) logarithm of the mean, and (C) coefficient of variation.\relax }}{153}{figure.caption.70}
-\contentsline {figure}{\numberline {23}{\ignorespaces \textbf {Species occurrence probability along an energy gradient, grouped by trophic level}; herbivores, or by their shortest path linking to a herbivore species. The top right letters indicates the scenarios.\relax }}{154}{figure.caption.71}
-\contentsline {figure}{\numberline {24}{\ignorespaces \textbf {Species occurrence probability by energy gradient grouped by body mass class}. The top right letters indicates the scenarios.\relax }}{155}{figure.caption.72}
-\contentsline {figure}{\numberline {25}{\ignorespaces \textbf {Average number of preys, predators, and mean body mass of predator species on the island} in regards to the energy gradient for four scenarios: (A) A,E,I, (B) B, F, J, (C) C, G, K, and (D) D, H, L.\relax }}{156}{figure.caption.73}
+\contentsline {figure}{\numberline {22}{\ignorespaces \textbf {Species-Energy Relationship} using 100 replicates for each of the four scenarios for (A) mean species richness, (B) logarithm of the mean, and (C) coefficient of variation.\relax }}{154}{figure.caption.70}
+\contentsline {figure}{\numberline {23}{\ignorespaces \textbf {Species occurrence probability along an energy gradient, grouped by trophic level}; herbivores, or by their shortest path linking to a herbivore species. The top right letters indicates the scenarios.\relax }}{155}{figure.caption.71}
+\contentsline {figure}{\numberline {24}{\ignorespaces \textbf {Species occurrence probability by energy gradient grouped by body mass class}. The top right letters indicates the scenarios.\relax }}{156}{figure.caption.72}
+\contentsline {figure}{\numberline {25}{\ignorespaces \textbf {Average number of preys, predators, and mean body mass of predator species on the island} in regards to the energy gradient for four scenarios: (A) A,E,I, (B) B, F, J, (C) C, G, K, and (D) D, H, L.\relax }}{157}{figure.caption.73}
 \select@language {french}
 \select@language {french}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {26}{\ignorespaces Repr\IeC {\'e}sentation graphique de la solution de l'\IeC {\'e}quation diff\IeC {\'e}rentielle}}{170}{figure.caption.82}
-\contentsline {figure}{\numberline {27}{\ignorespaces Dynamique de la biodiversit\IeC {\'e} de trois zones prot\IeC {\'e}g\IeC {\'e}es}}{175}{figure.caption.83}
-\contentsline {figure}{\numberline {28}{\ignorespaces Repr\IeC {\'e}sentation de la formule des probabilit\IeC {\'e}s totales.}}{180}{figure.caption.84}
+\contentsline {figure}{\numberline {26}{\ignorespaces Repr\IeC {\'e}sentation graphique de la solution de l'\IeC {\'e}quation diff\IeC {\'e}rentielle}}{171}{figure.caption.82}
+\contentsline {figure}{\numberline {27}{\ignorespaces Dynamique de la biodiversit\IeC {\'e} de trois zones prot\IeC {\'e}g\IeC {\'e}es}}{176}{figure.caption.83}
+\contentsline {figure}{\numberline {28}{\ignorespaces Repr\IeC {\'e}sentation de la formule des probabilit\IeC {\'e}s totales.}}{181}{figure.caption.84}
 \select@language {english}
 \addvspace {10\p@ }
 \select@language {english}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {29}{\ignorespaces Simple food webs illustrting the TTTIB}}{200}{figure.caption.86}
+\contentsline {figure}{\numberline {29}{\ignorespaces Simple food webs illustrting the TTTIB}}{201}{figure.caption.86}
 \select@language {english}
 \select@language {english}
