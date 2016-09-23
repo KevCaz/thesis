@@ -4,28 +4,24 @@ Towards a metabolic theory of island biogeography
 
 \section{Abstract}\label{abstract}
 
-Food webs structure the partitioning of energy from the primary
-producers to the top predators. Although energy is one of the most
-important factor diversity, it remains overlooked by classical theories
-in biogepgraphy that either assume ecological equivalence (\emph{e.g}
-the TIB) or remain focused on the concept of the ecological niche.
-Energy is however a factor early envisioned as a key to understand the
-structure of food web and the coexistence of species. Classical
-gradients in biogeography are linked to energy such as latitudinal
-diversity gradient. Moreover the classical view of biomes is actually
-rooted on energy and water availibities. Therefore funding a theory of
-biogeography on the bases a energy partitioning among food is a
-promising avenur to gather diffenret pece of infornation within one
-conceptual framework. Here we undertake such integrated model that
-integrate energy contrain as quantity of primary producers on the island
-and take different into account. We derive an assemblage nased on
-stochastic colonisatin and randonm. Bases on we show how energy
-consriant the food web and how enegry transfer efficiency is important.
-l'impact des interactions trophiques sur la distribution de la
-biodiversité au long de gradients de productivit. along gradient As a
-consequence, our theory encompasses both the species-area and the
-species-energy relationships, making it a very general framework to
-understand and predict biodiversity distribution
+Energy availability shapes biodiversity: solar radiation and water
+availabilities well describe terrestrial ecosystems as well as sea
+surface temperature and nutrients availability describe maritime ones.
+Energy has been early envisioned as a key factor to understand
+biodiversity over large latitudinal gradients. At the community scale,
+food webs structure the partitioning of energy from the primary
+producers to the top predators. Despite its crucial importance, energy
+has been overlooked in classical theories of biogeography that either
+assume ecological equivalence (\emph{e.g} the Theory of Island
+Biogeography) or remain focused on the concept of the ecological niche.
+To rectify this, we develop a theory of biodiversity distribution based
+on first principles of energetic constraints, including allometric
+relationship, in order to investigate the impact of trophic interactions
+along an energy gradient. Based on this theory we derive expected
+species richness and network structure along gradients of primary
+productivity. Our model offers immense possibilities for the integration
+of community ecology with biogeography as well as insights to propose
+better species distribution models.
 
 \section{Introduction}\label{introduction}
 
@@ -89,8 +85,8 @@ realism, at the cost however of reducing its simplicity. It provides an
 extended list of predictions, which have yet to be proven significantly
 better than the original theory \citep[see][]{Cirtwill2015}. Extending
 the TIB while preserving its elegance is a challenging and technical
-issue. Here we propose to reformulate the TTIB in terms of energy
-constrains in attempt to solve this challenge.
+issue. Here we propose to reformulate the TTIB in terms of energetic
+constraints in attempt to solve this challenge.
 
 The TIB was originally meant to predict and explain the common
 observation of increasing species richness with island area. Another
@@ -186,38 +182,43 @@ energy upon which a food web can develop. We denote \(E_0\) the maximal
 amount of energy available for herbivores and consider it to vary
 proportionally to island area. Here we do not enter the specificities of
 how productivity scales with area, as in some situation it could scale
-linearly or not (e.g.~for lakes when the volume determines productivity,
-Post et al. 2000). As a consequence, the model explains both the scaling
-of richness with island area and productivity, with the same underlying
-principle that a minimal population size is required for persistence. We
-make two additional simplifications: the diversity of primary producers
-is not taken into account, and the production is constant over the time.
+linearly or not {[}\emph{e.g.} for lakes when the volume determines
+productivity \citep{Post2000}. As a consequence, the model explains both
+the scaling of richness with island area and productivity, with the same
+underlying principle that a minimal population size is required for
+persistence. We make two additional simplifications: the diversity of
+primary producers is not taken into account, and the production is
+constant over the time.
 
 The regional pool of species in the TIB is the number of species \(P\)
-and the tropic interactions among them. Following \citet{Cazelles2016a}
-, potential interactions among them are determined using the niche model
+and the tropic interactions among them. Following \citet{Cazelles2016a},
+potential interactions among them are determined using the niche model
 \citep{Williams2000}. We furthermore assume the niche axis to be the
 body size of the species \citep{Gravel2013} and that species which are
 without any links in the metaweb are determined to be herbivores. Note
 that primary producers are not included in the niche model but the
-source of energy of herbivores. THERE NICHE POSITION IS\ldots{}\ldots{}
-As a consequence, trophic level is strongly correlated to body mass,
-with herbivores often the smallest and top predators the largest.
-Although this assumption is an oversimplification of the determinants of
-ecological interactions, it remains reasonable for marine ecosystems
-\citep{Trebilco2013}, where allometric relationships have been used to
-infer food web structure \citep{Gravel2013}.
+source of energy of herbivores. They are rather included in the total
+energy \(E_0\) (see below) consumed by herbivores. As a consequence,
+trophic level is strongly correlated to body mass, with herbivores often
+the smallest and top predators the largest. Although this assumption is
+an oversimplification of the determinants of ecological interactions, it
+remains reasonable for marine ecosystems \citep{Trebilco2013}, where
+allometric relationships have been used to infer food web structure
+\citep{Gravel2013}.
 
 Following \citet{Gravel2011}, we assume that the colonization of
 herbivores/predators is successful only if they find at least one of
-their habitat/prey on the given island. Additionnally, we propose that
+their habitat/prey on the given island. Additionally, we propose that
 colonization events are possible only if the energetic requirements to
 maintain local populations exceeds the primary production. In this case,
 energetic constraints and network topology determine the identity of
 species to go extinct. Colonization events are assumed to be purely
-stochastic, while extinctions are more deterministic \citep[this
-difference in stochastic nature between these fundamental processes of
-biogeography has been recently supported in][]{Cirtwill2015}.
+stochastic, while extinctions are deterministic, control by the
+energetic constraints \citep[this difference in stochastic nature
+between these fundamental processes of biogeography has been recently
+supported in][ where the authors show that extinction probability
+decreases with the presence of resource/prey on the
+island]{Cirtwill2015}.
 
 \subsection{Energetic constraints on local food
 webs}\label{energetic-constraints-on-local-food-webs}
@@ -225,28 +226,36 @@ webs}\label{energetic-constraints-on-local-food-webs}
 The rational for energetic constraints is simple: local populations need
 a certain amount of energy to maintain a minimum level of activity
 otherwise they die from starvation. Under this constraint, species
-richness locally increases until the energy production is no longer
-sufficient for all populations because of inefficient energy transfer at
-each trophic interactions.
+richness locally increases until the energy available on the island
+(\(E_0\)) is no longer sufficient for all populations because of
+inefficient energy transfer at each trophic interactions. Therefore all
+population on the island are maintained as long as the inequality below
+holds true:
 
-We now needs to define a rule to set the the minimal energy a population
-needs to survive on the island. For a given species \(i\), energy
-requirements of any individual is derived from allometric relationships
-proposed by the metabolic theory of ecology \citep{Brown2004}, of the
-form \(c_im_i^b\). We do not integrate intraspecific variability in body
-mass and thus \(m_i\) is a constant for a species The energy uptake
-associated to a minimal viable population (hereafter MVP) of \(n_i\)
-individuals becomes \(n_im_i^b\). \citet{Shaffer1981} defined the MVP as
-``\emph{{[}\ldots{}{]} the smallest isolated population having a 99\%
-chance of remaining extant for 1000 years despite the foreseeable
-effects of demographic, environmental and genetic stochasticity, and
-natural catastrophe}'', highlighting that the smallest portion of a
-population has the highest possible extinction risk (extrapolated as
-time to extinction). The key problem is wether or not the MVP is size
-dependent. The most conservative assumption is to consider it to be a
-constant. \citet{Lande1993} however shown that the time to extinction is
-affected by the mean population growth rate, which underlies that
-species characteristics may lead to a heterogeneity in MVP. Moreover,
+\begin{equation} \sum_i e_i \leq E_0\label{eq:chp4id0}\end{equation}
+
+where \(e_i\) is the energy uptake of the insular population of species
+\(i\). We now need to define a rule to set the the minimal energy a
+population needs to survive on the island. For a given species \(i\),
+energy requirements of any individual is derived from allometric
+relationships proposed by the metabolic theory of ecology
+\citep{Brown2004}, of the form \(c_im_i^b\) where \(c_i\) is a constant,
+specific constant, \(m_i\) the body mass of species \(i\) and \(b\) the
+coefficient of power \citep[between 2/3 and 3/4][]{White2013}. We do not
+integrate intraspecific variability in body mass and thus \(m_i\) is a
+constant for a species. The energy uptake associated to a minimal viable
+population (hereafter MVP) of \(n_i\) individuals becomes \(n_im_i^b\).
+\citet{Shaffer1981} defined the MVP as ``\emph{{[}\ldots{}{]} the
+smallest isolated population having a 99\% chance of remaining extant
+for 1000 years despite the foreseeable effects of demographic,
+environmental and genetic stochasticity, and natural catastrophe}'',
+highlighting that the smallest portion of a population has the highest
+possible extinction risk (extrapolated as time to extinction). The key
+problem is wether or not the MVP is size dependent. The most
+conservative assumption is to consider it to be a constant.
+\citet{Lande1993} however shown that the time to extinction is affected
+by the mean population growth rate, which underlies that species
+characteristics may lead to a heterogeneity in MVP. Moreover,
 \citet{Savage2004} had developed a framework within which they proved
 the growth rate to be proportional to \(m_i^{-b}\). Based on these
 results, we explore two different rules for extinctions: (1) MVP is
@@ -271,13 +280,16 @@ upon a herbivore \(i\). The cost to maintain the MVP of \(i\) is
 convert \(n_j\) into an extra population of \(i\), \(n_{i,j}\) herbivore
 individuals dedicated to \(j\) consumption. Furthermore, we account for
 the energy loss during consumption by including a transfer efficiency
-(sensu Lindeman1942) \(\tau\). Hence, the conversion from \(n_{j}\) to
-\(n_{i,j}\) is given by the following equation:
-\begin{equation} \tau n_{i,j} c_im_i^b = n_jc_jm_j^b \label{eq:id1}\end{equation}
+\citep[sensu][]{Lindeman1942} \(\tau\). Hence, the conversion from
+\(n_{j}\) to \(n_{i,j}\) is given by the following equation:
 
-which yields the population size:
+\begin{equation} \tau n_{i,j} c_im_i^b = n_jc_jm_j^b \label{eq:chp4id1}\end{equation}
 
-\begin{equation} n_{i,j} = \frac{n_jc_j}{\tau c_i} \left( \frac{m_j}{m_i} \right)^b \label{eq:id2}\end{equation}
+the energy requirements of \(n_j\) are converted into a energy expressed
+in term of a population of \(i\) based on which we obtain the population
+size of \(i\) needed to maintain a MVP of \(j\):
+
+\begin{equation} n_{i,j} = \frac{n_jc_j}{\tau c_i} \left( \frac{m_j}{m_i} \right)^b \label{eq:chp4id2}\end{equation}
 
 We postulate that the transfer efficiency is constant across trophic
 levels, which is likely an oversimplification of the reality as
@@ -287,33 +299,33 @@ on \(j\) (the predator of \(i\)) to the insular food web. According to
 our reasoning, we must covert \(n_k\) into \(n_{i,k}\). To do so, we
 start by converting \(n_k\) into a population of \(j\):
 
-\begin{equation} n_{j,k} = \frac{n_kc_k}{\tau c_j} \left( \frac{m_k}{m_j} \right)^b \label{eq:id2}\end{equation}
+\begin{equation} n_{j,k} = \frac{n_kc_k}{\tau c_j} \left( \frac{m_k}{m_j} \right)^b \label{eq:chp4id2}\end{equation}
 
 We now turn \(n_{j,k}\) into a herbivore population:
 
-\begin{equation} n_{i,k} = \frac{\frac{n_kc_k}{\tau c_j} \left( \frac{m_k}{m_j} \right)^bc_j}{\tau c_i} \left( \frac{m_j}{m_i} \right)^b \label{eq:id3}\end{equation}
+\begin{equation} n_{i,k} = \frac{\frac{n_kc_k}{\tau c_j} \left( \frac{m_k}{m_j} \right)^bc_j}{\tau c_i} \left( \frac{m_j}{m_i} \right)^b \label{eq:chp4id3}\end{equation}
 
 which gives:
 
-\begin{equation} n_{i,k} = \frac{n_kc_k}{\tau^2 c_i} \left( \frac{m_k}{m_i} \right)^b \label{eq:id3b}\end{equation}
+\begin{equation} n_{i,k} = \frac{n_kc_k}{\tau^2 c_i} \left( \frac{m_k}{m_i} \right)^b \label{eq:chp4id3b}\end{equation}
 
 In a similar fashion, for a linear trophic chain, we can demonstrate
 that the additional population of herbivore \(i\) necessary to maintain
 predator \(j\) of level \(l\) is:
 
-\begin{equation} n_{i,k} = \frac{n_jc_j}{\tau^l c_i} \left( \frac{m_j}{m_i} \right)^b \label{eq:id4}\end{equation}
+\begin{equation} n_{i,k} = \frac{n_jc_j}{\tau^l c_i} \left( \frac{m_j}{m_i} \right)^b \label{eq:chp4id4}\end{equation}
 
 In many cases, a predator feeds on an array of prey species rather than
 a single one. As such, it uptakes its energy from the different sources
 and we must account for all of them. We assume that energy costs
 associated with maintaining the local predator are minimal. Therefore,
 \(n_j\) is converted into \(i\), the herbivore linked to \(j\) for which
-(\ref{eq:id4}) is minimal. Basically, \(i\) should be a large and
+(\ref{eq:chp4id4}) is minimal. Basically, \(i\) should be a large and
 separated from \(j\) by a low number of species. Hence, on the island,
 the species richness increases as long as the inequality below holds
 true:
 
-\begin{equation} \sum_i c_in_im_i^b + \sum_j \frac{n_jc_j}{\tau^{l_j} c_i} \left( \frac{m_j}{m_{i_j}} \right)^b < E_0 \label{eq:id5}\end{equation}
+\begin{equation} \sum_i c_in_im_i^b + \sum_j \frac{n_jc_j}{\tau^{l_j} c_i} \left( \frac{m_j}{m_{i_j}} \right)^b \leq E_0 \label{eq:chp4id5}\end{equation}
 
 The first term is the energy cost for maintaining populations of
 herbivores, the second term is associated to higher trophic levels:
@@ -321,14 +333,14 @@ predator \(j\) is converted into herbivore \(i_j\) from which it is
 separated by \(l_j\) links. For the sake of simplicity, we make an extra
 assumptions: \(c_i\) values are constant among species and set to 1.
 Therefore, if we assume that MVP is constant (scenario 1), inequality
-\ref{eq:id5} becomes:
+\ref{eq:chp4id5} becomes:
 
-\begin{equation} \sum_i m_i^b + \sum_j \frac{1}{\tau^{l_j}} \left( \frac{m_j}{m_{i_j}} \right)^b< \frac{E_0}{n_0} \label{eq:id5a}\end{equation}
+\begin{equation} \sum_i m_i^b + \sum_j \frac{1}{\tau^{l_j}} \left( \frac{m_j}{m_{i_j}} \right)^b \leq \frac{E_0}{n_0} \label{eq:chp4id5a}\end{equation}
 
 Similarly, if we assume \(n_i=n_0m_i^{-b}\) and \(n_j=n_0m_j^{-b}\)
 (scenario 2), then:
 
-\begin{equation} \sum_i 1 + \sum_j \frac{1}{\tau^{l_j}} \left( \frac{1}{m_{i_j}} \right)^b< \frac{E_0}{n_0} \label{eq:id5b}\end{equation}
+\begin{equation} \sum_i 1 + \sum_j \frac{1}{\tau^{l_j}} \left( \frac{1}{m_{i_j}} \right)^b \leq \frac{E_0}{n_0} \label{eq:chp4id5b}\end{equation}
 
 The left side of this equation provides the minimal energy needed to
 sustain all populations while the right side is the total amount of
@@ -342,7 +354,7 @@ new extinction event.
 \subsection{Extinctions}\label{extinctions}
 
 When the local primary production cannot sustain the establishment of a
-new immigrant, \emph{i.e.} when inequality \ref{eq:id5} is no longer
+new immigrant, \emph{i.e.} when inequality \ref{eq:chp4id5} is no longer
 verified, its arrival is either impossible or lead to extinction of
 other species. In the latter situation, we must determine the identity
 of species that will go extinct, which remains a significant challenge
@@ -353,18 +365,10 @@ species can go extinct, and (2) \emph{costs-based extinctions}: the
 probability of extinction is proportional to the energetic costs of the
 species. Once an extinction occurs, we ensure that all species remain
 linked to at least one herbivore, otherwise unlinked species will too go
-extinct. Finally, extinctions are set to occur until \ref{eq:id5} is
-satisfied.
-
-Although the assumptions we have made here are likely unrealistic, our
-intentions are merely to examine the model under the special case of an
-optimal energy allocation on an island. These assumptions remain
-acceptable as long as we focus on the qualitative consequences in term
-of community dynamics. As an important remark, the energy cost
-associated to one predator is not based on inherent properties only, as
-it is determined also by the identity of its preys present on the island
-(in otehr words, via apparent competition). Hypotheses made for the four
-scenario are recapitulated in Table \ref{tbl:scena}.
+extinct. Finally, extinctions are set to occur until \ref{eq:chp4id5} is
+satisfied. Note that the deterministic nature of extinctions lays in in
+the fact that they occur when energy is lacking, the identity of the
+species that actually goes extinct remains stochastic.
 
 \begin{longtable}[]{@{}lll@{}}
 \caption{Hypotheses associated to the four scenarios.
@@ -383,6 +387,16 @@ C & \(n_0m^{-.75}\) & random\tabularnewline
 D & \(n_0m^{-.75}\) & costs-based\tabularnewline
 \bottomrule
 \end{longtable}
+
+Although the assumptions we have made here are likely unrealistic, our
+intentions are merely to examine the model under the special case of an
+optimal energy allocation on an island. These assumptions remain
+acceptable as long as we focus on the qualitative consequences in term
+of community dynamics. As an important remark, the energy cost
+associated to one predator is not based on inherent properties only, as
+it is determined also by the identity of its preys present on the island
+(in other words, via apparent competition). Hypotheses made for the four
+scenario are recapitulated in Table \ref{tbl:scena}.
 
 \subsection{Simulations}\label{simulations}
 
@@ -452,74 +466,116 @@ body mass as the niche axis][]{Williams2000, Gravel2013}. Finally, under
 scenarios A and B small species with several predators colonize low
 energy islands while under scenarios C and D the same species colonize
 the island with higher energy availability as they are preceded by
-larger and more generalist species \citep[ I-L]{fig:etib4}.
+larger and more generalist species (\ref{fig:etib4} I-L).
 
 \section{Discussion}\label{discussion}
 
 We proposed a of the classical TIB in terms of energy and turns the
-well-known colonization/extinction dynamics into an successional
-assembly process, starting with herbivores and then building up the food
-web. We link species extinction to energy requirements, making
-extinctions more mechanistic than in the TIB. Moreover, species are no
-longer ecologically equivalent as in TIB \citep{Lomolino2009}, they have
-a body mass, a trophic level and specific interactions. Based on these
+well-known colonization/extinction dynamics into a successional assembly
+process, starting with herbivores and then building up the food web. We
+link species extinction to energy requirements, making extinctions more
+mechanistic than in the TIB. Moreover, species are no longer
+ecologically equivalent as in TIB \citep{Lomolino2009}, they have a body
+mass, a trophic level and specific interactions. Based on these
 characteristics, we compute a cost associated to the MVP on the island.
 Therefore an insular community become an assemblage of population that
 should not exceed a given amount of energy. Although the energy
 allocation we use here is simple, we think it is a significative step
 towards the interactions of community dynamics in biogeography theory.
 The next step would be to integrate more realistic energy partitioning
-\citep{DeRuiter1995} and taking both bottom up and top-down effects into
-account \citep{Terborgh2001, Brown2013}. This remains a real challenge
-but also a promising avenue toward a more mechanistic biogeography
+\citep{DeRuiter1995} and to take into account variations of population
+caused by bottom up and top-down effects we introduced here
+\citep{Terborgh2001, Brown2013}. Ultimately, the downscaling from
+species to population we attempted here should lead to integrate
+principles of population dynamics as well as concepts of the community
+ecology such as the stability of a community \citep{Allesina2012a}. This
+would lead us to follow the path MacArthur and Wilson mapped 50 years
+ago: ``{[}\ldots{}{]} biogeography appears to us to have developed to
+the extent that it can be reformulated in the terms of the first
+principles of population ecology and genetics?''
+\citep[p.183]{MacArthur1967}.
 
-Our findings reveal how energy constrains assembly dynamics. Notably,
-the linear relationship between the logarithm of species richness and
-the log of available energy (\ref{fig:etib1} B) is consistent with
-empirical observations (see Fig 3. and Fig 4. in \citet{Wright1983}).
-Over evolutionary scales, it would also be consistent with the
-Ecological Limits hypothesis to diversification dynamics
-\citep{Rabosky2015}. Moreover using the trophic status of species, we
-observed a clear relationship between the position in the food webs and
-the energy limitations, indicating that food-chain length is limited by
-availability energy. A comparable relationship has already been observed
-by \citet{Post2000}, who have found a correlation lamong maximal
-food-chain length and lake size. Our relationship links food-chain
-length and energy available which is partially correlated with area.
-Indeed even if area has no direct effect of organism, it actually
-correlates with energy but the information could complete each other
-\citep{Storch2005}. Hence, the total energy available in the lake could
-a better explanation for the relationship theses authors unraveled.
-Also, the size of the lake is correlated to the a the habitat
-heterogeneity which also influence the diversity of species
-\citep{Allouche2012}. Another step forward would be to tease apart the
-effect of area, energy and heterogeneity in a model of insular
-biogeography. As a possible avenue, we could consider a variably among
-primary producers in our model using difference sources of energy to
-micmic habitat heterogeneity.
+The formulation of the TIB in terms of energy offers a great hope
+towards a mechanistic biogeography as it strongly eases the integration
+of ecological processes. As an example, we here showed how three
+ecological necessities, overlooked in classical theories, can be taken
+into account: 1- the necessity of a minimal population to sustain on
+island 2- the necessity of finding resources/preys to maintain this
+population and 3- the difference of energy uptake due to variations in
+body mass and trophic levels among species. Based on this integration,
+we showed how the structure of the community is constrained by the
+energy availability on islands. We also pointed out that the structure
+of the food webs, which determines the energy requirements of the whole
+community, controls the species richness and the characteristics of
+species present of the island. In our study, we study the SER under two
+scenario regarding the MVP: either it decreased with the body mass or
+not. The results were qualitatively similar but quantitatively
+different: in the first case, larger species can colonize earlier which
+increases the species richness of the island. Having a lower MVP for
+larger species could compensate the energy cost associated to the
+maintenance of a larger body. Furthermore, this could explain the
+``energetic equivalence rules'' \citep{Nee1991} which states that
+species have an equal share of energy allocated irrespective to their
+body mass \citep{Brown2003, Damuth2007}. In our case, this holds true as
+long as the island is ``saturated'' by species. Remarkably, under this
+condition, the relationship between the logarithm of the species
+richness and the logarithm of available energy (\ref{fig:etib1} B) is
+linear, which is consistent with empirical observations (see Fig 3. and
+Fig 4. in \citet{Wright1983}). Over evolutionary scales, these
+observation, would also be consistent with the Ecological Limits
+hypothesis to diversification dynamics \citep{Rabosky2015}.
 
-Using our framework, we have shown that under scenarios C and D in which
-MVP decreases with the body mass, larger and generalist species are the
-first to colonize the island. Remarkably, the early colonization of
-generalist species has been highlighted by \citet{Piechnik2008} when
-they revisited the classical study by \citet{Simberloff1969}. Also,
-reading Fig \ref{fig:etib4} G-H in the direction of a loss of energy,
-such as in the case of habitat fragmentation, we observe an increasing
-in generalist species such as currently observed \citet{Clavel2011}.
-Beyond this observation, the reformulation of TIB in terms of energy we
-achieved offers great hope towards a more mechanistic biogeography.
-First, energy expressed as a quantity of primary producers per time unit
-is readily linkable to climate variables
-\citep{Wright1983, Hawkins2003, Evans2005}. Second there is a clear
-relationship between physical constrains of the island and the maximal
-number of species it can sustain. Third, we used a regional metaweb
-which introduces variability among species as well as inter-dependency
-among the pool of species \citep{Gravel2011}. Finally, we link all these
-using an energy rational grounded on the metabolic theory of ecology
-\citep{Brown2004}. We think such achievement provides the first bricks
-to pave the avenue towards a metabolic theory of biogeography that could
-potentially propose theoretical explanations to the pervasiveness of
-surprising allometric scaling poorly understood \citep{Hatton2015}.
+Our findings suggest the existence of a clear relationship between the
+trophic status of species and its occurrence probability: species of
+higher trophic levels, irrespective of their body mass, colonize island
+with higher energy. This indicates that the food-chain length is limited
+by the energy availability. Remarkably, a comparable relationship has
+already been observed by \citet{Post2000}, who have found a correlation
+among maximal food-chain length and lake size which is consistent with
+the idea that higher predator needs larger areas to a sufficient amount
+pf prey to survive in the lakes. This would suggest that larger
+predators actually uses a broader areas to find more energy.
+
+Using our framework, we showed that under scenarios C and D (for which
+MVP decreases with the body mass), generalist species are the first to
+colonize the island. Remarkably, the early colonization of generalist
+species has been highlighted by \citet{Piechnik2008} when they revisited
+the classical study by \citet{Simberloff1969}. Also, reading Fig
+\ref{fig:etib4} G-H in the direction of a loss of energy we observe an
+increasing in generalist species such as currently observed
+\citet{Clavel2011}. The classical TIB has provided a theoretical basis
+for the SAR \citep{MacArthur1967}, that has been largely used in
+conservation to determine the size of protected areas
+\citep{Neigel2003}. However, as in the TIB, the SAR ignores the identity
+of species, there is currently no theory integrating the position of a
+species within the network it is embedded to predict its distribution.
+However, the role of a species in the network must be of first
+importance to understand the consequence of its loss
+\citep{Saterberg2013}. The model we described here offers testable
+hypothesis regarding the role of the species that are expected to go
+extinct first: from the higher trophic level to the lower and from the
+more generalist to the lower.
+
+Finally, our framework is an opportunity to review the way we build
+SMDMs. Here, our model describes the food web dynamic associated to
+patch of primary producers. Fortunately, the primary production have
+been proven highly correlated to climate variables
+\citep{Wright1983, Hawkins2003, Evans2005} and are readily quantifiable
+using index such as the normalized difference vegetation index
+\citep[NDVI][]{Evans2005}. According to our framework, such quantity is
+not only a proxy to assess the diversity of primary producers and the
+productivity associated but also a potential metric of the species
+richness \citep{Wright1983} and even a predictor of the structure of the
+network (a predictor of the food chain length for instance). Current
+species distribution model are based on the correlation between abiotic
+factor and its occurrence probability is ascribed to this abiotic niche
+while its presence could be best explained by the presence of its prey
+(see chapter \ref{chap4}). Therefore, focusing on the prediction of the
+distribution of primary producers while using information about energy
+they should provide to add higher trophic levels based appears, in the
+light of our study, as a promosing avenue to propose new approach that
+would likely enhance the robustness of the scenarios of tomorrow's
+biodiversity.
 
 \begin{figure}[htbp]
 \centering
