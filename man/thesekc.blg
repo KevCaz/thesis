@@ -3,7 +3,7 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: thesekc.aux
 A level-1 auxiliary file: liminaires.aux
 The style file: apalike.bst
-Reallocated field_info (elt_size=4) to 10566 items from 5000.
+Reallocated field_info (elt_size=4) to 10544 items from 5000.
 Database file #1: /Users/KevCaz/Documents/library.bib.bib
 Repeated entry---line 11955 of file /Users/KevCaz/Documents/library.bib.bib
  : @article{Gotelli2000
@@ -61,45 +61,45 @@ Repeated entry---line 17336 of file /Users/KevCaz/Documents/library.bib.bib
  : @article{Brooks2014
  :                    ,
 I'm skipping whatever remains of this entry
-You've used 253 entries,
+You've used 252 entries,
             1935 wiz_defined-function locations,
-            2073 strings with 56330 characters,
-and the built_in function-call counts, 119351 in all, are:
-= -- 11394
-> -- 6527
+            2068 strings with 56150 characters,
+and the built_in function-call counts, 119049 in all, are:
+= -- 11365
+> -- 6509
 < -- 129
-+ -- 2331
-- -- 2326
-* -- 11475
-:= -- 20935
-add.period$ -- 765
-call.type$ -- 253
-change.case$ -- 2406
-chr.to.int$ -- 248
-cite$ -- 253
-duplicate$ -- 3598
-empty$ -- 7437
-format.name$ -- 2695
-if$ -- 22559
++ -- 2325
+- -- 2320
+* -- 11450
+:= -- 20876
+add.period$ -- 763
+call.type$ -- 252
+change.case$ -- 2398
+chr.to.int$ -- 247
+cite$ -- 252
+duplicate$ -- 3588
+empty$ -- 7422
+format.name$ -- 2688
+if$ -- 22505
 int.to.chr$ -- 6
 int.to.str$ -- 0
 missing$ -- 266
-newline$ -- 1264
-num.names$ -- 768
-pop$ -- 1906
+newline$ -- 1260
+num.names$ -- 765
+pop$ -- 1899
 preamble$ -- 1
-purify$ -- 2424
+purify$ -- 2416
 quote$ -- 0
-skip$ -- 2682
+skip$ -- 2674
 stack$ -- 0
-substring$ -- 8671
+substring$ -- 8659
 swap$ -- 305
 text.length$ -- 11
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1482
+type$ -- 1476
 warning$ -- 0
-while$ -- 950
+while$ -- 948
 width$ -- 0
-write$ -- 3284
+write$ -- 3274
 (There were 11 error messages)

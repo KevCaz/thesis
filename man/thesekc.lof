@@ -28,7 +28,7 @@
 \contentsline {figure}{\numberline {18}{\ignorespaces Co-occurrence against trait-based distance}}{133}{figure.caption.66}
 \contentsline {figure}{\numberline {19}{\ignorespaces The degree of species partially explains the decrease of the co-occurrence strength}}{134}{figure.caption.67}
 \contentsline {figure}{\numberline {20}{\ignorespaces Co-occurrence significance decreases as the cumulated occupancy of predators (pollinators) increases}}{135}{figure.caption.68}
-\contentsline {figure}{\numberline {21}{\ignorespaces \textbf {Predicting herbivores distributions based on the distributions of willows} For all herbivores in the WLN dataset, we compared the AUC obtained when using willow species they do not interact with (circles) or a willow species they interact with (squares) or the set of willow species they interacts with (triangles) as predictor variables to the AUC obtained for GLM (A) and RF (B). Positive values indicate that species based model outperformed the SDM model.\relax }}{136}{figure.caption.69}
+\contentsline {figure}{\numberline {21}{\ignorespaces Predicting herbivores distributions based on the distributions of willows species}}{136}{figure.caption.69}
 \addvspace {0\p@ }
 \contentsline {figure}{\numberline {22}{\ignorespaces Species-Energy Relationship}}{152}{figure.caption.71}
 \contentsline {figure}{\numberline {23}{\ignorespaces Species occurrence probability along an energy gradient, grouped by trophic level}}{153}{figure.caption.72}

@@ -17,7 +17,7 @@ remerciements personnalisés.
 Pour m'avoir donné ma chance et offert une confiance sans faille, je veux
 remercier vivement Dom, Nico et David, sans qui l'aventure n'aurait pas été la même.
 Pour faire ces premiers pas sur un chemin incertain,
-mieux vaut partir avec ceux pensent qu'on en trouvera la fin.
+mieux vaut partir avec ceux qui pensent qu'on en trouvera la fin.
 
 Un chemin qui m’amena sur deux continents, dans deux pays, à travailler dans
 deux universités au sein de deux laboratoires. Le laboratoire, ce n’est pas
@@ -33,10 +33,11 @@ Dans les couloirs des laboratoires, il y a aussi des liens qui se nouent autour
 d'intérêts convergents et qui se transforment en une amitié très appréciée.
 Pour tout ce qu'ils m'ont apporté, je remercie Sonia (et Thomas), Albouy
 (et Séverine et Léo et Louis) et Legagneux (et Aurélie et Margot et Juliette
-et Zélie et Romane). Dans ces même couloirs, j'en ai croisé certaines se frottant
-des yeux fatigués par la lumière des écrans. À mes geek préférés, ceux qui
-connaissent l'appel du clavier, quand l'envie de coder devient trop forte, un
-immense merci. Merci Casajus, Team Zissou, Dave et Flor pour les morceaux de
+et Zélie et Romane). Dans ces même couloirs, j'en ai croisé se frottant
+des yeux fatigués par la lumière des écrans. Pour mes geek préférés, ceux qui
+connaissent comme moi l'appel du clavier quand l'envie de coder devient
+trop forte, je désire taper un `\\huge{merci}`. Merci Casajus, Team Zissou,
+Dave et Flor pour les morceaux de
 code et bien plus: votre enthousiasme et votre insatiable curiosité.
 
 D'un pays à l'autre, d'un laboratoire à l'autre, d'un couloir à l'autre,
