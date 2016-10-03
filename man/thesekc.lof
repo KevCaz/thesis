@@ -16,34 +16,34 @@
 \addvspace {0\p@ }
 \contentsline {figure}{\numberline {8}{\ignorespaces Co-occurrence in multi-species networks}}{88}{figure.caption.53}
 \addvspace {0\p@ }
-\contentsline {figure}{\numberline {9}{\ignorespaces Co-occurrence of interacting versus not-interacting pairs of species}}{104}{figure.caption.57}
-\contentsline {figure}{\numberline {10}{\ignorespaces Co-occurrence signal decays when the shortest path between a pair of species increases}}{105}{figure.caption.58}
-\contentsline {figure}{\numberline {11}{\ignorespaces Co-occurrence significance decreases as the cumulated occupancy increases}}{107}{figure.caption.59}
-\contentsline {figure}{\numberline {12}{\ignorespaces Probabilistic description of fundamental and realized niches}}{114}{figure.caption.60}
-\contentsline {figure}{\numberline {13}{\ignorespaces Sites of the study}}{128}{figure.caption.61}
-\contentsline {figure}{\numberline {14}{\ignorespaces Dendrogram representing the trait-based distances between the 31 species studied in the North American tree datasets.}}{129}{figure.caption.62}
-\contentsline {figure}{\numberline {15}{\ignorespaces Performance of the SDMs}}{130}{figure.caption.63}
-\contentsline {figure}{\numberline {16}{\ignorespaces Co-occurrence and the nature of the trait-based distance in the FBBS dataset}}{131}{figure.caption.64}
-\contentsline {figure}{\numberline {17}{\ignorespaces Co-occurrence signal decays when the shortest path between a pair of species decay}}{132}{figure.caption.65}
-\contentsline {figure}{\numberline {18}{\ignorespaces Co-occurrence against trait-based distance}}{133}{figure.caption.66}
-\contentsline {figure}{\numberline {19}{\ignorespaces The degree of species partially explains the decrease of the co-occurrence strength}}{134}{figure.caption.67}
-\contentsline {figure}{\numberline {20}{\ignorespaces Co-occurrence significance decreases as the cumulated occupancy of predators (pollinators) increases}}{135}{figure.caption.68}
-\contentsline {figure}{\numberline {21}{\ignorespaces Predicting herbivores distributions based on the distributions of willows species}}{136}{figure.caption.69}
+\contentsline {figure}{\numberline {9}{\ignorespaces Co-occurrence of interacting versus not-interacting pairs of species}}{105}{figure.caption.57}
+\contentsline {figure}{\numberline {10}{\ignorespaces Co-occurrence signal decays when the shortest path between a pair of species increases}}{106}{figure.caption.58}
+\contentsline {figure}{\numberline {11}{\ignorespaces Co-occurrence significance decreases as the cumulated occupancy increases}}{108}{figure.caption.59}
+\contentsline {figure}{\numberline {12}{\ignorespaces Probabilistic description of fundamental and realized niches}}{115}{figure.caption.60}
+\contentsline {figure}{\numberline {13}{\ignorespaces Sites of the study}}{129}{figure.caption.61}
+\contentsline {figure}{\numberline {14}{\ignorespaces Dendrogram representing the trait-based distances between the 31 species studied in the North American tree datasets.}}{130}{figure.caption.62}
+\contentsline {figure}{\numberline {15}{\ignorespaces Performance of the SDMs}}{131}{figure.caption.63}
+\contentsline {figure}{\numberline {16}{\ignorespaces Co-occurrence and the nature of the trait-based distance in the FBBS dataset}}{132}{figure.caption.64}
+\contentsline {figure}{\numberline {17}{\ignorespaces Co-occurrence signal decays when the shortest path between a pair of species decay}}{133}{figure.caption.65}
+\contentsline {figure}{\numberline {18}{\ignorespaces Co-occurrence against trait-based distance}}{134}{figure.caption.66}
+\contentsline {figure}{\numberline {19}{\ignorespaces The degree of species partially explains the decrease of the co-occurrence strength}}{135}{figure.caption.67}
+\contentsline {figure}{\numberline {20}{\ignorespaces Co-occurrence significance decreases as the cumulated occupancy of predators (pollinators) increases}}{136}{figure.caption.68}
+\contentsline {figure}{\numberline {21}{\ignorespaces Predicting herbivores distributions based on the distributions of willows species}}{137}{figure.caption.69}
 \addvspace {0\p@ }
-\contentsline {figure}{\numberline {22}{\ignorespaces Species-Energy Relationship}}{152}{figure.caption.71}
-\contentsline {figure}{\numberline {23}{\ignorespaces Species occurrence probability along an energy gradient, grouped by trophic level}}{153}{figure.caption.72}
-\contentsline {figure}{\numberline {24}{\ignorespaces Species occurrence probability by energy gradient grouped by body mass class}}{155}{figure.caption.73}
-\contentsline {figure}{\numberline {25}{\ignorespaces Average body mass, number of preys, predators of predator species and the average number of interactions per species on the island}}{157}{figure.caption.74}
+\contentsline {figure}{\numberline {22}{\ignorespaces Species-Energy Relationship}}{153}{figure.caption.71}
+\contentsline {figure}{\numberline {23}{\ignorespaces Species occurrence probability along an energy gradient, grouped by trophic level}}{154}{figure.caption.72}
+\contentsline {figure}{\numberline {24}{\ignorespaces Species occurrence probability by energy gradient grouped by body mass class}}{156}{figure.caption.73}
+\contentsline {figure}{\numberline {25}{\ignorespaces Average body mass, number of preys, predators of predator species and the average number of interactions per species on the island}}{158}{figure.caption.74}
 \select@language {french}
 \select@language {french}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {26}{\ignorespaces Repr\IeC {\'e}sentation graphique de la solution de l'\IeC {\'e}quation diff\IeC {\'e}rentielle}}{173}{figure.caption.83}
-\contentsline {figure}{\numberline {27}{\ignorespaces Dynamique de la biodiversit\IeC {\'e} de trois zones prot\IeC {\'e}g\IeC {\'e}es}}{178}{figure.caption.84}
-\contentsline {figure}{\numberline {28}{\ignorespaces Repr\IeC {\'e}sentation de la formule des probabilit\IeC {\'e}s totales.}}{183}{figure.caption.85}
+\contentsline {figure}{\numberline {26}{\ignorespaces Repr\IeC {\'e}sentation graphique de la solution de l'\IeC {\'e}quation diff\IeC {\'e}rentielle}}{174}{figure.caption.83}
+\contentsline {figure}{\numberline {27}{\ignorespaces Dynamique de la biodiversit\IeC {\'e} de trois zones prot\IeC {\'e}g\IeC {\'e}es}}{179}{figure.caption.84}
+\contentsline {figure}{\numberline {28}{\ignorespaces Repr\IeC {\'e}sentation de la formule des probabilit\IeC {\'e}s totales.}}{184}{figure.caption.85}
 \select@language {english}
 \addvspace {10\p@ }
 \select@language {english}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {29}{\ignorespaces Simple food webs illustrting the TTTIB}}{203}{figure.caption.87}
+\contentsline {figure}{\numberline {29}{\ignorespaces Simple food webs illustrting the TTTIB}}{204}{figure.caption.87}
 \select@language {english}
 \select@language {english}
