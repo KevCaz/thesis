@@ -47,16 +47,11 @@ PFLAGS = --filter pandoc-fignos --filter pandoc-tablenos --filter pandoc-eqnos -
 ALL: $(MCI) $(PDF) $(PDFC) $(THES) $(CHP3) $(CHP4) $(DOCX) $(CCL) $(APT) $(ABFT) $(ABET)
 
 $(THES): $(SRC) $(INTR) $(CHP1) $(CHP2) $(CHP3) $(CHP4) $(CCL) $(MCI) $(APT) $(ABFT) $(ABET) $(ANN1) $(ANN2) $(ANN3) $(DOCX)
-	pdflatex $(SRC)
+	cp $(REF) library.bib
+	pdflatex thesekc
 	bibtex thesekc
-	bibtex thesekc
-	pdflatex $(SRC)
-	# bibtex chapitre1/chap1
-	# bibtex chapitre1/chap1
-	# bibtex thesekc
-	# bibtex thesekc
-	# pdflatex $(SRC)
-	# pdflatex $(SRC)
+	pdflatex thesekc
+	pdflatex thesekc
 
 
 # $(INTR): $(MD)

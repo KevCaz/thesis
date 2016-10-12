@@ -1,14 +1,14 @@
 \gdef \the@ipfilectr {@-1}
-\contentsline {chapter}{\MakeUppercase {Remerciements}}{iv}{section*.1}
+\contentsline {chapter}{\MakeUppercase {Remerciements}}{vi}{section*.1}
 \select@language {frenchb}
-\contentsline {chapter}{\MakeUppercase {Avant-propos}}{vii}{section*.2}
+\contentsline {chapter}{\MakeUppercase {Avant-propos}}{ix}{section*.2}
 \select@language {frenchb}
-\contentsline {chapter}{\MakeUppercase {R\'esum\'e}}{ix}{section*.3}
-\contentsline {chapter}{\MakeUppercase {Abstract}}{xi}{section*.4}
-\contentsline {chapter}{\MakeUppercase {Table des mati\`eres}}{xiii}{section*.5}
-\contentsline {chapter}{\MakeUppercase {Liste des tableaux}}{xviii}{section*.6}
-\contentsline {chapter}{\MakeUppercase {Liste des figures}}{xix}{section*.7}
-\contentsline {chapter}{\MakeUppercase {liste des abr\'{e}viations}}{xxi}{section*.8}
+\contentsline {chapter}{\MakeUppercase {R\'esum\'e}}{xi}{section*.3}
+\contentsline {chapter}{\MakeUppercase {Abstract}}{xiii}{section*.4}
+\contentsline {chapter}{\MakeUppercase {Table des mati\`eres}}{xv}{section*.5}
+\contentsline {chapter}{\MakeUppercase {Liste des tableaux}}{xx}{section*.6}
+\contentsline {chapter}{\MakeUppercase {Liste des figures}}{xxi}{section*.7}
+\contentsline {chapter}{\MakeUppercase {liste des abr\'{e}viations}}{xxiii}{section*.8}
 \select@language {french}
 \gdef \the@ipfilectr {}
 \contentsline {chapter}{\MakeUppercase {Introduction g\'en\'erale}}{1}{section*.9}
@@ -115,9 +115,9 @@
 \contentsline {section}{\numberline {4.5}Model description}{145}{section.4.5}
 \contentsline {subsection}{\numberline {4.5.1}Energetic constraints on local food webs}{147}{subsection.4.5.1}
 \contentsline {subsection}{\numberline {4.5.2}Energy fluxes and transfer efficiency}{148}{subsection.4.5.2}
-\contentsline {subsection}{\numberline {4.5.3}Extinctions}{151}{subsection.4.5.3}
-\contentsline {subsection}{\numberline {4.5.4}Simulations}{152}{subsection.4.5.4}
-\contentsline {section}{\numberline {4.6}Results}{152}{section.4.6}
+\contentsline {subsection}{\numberline {4.5.3}Extinctions}{150}{subsection.4.5.3}
+\contentsline {subsection}{\numberline {4.5.4}Simulations}{153}{subsection.4.5.4}
+\contentsline {section}{\numberline {4.6}Results}{153}{section.4.6}
 \contentsline {section}{\numberline {4.7}Discussion}{155}{section.4.7}
 \contentsline {chapter}{\MakeUppercase {Conclusion g\'en\'erale}}{161}{section*.75}
 \select@language {french}

@@ -2,18 +2,14 @@ This is BibTeX, Version 0.99d (TeX Live 2016)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: thesekc.aux
 A level-1 auxiliary file: liminaires.aux
-The style file: apalike.bst
-Reallocated field_info (elt_size=4) to 10544 items from 5000.
-Database file #1: /Users/KevCaz/Documents/library.bib.bib
-Repeated entry---line 6697 of file /Users/KevCaz/Documents/library.bib.bib
+The style file: apalike-uqam.bst
+Reallocated field_info (elt_size=4) to 11300 items from 5000.
+Database file #1: library.bib.bib
+Repeated entry---line 3018 of file library.bib.bib
  : @article{DeRuiter1995
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 13937 of file /Users/KevCaz/Documents/library.bib.bib
- : @article{Dray2007
- :                  ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 14485 of file /Users/KevCaz/Documents/library.bib.bib
+Repeated entry---line 4853 of file library.bib.bib
  : @article{Gotelli2000
  :                     ,
 I'm skipping whatever remains of this entry
@@ -29,75 +25,80 @@ Reallocated ex_buf (elt_size=1) to 60000 items from 40000.
 Reallocated out_buf (elt_size=1) to 60000 items from 40000.
 Reallocated name_tok (elt_size=4) to 60000 items from 40000.
 Reallocated name_sep_char (elt_size=1) to 60000 items from 40000.
-Repeated entry---line 16183 of file /Users/KevCaz/Documents/library.bib.bib
- : @article{Leibold2004
- :                     ,
+Reallocated str_pool (elt_size=1) to 130000 items from 65000.
+Repeated entry---line 14324 of file library.bib.bib
+ : @article{Dray2007
+ :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 16223 of file /Users/KevCaz/Documents/library.bib.bib
- : @article{Baiser2012
- :                    ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 16439 of file /Users/KevCaz/Documents/library.bib.bib
- : @article{Ricklefs1987
- :                      ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 16481 of file /Users/KevCaz/Documents/library.bib.bib
- : @article{Bellard2012
- :                     ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 16585 of file /Users/KevCaz/Documents/library.bib.bib
- : @article{Suttle2007
- :                    ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 16674 of file /Users/KevCaz/Documents/library.bib.bib
- : @article{Davis1998
- :                   ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 16803 of file /Users/KevCaz/Documents/library.bib.bib
- : @article{Koh2004
- :                 ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 16902 of file /Users/KevCaz/Documents/library.bib.bib
+Repeated entry---line 16179 of file library.bib.bib
  : @book{Holyoak2005
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 17101 of file /Users/KevCaz/Documents/library.bib.bib
+Repeated entry---line 16323 of file library.bib.bib
+ : @article{Koh2004
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 16469 of file library.bib.bib
+ : @article{Leibold2004
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 16511 of file library.bib.bib
+ : @article{Baiser2012
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 16619 of file library.bib.bib
+ : @article{Ricklefs1987
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 16649 of file library.bib.bib
+ : @article{Bellard2012
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 16720 of file library.bib.bib
+ : @article{Suttle2007
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 16890 of file library.bib.bib
+ : @article{Davis1998
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 17116 of file library.bib.bib
  : @article{Brooks2014
  :                    ,
 I'm skipping whatever remains of this entry
 You've used 252 entries,
-            1935 wiz_defined-function locations,
-            2068 strings with 56172 characters,
-and the built_in function-call counts, 119067 in all, are:
-= -- 11367
-> -- 6509
+            2497 wiz_defined-function locations,
+            2584 strings with 74795 characters,
+and the built_in function-call counts, 132599 in all, are:
+= -- 12893
+> -- 6317
 < -- 129
-+ -- 2325
++ -- 2324
 - -- 2320
-* -- 11452
-:= -- 20878
-add.period$ -- 763
+* -- 13295
+:= -- 21963
+add.period$ -- 962
 call.type$ -- 252
 change.case$ -- 2398
-chr.to.int$ -- 247
+chr.to.int$ -- 248
 cite$ -- 252
-duplicate$ -- 3588
-empty$ -- 7424
+duplicate$ -- 4552
+empty$ -- 9630
 format.name$ -- 2688
-if$ -- 22509
-int.to.chr$ -- 6
+if$ -- 26049
+int.to.chr$ -- 5
 int.to.str$ -- 0
 missing$ -- 266
-newline$ -- 1260
+newline$ -- 1677
 num.names$ -- 765
-pop$ -- 1899
+pop$ -- 2425
 preamble$ -- 1
 purify$ -- 2416
 quote$ -- 0
-skip$ -- 2674
+skip$ -- 3038
 stack$ -- 0
 substring$ -- 8665
-swap$ -- 305
+swap$ -- 526
 text.length$ -- 11
 text.prefix$ -- 0
 top$ -- 0
@@ -105,5 +106,5 @@ type$ -- 1476
 warning$ -- 0
 while$ -- 948
 width$ -- 0
-write$ -- 3274
+write$ -- 4108
 (There were 12 error messages)
