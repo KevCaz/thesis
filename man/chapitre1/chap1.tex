@@ -19,13 +19,14 @@ et 2- introduire les contraintes environnementales afin de comprendre dans quell
 
 Pour y parvenir, la clef de mon travail a été de considérer les espèces non pas de manière indépendantes, mais comme des assemblages, des communautés possibles.
 J'ai alors été capable de bâtir des probabilités de survie dépendantes de la configuration du réseau écologique présent sur l'île.
-De même, les probabilités de colonisation des espèces du continent ont été reliées aux conditions environnementales de l'îles.
-Après avoir montré comment le modèle a été construit et donné des prédictions simples, je me suis intéressé à des scénarios portant sur
-10 espèces et pour des types d'interactions différents~: mutualisme, prédation et compétition, le long de gradients environnementaux.
-Ce qui ressort de nos simulations, c'est un portrait des impacts potentiels des interactions sur la distribution des espèces et la nécessité de les intégrer dans les SDMs.
+De même, les probabilités de colonisation des espèces du continent ont été reliées aux conditions environnementales de l'île.
+Après avoir montré comment le modèle a été construit et donné des prédictions simples, je me suis intéressé à des réseaux de
+10 espèces présentant des types d'interactions différents~: mutualisme, prédation et compétition, le long de gradients environnementaux.
+Ce qui ressort des simulations est un portrait des impacts potentiels des interactions sur la distribution des espèces et la nécessité de les intégrer dans les SDMs.
 Dépendamment de leur nature et de leur nombre, les interactions peuvent changer drastiquement la biodiversité attendue dans le cadre de la TIB.
 Cela pourrait avoir des conséquences majeures sur nos prévisions de richesse spécifique dans le contexte actuel des changements globaux.
-Le modèle qui est développé dans ce chapitre est basé sur les chaînes de Markov, l'ensemble des aspects mathématiques de ce modèle sont présentés en détails à l'annexe \ref{annII}. Certains des développements sont repris dans un article dont je suis co-auteur. Je présente ma contribution à cet article à l'annexe \ref{annIII}.
+Le modèle développé dans ce chapitre est basé sur les chaînes de Markov, l'ensemble des aspects mathématiques de ce modèle sont présentés en détails à l'annexe \ref{annII}.
+Certains des développements sont repris dans un article dont je suis co-auteur et dont je présente ma contribution à cet article à l'annexe \ref{annIII}.
 
 
 
@@ -36,27 +37,43 @@ Le travail réalisé a donné lieu à un article intitulé
 \citep{Cazelles2016a}. Il fut accepté pour publication à l'automne 2015 dans le
 journal \emph{Ecography} et a été publié en ligne en décembre 2015.
 Le DOI associé est: \textbf{10.1111/ecog.01714}.
-La conception de l'article est le résultat de nombreux échanges entre tous les auteurs de l'article.
+La conception de l'article est le résultat de nombreux échanges entre l'ensemble des auteurs de l'article.
 J'ai développé le modèle et l'ensemble des scripts pour aboutir aux résultats finaux.
 Dominique Gravel a supervisé l'ensemble des étapes et est devenu le dernier auteur.
 David Mouillot et Nicolas Mouquet ont grandement contribué à la rédaction du manuscrit.
-Afin de promouvoir notre publication, j'ai rédigé un article court sur le blog de la revue \emph{Ecography} accessible en ligne à l'adresse suivante:
+Afin de promouvoir notre publication, j'ai également rédigé un article court sur le blog de la revue \emph{Ecography}
+accessible en ligne à l'adresse suivante:
 \url{http://www.ecography.org/blog/towards-integrated-theory-biogeography}.
 
 
 \subsection{Traduction du résumé de l'article publié}
 
-La biogéographie est concernée en premier lieu par la répartition spatiale de la biodiversité dont elle produit les scénarios de variation dans un contexte de changement environnemental.
-Les efforts déployés pour développer les modèles de distribution d'espèce ont donné des outils qui, bien que prédictifs, sont restés corrélatifs et ont largement ignorés les interactions biotiques.
-Dans cet article, nous utilisons la théorie de la biogéographie des îles en tant que première approximation d'une dynamique d'assemblage des communautés locales dans un contexte de métacommunautés.
-Nous y superposons l'ensemble des types d'interactions et nous introduisons les contraintes environnementales sur la dynamique de colonisation et d'extinction.
-Nous développons une approche probabiliste reposant sur les chaînes de Markov et nous calculons les probabilités de réalisation des assemblages spécifiques plutôt que les probabilités de présence des espèce une à une.
-Nous considérons la distribution de richesse spécifique pour les différents types d'interactions écologiques.
-De plus, nous illustrons également le potentiel de notre approche en étudiant l'articulation entre les différences de besoins écologiques, les interactions et la distribution de la biodiversité le long d'un gradient environnemental.
-Notre approche supporte l'idée que les recherches futures en biogéographie requièrent une intégration cohérente de plusieurs concepts écologiques dans une théorie unique afin de mener vers des innovations méthodologiques et conceptuelles comme celui du changement de distributions espèce-centrée vers des distributions communauté-centrée.
+La biogéographie est concernée en premier lieu par la répartition spatiale de la
+biodiversité dont elle produit les scénarios de variation dans un contexte de
+changement environnemental. Les efforts déployés pour développer les modèles de
+distribution d'espèces ont donné des outils qui, bien que prédictifs, sont
+restés corrélatifs et ont largement ignorés les interactions biotiques.
+Dans cet article, nous utilisons la théorie de la biogéographie des îles
+en tant que première approximation d'une dynamique d'assemblage des communautés
+locales dans un contexte de métacommunautés.Nous y superposons l'ensemble des
+types d'interactions et nous introduisons les contraintes environnementales sur
+la dynamique de colonisation et d'extinction. Nous développons une approche
+probabiliste reposant sur les chaînes de Markov et nous calculons les
+probabilités de réalisation des assemblages spécifiques plutôt que les
+probabilités de présence des espèce une à une.
+Nous considérons la distribution de richesse spécifique pour les différents
+types d'interactions écologiques.
+De plus, nous illustrons également le potentiel de notre approche en étudiant
+l'articulation entre les différences de besoins écologiques, les interactions
+et la distribution de la biodiversité le long d'un gradient environnemental.
+Notre approche supporte l'idée que les recherches futures en biogéographie
+requièrent une intégration cohérente de plusieurs concepts écologiques dans une
+théorie unique afin de mener vers des innovations méthodologiques et
+conceptuelles comme celui du changement des modèles de distributions espèce-centrés
+vers des modèles communauté-centrés.
 
 
-\emph{Les sections qui suivent sont celles de l'article publié.}
+\emph{Les sections suivantes sont celles de l'article publié.}
 
 
 
