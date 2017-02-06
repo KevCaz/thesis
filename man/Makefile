@@ -37,7 +37,7 @@ PFLAGS = --filter pandoc-fignos --filter pandoc-tablenos --filter pandoc-eqnos -
 
 ALL: $(THES)
 
-$(THES): $(MAIN) $(INTR) $(CCL) $(CHP1) $(CHP2) $(CHP3) $(CHP4) $(ANN1) $(ANN2) $(ANN3) $(REF)
+$(THES): $(MAIN) $(OULI) $(INTR) $(CCL) $(CHP1) $(CHP2) $(CHP3) $(CHP4) $(ANN1) $(ANN2) $(ANN3) $(REF)
 	pdflatex thesekc
 	bibtex thesekc
 	pdflatex thesekc
