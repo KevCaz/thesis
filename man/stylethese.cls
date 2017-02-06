@@ -23,49 +23,29 @@
   \DeclareOption*{\PassOptionsToClass{\CurrentOption}{book}}
   \ProcessOptions\relax
 
+    
 % General.
-
-  \setlength{\parindent}{1cm}
-  \parskip 11pt plus 1pt minus 1pt % espace suplementaire entre les paragraphes (2 interligne)
+    
+ \setlength{\parindent}{0cm} % pas d'alinéa dans le canevas UQAM
+  \parskip 22pt plus 1pt minus 1pt % espace suplementaire entre les paragraphes (2 interligne)
   \newcounter{annexe}
   \setcounter{annexe}{0}
 
 % Marges.
-
   \setlength{\belowcaptionskip}{0.5cm}
-
-  \if@twoside
-    \setlength\headheight     {  12pt}
-    \setlength\topmargin      {-1.0cm}
-    \setlength\headsep        { 1.3cm}
-    \setlength\oddsidemargin  { 1.0cm} % left margin for p.1,3,5...
-    \setlength\evensidemargin { 0.0cm} % left margin for p.2,4,6...
-    \setlength\oddsidemargin  { 1.0cm} % left margin for p.1,3,5...
-    \setlength\evensidemargin { 0.0cm} % left margin for p.2,4,6...
-    \setlength\textwidth      {15.6cm}
-    \setlength\textheight     {21.6cm}
-  \else
-    \setlength\headheight     {  12pt}
-    \setlength\topmargin      {-1.0cm}
-    \setlength\headsep        { 1.3cm}
-%   \setlength\oddsidemargin  { 1.0cm}
-    \setlength\oddsidemargin  { 0.5cm} % same margin on both side of sheet.
-    \setlength\textwidth      {15.6cm}
-    \setlength\textheight     {21.6cm}
-  \fi
-
+  
 % Nouveaux environnements.
-
+  
    %\newenvironment{appendices}
    %  {
    %    \begin{singlespace}
    %    \addcontentsline{toc}{chapter}{\MakeUppercase{appendices}}
    % }
    %  {\end{singlespace}\addvspace{3cm}}
-
-
+  
+  
   \newenvironment{chapintro}{\begin{singlespace}}{\end{singlespace}\addvspace{3cm}} % pour introduction des chapitres
-
+  
 
   \newenvironment{liste} % pour la liste des abreviations et des symboles
                  {\list{}{\labelwidth\z@ \itemindent-\leftmargin
@@ -73,16 +53,16 @@
                  {\endlist}
   \newcommand*\listelabel[1]{\hspace\labelsep
                                   \normalfont\bfseries #1}
-
+  
   \newenvironment{listeglossaire} % pour le glossaire
                  {\list{}{\labelwidth\z@ \itemindent-\leftmargin
                           \let\makelabel\listeglossairelabel}}
                  {\endlist}
   \newcommand*\listeglossairelabel[1]{\hspace\labelsep
                                   \normalfont\bfseries #1}
-
+  
 % Environnements modifies.
-
+  
   \renewenvironment{theindex}
      {\ifthenelse{\boolean{@twocolumn}}{\setboolean{@restonecol}{false}}%
                                        {\setboolean{@restonecol}{true}}%
@@ -93,7 +73,7 @@
       \setlength\columnseprule{0pt}\setlength\columnsep{35pt}%
       \thispagestyle{plain}\let\item\@idxitem }
      {\ifthenelse{\boolean{@restonecol}}{\onecolumn}{\clearpage}}
-
+  
   \renewenvironment{quotation} % merci � Michael Totschnig (totschnig.michael@uqam.ca)
                  {\list{}{\listparindent 1.5em%
                           \itemindent    \listparindent
@@ -101,7 +81,7 @@
                           \parsep        \z@ \@plus\p@}%
                        \item\relax\begin{singlespace}}
                  {\end{singlespace}\endlist}
-
+  
   \long\def\@makecaption#1#2{\begin{singlespace}% % Met le texte sous les figures a simple interligne
     \vskip\abovecaptionskip
     \sbox\@tempboxa{#1: #2}%
@@ -112,22 +92,23 @@
       \hb@xt@\hsize{\hfil\box\@tempboxa\hfil}%
     \fi
     \vskip\belowcaptionskip\end{singlespace}}% fin du simple interligne
-
+  
 % Type de document : these/memoire traditionnelle ou par articles.
-
+  
   \newcommand\Chapitres{\newcommand\@typedoc{chapitre}}
   \newcommand\Articles{\newcommand\@typedoc{article}}
-
+  
 % Par defaut, le compteur des tableaux et des figures et remis a zero
 %   a chaque debut de chapitre. Le guide est contre...
-
+  
   \renewcommand{\thetable}{\arabic{table}}
   \@removefromreset{table}{chapter}
   \renewcommand{\thefigure}{\arabic{figure}}
   \@removefromreset{figure}{chapter}
-
+  
 % Definition des termes francais.
-
+  
+  \newcommand\@dedicace{D\'edicace}
   \newcommand\@remerciements{Remerciements}
   \newcommand\@avantpropos{Avant-propos}
   \newcommand\@tabledesmatieres{Table des mati\`eres}
@@ -153,70 +134,85 @@
 % \renewcommand\indexname{Index}
 % \renewcommand\figurename{Figure}
 % \renewcommand\tablename{Tableau}
-
+  
 % Page Titre.
-
-  \newcommand\Auteur[1]{\newcommand\@Auteur{#1}}
+  
+  %\newcommand\Auteur[1]{\newcommand\@Auteur{#1}}
+  \newcommand\Auteur[2]{\newcommand\@AuteurPrenom{#1}\newcommand\@AuteurNom{#2}}
   \newcommand\Titre[1]{\newcommand\@Titre{#1}}
-  \newcommand\Faculte[1]{\newcommand\@Faculte{#1}}
-  \newcommand\Diplome[1]{\newcommand\@Diplome{#1}}
+% \newcommand\Faculte[1]{\newcommand\@Faculte{#1}}
+%  \newcommand\Diplome[1]{\newcommand\@Diplome{#1}}
+  \newcommand\Programme[1]{\newcommand\@Programme{#1}}
   \newcommand\Date[2]{\newcommand\@Datea{#1}\newcommand\@Dateb{#2}}
-%  \newcommand\These{\newcommand\@Travail{TH\`ESE}\newcommand\@Presente{PR\'{E}SENT\'{E}E}}
-  \newcommand\These{\newcommand\@Travail{Th\`ese}\newcommand\@Presente{pr\'esent\'ee}}
-  \newcommand\Memoire{\newcommand\@Travail{M\'EMOIRE}\newcommand\@Presente{PR\'{E}SENT\'{E}}}
+  \newcommand\Travail[1] {\newcommand\@Travail{#1}}
+%  \newcommand\These{\newcommand\@Travail{Th\`ese}\newcommand\@Presente{pr\'esent\'ee}}
+ % \newcommand\Memoire{\newcommand\@Travail{M\'EMOIRE}\newcommand\@Presente{PR\'{E}SENT\'{E}}}
 
+
+  
   \def\margepagetitre#1{\list{}{\leftmargin#1}\item[]}
-  %\def\margepagetitre#1#2{\list{}{\leftmargin#2\topmargin#1}\item[]}
   \let\endquote=\endlist
-
+  
   \newcommand\Pagetitre{
     \thispagestyle{empty}
-    \begin{margepagetitre}{0in}
-      % \begin{margepagetitre}{5cm}{0cm}
-
-      \null\vskip+1.0cm % PSL
+ %   \begin{margepagetitre}{0in}
+      
+    %  \null\vskip+1.0cm % PSL
       \begin{center}
-        % \hskip-1.6cm	\MakeUppercase{Universit\'{e} du Qu\'{e}bec \`{a} Rimouski}
-        % \textbf{\MakeUppercase{Universit\'{e} du Qu\'{e}bec \`{a} Rimouski}}\\
+         \MakeUppercase{Universit\'{e} du Qu\'{e}bec \`{a} Rimouski}
 
-        \includegraphics[width=8cm]{img/rimouski-noir.eps}
-
-
-        \vfill\textbf{\@Titre}\\
-  	\vfill{\@Travail}
-  	{\@Presente} \\
-  	\vskip0.1cm{dans le cadre du \@Faculte} \\
-  	\vskip0.1cm{en vue de l'obtention du grade de \@Diplome}
-  	\vfill{PAR} \\
-  	\vskip0.1cm\textbf{\MakeUppercase{\textcopyright \@Auteur}}
-  	\vskip1.5cm\textbf{{\@Datea} {\@Dateb}}
-        \vskip1.5cm
+    %    \includegraphics[width=6.81cm]{logo_uqar.eps}
+      
+         \vskip3cm\MakeUppercase{\@Titre} \\
+	\vskip3cm
+	% Si document = thèse on écrit ``Thèse présentée' sinon on écrit ``mémoire présenté'''
+	\ifthenelse{\boolean{these}}{
+		 	\MakeUppercase{th\`ese} \\
+			 \MakeUppercase{pr\'esent\'ee} \\
+		 }
+		{
+		 	\MakeUppercase{m\'emoire} \\
+		 	 \MakeUppercase{ pr\'esent\'e} \\
+		}
+	 \MakeUppercase{comme exigence partielle} \\	
+	\ifthenelse{\boolean{these}}{\MakeUppercase{du}}{\MakeUppercase{de la}}
+  	\MakeUppercase{\@Programme}
+  	\vskip3cm{PAR} \\
+  	\MakeUppercase{{\@AuteurPrenom} {\@AuteurNom}}
+  	\vfill\MakeUppercase{{\@Datea} {\@Dateb}}
 
       \end{center}
-    \end{margepagetitre}
+ %   \end{margepagetitre}
     \vskip.01cm\newpage
-    \newpage\mbox{} % PSL, force a pagebreak in fake twopage.
+ %   \newpage\mbox{} % PSL, force a pagebreak in fake twopage.
   }
-
+  
 % Autres sections.
 
-  \newcommand\remerciements{\@restonecolfalse\if@twocolumn\@restonecoltrue\onecolumn
-    \fi\chapter*{\textit{\@remerciements}}
-    \phantomsection\addcontentsline{toc}{chapter}{\MakeUppercase{\@remerciements}}
+  \newcommand\dedicace{\@restonecolfalse\if@twocolumn\@restonecoltrue\onecolumn
+  %  \fi\chapter*{\textit{\@dedicace}}
+     \fi\chapter*{}
+  %  \phantomsection\addcontentsline{toc}{chapter}{\MakeUppercase{\@dedicace}}
     \if@restonecol
      \twocolumn\fi}
 
+  \newcommand\remerciements{\@restonecolfalse\if@twocolumn\@restonecoltrue\onecolumn
+    \fi\chapter*{\textit{\@remerciements}}
+  %  \phantomsection\addcontentsline{toc}{chapter}{\MakeUppercase{\@remerciements}}
+    \if@restonecol
+     \twocolumn\fi}
+  
   \newcommand\avantpropos{\@restonecolfalse\if@twocolumn\@restonecoltrue\onecolumn
     \fi\chapter*{\textit{\@avantpropos}}
     \phantomsection\addcontentsline{toc}{chapter}{\MakeUppercase{\@avantpropos}}
     \if@restonecol
      \twocolumn\fi}
-
+  
   \newcommand\tabledesmatieres{\@restonecolfalse\if@twocolumn\@restonecoltrue\onecolumn
     \fi\chapter*{\textit{\@tabledesmatieres}}
-    \phantomsection\addcontentsline{toc}{chapter}{\MakeUppercase{\@tabledesmatieres}}
+%   \phantomsection\addcontentsline{toc}{chapter}{\MakeUppercase{\@tabledesmatieres}}
     \@starttoc{toc}\if@restonecol\twocolumn\fi}
-
+  
   \newcommand\listedestableaux{\@restonecolfalse\if@twocolumn\@restonecoltrue\onecolumn
     \fi\chapter*{\textit{\@listedestableaux}}
     \phantomsection\addcontentsline{toc}{chapter}{\MakeUppercase{\@listedestableaux}}
@@ -234,19 +230,19 @@
     \end{singlespace}
     \if@restonecol
     \twocolumn\fi}
-
+ 
   \newcommand\listeabrev{\@restonecolfalse\if@twocolumn\@restonecoltrue\onecolumn
     \fi\chapter*{\textit{\@listeabrev}}
     \phantomsection\addcontentsline{toc}{chapter}{\MakeUppercase{\@listeabrev}}
     \if@restonecol
      \twocolumn\fi}
-
+  
   \newcommand\listesymboles{\@restonecolfalse\if@twocolumn\@restonecoltrue\onecolumn
     \fi\chapter*{\textit{\@listesymboles}}
     \phantomsection\addcontentsline{toc}{chapter}{\MakeUppercase{\@listesymboles}}
     \if@restonecol
      \twocolumn\fi}
-
+  
   \newcommand\resume{\@restonecolfalse\if@twocolumn\@restonecoltrue\onecolumn
     \fi\chapter*{\textit{\@resume}}
     \phantomsection\addcontentsline{toc}{chapter}{\MakeUppercase{\@resume}}
@@ -258,33 +254,33 @@
      \phantomsection\addcontentsline{toc}{chapter}{\MakeUppercase{\@abstract}}
      \if@restonecol
      \twocolumn\fi}
-
+  
   \newcommand\debutcorps{\clearpage %
        \pagenumbering{arabic}}
-
+  
   \newcommand\introduction{\@restonecolfalse\if@twocolumn\@restonecoltrue\onecolumn
     \fi\chapter*{\@introduction}
     \phantomsection\addcontentsline{toc}{chapter}{\MakeUppercase{\@introduction}}
     \if@restonecol
      \twocolumn\fi}
-
+  
   \newcommand\conclusion{\@restonecolfalse\if@twocolumn\@restonecoltrue\onecolumn
 %    \fi\chapter*{\textit{\@conclusion}}
-    \fi\chapter*{\@conclusion}
+    \fi\chapter*{\@conclusion}  
     \phantomsection\addcontentsline{toc}{chapter}{\MakeUppercase{\@conclusion}}
     \if@restonecol
      \twocolumn\fi}
-
+  
   \newcommand\glossaire{\@restonecolfalse\if@twocolumn\@restonecoltrue\onecolumn
     \fi\chapter*{\textit{\@glossaire}}
     \phantomsection\addcontentsline{toc}{chapter}{\MakeUppercase{\@glossaire}}
     \if@restonecol
      \twocolumn\fi}
-
+  
 % Table des matieres et liste.
-
+  
   \setcounter{secnumdepth}{4}
-
+  
   \def\l@chapter#1#2{\addpenalty{-\@highpenalty}
      \parskip 0pt % remise a zero de l'espacement des paragraphes
   %  \vskip 1.0em plus 1pt  % space above chapter line
@@ -305,7 +301,7 @@
        \penalty\@highpenalty %% added 24 May 89 as suggested by J. Leichter
       \end{singlespace} % fin de simple interligne
      \endgroup}
-
+  
   \renewcommand\l@section{\@dottedtocline{1}{1.5em}{2.3em}}
   \renewcommand\l@subsection{\@dottedtocline{2}{3.8em}{3.2em}}
   \renewcommand\l@subsubsection{\@dottedtocline{3}{7.0em}{4.1em}}
@@ -313,15 +309,15 @@
   \renewcommand\l@subparagraph{\@dottedtocline{5}{12em}{6em}}
   \let\l@table\l@figure
   \renewcommand\l@figure{\@dottedtocline{1}{1.5em}{2.3em}}
-
+  
 % Chapitres.
-
+  
   \renewcommand\chapter{\if@openright\cleardoublepage\else\clearpage\fi
   		    \thispagestyle{empty}%
   		    \global\@topnum\z@
                       \@afterindentfalse
                       \secdef\@newchapter\@snewchapter} % @newchapter = \chapter - @snewchapter =\chapter*
-
+  
   \def\@newchapter[#1]#2{\ifnum \c@secnumdepth >\m@ne
                          \if@mainmatter
                            \refstepcounter{chapter}%
@@ -373,15 +369,15 @@
       \vskip 20\p@
       \end{center}
     }}
-
+  
 % Appendices.
-
+  
   \newcommand\appendice{\if@openright\cleardoublepage\else\clearpage\fi
   		    \thispagestyle{empty}%
   		    \global\@topnum\z@
                       \@afterindentfalse
                       \secdef\@anewchapter\@sanewchapter} % @newchapter = \chapter - @snewchapter =\chapter*
-
+  
   \def\@anewchapter[#1]#2{\ifnum \c@secnumdepth >\m@ne
                          \if@mainmatter
                            \refstepcounter{annexe}%
@@ -408,15 +404,15 @@
     {\begin{center} \normalfont
       \ifnum \c@secnumdepth >\m@ne
         \if@mainmatter
-          \vspace*{0.5cm}% moitier de la valeur souhaite mais fonctionne
+          \vspace*{0.5cm}% moitié de la valeur souhaitée, mais fonctionne
           \normalsize\bfseries \MakeUppercase{Annexe}\space \Roman{annexe}
           \par\nobreak
-          \vskip 1cm % moitier de la valeur souhaite mais fonctionne
+          \vskip 1cm % moitié de la valeur souhaitée, mais fonctionne
         \fi
       \fi
       \interlinepenalty\@M
       \normalsize\bfseries \MakeUppercase{#1}\par\nobreak
-      \vskip 1.5cm % moitier de la valeur souhaite mais fonctionne
+      \vskip 1.5cm % moitié de la valeur souhaitée, mais fonctionne
       \end{center}
     }}
   \def\@sanewchapter#1{\if@twocolumn
@@ -432,7 +428,7 @@
       \vskip 20\p@
       \end{center}
     }}
-
+  
   \renewcommand\section{\@startsection
   {section} % nom de section
   {1} % niveau (-1 part, 0 chap, 1 sect, etc)
@@ -440,7 +436,7 @@
   {3.5ex plus 1ex minus .2ex} % espace avant
   {2.3ex plus .2ex} % espace apres
   {\normalsize\bfseries}} % style
-
+  
   \renewcommand\subsection{\@startsection
   {subsection} % nom de section
   {2} % niveau (-1 part, 0 chap, 1 sect, etc)
@@ -449,7 +445,7 @@
   {1.5ex plus .2ex} % espace apres
   {\normalsize\bfseries}}
 
-
+   
   \renewcommand\subsubsection{\@startsection
   {subsubsection} % nom de section
   {3} % niveau (-1 part, 0 chap, 1 sect, etc)
@@ -458,11 +454,11 @@
   {1.5ex plus .2ex} % espace apres
   {\normalsize\bfseries}} % style
 
-
+ 
 % Type de citation modifiee.
 
   \def\@biblabel#1{\hspace*{-\labelsep}} % enleve les numeros de la bibliographie
-
+ 
   \renewenvironment{thebibliography}[1]
        {\chapter*{\@references}%
         \addcontentsline{toc}{chapter}\MakeUppercase{\@references}
@@ -482,12 +478,13 @@
        {\def\@noitemerr
          {\@latex@warning{Empty `thebibliography' environment}}%
         \endlist}
-
+ 
   \renewcommand{\@cite}[2]{{\textsuperscript{[#1]}\ifthenelse{\boolean{@tempswa}}{,#2}{}}}
-
+ 
   \pagestyle{myheadings}
   \pagenumbering{roman}
   \if@twoside
   \else
   \fi
   \endinput
+

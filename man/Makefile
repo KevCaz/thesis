@@ -29,19 +29,23 @@ CHP3HE = chapitre3/head.tex
 CHP4MN = chapitre4/main.tex
 CHP4HE = chapitre4/head.tex
 ##-- Reference and style
-REF = /Users/KevCaz/Documents/library.bib
+REF0 = /Users/KevCaz/Documents/library.bib
+REF = library.bib
 CSL = elsevier-harvard.csl
 PFLAGS = --filter pandoc-fignos --filter pandoc-tablenos --filter pandoc-eqnos --natbib --bibliography=$(REF) --csl=$(CSL) --latex-engine=pdflatex
 
 
-ALL: $(MCI) $(PDF) $(PDFC) $(THES) $(CHP3) $(CHP4) $(DOCX) $(CCL) $(APT) $(ABFT) $(ABET)
+ALL: $(THES)
 
-$(THES): $(MAIN) $(INTR) $(CCL) $(CHP1) $(CHP2) $(CHP3) $(CHP4) $(ANN1) $(ANN2) $(ANN3)
-	cp $(REF) library.bib
+$(THES): $(MAIN) $(INTR) $(CCL) $(CHP1) $(CHP2) $(CHP3) $(CHP4) $(ANN1) $(ANN2) $(ANN3) $(REF)
 	pdflatex thesekc
 	bibtex thesekc
 	pdflatex thesekc
 	pdflatex thesekc
+
+
+$(REF): $(REF0)
+	bibtool -s -d -x thesekc.aux $< > $@
 
 
 $(LIPA)/%.tex: $(LIPA)/%.md
@@ -67,4 +71,4 @@ $(CHP3MN): $(MDMAIN)
 
 
 clean:
-	rm *.aux *.bbl *.blg *.brf *.idx *.out *.toc
+	rm *.aux *.bbl *.blg *.brf *.idx *.out *.toc *.lot *.lof *.log

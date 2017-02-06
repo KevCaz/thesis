@@ -6,7 +6,7 @@
 %		 C. Rigaud - 2014-2015                                              %
 % ----------------------------------------------------------------------%
 
-
+% update 2016 by Renaud Pagniez meet UQAM expectations.
 
 
 % ----------------------------------------------------------------------%
@@ -16,8 +16,9 @@
 % Pour le dépôt initial (recto),       utiliser  oneside.
 % Pour le dépôt final  (recto-verso), remplacer oneside par twoside.
 
-\documentclass[12pt,oneside,francais,letterpaper]{stylethese}
-% \documentclass[12pt,twoside,letterpaper]{stylethese}
+\documentclass[12pt,oneside,letterpaper]{stylethese}
+% \documentclass[12pt]{memoireuqam1.3}
+
 
 \raggedbottom % Évite les espaces trop gands entre chaque section.
 
@@ -58,7 +59,7 @@
 \usepackage{soulutf8}
 \usepackage{caption}
 \usepackage{listings}
-
+\usepackage{geometry}
 
 \captionsetup{singlelinecheck=false}
 % \captionsetup{singlelinecheck=false}
@@ -83,20 +84,27 @@
 \setstretch{1.5}
 
 % Pour créer un index (optionnel).
-\makeindex
+% \makeindex
 
-% Info sur la thèse (Titre, auteur, etc.)
-\Titre{INFLUENCE DES INTERACTIONS BIOTIQUES SUR LA RÉPARTITION GÉOGRAPHIQUE DES ESPÈCES}
-% Mettre en majuscule!! (je nai pas résolu ce probleme...)
-% APPROCHES BIOGÉOGRAPHIQUES THÉORIQUES ET EXAMEN DES DONNÉES DE CO-OCCURRENCE À LA LUMIÈRE DE L'INFORMATION CONTENUE DANS LES RÉSEAUX D'INTERACTIONS
-\Auteur{Kévin Cazelles}
-\Faculte{programme de doctorat en Biologie}
-\Diplome{Philosophiae Doctor}
-\Date{Septembre}{2016}
+% Info sur la th\u00e8se (Titre, auteur, etc.)
+\Titre{INFLUENCE DES INTERACTIONS BIOTIQUES SUR LA R\'{E}PARTITION G\'{E}OGRAPHIQUE DES ESP\`{E}CES}
+% Mettre en majuscule!! (je nai pas r\u00e9solu ce probleme...)
+% APPROCHES BIOG\u00c9OGRAPHIQUES TH\u00c9ORIQUES ET EXAMEN DES DONN\u00c9ES DE CO-OCCURRENCE \u00c0 LA LUMI\u00c8RE DE L'INFORMATION CONTENUE DANS LES R\u00c9SEAUX D'INTERACTIONS
+\Auteur{K\'{e}vin}{Cazelles}
+\Programme{doctorat en biologie}
+% \Diplome{Philosophiae Doctor}
+\Travail{th\`{e}se}
+\Date{F\'{e}vrier}{2017}
 
-\These
 
+\newboolean{these}
+% si votre travail est une thèse, laissez la ligne suivante telle quelle. S'il s'agit d'un mémoire remplacez true dans la ligne suivante par false
+\setboolean{these}{true}
+
+% Utiliser      \Chapitres pour une thèse (ou mémoire) traditionnelle.
+% Remplacer par \Articles  pour une thèse (ou mémoire) par articles.
 \Articles
+% \Chapitres
 
 
 
@@ -106,14 +114,11 @@
 \let\MakeUppercase\relax}
 
 
-
 % ----------------------------------------------------------------------%
 % 2- Liminaires de la thèse.                                            %
 % ----------------------------------------------------------------------%
 
 \include{liminaires}
-
-
 
 
 
@@ -126,7 +131,6 @@
 \cleardoublepage
 % Utiliser      chapitres.tex pour une thèse (ou mémoire) traditionnelle.
 % Remplacer par articles.tex  pour une thèse (ou mémoire) par articles.
-
 
 \introduction
 \selectlanguage{french}
@@ -154,11 +158,9 @@
 
 
 
-
 % ----------------------------------------------------------------------%
 % 4 - Appendices de la thèse.                                           %
 % ----------------------------------------------------------------------%
-
 
 \input{annexe1/annexe1.tex}
 \input{annexe2/annexe2.tex}
@@ -176,9 +178,6 @@
   \makeatletter
   \phantomsection\addcontentsline{toc}{chapter}{\MakeUppercase{\@references}}
   \makeatother
-  % \selectlanguage{english}
-  % \bibdata{/Users/KevCaz/Documents/library.bib}
-  % \bibliographystyle{elsarticle-harv} % Ici éditer le style
   \selectlanguage{english}
   \bibliographystyle{apalike-uqam}
   \bibliography{library.bib} % Ici mettre le nom de la biblio, ici mylib.bib

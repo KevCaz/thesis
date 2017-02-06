@@ -154,10 +154,11 @@ Bell, G. (2005).
 \bibitem[Bellard \emph{et~al.}, 2012]{Bellard2012}
 Bellard, C., Bertelsmeier, C., Leadley, P., Thuiller, W. et Courchamp, F.
   (2012).
-\newblock {Impacts of climate change on the future of biodiversity.}
-\newblock {\em Ecology letters}, {\em 15}, 365--377.
+\newblock {Impacts of climate change on the future of biodiversity}.
+\newblock {\em Ecology Letters}, {\em 15}(4), 365--377.
 \newblock \url{http://dx.doi.org/10.1111/j.1461-0248.2011.01736.x}.
-\newblock R\'ecup\'er\'e de \url{http://www.ncbi.nlm.nih.gov/pubmed/22257223}
+\newblock R\'ecup\'er\'e de
+  \url{http://doi.wiley.com/10.1111/j.1461-0248.2011.01736.x}
 
 \bibitem[Belmaker \emph{et~al.}, 2015]{Belmaker2015}
 Belmaker, J., Zarnetske, P., Tuanmu, M.-N., Zonneveld, S., Record, S.,
@@ -189,14 +190,6 @@ Boulangeat, I., Gravel, D. et Thuiller, W. (2012).
 \newblock {\em Ecology letters}, {\em 15}(6), 584--593.
 \newblock \url{http://dx.doi.org/10.1111/j.1461-0248.2012.01772.x}.
 \newblock R\'ecup\'er\'e de \url{http://www.ncbi.nlm.nih.gov/pubmed/22462813}
-
-\bibitem[Brooks \emph{et~al.}, 2014]{Brooks2014}
-Brooks, T.~M., Lamoreux, J.~F. et Sober{\'{o}}n, J. (2014).
-\newblock {Ipbes ≠ Ipcc}.
-\newblock {\em Trends in Ecology {\&} Evolution}, {\em 29}(10), 543--545.
-\newblock \url{http://dx.doi.org/10.1016/j.tree.2014.08.004}.
-\newblock R\'ecup\'er\'e de
-  \url{http://linkinghub.elsevier.com/retrieve/pii/S0169534714001785}
 
 \bibitem[Brose \emph{et~al.}, 2006]{Brose2006}
 Brose, U., Williams, R.~J. et Martinez, N.~D. (2006).
@@ -259,6 +252,14 @@ Burnham, K.~P.  et Anderson, D.~R. (2013).
   Information-Theoretic Approach}}  (second edi \'ed.).
 \newblock Springer New York.
 \newblock R\'ecup\'er\'e de \url{https://books.google.ca/books?id=W63hBwAAQBAJ}
+
+\bibitem[Butler \emph{et~al.}, 2008]{Butler2008}
+Butler, J.~L., Gotelli, N.~J. et Ellison, A.~M. (2008).
+\newblock {LINKING THE BROWN AND GREEN: NUTRIENT TRANSFORMATION AND FATE IN THE
+  SARRACENIA MICROECOSYSTEM}.
+\newblock {\em Ecology}, {\em 89}(4), 898--904.
+\newblock \url{http://dx.doi.org/10.1890/07-1314.1}.
+\newblock R\'ecup\'er\'e de \url{http://doi.wiley.com/10.1890/07-1314.1}
 
 \bibitem[Cahill \emph{et~al.}, 2013]{Cahill2013}
 Cahill, A.~E., Aiello-Lammens, M.~E., Fisher-Reid, M.~C., Hua, X., Karanewsky,

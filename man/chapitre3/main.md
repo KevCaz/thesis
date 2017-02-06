@@ -480,13 +480,11 @@ information were available are reported in Table @tbl:numsp.
 *Sarracenia purpurea* is a carnivorous plant that occurs along the east coast of
 North America from the panhandle of Florida to Canada and across southern Canada
 to British Columbia [@Buckley2010]. *S. purpurea* has tube-shaped leaves
-that fill with rainwater and house a food web consisting of bacteria, protozoa, rotifers, and dipteran larvae among other taxa [@Addicott1974; @Buckley2010]. This inquiline food web decomposes prey items releasing nutrients to the plant [@Mouquet2008; @Baiser2011]. We used pitcher plant data from 39 sites across North America (Fig. 1B) collected by @Buckley2010. This dataset contains abundance data and feeding interactions for 20 pitcher plant food webs at each site for a total of 769 food webs (11 pitchers were dropped due to missing data). In total, there are 90 species and morpho species. Interaction structure (*i.e.*, who eats whom) is from @Baiser2012 which is based on previous studies [*e.g.*, @Addicott1974; @Miller2002, @Butler008] and direct observation of feeding interactions.
+that fill with rainwater and house a food web consisting of bacteria, protozoa, rotifers, and dipteran larvae among other taxa [@Addicott1974; @Buckley2010]. This inquiline food web decomposes prey items releasing nutrients to the plant [@Mouquet2008; @Baiser2011]. We used pitcher plant data from 39 sites across North America (Fig. 1B) collected by @Buckley2010. This dataset contains abundance data and feeding interactions for 20 pitcher plant food webs at each site for a total of 769 food webs (11 pitchers were dropped due to missing data). In total, there are 90 species and morpho species. Interaction structure (*i.e.*, who eats whom) is from @Baiser2012 which is based on previous studies [*e.g.*, @Addicott1974; @Miller2002, @Butler2008] and direct observation of feeding interactions.
 
 
 
-#### Traits-based distance
-
-### North American Trees
+#### North American Trees
 
 We used a distance built upon nine functional traits whose values were
 retrieved from [@Paquette2011], see Supplementary Table @tbl:trees available at [http://onlinelibrary.wiley.com/doi/10.1111/j.1466-8238.2010.00592.x/suppinfo](http://onlinelibrary.wiley.com/doi/10.1111/j.1466-8238.2010.00592.x/suppinfo).
@@ -497,9 +495,8 @@ with the Ward’s method (implemented in the *hclust()* function, see
 Table @tbl:rpkges) to obtain the dendrogram presented in @fig:dendro.
 
 
-### French Breeding Birds Survey datasets
+#### French Breeding Birds Survey datasets
 
-#### Traits-based distance
 
 We used 73 traits that are boolean variables reported in Table @tbl:trtfbbs
 based on which we derive Euclidean distances between all pairs of species.

@@ -5,79 +5,19 @@ A level-1 auxiliary file: liminaires.aux
 The style file: apalike-uqam.bst
 Reallocated field_info (elt_size=4) to 11450 items from 5000.
 Database file #1: library.bib.bib
-Repeated entry---line 1796 of file library.bib.bib
- : @article{Brooks2014
- :                    ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2861 of file library.bib.bib
- : @article{Suttle2007
- :                    ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 3614 of file library.bib.bib
- : @article{Baiser2012
- :                    ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 4042 of file library.bib.bib
- : @book{Holyoak2005
- :                  ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 4390 of file library.bib.bib
- : @article{Leibold2004
- :                     ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 6380 of file library.bib.bib
- : @article{DeRuiter1995
- :                      ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 6596 of file library.bib.bib
- : @article{Gravel2013
- :                    ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 14380 of file library.bib.bib
- : @article{Dray2007
- :                  ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 15760 of file library.bib.bib
- : @article{Ricklefs1987
- :                      ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 16214 of file library.bib.bib
- : @article{Davis1998
- :                   ,
-I'm skipping whatever remains of this entry
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
-Reallocated buffer (elt_size=1) to 40000 items from 20000.
-Reallocated sv_buffer (elt_size=1) to 40000 items from 20000.
-Reallocated ex_buf (elt_size=1) to 40000 items from 20000.
-Reallocated out_buf (elt_size=1) to 40000 items from 20000.
-Reallocated name_tok (elt_size=4) to 40000 items from 20000.
-Reallocated name_sep_char (elt_size=1) to 40000 items from 20000.
-Reallocated buffer (elt_size=1) to 60000 items from 40000.
-Reallocated sv_buffer (elt_size=1) to 60000 items from 40000.
-Reallocated ex_buf (elt_size=1) to 60000 items from 40000.
-Reallocated out_buf (elt_size=1) to 60000 items from 40000.
-Reallocated name_tok (elt_size=4) to 60000 items from 40000.
-Reallocated name_sep_char (elt_size=1) to 60000 items from 40000.
-Repeated entry---line 17464 of file library.bib.bib
- : @article{Koh2004
- :                 ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 18217 of file library.bib.bib
- : @article{Bellard2012
- :                     ,
-I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "Butler008"
+Warning--I didn't find a database entry for "Brooks2014"
 Warning--there's a number but no volume in Baiser2012
 You've used 257 entries,
             2497 wiz_defined-function locations,
-            2622 strings with 75762 characters,
-and the built_in function-call counts, 134900 in all, are:
+            2623 strings with 75824 characters,
+and the built_in function-call counts, 134905 in all, are:
 = -- 13126
 > -- 6397
 < -- 130
 + -- 2352
 - -- 2348
-* -- 13520
+* -- 13523
 := -- 22339
 add.period$ -- 980
 call.type$ -- 257
@@ -85,9 +25,9 @@ change.case$ -- 2437
 chr.to.int$ -- 253
 cite$ -- 258
 duplicate$ -- 4642
-empty$ -- 9816
+empty$ -- 9817
 format.name$ -- 2721
-if$ -- 26506
+if$ -- 26507
 int.to.chr$ -- 5
 int.to.str$ -- 0
 missing$ -- 271
@@ -109,4 +49,4 @@ warning$ -- 1
 while$ -- 968
 width$ -- 0
 write$ -- 4189
-(There were 12 error messages)
+(There were 2 warnings)
