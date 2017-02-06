@@ -4,7 +4,7 @@ THES = thesekc.pdf
 MAIN = thesekc.tex
 ##-- Introduction
 MDI = intro.md
-INTR = $(patsubst %.md, %.tex, $(wildcard $(MDI)))
+INTR = intro.tex
 ##-- Conclusion
 MDC = conclu.md
 CCL = $(patsubst %.md, %.tex, $(wildcard $(MDC)))
@@ -51,14 +51,18 @@ $(LIPA)/%.tex: $(LIPA)/%.md
 
 $(INTR): $(MDI)
 	pandoc $< -o $@ $(PFLAGS)
+	gsed -i 1050,1070s/\caption/\caption{La\ Théorie\ de\ la\ Biogéographie\ des\ Iles\ \(TIB\)}/ $@
+	gsed -i 1320,1340s/\caption/\caption{Intégration\ des\ interactions\ et\ des\ contraintes\ abiotiques\ dans\ la\ TIB.}/ $@
+	# sed -e 's/\caption/caption\{La Théorie de la Biogéographie des Iles (TIB)\}/' $@
+	# sed -i -e 's/\caption/\caption\{Intégration des interactions et des contraintes abiotiques dans la TIB\}/' $@
+
 
 $(CCL): $(MDC)
 	pandoc $< -o $@ $(PFLAGS)
 
 $(CHP3): $(CHP3MN)  $(CHP3HE)
 	cat  $(CHP3HE) $(CHP3MN) > $@
-	sed -i -e 's/..\/fig/chapitre3/g' chapitre3/chap3.tex
-# 	cp ~/ownCloud/Dom_cooc_inter/fig/fig* chapitre3/
+	sed -i -e 's/..\/fig/chapitre3/g' $@
 
 $(CHP3MN): $(MDMAIN)
 	pandoc $< -o $@ $(PFLAGS)
