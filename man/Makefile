@@ -11,6 +11,7 @@ CCL = $(patsubst %.md, %.tex, $(wildcard $(MDC)))
 ##-- Liminaires
 INLI := $(wildcard limi_src/*.md)
 OULI := $(patsubst %.md,%.tex,$(wildcard limi_src/*.md))
+LIM = liminaires.tex
 LIPA = limi_src
 ##-- Chapters
 CHP1 = chapitre1/chap1.tex
@@ -31,28 +32,25 @@ CHP4HE = chapitre4/head.tex
 ##-- Reference and style
 REF0 = /Users/KevCaz/Documents/library.bib
 REF = library.bib
-CSL = elsevier-harvard.csl
-PFLAGS = --filter pandoc-fignos --filter pandoc-tablenos --filter pandoc-eqnos --natbib --bibliography=$(REF) --csl=$(CSL) --latex-engine=pdflatex
+PFLAGS = --filter pandoc-fignos --filter pandoc-tablenos --filter pandoc-eqnos --natbib --bibliography=$(REF) --latex-engine=pdflatex
 
 
 ALL: $(THES)
 
-$(THES): $(MAIN) $(OULI) $(INTR) $(CCL) $(CHP1) $(CHP2) $(CHP3) $(CHP4) $(ANN1) $(ANN2) $(ANN3) $(REF)
+$(THES): $(MAIN) $(OULI) $(LIM) $(INTR) $(CCL) $(CHP1) $(CHP2) $(CHP3) $(CHP4) $(ANN1) $(ANN2) $(ANN3) $(REF)
 	pdflatex thesekc
 	bibtex thesekc
 	pdflatex thesekc
 	pdflatex thesekc
 
-
 $(REF): $(REF0)
 	bibtool -s -d -x thesekc.aux $< > $@
-
 
 $(LIPA)/%.tex: $(LIPA)/%.md
 	pandoc $< -o $@
 
-# $(INTR): $(MD)
-# 	pandoc $< -o $@ $(PFLAGS)
+$(INTR): $(MDI)
+	pandoc $< -o $@ $(PFLAGS)
 
 $(CCL): $(MDC)
 	pandoc $< -o $@ $(PFLAGS)

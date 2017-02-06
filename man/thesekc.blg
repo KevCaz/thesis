@@ -3,14 +3,15 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: thesekc.aux
 A level-1 auxiliary file: liminaires.aux
 The style file: apalike-uqam.bst
-Reallocated field_info (elt_size=4) to 11450 items from 5000.
+Reallocated field_info (elt_size=4) to 11475 items from 5000.
 Database file #1: library.bib.bib
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
+Warning--I didn't find a database entry for "MacArthur1967a"
 Warning--I didn't find a database entry for "Brooks2014"
 Warning--there's a number but no volume in Baiser2012
 You've used 257 entries,
             2497 wiz_defined-function locations,
-            2623 strings with 75824 characters,
+            2625 strings with 75852 characters,
 and the built_in function-call counts, 134905 in all, are:
 = -- 13126
 > -- 6397
@@ -49,4 +50,4 @@ warning$ -- 1
 while$ -- 968
 width$ -- 0
 write$ -- 4189
-(There were 2 warnings)
+(There were 3 warnings)

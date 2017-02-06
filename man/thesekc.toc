@@ -3,8 +3,8 @@
 \select@language {frenchb}
 \contentsline {chapter}{\MakeUppercase {Avant-propos}}{ix}{section*.1}
 \select@language {frenchb}
-\contentsline {chapter}{\MakeUppercase {Liste des tableaux}}{xviii}{section*.2}
-\contentsline {chapter}{\MakeUppercase {Liste des figures}}{xx}{section*.3}
+\contentsline {chapter}{\MakeUppercase {Liste des figures}}{xviii}{section*.2}
+\contentsline {chapter}{\MakeUppercase {Liste des tableaux}}{xxiv}{section*.3}
 \contentsline {chapter}{\MakeUppercase {liste des abr\'{e}viations}}{xxvi}{section*.4}
 \contentsline {chapter}{\MakeUppercase {R\'esum\'e}}{xxvii}{section*.5}
 \contentsline {chapter}{\MakeUppercase {Abstract}}{xxix}{section*.6}
