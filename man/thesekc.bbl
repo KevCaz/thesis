@@ -1,5 +1,13 @@
 \begin{thebibliography}{}
 
+\bibitem[Addicott, 1974]{Addicott1974}
+Addicott, J.~F. (1974).
+\newblock {Predation and Prey Community Structure: An Experimental Study of the
+  Effect of Mosquito Larvae on the Protozoan Communities of Pitcher Plants}.
+\newblock {\em Ecology}, {\em 55}(3), 475--492.
+\newblock \url{http://dx.doi.org/10.2307/1935141}.
+\newblock R\'ecup\'er\'e de \url{http://doi.wiley.com/10.2307/1935141}
+
 \bibitem[Albouy \emph{et~al.}, 2016]{Albouy2016}
 Albouy, C., Archambault, P., Ward, A., Ara{\'{u}}jo, M.~B., Cazelles, K.,
   Cirtwill, A.~R., Fortin, M.-J., Leroux, S.~J., Pellissier, L., Poisot, T.,
@@ -72,13 +80,20 @@ Ara{\'{u}}jo, M.~B., Rozenfeld, A., Rahbek, C. et Marquet, P.~A. (2011).
 \newblock R\'ecup\'er\'e de
   \url{http://doi.wiley.com/10.1111/j.1600-0587.2011.06919.x}
 
+\bibitem[Baiser \emph{et~al.}, 2011]{Baiser2011}
+Baiser, B., Ardeshiri, R.~S. et Ellison, A.~M. (2011).
+\newblock {Species richness and trophic diversity increase decomposition in a
+  co-evolved food web}.
+\newblock {\em PLoS ONE}, {\em 6}(6), 1--7.
+\newblock \url{http://dx.doi.org/10.1371/journal.pone.0020672}
+
 \bibitem[Baiser \emph{et~al.}, 2012]{Baiser2012}
-Baiser, B., Gotelli, N.~J., Buckley, H.~L., Miller, T.~E. et Ellison, A.~M.
-  (2012).
-\newblock {Geographic variation in network structure of a nearctic aquatic food
-  web}.
-\newblock {\em Global Ecology and Biogeography}, {\em 21}(5), 579--591.
-\newblock \url{http://dx.doi.org/10.1111/j.1466-8238.2011.00705.x}
+Baiser, B., Buckley, H.~L., Gotelli, N.~J. et Ellison, A.~M. (2012).
+\newblock {Predicting food-web structure with metacommunity models}.
+\newblock {\em Oikos}, (July), no--no.
+\newblock \url{http://dx.doi.org/10.1111/j.1600-0706.2012.00005.x}.
+\newblock R\'ecup\'er\'e de
+  \url{http://doi.wiley.com/10.1111/j.1600-0706.2012.00005.x}
 
 \bibitem[Balany{\'{a}} \emph{et~al.}, 2006]{Balanya2006}
 Balany{\'{a}}, J., Oller, J.~M., Huey, R.~B., Gilchrist, G.~W. et Serra, L.
@@ -231,6 +246,13 @@ Brown, J.~H.  et Lomolino, M.~V. (1989).
 \newblock \url{http://dx.doi.org/10.2307/1938125}.
 \newblock R\'ecup\'er\'e de \url{http://doi.wiley.com/10.2307/1938125}
 
+\bibitem[Buckley \emph{et~al.}, 2010]{Buckley2010}
+Buckley, H.~L., Miller, T.~E., Ellison, A.~M. et Gotelli, N.~J. (2010).
+\newblock {Local- to continental-scale variation in the richness and
+  composition of an aquatic food web}.
+\newblock {\em Global Ecology and Biogeography}, {\em 19}(5), 711--723.
+\newblock \url{http://dx.doi.org/10.1111/j.1466-8238.2010.00554.x}
+
 \bibitem[Burnham et Anderson, 2013]{burnham2013model}
 Burnham, K.~P.  et Anderson, D.~R. (2013).
 \newblock {\em {Model Selection and Inference: A Practical
@@ -298,7 +320,7 @@ Chase, J.~M.  et Leibold, M.~A. (2003).
 \newblock Chicago: The University of Chicago Press.
 \newblock \url{http://dx.doi.org/10.1007/s13398-014-0173-7.2}.
 \newblock R\'ecup\'er\'e de
-  \url{http://www.americanbanker.com/issues/179{\_}124/which-city-is-the-next-big-fintech-hub-new-york-stakes-its-claim-1068345-1.html$\backslash$nhttp://www.ncbi.nlm.nih.gov/pubmed/15003161$\backslash$nhttp://cid.oxfordjournals.org/lookup/doi/10.1093/cid/cir991$\backslash$nhttp://www.scielo.cl/pd}
+  \url{http://www.americanbanker.com/issues/179{\_}124/which-city-is-the-next-big-fintech-hub-new-york-stakes-its-claim-1068345-1.html{\%}5Cnhttp://www.ncbi.nlm.nih.gov/pubmed/15003161{\%}5Cnhttp://cid.oxfordjournals.org/lookup/doi/10.1093/cid/cir991{\%}5Cnhttp://www.scielo.cl/pd}
 
 \bibitem[Cirtwill et Stouffer, 2016]{Cirtwill2015}
 Cirtwill, A.~R.  et Stouffer, D.~B. (2016).
@@ -412,14 +434,13 @@ Damuth, J. (2007).
 \bibitem[Davis \emph{et~al.}, 1998]{Davis1998}
 Davis, A.~J., Jenkinson, L.~S., Lawton, J.~H., Shorrocks, B. et Wood, S.
   (1998).
-\newblock {Makingmistakes when predicting shifts in species range in response
-  to global warming}.
-\newblock {\em Nature}, {\em 391}(6669), 783--786.
+\newblock {Making mistakes when predicting shifts in species range in response
+  to global warming.}
+\newblock {\em Nature}, {\em 391}(6669), 783--6.
 \newblock \url{http://dx.doi.org/10.1038/35842}.
 \newblock R\'ecup\'er\'e de \url{www.blight.com
   http://www.ncbi.nlm.nih.gov/pubmed/280836
-  http://www.ncbi.nlm.nih.gov/pubmed/9486646
-  http://www.nature.com/doifinder/10.1038/35842}
+  http://www.ncbi.nlm.nih.gov/pubmed/9486646}
 
 \bibitem[Davis \emph{et~al.}, 2011]{Davis2011}
 Davis, M.~a., Chew, M.~K., Hobbs, R.~J., Lugo, A.~E., Ewel, J.~J., Vermeij,
@@ -659,7 +680,7 @@ Gotelli, N.~J. (2000).
 \newblock
   \url{http://dx.doi.org/10.1890/0012-9658(2000)081[2606:NMAOSC]2.0.CO;2}.
 \newblock R\'ecup\'er\'e de
-  \url{http://www.esajournals.org/doi/abs/10.1890/0012-9658(2000)081[2606:NMAOSC]2.0.CO;2}
+  \url{http://www.esajournals.org/doi/abs/10.1890/0012-9658(2000)081{\%}5B2606:NMAOSC{\%}5D2.0.CO;2}
 
 \bibitem[Gotelli et Graves, 1996]{Gotelli1996}
 Gotelli, N.~J.  et Graves, G.~R. (1996).
@@ -677,7 +698,7 @@ Gotelli, N.~J., Graves, G.~R. et Rahbek, C. (2010).
   5030--5035.
 \newblock \url{http://dx.doi.org/10.1073/pnas.0914089107}.
 \newblock R\'ecup\'er\'e de
-  \url{http://www.pnas.org/content/107/11/5030.abstract$\backslash$nfile://c/Documents
+  \url{http://www.pnas.org/content/107/11/5030.abstract{\%}5Cnfile://c/Documents
   and Settings/Cristina/Meus documentos/My Dropbox/Meu
   Documentos/Papers/2010/Gotelli etal 2010 PNAS.pdf
   http://www.pnas.org/cgi/doi/10.1073/pnas.0914089107}
@@ -708,8 +729,7 @@ Gravel, D., Poisot, T., Albouy, C., Velez, L. et Mouillot, D. (2013).
   relationships}.
 \newblock {\em Methods in Ecology and Evolution}, {\em 4}(11), 1083--1090.
 \newblock \url{http://dx.doi.org/10.1111/2041-210X.12103}.
-\newblock R\'ecup\'er\'e de
-  \url{http://timotheepoisot.fr/reprints/gravel{\_}mee{\_}niche.pdf}
+\newblock R\'ecup\'er\'e de \url{http://doi.wiley.com/10.1111/2041-210X.12103}
 
 \bibitem[Grinnell, 1917]{Grinnell1917a}
 Grinnell, J. (1917).
@@ -938,7 +958,7 @@ John, R., Dalling, J.~W., Harms, K.~E., Yavitt, J.~B., Stallard, R.~F.,
   864--869.
 \newblock \url{http://dx.doi.org/10.1073/pnas.0604666104}.
 \newblock R\'ecup\'er\'e de
-  \url{C:$\backslash$PDFs$\backslash$2006{\_}287.pdf$\backslash$nhttp://www.pnas.org/lookup/doi/10.1073/pnas.0604666104
+  \url{c:{\%}5CPDFs{\%}5C2006{\_}287.pdf{\%}5Cnhttp://www.pnas.org/lookup/doi/10.1073/pnas.0604666104
   http://www.pnas.org/lookup/doi/10.1073/pnas.0604666104}
 
 \bibitem[Kearney et Porter, 2004]{Kearney2004}
@@ -996,8 +1016,8 @@ Koh, L.~P., Dunn, R.~R., Sodhi, N.~S., Colwell, R.~K., Proctor, H.~C. et Smith,
   V.~S. (2004).
 \newblock {Species coextinctions and the biodiversity crisis.}
 \newblock {\em Science (New York, N.Y.)}, {\em 305}(5690), 1632--4.
-\newblock R\'ecup\'er\'e de \url{http://www.ncbi.nlm.nih.gov/pubmed/15361627
-  http://www.sciencemag.org/cgi/doi/10.1126/science.1101101}
+\newblock \url{http://dx.doi.org/10.1126/science.1101101}.
+\newblock R\'ecup\'er\'e de \url{http://www.ncbi.nlm.nih.gov/pubmed/15361627}
 
 \bibitem[Kooijman, 2000]{Kooijman2000a}
 Kooijman, S. A. L.~M. (2000).
@@ -1051,7 +1071,7 @@ Legendre, P.  et Legendre, L. F.~J. (2012).
 \bibitem[Leibold \emph{et~al.}, 2004]{Leibold2004}
 Leibold, M.~a., Holyoak, M., Mouquet, N., Amarasekare, P., Chase, J.~M.,
   Hoopes, M.~F., Holt, R.~D., Shurin, J.~B., Law, R., Tilman, D., Loreau, M. et
-  Gonzalez, A. (2004).
+  Gonzalez, a. (2004).
 \newblock {The metacommunity concept: a framework for multi-scale community
   ecology}.
 \newblock {\em Ecology Letters}, {\em 7}(7), 601--613.
@@ -1253,6 +1273,12 @@ Meier, E.~S., Kienast, F., Pearman, P.~B., Svenning, J.~C., Thuiller, W.,
 \newblock {\em Ecography}, {\em 33}(6), 1038--1048.
 \newblock \url{http://dx.doi.org/10.1111/j.1600-0587.2010.06229.x}
 
+\bibitem[Miller \emph{et~al.}, 2002]{Miller2002}
+Miller, T.~E., Kneitel, J.~M. et Burns, J.~H. (2002).
+\newblock {Effect of community structure on invasion success and rate}.
+\newblock {\em Ecology}, {\em 83}(4), 898--905.
+\newblock \url{http://dx.doi.org/Article}
+
 \bibitem[Milo \emph{et~al.}, 2002]{Milo2002}
 Milo, R., Shen-Orr, S., Itzkovitz, S., Kashtan, N., Chklovskii, D. et Alon, U.
   (2002).
@@ -1282,6 +1308,13 @@ Morales-Castilla, I., Matias, M.~G., Gravel, D. et Ara{\'{u}}jo, M.~B. (2015).
 \newblock \url{http://dx.doi.org/10.1016/j.tree.2015.03.014}.
 \newblock R\'ecup\'er\'e de
   \url{http://linkinghub.elsevier.com/retrieve/pii/S0169534715000774}
+
+\bibitem[Mouquet \emph{et~al.}, 2008]{Mouquet2008}
+Mouquet, N., Daufresne, T., Gray, S.~M. et Miller, T.~E. (2008).
+\newblock {Modelling the relationship between a pitcher plant (Sarracenia
+  purpurea) and its phytotelma community: Mutualism or parasitism?}
+\newblock {\em Functional Ecology}, {\em 22}(4), 728--737.
+\newblock \url{http://dx.doi.org/10.1111/j.1365-2435.2008.01421.x}
 
 \bibitem[Mouquet \emph{et~al.}, 2015]{Mouquet2015}
 Mouquet, N., Lagadeuc, Y., Devictor, V., Doyen, L., Duputi{\'{e}}, A.,
@@ -1318,7 +1351,7 @@ Neigel, J. (2003).
 \newblock
   \url{http://dx.doi.org/10.1890/1051-0761(2003)013[0138:SARAMC]2.0.CO;2}.
 \newblock R\'ecup\'er\'e de
-  \url{http://www.esajournals.org/doi/abs/10.1890/1051-0761(2003)013[0138:SARAMC]2.0.CO;2}
+  \url{http://www.esajournals.org/doi/abs/10.1890/1051-0761(2003)013{\%}5B0138:SARAMC{\%}5D2.0.CO;2}
 
 \bibitem[Oksanen \emph{et~al.}, 1981]{Oksanen1981}
 Oksanen, L., Fretwell, S.~D., Arruda, J. et Niemela, P. (1981).
@@ -1351,7 +1384,7 @@ Park, H.-J.  et Friston, K. (2013).
 \newblock {\em Science}, {\em 342}(6158), 1238411--1238411.
 \newblock \url{http://dx.doi.org/10.1126/science.1238411}.
 \newblock R\'ecup\'er\'e de
-  \url{http://www.ncbi.nlm.nih.gov/pubmed/24179229$\backslash$nhttp://www.sciencemag.org/cgi/doi/10.1126/science.1238411
+  \url{http://www.ncbi.nlm.nih.gov/pubmed/24179229{\%}5Cnhttp://www.sciencemag.org/cgi/doi/10.1126/science.1238411
   http://www.sciencemag.org/cgi/doi/10.1126/science.1238411}
 
 \bibitem[Pearson et Dawson, 2003]{Pearson2003}
@@ -1561,12 +1594,11 @@ Rehfeldt, G.~E., Crookston, N.~L., Warwell, M.~V. et Evans, J.~S. (2006).
 
 \bibitem[Ricklefs, 1987]{Ricklefs1987}
 Ricklefs, R.~E. (1987).
-\newblock {Community Diversity: Relative Roles of Local and Regional
-  Processes}.
-\newblock {\em Science}, {\em 235}(4785), 167--171.
+\newblock {Community diversity: relative roles of local and regional
+  processes.}
+\newblock {\em Science (New York, N.Y.)}, {\em 235}(4785), 167--71.
 \newblock \url{http://dx.doi.org/10.1126/science.235.4785.167}.
-\newblock R\'ecup\'er\'e de
-  \url{http://www.sciencemag.org/cgi/doi/10.1126/science.235.4785.167}
+\newblock R\'ecup\'er\'e de \url{http://www.ncbi.nlm.nih.gov/pubmed/17778629}
 
 \bibitem[Ricklefs, 2003]{Ricklefs2003}
 Ricklefs, R.~E. (2003).
@@ -1821,10 +1853,10 @@ Suding, K., Higgs, E., Palmer, M., Callicott, J.~B., Anderson, C.~B., Baker,
   http://www.sciencemag.org/cgi/doi/10.1126/science.aaa4216}
 
 \bibitem[Suttle \emph{et~al.}, 2007]{Suttle2007}
-Suttle, K.~B., Thomsen, M.~A. et Power, M.~E. (2007).
+Suttle, K.~B., Thomsen, M.~a. et Power, M.~E. (2007).
 \newblock {Species interactions reverse grassland responses to changing
   climate.}
-\newblock {\em Science}, {\em 315}(5812), 640--2.
+\newblock {\em Science (New York, N.Y.)}, {\em 315}(5812), 640--2.
 \newblock \url{http://dx.doi.org/10.1126/science.1136401}.
 \newblock R\'ecup\'er\'e de \url{http://www.ncbi.nlm.nih.gov/pubmed/17272720}
 

@@ -13,9 +13,6 @@ title: Do interacting species co-occur differently from not-interacting species?
 ---
 
 
-<!-- http://www.pnas.org/site/authors/procedures.xhtml  -->
-
-
 # Title
 
 Do interacting species co-occur differently from not-interacting species?
@@ -457,33 +454,6 @@ If no difference are found, 0 is expected.](../fig/figConcept.pdf){#fig:box1}
 
 
 
-
-<!-- # Author Contributions
-- Nicolas Mouquet
-- Benjamin Baiser
-- Loic Pelissier
-- Jens-Christian Svenning
-- Rasmus Pedersen
-- Tomas Roslin
-- Wilfried Thuiller
-- Dominique Gravel
-- DG designed the study
-- KC performed the analysis
-- DG KC wrote the paper
-- Bo Dalsgaard (Dominica and Puerto Rico networks + hummingbird and plant distributions)
-- Louise J. Lehmann (Plant distributions)
-- Calcul Canada for trees RF
- -->
-
-<!-- # Acknowledgment -->
-
-<!-- - Allan Timmermann (Grenada networks)
-- Ana M Martín González (Dominica + Puerto Rico networks)
-- Andrea Baquero (Cuban network)
-- Nicolas Casajus for constructive discussions
-- David Beauchesnes
- -->
-
 \newpage
 # Supporting Information
 \label{chap3si}
@@ -503,6 +473,15 @@ Sites for the five datasets are reported on five maps gathered in Fig. @fig:maps
 The total number of species, the number of species present in at least
 1% of the total number of sites and the number of species for which traits
 information were available are reported in Table @tbl:numsp.
+
+
+#### Pitcher Plants Network
+
+*Sarracenia purpurea* is a carnivorous plant that occurs along the east coast of
+North America from the panhandle of Florida to Canada and across southern Canada
+to British Columbia [@Buckley2010]. *S. purpurea* has tube-shaped leaves
+that fill with rainwater and house a food web consisting of bacteria, protozoa, rotifers, and dipteran larvae among other taxa [@Addicott1974; @Buckley2010]. This inquiline food web decomposes prey items releasing nutrients to the plant [@Mouquet2008; @Baiser2011]. We used pitcher plant data from 39 sites across North America (Fig. 1B) collected by @Buckley2010. This dataset contains abundance data and feeding interactions for 20 pitcher plant food webs at each site for a total of 769 food webs (11 pitchers were dropped due to missing data). In total, there are 90 species and morpho species. Interaction structure (*i.e.*, who eats whom) is from @Baiser2012 which is based on previous studies [*e.g.*, @Addicott1974; @Miller2002, @Butler008] and direct observation of feeding interactions.
+
 
 
 #### Traits-based distance

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  12 OCT 2016 12:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  6 FEB 2017 11:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1029,17 +1029,17 @@ Package caption Info: End \AtBeginDocument code.
 
  (./liminaires.tex
 Package epstopdf Info: Source file: <img/rimouski-noir.eps>
-(epstopdf)                    date: 2016-09-22 17:17:29
+(epstopdf)                    date: 2016-09-22 23:17:29
 (epstopdf)                    size: 750890 bytes
 (epstopdf)             Output file: <img/rimouski-noir-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-09-22 17:21:23
+(epstopdf)                    date: 2016-09-22 23:21:23
 (epstopdf)                    size: 20145 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/rimouski-noir-eps-conv
 erted-to.pdf img/rimouski-noir.eps>
 (epstopdf)             \includegraphics on input line 10.
 Package epstopdf Info: Output file is already uptodate.
 
-<img/rimouski-noir-eps-converted-to.pdf, id=518, 251.94125pt x 138.5175pt>
+<img/rimouski-noir-eps-converted-to.pdf, id=522, 251.94125pt x 138.5175pt>
 File: img/rimouski-noir-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/rimouski-noir-eps-converted-to.pdf>
@@ -1206,22 +1206,22 @@ RACTION []
  []
 
 [16] [17]
-Package cleveref Info: loaded `french' language definitions on input line 123.
-Package cleveref Info: loaded `french' language definitions on input line 131.
+Package cleveref Info: loaded `french' language definitions on input line 122.
+Package cleveref Info: loaded `french' language definitions on input line 130.
  [18]
-Package cleveref Info: loaded `english' language definitions on input line 142.
+Package cleveref Info: loaded `english' language definitions on input line 141.
 
 
-Overfull \hbox (3.72054pt too wide) in paragraph at lines 143--143
+Overfull \hbox (3.72054pt too wide) in paragraph at lines 142--142
 \OT1/txr/m/n/12 R[]ESEAUX []ECOLOGIQUES DANS UN EN-VI-RON-NEMENT ABI-O-TIQUE VA
 RI-ABLE []  
  []
 
-Package cleveref Info: loaded `english' language definitions on input line 153.
+Package cleveref Info: loaded `english' language definitions on input line 152.
+
+Package cleveref Info: loaded `english' language definitions on input line 158.
 
 Package cleveref Info: loaded `english' language definitions on input line 159.
-
-Package cleveref Info: loaded `english' language definitions on input line 160.
 
 )
 \tf@toc=\write5
@@ -1260,6 +1260,18 @@ Package cleveref Info: loaded `english' language definitions on input line 9.
  [21
 
 ]
+Overfull \hbox (4.54092pt too wide) in paragraph at lines 24--24
+ [][] []\OT1/txr/bx/n/12 Dendrogram rep-re-sent-ing the trait-based dis-tances 
+be-tween the 31 species 
+ []
+
+[22]
+Overfull \hbox (0.47292pt too wide) in paragraph at lines 28--28
+ [][] []\OT1/txr/m/it/12 Changes in co-occurrence sig-nal with in-creased dis-t
+ance be-tween two species 
+ []
+
+[23]
 Package cleveref Info: loaded `french' language definitions on input line 37.
 Package cleveref Info: loaded `french' language definitions on input line 38.
 Package cleveref Info: loaded `english' language definitions on input line 43.
@@ -1270,13 +1282,13 @@ Package cleveref Info: loaded `english' language definitions on input line 49.
 \tf@lof=\write7
 \openout7 = `thesekc.lof'.
 
- [22]
+ [24]
 Overfull \hbox (6.71599pt too wide) in paragraph at lines 105--106
 \OT1/txr/m/it/12 vices \OT1/txr/m/n/12 ; Pla-te-forme in-ter-gou-ver-ne-men-tal
 e sur la bio-di-ver-sit[]e et les ser-vices []ecosyst[]emiques. 
  []
 
-[23
+[25
 
 ])
 Package cleveref Info: loaded `french' language definitions on input line 132.
@@ -1309,7 +1321,7 @@ Overfull \hbox (1.9016pt too wide) in paragraph at lines 965--979
 pen-ser que la th[]eorie a []et[]e d[]evelopp[]ee
  []
 
-[25] [26] [27] <fig/fig1.pdf, id=1283, 461.725pt x 461.725pt>
+[25] [26] [27] <fig/fig1.pdf, id=1301, 461.725pt x 461.725pt>
 File: fig/fig1.pdf Graphic file (type pdf)
 
 <use fig/fig1.pdf>
@@ -1341,7 +1353,7 @@ Overfull \hbox (10.67433pt too wide) in paragraph at lines 1282--1301
 nt[]egrer les re-la-tions []ecologiques
  []
 
-[34] <fig/fig2.pdf, id=1445, 461.725pt x 241.90375pt>
+[34] <fig/fig2.pdf, id=1463, 461.725pt x 241.90375pt>
 File: fig/fig2.pdf Graphic file (type pdf)
  <use fig/fig2.pdf>
 Package pdftex.def Info: fig/fig2.pdf used on input line 1319.
@@ -1388,26 +1400,20 @@ r th[]eorie de la biog[]eographie
 
 
 ]
-Overfull \hbox (15.72401pt too wide) in paragraph at lines 34--45
-\OT1/txr/m/n/12 ante: [][]$\OT1/txtt/m/n/12 http : / / www . ecography . org / 
-blog / towards-[]integrated-[]theory-[]biogeography$[][]\OT1/txr/m/n/12 . 
- []
-
-
-Overfull \hbox (3.66487pt too wide) in paragraph at lines 49--57
-\OT1/txr/m/n/12 m[]ethodologiques et con-ceptuelles comme celui du change-ment 
-de dis-tri-bu-tions esp[]ece-centr[]ee
+Overfull \hbox (4.10884pt too wide) in paragraph at lines 51--74
+\OT1/txr/m/n/12 cepts []ecologiques dans une th[]eorie unique afin de mener ver
+s des in-no-va-tions m[]ethodologiques
  []
 
 [42] [43] [44] [45] [46] [47] [48] [49] [50]
-<./chapitre1/table1.pdf, id=1681, 538.60861pt x 124.20102pt>
+<./chapitre1/table1.pdf, id=1700, 538.60861pt x 124.20102pt>
 File: ./chapitre1/table1.pdf Graphic file (type pdf)
 
 <use ./chapitre1/table1.pdf>
-Package pdftex.def Info: ./chapitre1/table1.pdf used on input line 140.
+Package pdftex.def Info: ./chapitre1/table1.pdf used on input line 157.
 (pdftex.def)             Requested size: 457.81947pt x 105.57135pt.
 
-Overfull \hbox (13.95631pt too wide) in paragraph at lines 140--141
+Overfull \hbox (13.95631pt too wide) in paragraph at lines 157--158
  [][] 
  []
 
@@ -1416,29 +1422,29 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [51] [52 <./chapitre1/table1.pdf>]
 Package epstopdf Info: Source file: <./chapitre1/fig1.eps>
-(epstopdf)                    date: 2015-07-09 16:02:52
+(epstopdf)                    date: 2015-07-09 22:02:52
 (epstopdf)                    size: 83017 bytes
 (epstopdf)             Output file: <./chapitre1/fig1-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-08-04 16:23:18
+(epstopdf)                    date: 2015-08-04 22:23:18
 (epstopdf)                    size: 30780 bytes
 (epstopdf)             Command: <repstopdf --outfile=./chapitre1/fig1-eps-conve
 rted-to.pdf ./chapitre1/fig1.eps>
-(epstopdf)             \includegraphics on input line 159.
+(epstopdf)             \includegraphics on input line 176.
 Package epstopdf Info: Output file is already uptodate.
 
-<./chapitre1/fig1-eps-converted-to.pdf, id=1733, 650.43pt x 198.7425pt>
+<./chapitre1/fig1-eps-converted-to.pdf, id=1752, 650.43pt x 198.7425pt>
 File: ./chapitre1/fig1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./chapitre1/fig1-eps-converted-to.pdf>
 Package pdftex.def Info: ./chapitre1/fig1-eps-converted-to.pdf used on input li
-ne 159.
+ne 176.
 (pdftex.def)             Requested size: 443.86316pt x 135.62831pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Overfull \hbox (8.91933pt too wide) in paragraph at lines 171--172
+Overfull \hbox (8.91933pt too wide) in paragraph at lines 188--189
 \OT1/txr/m/n/12 tion prob-a-bil-i-ties. We de-note the vec-tor of $\OML/txmi/m/
 it/12 n$ \OT1/txr/m/n/12 en-vi-ron-men-tal con-di-tions by $\OT1/txr/bx/n/12 w$
 \OT1/txr/m/n/12 : $\OT1/txr/bx/n/12 w \OT1/txr/m/n/12 = (\OML/txmi/m/it/12 w[];
@@ -1447,22 +1453,22 @@ it/12 n$ \OT1/txr/m/n/12 en-vi-ron-men-tal con-di-tions by $\OT1/txr/bx/n/12 w$
 
 [53] [54 <./chapitre1/fig1-eps-converted-to.pdf>] [55]
 Package epstopdf Info: Source file: <./chapitre1/fig2.eps>
-(epstopdf)                    date: 2015-07-09 16:02:53
+(epstopdf)                    date: 2015-07-09 22:02:53
 (epstopdf)                    size: 171564 bytes
 (epstopdf)             Output file: <./chapitre1/fig2-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-08-04 16:23:18
+(epstopdf)                    date: 2015-08-04 22:23:18
 (epstopdf)                    size: 64616 bytes
 (epstopdf)             Command: <repstopdf --outfile=./chapitre1/fig2-eps-conve
 rted-to.pdf ./chapitre1/fig2.eps>
-(epstopdf)             \includegraphics on input line 200.
+(epstopdf)             \includegraphics on input line 217.
 Package epstopdf Info: Output file is already uptodate.
 
-<./chapitre1/fig2-eps-converted-to.pdf, id=1761, 433.62pt x 389.455pt>
+<./chapitre1/fig2-eps-converted-to.pdf, id=1781, 433.62pt x 389.455pt>
 File: ./chapitre1/fig2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./chapitre1/fig2-eps-converted-to.pdf>
 Package pdftex.def Info: ./chapitre1/fig2-eps-converted-to.pdf used on input li
-ne 200.
+ne 217.
 (pdftex.def)             Requested size: 443.86316pt x 398.67694pt.
 
 
@@ -1474,22 +1480,22 @@ LaTeX Warning: Text page 57 contains only floats.
 
 [57 <./chapitre1/fig2-eps-converted-to.pdf>] [58]
 Package epstopdf Info: Source file: <./chapitre1/fig3.eps>
-(epstopdf)                    date: 2015-07-13 10:31:07
+(epstopdf)                    date: 2015-07-13 16:31:07
 (epstopdf)                    size: 136014 bytes
 (epstopdf)             Output file: <./chapitre1/fig3-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-08-04 16:23:19
+(epstopdf)                    date: 2015-08-04 22:23:19
 (epstopdf)                    size: 55215 bytes
 (epstopdf)             Command: <repstopdf --outfile=./chapitre1/fig3-eps-conve
 rted-to.pdf ./chapitre1/fig3.eps>
-(epstopdf)             \includegraphics on input line 224.
+(epstopdf)             \includegraphics on input line 241.
 Package epstopdf Info: Output file is already uptodate.
 
-<./chapitre1/fig3-eps-converted-to.pdf, id=1797, 433.62pt x 389.455pt>
+<./chapitre1/fig3-eps-converted-to.pdf, id=1816, 433.62pt x 389.455pt>
 File: ./chapitre1/fig3-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./chapitre1/fig3-eps-converted-to.pdf>
 Package pdftex.def Info: ./chapitre1/fig3-eps-converted-to.pdf used on input li
-ne 224.
+ne 241.
 (pdftex.def)             Requested size: 355.09187pt x 318.93918pt.
 
 
@@ -1497,48 +1503,48 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [59] [60 <./chapitre1/fig3-eps-converted-to.pdf>] [61]
 Package epstopdf Info: Source file: <./chapitre1/fig4.eps>
-(epstopdf)                    date: 2015-07-29 17:33:23
+(epstopdf)                    date: 2015-07-29 23:33:23
 (epstopdf)                    size: 201281 bytes
 (epstopdf)             Output file: <./chapitre1/fig4-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-08-04 16:23:19
+(epstopdf)                    date: 2015-08-04 22:23:19
 (epstopdf)                    size: 157738 bytes
 (epstopdf)             Command: <repstopdf --outfile=./chapitre1/fig4-eps-conve
 rted-to.pdf ./chapitre1/fig4.eps>
-(epstopdf)             \includegraphics on input line 246.
+(epstopdf)             \includegraphics on input line 263.
 Package epstopdf Info: Output file is already uptodate.
 
-<./chapitre1/fig4-eps-converted-to.pdf, id=1828, 650.43pt x 216.81pt>
+<./chapitre1/fig4-eps-converted-to.pdf, id=1849, 650.43pt x 216.81pt>
 File: ./chapitre1/fig4-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./chapitre1/fig4-eps-converted-to.pdf>
 Package pdftex.def Info: ./chapitre1/fig4-eps-converted-to.pdf used on input li
-ne 246.
+ne 263.
 (pdftex.def)             Requested size: 443.86316pt x 147.95816pt.
  [62 <./chapitre1/fig4-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <./chapitre1/fig5.eps>
-(epstopdf)                    date: 2015-07-30 14:58:51
+(epstopdf)                    date: 2015-07-30 20:58:51
 (epstopdf)                    size: 64680 bytes
 (epstopdf)             Output file: <./chapitre1/fig5-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-08-04 16:23:20
+(epstopdf)                    date: 2015-08-04 22:23:20
 (epstopdf)                    size: 22125 bytes
 (epstopdf)             Command: <repstopdf --outfile=./chapitre1/fig5-eps-conve
 rted-to.pdf ./chapitre1/fig5.eps>
-(epstopdf)             \includegraphics on input line 266.
+(epstopdf)             \includegraphics on input line 283.
 Package epstopdf Info: Output file is already uptodate.
 
-<./chapitre1/fig5-eps-converted-to.pdf, id=1864, 650.43pt x 230.8625pt>
+<./chapitre1/fig5-eps-converted-to.pdf, id=1884, 650.43pt x 230.8625pt>
 File: ./chapitre1/fig5-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./chapitre1/fig5-eps-converted-to.pdf>
 Package pdftex.def Info: ./chapitre1/fig5-eps-converted-to.pdf used on input li
-ne 266.
+ne 283.
 (pdftex.def)             Requested size: 443.86316pt x 157.54803pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [63]
-Overfull \hbox (0.9889pt too wide) in paragraph at lines 273--275
+Overfull \hbox (0.9889pt too wide) in paragraph at lines 290--292
 \OT1/txr/m/n/12 cesses by which non-random species as-so-ci-a-tions (co-occurre
 nce) can arise. First, two species
  []
@@ -1553,20 +1559,20 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 [70
 
 ] [71]
-Overfull \hbox (5.86087pt too wide) in paragraph at lines 32--33
+Overfull \hbox (5.86087pt too wide) in paragraph at lines 76--104
 \OT1/txr/m/n/12 man-dent en-core quels sont les ef-fets des in-ter-ac-tions aux
  diff[]erentes []echelles biog[]eographiques.
  []
 
 [72] [73] [74]
-Overfull \hbox (1.61287pt too wide) in paragraph at lines 83--84
+Overfull \hbox (1.61287pt too wide) in paragraph at lines 154--155
 \OT1/txr/m/n/12 mu-nity data (\OT1/txr/m/it/12 e.g. \OT1/txr/m/n/12 re-dun-danc
 y anal-y-sis - [][][]Leg-en-dre et Leg-en-dre[][], [][]2012[][]) do not use co-
 occurrence
  []
 
 [75] [76] [77] [78] [79] [80] [81]
-Overfull \hbox (8.47684pt too wide) in paragraph at lines 271--272
+Overfull \hbox (8.47684pt too wide) in paragraph at lines 342--343
 \OT1/txr/m/n/12 study of net-works in-volv-ing three species in-ter-ac-tions, w
 ith species 2 be-ing hid-den by marginal-
  []
@@ -1577,22 +1583,22 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 [86] [87]
 
-LaTeX Warning: File `./chapitre2/fig1.eps' not found on input line 480.
+LaTeX Warning: File `./chapitre2/fig1.eps' not found on input line 551.
 
 Package epstopdf Info: Source file: <./chapitre2/fig1.eps>
 (epstopdf)             Output file: <./chapitre2/fig1-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-06-30 11:39:15
+(epstopdf)                    date: 2015-06-30 17:39:15
 (epstopdf)                    size: 24509 bytes
 (epstopdf)             Command: <repstopdf --outfile=./chapitre2/fig1-eps-conve
 rted-to.pdf ./chapitre2/fig1.eps>
-(epstopdf)             \includegraphics on input line 480.
+(epstopdf)             \includegraphics on input line 551.
 Package epstopdf Info: Output file is already uptodate.
-<./chapitre2/fig1-eps-converted-to.pdf, id=2249, 1156.32pt x 317.185pt>
+<./chapitre2/fig1-eps-converted-to.pdf, id=2268, 1156.32pt x 317.185pt>
 File: ./chapitre2/fig1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./chapitre2/fig1-eps-converted-to.pdf>
 Package pdftex.def Info: ./chapitre2/fig1-eps-converted-to.pdf used on input li
-ne 480.
+ne 551.
 (pdftex.def)             Requested size: 443.86316pt x 121.75117pt.
  [88 <./chapitre2/fig1-eps-converted-to.pdf>] [89] [90] [91] [92]) (./chapitre3
 /chap3.tex [93]
@@ -1602,169 +1608,287 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\\' on input line 1.
 
 
-Overfull \hbox (11.8849pt too wide) in paragraph at lines 8--21
+Overfull \hbox (11.8849pt too wide) in paragraph at lines 6--19
 \OT1/txr/m/n/12 donn[]ees, tr[]es im-por-tantes en biog[]eographie, sont des en
 -reg-istrements de pr[]esences et d'absences
  []
 
 [94
 
-] [95] [96] [97] [98] [99] [100] [101] [102]
-Overfull \hbox (12.81252pt too wide) in paragraph at lines 291--293
- []|\OT1/txr/m/n/12 Connectance|
- []
-
-
-Overfull \hbox (12.81252pt too wide) in paragraph at lines 307--309
- []|\OT1/txr/m/n/12 Connectance|
- []
-
-[103
-
-] <chapitre3/figIntVsNoint.pdf, id=2467, 505.89pt x 379.4175pt>
-File: chapitre3/figIntVsNoint.pdf Graphic file (type pdf)
-
-<use chapitre3/figIntVsNoint.pdf>
-Package pdftex.def Info: chapitre3/figIntVsNoint.pdf used on input line 406.
-(pdftex.def)             Requested size: 443.86316pt x 332.90422pt.
-
-Overfull \hbox (12.72563pt too wide) in paragraph at lines 441--448
+] [95] [96] [97] [98] [99] [100] [101]
+Overfull \hbox (12.72563pt too wide) in paragraph at lines 309--316
 []\OT1/txr/m/n/12 When we ac-count for suit-abil-ity dis-crep-an-cies among sit
 es us-ing SDMs, the co-occurrence
  []
 
-[104
+[102] [103] [104] [105] [106] [107] [108] [109]
+Overfull \hbox (80.31902pt too wide) in paragraph at lines 557--557
+[] [] 
+ []
 
-] [105 <./chapitre3/figIntVsNoint.pdf>]
-<chapitre3/figOrder.pdf, id=2496, 505.89pt x 172.645pt>
-File: chapitre3/figOrder.pdf Graphic file (type pdf)
 
-<use chapitre3/figOrder.pdf>
-Package pdftex.def Info: chapitre3/figOrder.pdf used on input line 451.
-(pdftex.def)             Requested size: 443.86316pt x 151.48021pt.
- [106 <./chapitre3/figOrder.pdf>]
-<chapitre3/figdegocc.pdf, id=2527, 505.89pt x 505.89pt>
-File: chapitre3/figdegocc.pdf Graphic file (type pdf)
+Overfull \hbox (26.47015pt too wide) in paragraph at lines 567--569
+ []|\OT1/txr/m/n/12 Connectance|
+ []
 
-<use chapitre3/figdegocc.pdf>
-Package pdftex.def Info: chapitre3/figdegocc.pdf used on input line 518.
-(pdftex.def)             Requested size: 421.66864pt x 421.67944pt.
- [107] [108 <./chapitre3/figdegocc.pdf>] [109]
-[110] [111] [112] [113]
-<chapitre3/figConcept.pdf, id=2619, 296.10625pt x 394.47375pt>
+
+Overfull \hbox (26.47015pt too wide) in paragraph at lines 583--585
+ []|\OT1/txr/m/n/12 Connectance|
+ []
+
+
+Overfull \hbox (2.30762pt too wide) in paragraph at lines 635--637
+ []|\OT1/txr/m/n/12 Competition|
+ []
+
+<chapitre3/figConcept.pdf, id=2585, 296.10625pt x 394.47375pt>
 File: chapitre3/figConcept.pdf Graphic file (type pdf)
 
 <use chapitre3/figConcept.pdf>
-Package pdftex.def Info: chapitre3/figConcept.pdf used on input line 723.
-(pdftex.def)             Requested size: 377.28639pt x 502.63737pt.
+Package pdftex.def Info: chapitre3/figConcept.pdf used on input line 662.
+(pdftex.def)             Requested size: 296.10551pt x 394.47278pt.
+ [110] [111 <./chapitre3/figConcept.pdf>]
+<chapitre3/figIntVsNoint.pdf, id=2605, 505.89pt x 379.4175pt>
+File: chapitre3/figIntVsNoint.pdf Graphic file (type pdf)
+
+<use chapitre3/figIntVsNoint.pdf>
+Package pdftex.def Info: chapitre3/figIntVsNoint.pdf used on input line 680.
+(pdftex.def)             Requested size: 505.88875pt x 379.41656pt.
+
+Overfull \hbox (62.02559pt too wide) in paragraph at lines 680--694
+ [][] 
+ []
+
+<chapitre3/figOrder.pdf, id=2606, 505.89pt x 172.645pt>
+File: chapitre3/figOrder.pdf Graphic file (type pdf)
+
+<use chapitre3/figOrder.pdf>
+Package pdftex.def Info: chapitre3/figOrder.pdf used on input line 701.
+(pdftex.def)             Requested size: 505.88875pt x 172.64456pt.
+
+Overfull \hbox (62.02559pt too wide) in paragraph at lines 701--710
+ [][] 
+ []
+
+<chapitre3/figdegocc.pdf, id=2607, 505.89pt x 505.89pt>
+File: chapitre3/figdegocc.pdf Graphic file (type pdf)
+
+<use chapitre3/figdegocc.pdf>
+Package pdftex.def Info: chapitre3/figdegocc.pdf used on input line 717.
+(pdftex.def)             Requested size: 505.88875pt x 505.88875pt.
+
+Overfull \hbox (62.02559pt too wide) in paragraph at lines 717--734
+ [][] 
+ []
 
 
-LaTeX Warning: Float too large for page by 28.28403pt on input line 736.
+LaTeX Warning: Float too large for page by 89.5354pt on input line 735.
 
-[114] [115 <./chapitre3/figConcept.pdf>]
-Overfull \hbox (8.9686pt too wide) in paragraph at lines 766--776
+
+Package natbib Warning: Citation `Buckley2010' on page 112 undefined on input l
+ine 762.
+
+
+Package natbib Warning: Citation `Addicott1974' on page 112 undefined on input 
+line 765.
+
+
+Package natbib Warning: Citation `Buckley2010' on page 112 undefined on input l
+ine 765.
+
+
+Package natbib Warning: Citation `Mouquet2008' on page 112 undefined on input l
+ine 767.
+
+
+Package natbib Warning: Citation `Baiser2011' on page 112 undefined on input li
+ne 767.
+
+
+Package natbib Warning: Citation `Buckley2010' on page 112 undefined on input l
+ine 768.
+
+
+Package natbib Warning: Citation `Addicott1974' on page 112 undefined on input 
+line 774.
+
+
+Package natbib Warning: Citation `Miller2002' on page 112 undefined on input li
+ne 774.
+
+
+Package natbib Warning: Citation `Butler008' on page 112 undefined on input lin
+e 774.
+
+
+Overfull \hbox (8.9686pt too wide) in paragraph at lines 781--791
 \OT1/txr/m/n/12 ([][][]Pa-que-tte et Messier[][], [][]2011[][]), see Sup-ple-me
 n-tary Ta-ble [][]7[][] avail-able at [][]$\OT1/txtt/m/n/12 http : / / onlineli
 brary .
  []
 
-[116] [117] [118] [119]
-
-Package longtable Warning: Column widths have changed
-(longtable)                in table 5 on input line 922.
-
-[120
-
-] [121
+[112] [113 <./chapitre3/figIntVsNoint.pdf>] [114 <./chapitre3/figOrder.pdf>]
+[115 <./chapitre3/figdegocc.pdf>] [116] [117]
+Overfull \hbox (80.31902pt too wide) in paragraph at lines 895--895
+[] [] 
+ []
 
 
-] [122
+Overfull \hbox (22.37294pt too wide) in alignment at lines 892--899
+ [] [] [] [] [] 
+ []
 
 
-] [123] [124
+Overfull \hbox (22.37294pt too wide) in alignment at lines 899--903
+ [] [] [] [] [] 
+ []
 
 
-] [125] [126] [127] [128]
-<chapitre3/figS1.png, id=2773, 2107.875pt x 3161.8125pt>
+Overfull \hbox (22.37294pt too wide) in alignment at lines 903--926
+ [] [] [] [] [] 
+ []
+
+[118]
+Overfull \hbox (80.31902pt too wide) in paragraph at lines 934--934
+[] [] 
+ []
+
+
+Overfull \hbox (80.31902pt too wide) in paragraph at lines 959--959
+[] [] 
+ []
+
+
+Overfull \hbox (42.233pt too wide) in alignment at lines 951--964
+ [] [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (42.233pt too wide) in alignment at lines 964--969
+ [] [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (42.233pt too wide) in alignment at lines 969--1010
+ [] [] [] [] [] [] [] [] [] [] [] 
+ []
+
+[119]
+Overfull \hbox (42.233pt too wide) in alignment at lines 1010--1033
+ [] [] [] [] [] [] [] [] [] [] [] 
+ []
+
+[120]
+Overfull \hbox (80.31902pt too wide) in paragraph at lines 1038--1038
+[] [] 
+ []
+
+[121] [122] [123] [124]
+<chapitre3/figS1.png, id=2775, 2107.875pt x 3161.8125pt>
 File: chapitre3/figS1.png Graphic file (type png)
 
 <use chapitre3/figS1.png>
-Package pdftex.def Info: chapitre3/figS1.png used on input line 1158.
-(pdftex.def)             Requested size: 372.84341pt x 559.25966pt.
+Package pdftex.def Info: chapitre3/figS1.png used on input line 1131.
+(pdftex.def)             Requested size: 2107.86987pt x 3161.80482pt.
 
-<chapitre3/figS2.pdf, id=2775, 246.9225pt x 493.845pt>
+Overfull \hbox (1664.00671pt too wide) in paragraph at lines 1131--1132
+ [][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 2585.95148pt on input line 1133.
+
+[125] [126 <./chapitre3/figS1.png>]
+<chapitre3/figS2.pdf, id=2787, 246.9225pt x 493.845pt>
 File: chapitre3/figS2.pdf Graphic file (type pdf)
 
 <use chapitre3/figS2.pdf>
-Package pdftex.def Info: chapitre3/figS2.pdf used on input line 1166.
-(pdftex.def)             Requested size: 284.07214pt x 568.17354pt.
+Package pdftex.def Info: chapitre3/figS2.pdf used on input line 1139.
+(pdftex.def)             Requested size: 246.92188pt x 493.84378pt.
 
-
-LaTeX Warning: Float too large for page by 21.32019pt on input line 1172.
-
-<chapitre3/figS3.pdf, id=2776, 246.9225pt x 650.43pt>
+<chapitre3/figS3.pdf, id=2788, 246.9225pt x 650.43pt>
 File: chapitre3/figS3.pdf Graphic file (type pdf)
 
 <use chapitre3/figS3.pdf>
-Package pdftex.def Info: chapitre3/figS3.pdf used on input line 1178.
-(pdftex.def)             Requested size: 221.93158pt x 584.59753pt.
+Package pdftex.def Info: chapitre3/figS3.pdf used on input line 1150.
+(pdftex.def)             Requested size: 246.92188pt x 650.4284pt.
 
 
-LaTeX Warning: Float too large for page by 23.24419pt on input line 1182.
+LaTeX Warning: Float too large for page by 89.07506pt on input line 1154.
 
-<chapitre3/figS4.pdf, id=2777, 325.215pt x 308.15125pt>
+<chapitre3/figS4.pdf, id=2789, 325.215pt x 308.15125pt>
 File: chapitre3/figS4.pdf Graphic file (type pdf)
 
 <use chapitre3/figS4.pdf>
-Package pdftex.def Info: chapitre3/figS4.pdf used on input line 1188.
-(pdftex.def)             Requested size: 443.86316pt x 420.60829pt.
- <chapitre3/figS5.pdf, id=2778, 505.89pt x 184.69pt>
+Package pdftex.def Info: chapitre3/figS4.pdf used on input line 1160.
+(pdftex.def)             Requested size: 325.2142pt x 308.15048pt.
+ <chapitre3/figS5.pdf, id=2790, 505.89pt x 184.69pt>
 File: chapitre3/figS5.pdf Graphic file (type pdf)
 
 <use chapitre3/figS5.pdf>
-Package pdftex.def Info: chapitre3/figS5.pdf used on input line 1210.
-(pdftex.def)             Requested size: 443.86316pt x 162.0486pt.
+Package pdftex.def Info: chapitre3/figS5.pdf used on input line 1181.
+(pdftex.def)             Requested size: 505.88875pt x 184.68953pt.
 
-<chapitre3/figS6.pdf, id=2779, 505.89pt x 404.51125pt>
+Overfull \hbox (62.02559pt too wide) in paragraph at lines 1181--1186
+ [][] 
+ []
+
+<chapitre3/figS6.pdf, id=2791, 505.89pt x 404.51125pt>
 File: chapitre3/figS6.pdf Graphic file (type pdf)
 
 <use chapitre3/figS6.pdf>
-Package pdftex.def Info: chapitre3/figS6.pdf used on input line 1223.
-(pdftex.def)             Requested size: 443.86316pt x 354.92169pt.
- <chapitre3/figS7.pdf, id=2780, 505.89pt x 505.89pt>
+Package pdftex.def Info: chapitre3/figS6.pdf used on input line 1193.
+(pdftex.def)             Requested size: 505.88875pt x 404.51025pt.
+
+Overfull \hbox (62.02559pt too wide) in paragraph at lines 1193--1201
+ [][] 
+ []
+
+<chapitre3/figS7.pdf, id=2792, 505.89pt x 505.89pt>
 File: chapitre3/figS7.pdf Graphic file (type pdf)
+ <use chapitre3/figS7.pdf>
+Package pdftex.def Info: chapitre3/figS7.pdf used on input line 1208.
+(pdftex.def)             Requested size: 505.88875pt x 505.88875pt.
 
-<use chapitre3/figS7.pdf>
-Package pdftex.def Info: chapitre3/figS7.pdf used on input line 1238.
-(pdftex.def)             Requested size: 443.86316pt x 443.87228pt.
- <chapitre3/figS8.pdf, id=2781, 505.89pt x 505.89pt>
+Overfull \hbox (62.02559pt too wide) in paragraph at lines 1208--1217
+ [][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 17.0354pt on input line 1218.
+
+<chapitre3/figS8.pdf, id=2793, 505.89pt x 505.89pt>
 File: chapitre3/figS8.pdf Graphic file (type pdf)
+ <use chapitre3/figS8.pdf>
+Package pdftex.def Info: chapitre3/figS8.pdf used on input line 1224.
+(pdftex.def)             Requested size: 505.88875pt x 505.88875pt.
 
-<use chapitre3/figS8.pdf>
-Package pdftex.def Info: chapitre3/figS8.pdf used on input line 1255.
-(pdftex.def)             Requested size: 421.66864pt x 421.67944pt.
+Overfull \hbox (62.02559pt too wide) in paragraph at lines 1224--1238
+ [][] 
+ []
 
-<chapitre3/figS9.pdf, id=2783, 246.9225pt x 308.15125pt>
+
+LaTeX Warning: Float too large for page by 60.5354pt on input line 1239.
+
+<chapitre3/figS9.pdf, id=2794, 246.9225pt x 308.15125pt>
 File: chapitre3/figS9.pdf Graphic file (type pdf)
 
 <use chapitre3/figS9.pdf>
-Package pdftex.def Info: chapitre3/figS9.pdf used on input line 1279.
-(pdftex.def)             Requested size: 319.58202pt x 398.85211pt.
-) (./chapitre4/chap4.tex [129 <./chapitre3/figS1.png>] [130 <./chapitre3/figS2.
-pdf>] [131 <./chapitre3/figS3.pdf>] [132 <./chapitre3/figS4.pdf>] [133 <./chapi
-tre3/figS5.pdf>] [134 <./chapitre3/figS6.pdf>]
-[135 <./chapitre3/figS7.pdf>] [136 <./chapitre3/figS8.pdf>] [137 <./chapitre3/f
-igS9.pdf>]
+Package pdftex.def Info: chapitre3/figS9.pdf used on input line 1245.
+(pdftex.def)             Requested size: 246.92188pt x 308.15048pt.
+) (./chapitre4/chap4.tex [127 <./chapitre3/figS2.pdf>] [128 <./chapitre3/figS3.
+pdf>] [129 <./chapitre3/figS4.pdf>] [130 <./chapitre3/figS5.pdf>] [131 <./chapi
+tre3/figS6.pdf>] [132 <./chapitre3/figS7.pdf>]
+[133 <./chapitre3/figS8.pdf>] [134 <./chapitre3/figS9.pdf>]
 article 4.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\\' on input line 1.
 
-[138
+[135
 
-
-] [139] [140] [141] [142] [143] [144] [145] [146] [147] [148] [149]
-[150] <chapitre4/fig/fig1.pdf, id=3130, 252.945pt x 650.43pt>
+] [136] [137] [138] [139] [140] [141] [142] [143] [144] [145] [146]
+[147] <chapitre4/fig/fig1.pdf, id=3136, 252.945pt x 650.43pt>
 File: chapitre4/fig/fig1.pdf Graphic file (type pdf)
 
 <use chapitre4/fig/fig1.pdf>
@@ -1774,34 +1898,34 @@ Package pdftex.def Info: chapitre4/fig/fig1.pdf used on input line 518.
 
 LaTeX Warning: Float too large for page by 9.33961pt on input line 522.
 
-[151] [152 <./chapitre4/fig/fig1.pdf>]
-<chapitre4/fig/fig2.pdf, id=3157, 505.89pt x 433.62pt>
+[148] [149 <./chapitre4/fig/fig1.pdf>]
+<chapitre4/fig/fig2.pdf, id=3162, 505.89pt x 433.62pt>
 File: chapitre4/fig/fig2.pdf Graphic file (type pdf)
 
 <use chapitre4/fig/fig2.pdf>
 Package pdftex.def Info: chapitre4/fig/fig2.pdf used on input line 568.
 (pdftex.def)             Requested size: 443.86316pt x 380.46198pt.
- [153] [154 <./chapitre4/fig/fig2.pdf>]
-<chapitre4/fig/fig3.pdf, id=3182, 505.89pt x 397.485pt>
+ [150] [151 <./chapitre4/fig/fig2.pdf>]
+<chapitre4/fig/fig3.pdf, id=3188, 505.89pt x 397.485pt>
 File: chapitre4/fig/fig3.pdf Graphic file (type pdf)
 
 <use chapitre4/fig/fig3.pdf>
 Package pdftex.def Info: chapitre4/fig/fig3.pdf used on input line 612.
 (pdftex.def)             Requested size: 443.86316pt x 348.7568pt.
- [155] [156 <./chapitre4/fig/fig3.pdf>]
-<chapitre4/fig/fig4.pdf, id=3210, 542.025pt x 578.16pt>
+ [152] [153 <./chapitre4/fig/fig3.pdf>]
+<chapitre4/fig/fig4.pdf, id=3216, 542.025pt x 578.16pt>
 File: chapitre4/fig/fig4.pdf Graphic file (type pdf)
 
 <use chapitre4/fig/fig4.pdf>
 Package pdftex.def Info: chapitre4/fig/fig4.pdf used on input line 649.
 (pdftex.def)             Requested size: 443.86316pt x 473.46791pt.
- [157] [158 <./chapitre4/fig/fig4.pdf>] [159])
-[160]
+ [154] [155 <./chapitre4/fig/fig4.pdf>] [156])
+[157]
 Package cleveref Info: loaded `french' language definitions on input line 150.
- (./conclu.tex [161
+ (./conclu.tex [158
 
 
-] [162]
+] [159]
 Overfull \hbox (17.29686pt too wide) in paragraph at lines 93--118
 \OT1/txr/m/n/12 r[]eflexion im-por-tante pour les biog[]eographes sur les-quell
 es se concentre l'ef-fort de d[]eveloppement
@@ -1814,13 +1938,13 @@ Overfull \hbox (5.87715pt too wide) in paragraph at lines 93--118
 s []ecologiques
  []
 
-[163] [164]
+[160] [161]
 Overfull \hbox (1.72232pt too wide) in paragraph at lines 173--194
 \OT1/txr/m/it/12 pas\OT1/txr/m/n/12 , j'ai com-pris qu'il n'y avait pas de r[]e
 ponse tranch[]ee, mais plut[]ot une r[]eponse qui d[]ependait
  []
 
-[165] [166] [167] [168] [169]) [170] [171] (./annexe1/annexe1.tex
+[162] [163] [164] [165] [166]) [167] [168] (./annexe1/annexe1.tex
 Package cleveref Info: loaded `french' language definitions on input line 1.
 
 \MakeUppercase {Annexe} I
@@ -1834,10 +1958,10 @@ Overfull \hbox (5.43597pt too wide) in paragraph at lines 10--13
 versite-[]en-[]territoires-[]isoles/$[][] 
  []
 
-[172
+[169
 
 
-] <annexe1/fig/figAnnI1.pdf, id=3500, 391.95084pt x 241.77597pt>
+] <annexe1/fig/figAnnI1.pdf, id=3506, 391.95084pt x 241.77597pt>
 File: annexe1/fig/figAnnI1.pdf Graphic file (type pdf)
 
 <use annexe1/fig/figAnnI1.pdf>
@@ -1847,13 +1971,13 @@ Package pdftex.def Info: annexe1/fig/figAnnI1.pdf used on input line 29.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[173] [174 <./annexe1/fig/figAnnI1.pdf>] [175] [176] [177]
+[170] [171 <./annexe1/fig/figAnnI1.pdf>] [172] [173] [174]
 Overfull \hbox (15.2132pt too wide) in paragraph at lines 97--98
 []\OT1/txr/m/n/12 Nous re-trou-vons la so-lu-tion d[]eterministe ! Ainsi, le mo
 d[]ele d[]eterministe peut []etre consid[]er[]e
  []
 
-<annexe1/fig/figAnnI2.pdf, id=3627, 578.16pt x 433.62pt>
+<annexe1/fig/figAnnI2.pdf, id=3633, 578.16pt x 433.62pt>
 File: annexe1/fig/figAnnI2.pdf Graphic file (type pdf)
 
 <use annexe1/fig/figAnnI2.pdf>
@@ -1863,7 +1987,7 @@ Package pdftex.def Info: annexe1/fig/figAnnI2.pdf used on input line 101.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[178] [179 <./annexe1/fig/figAnnI2.pdf>] [180]
+[175] [176 <./annexe1/fig/figAnnI2.pdf>] [177]
 Underfull \hbox (badness 10000) in paragraph at lines 146--148
 \OT1/txr/m/n/12 En rempla[]ant dans l'[]equation
  []
@@ -1874,7 +1998,7 @@ LaTeX Warning: Command \textquoteright invalid in math mode on input line 149.
 
 LaTeX Warning: Command \textquoteright invalid in math mode on input line 153.
 
-[181] [182pdfTeX warning (ext4): destination with the same identifier (name{equ
+[178] [179pdfTeX warning (ext4): destination with the same identifier (name{equ
 ation.5.11.16}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -1931,29 +2055,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 180--197
 
  []
 
-<annexe1/fig/figAnnI3.pdf, id=3667, 1205.50375pt x 810.02625pt>
+<annexe1/fig/figAnnI3.pdf, id=3672, 1205.50375pt x 810.02625pt>
 File: annexe1/fig/figAnnI3.pdf Graphic file (type pdf)
 
 <use annexe1/fig/figAnnI3.pdf>
 Package pdftex.def Info: annexe1/fig/figAnnI3.pdf used on input line 201.
 (pdftex.def)             Requested size: 421.66864pt x 283.32803pt.
- [183]) (./annexe2/annexe2.tex
+ [180]) (./annexe2/annexe2.tex
 Package cleveref Info: loaded `english' language definitions on input line 1.
- [184 <./annexe1/fig/figAnnI3.pdf>] [185]
+ [181 <./annexe1/fig/figAnnI3.pdf>] [182]
 \MakeUppercase {Annexe} II
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\\' on input line 3.
 
-[186
+[183
 
-] [187pdfTeX warning (ext4): destination with the same identifier (name{equatio
+] [184pdfTeX warning (ext4): destination with the same identifier (name{equatio
 n.6.12.5}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.53 \end{eqnarray}
-                   ] [188]
+                   ] [185]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 100.
@@ -1970,17 +2094,17 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 110.
 
-[189] [190]
+[186] [187]
 Overfull \hbox (0.70421pt too wide) in alignment at lines 143--146
  [][][] []
  []
 
-[191] [192] [193]
+[188] [189] [190]
 Overfull \hbox (75.79904pt too wide) in alignment at lines 271--279
  [][][] []
  []
 
-[194] [195pdfTeX warning (ext4): destination with the same identifier (name{equ
+[191] [192pdfTeX warning (ext4): destination with the same identifier (name{equ
 ation.6.16.31}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -1996,7 +2120,7 @@ Overfull \hbox (15.34114pt too wide) in alignment at lines 332--344
  [][][] []
  []
 
-[196pdfTeX warning (ext4): destination with the same identifier (name{equation.
+[193pdfTeX warning (ext4): destination with the same identifier (name{equation.
 6.16.42}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -2015,7 +2139,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 404.
 
-[197pdfTeX warning (ext4): destination with the same identifier (name{equation.
+[194pdfTeX warning (ext4): destination with the same identifier (name{equation.
 6.16.45}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -2026,34 +2150,34 @@ Overfull \hbox (7.89752pt too wide) in alignment at lines 429--432
  [][][] []
  []
 
-[198]) (./annexe3/annexe3.tex
+[195]) (./annexe3/annexe3.tex
 Package cleveref Info: loaded `english' language definitions on input line 1.
- [199]
+ [196]
 \MakeUppercase {Annexe} III
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\\' on input line 2.
 
-[200
+[197
 
 ]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 43.
 
-[201] [202]
+[198] [199]
 Package epstopdf Info: Source file: <./annexe3/fig1.eps>
-(epstopdf)                    date: 2016-09-09 16:47:46
+(epstopdf)                    date: 2016-09-09 22:47:46
 (epstopdf)                    size: 4768438 bytes
 (epstopdf)             Output file: <./annexe3/fig1-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-09-09 16:49:54
+(epstopdf)                    date: 2016-09-09 22:49:54
 (epstopdf)                    size: 137032 bytes
 (epstopdf)             Command: <repstopdf --outfile=./annexe3/fig1-eps-convert
 ed-to.pdf ./annexe3/fig1.eps>
 (epstopdf)             \includegraphics on input line 144.
 Package epstopdf Info: Output file is already uptodate.
 
-<./annexe3/fig1-eps-converted-to.pdf, id=3855, 1087.06125pt x 305.14pt>
+<./annexe3/fig1-eps-converted-to.pdf, id=3861, 1087.06125pt x 305.14pt>
 File: ./annexe3/fig1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./annexe3/fig1-eps-converted-to.pdf>
@@ -2064,7 +2188,7 @@ Package pdftex.def Info: ./annexe3/fig1-eps-converted-to.pdf used on input line
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[203] [204 <./annexe3/fig1-eps-converted-to.pdf>] [205] [206
+[200] [201 <./annexe3/fig1-eps-converted-to.pdf>] [202] [203
 
 ]
 Overfull \hbox (18.45486pt too wide) in alignment at lines 252--258
@@ -2076,7 +2200,7 @@ Overfull \hbox (18.45486pt too wide) in alignment at lines 258--273
  [] [] [] [] [] 
  []
 
-[207
+[204
 
 
 ])
@@ -2086,7 +2210,7 @@ Package cleveref Info: loaded `english' language definitions on input line 182.
 \tf@brf=\write8
 \openout8 = `thesekc.brf'.
 
- [208
+ [205
 
 
 ]
@@ -2126,7 +2250,7 @@ Underfull \hbox (badness 1072) in paragraph at lines 129--129
 4).  Spa-tial bias in the
  []
 
-[209] (/usr/local/texlive/2016/texmf-dist/tex/latex/ucs/data/uni-34.def
+[206] (/usr/local/texlive/2016/texmf-dist/tex/latex/ucs/data/uni-34.def
 File: uni-34.def 2013/05/13 UCS: Unicode data U+2200..U+22FF
 )
 Underfull \hbox (badness 1038) in paragraph at lines 185--185
@@ -2135,7 +2259,7 @@ Underfull \hbox (badness 1038) in paragraph at lines 185--185
  10 . 1016 / j . tree .
  []
 
-[210]
+[207]
 Underfull \hbox (badness 1466) in paragraph at lines 251--251
 \OT1/txr/m/it/12 So-ci-ety\OT1/txr/m/n/12 , \OT1/txr/m/it/12 280\OT1/txr/m/n/12
  (1750), 20121890.  [][]$\OT1/txtt/m/n/12 http : / / dx . doi . org / 10 . 1098
@@ -2199,17 +2323,17 @@ ork-[]stakes-[]its-[]claim-[]1068345-[]1 .
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 302--302
-\OT1/txtt/m/n/12 html$ \ delimiter"026E30F$nhttp : / / www . ncbi . nlm . nih .
- gov / pubmed /
+\OT1/txtt/m/n/12 html{%}5Cnhttp : / / www . ncbi . nlm . nih . gov / pubmed / 1
+5003161{%}5Cnhttp :
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 302--302
-\OT1/txtt/m/n/12 15003161$ \ delimiter"026E30F$nhttp : / / cid . oxfordjournals
- . org / lookup /
+\OT1/txtt/m/n/12 / / cid . oxfordjournals . org / lookup / doi / 10 . 1093 / ci
+d / cir991{%}5Cnhttp :
  []
 
-[211]
+[208]
 Underfull \hbox (badness 1077) in paragraph at lines 329--329
 []\OT1/txr/m/n/12 Clark, J. S., Gelfand, A. E., Woodall, C. W. et Zhu, K. (2014
 ).  More than the
@@ -2221,485 +2345,455 @@ Underfull \hbox (badness 1210) in paragraph at lines 329--329
  dis-tri-bu-tion mod-els.
  []
 
-[212]
-Underfull \hbox (badness 10000) in paragraph at lines 423--423
-[][]$\OT1/txtt/m/n/12 www . blight . comhttp : / / www . ncbi . nlm . nih . gov
- / pubmed / 280836http : / / www .
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 423--423
-\OT1/txtt/m/n/12 ncbi . nlm . nih . gov / pubmed / 9486646http : / / www . natu
-re . com / doifinder / 10 .
- []
-
-[213] [214]
-Underfull \hbox (badness 1286) in paragraph at lines 556--556
+[209] [210] [211]
+Underfull \hbox (badness 1286) in paragraph at lines 555--555
 \OT1/txtt/m/n/12 ecolsys . 110308 . 120159$[][]\OT1/txr/m/n/12 .  R[]ecup[]er[]
 e de [][]$\OT1/txtt/m/n/12 http : / / www . annualreviews . org / doi /
  []
 
-[215]
-Underfull \hbox (badness 2744) in paragraph at lines 663--663
+[212]
+Underfull \hbox (badness 2744) in paragraph at lines 662--662
 \OT1/txtt/m/n/12 NMAOSC ] 2 . 0 . CO ; 2$[][]\OT1/txr/m/n/12 .  R[]ecup[]er[]e 
 de [][]$\OT1/txtt/m/n/12 http : / / www . esajournals . org / doi / abs / 10 .
  []
 
 
-Underfull \hbox (badness 2384) in paragraph at lines 671--671
+Underfull \hbox (badness 2384) in paragraph at lines 670--670
 \OT1/txr/m/n/12 R[]ecup[]er[]e de [][]$\OT1/txtt/m/n/12 http : / / books . goog
 le . com / books ? id = vjsBAAAACAAJ{&}printsec =
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 684--684
-\OT1/txtt/m/n/12 www . pnas . org / content / 107 / 11 / 5030 . abstract$ \ del
-imiter"026E30F$nfile :
+[213]
+Underfull \hbox (badness 10000) in paragraph at lines 683--683
+\OT1/txr/m/n/12 de [][]$\OT1/txtt/m/n/12 http : / / www . pnas . org / content 
+/ 107 / 11 / 5030 . abstract{%}5Cnfile :
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 684--684
+Underfull \hbox (badness 10000) in paragraph at lines 683--683
 \OT1/txtt/m/n/12 / / c / DocumentsandSettings / Cristina / Meusdocumentos / MyD
 ropbox /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 684--684
+Underfull \hbox (badness 10000) in paragraph at lines 683--683
 \OT1/txtt/m/n/12 MeuDocumentos / Papers / 2010 / Gotellietal2010PNAS . pdfhttp 
 : / / www . pnas .
  []
 
-[216]
-Underfull \hbox (badness 1072) in paragraph at lines 770--770
+[214]
+Underfull \hbox (badness 1072) in paragraph at lines 769--769
 []\OT1/txr/m/n/12 Hannah, L., Roehrdanz, P. R., Ikegami, M., Shep-ard, A. V., S
 haw, M. R., Ta-bor,
  []
 
 
-Underfull \hbox (badness 1642) in paragraph at lines 770--770
+Underfull \hbox (badness 1642) in paragraph at lines 769--769
 \OT1/txr/m/n/12 G., Zhi, L., Mar-quet, P. a. et Hi-j-mans, R. J. (2013).  Cli-m
 ate change, wine,
  []
 
 
-Underfull \hbox (badness 2269) in paragraph at lines 770--770
+Underfull \hbox (badness 2269) in paragraph at lines 769--769
 \OT1/txr/m/n/12 and con-ser-va-tion.  \OT1/txr/m/it/12 Pro-ceed-ings of the Na-
 tional Academy of Sci-ences\OT1/txr/m/n/12 , \OT1/txr/m/it/12 110\OT1/txr/m/n/1
 2 (17),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 770--770
+Underfull \hbox (badness 10000) in paragraph at lines 769--769
 \OT1/txr/m/n/12 6907--6912.  [][]$\OT1/txtt/m/n/12 http : / / dx . doi . org / 
 10 . 1073 / pnas . 1210127110$[][]\OT1/txr/m/n/12 .  R[]ecup[]er[]e
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 770--770
+Underfull \hbox (badness 10000) in paragraph at lines 769--769
 \OT1/txr/m/n/12 de [][]$\OT1/txtt/m/n/12 http : / / www . pubmedcentral . nih .
  gov / articlerender . fcgi ? artid =
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 770--770
+Underfull \hbox (badness 10000) in paragraph at lines 769--769
 \OT1/txtt/m/n/12 3637704{&}tool = pmcentrez{&}rendertype = abstracthttp : / / w
 ww . pnas . org /
  []
 
-[217]
-Underfull \hbox (badness 1297) in paragraph at lines 832--832
+[215]
+Underfull \hbox (badness 1297) in paragraph at lines 831--831
 \OT1/txr/m/n/12 Bi-otic in-ter-ac-tions im-prove pre-dic-tion of bo-real bird d
 is-tri-bu-tions at macro-scales.
  []
 
-[218]
-Underfull \hbox (badness 2012) in paragraph at lines 867--867
+
+Underfull \hbox (badness 2012) in paragraph at lines 866--866
 []\OT1/txr/m/n/12 Holt, R. D. et Barfield, M. (2009).  Trophic in-ter-ac-tions 
 and range lim-its: the
  []
 
 
-Underfull \hbox (badness 3029) in paragraph at lines 867--867
+Underfull \hbox (badness 3029) in paragraph at lines 866--866
 \OT1/txr/m/n/12 di-verse roles of pre-da-tion.  \OT1/txr/m/it/12 Pro-ceed-ings.
  Bi-o-log-i-cal sci-ences / The Royal So-
  []
 
 
-Underfull \hbox (badness 2790) in paragraph at lines 867--867
+Underfull \hbox (badness 2790) in paragraph at lines 866--866
 \OT1/txr/m/it/12 ci-ety\OT1/txr/m/n/12 , \OT1/txr/m/it/12 276\OT1/txr/m/n/12 (1
 661), 1435--1442.  [][]$\OT1/txtt/m/n/12 http : / / dx . doi . org / 10 . 1098 
 / rspb . 2008 . 1536$[][]\OT1/txr/m/n/12 .
  []
 
 
-Underfull \hbox (badness 3439) in paragraph at lines 893--893
+Underfull \hbox (badness 3439) in paragraph at lines 892--892
 []\OT1/txr/m/n/12 Hubbell, S. P. (1997).  A uni-fied the-ory of bio-geog-ra-phy
  and rel-a-tive species
  []
 
 
-Underfull \hbox (badness 2846) in paragraph at lines 893--893
+Underfull \hbox (badness 2846) in paragraph at lines 892--892
 \OT1/txr/m/n/12 abun-dance and its ap-pli-ca-tion to trop-i-cal rain forests an
 d coral reefs.  \OT1/txr/m/it/12 Coral
  []
 
-
-Underfull \hbox (badness 1360) in paragraph at lines 922--922
+[216]
+Underfull \hbox (badness 1360) in paragraph at lines 921--921
 \OT1/txr/m/it/12 Pro-ceed-ings of the Na-tional Academy of Sci-ences of the Uni
 ted States of Amer-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 922--922
+Underfull \hbox (badness 10000) in paragraph at lines 921--921
 \OT1/txr/m/it/12 ica\OT1/txr/m/n/12 , \OT1/txr/m/it/12 109\OT1/txr/m/n/12 (12),
  4521--4526.  [][]$\OT1/txtt/m/n/12 http : / / dx . doi . org / 10 . 1073 / pna
 s . 1107004109$[][]\OT1/txr/m/n/12 .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 922--922
+Underfull \hbox (badness 10000) in paragraph at lines 921--921
 \OT1/txr/m/n/12 R[]ecup[]er[]e de [][]$\OT1/txtt/m/n/12 http : / / www . ncbi .
  nlm . nih . gov / pubmed / 22393006http :
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 922--922
+Underfull \hbox (badness 10000) in paragraph at lines 921--921
 \OT1/txtt/m/n/12 / / www . pubmedcentral . nih . gov / articlerender . fcgi ? a
 rtid = 3311373{&}tool =
  []
 
-[219]
-Underfull \hbox (badness 2384) in paragraph at lines 943--943
-\OT1/txr/m/n/12 R[]ecup[]er[]e de [][]$\OT1/txtt/m/n/12 C : $ \ delimiter"026E3
-0F$PDFs$ \ delimiter"026E30F$2006{_}287 .
+
+Underfull \hbox (badness 10000) in paragraph at lines 942--942
+\OT1/txr/m/n/12 R[]ecup[]er[]e de [][]$\OT1/txtt/m/n/12 c : {%}5CPDFs{%}5C2006{
+_}287 . pdf{%}5Cnhttp : / / www . pnas . org /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 943--943
-\OT1/txtt/m/n/12 pdf$ \ delimiter"026E30F$nhttp : / / www . pnas . org / lookup
- / doi / 10 . 1073 / pnas .
+Underfull \hbox (badness 10000) in paragraph at lines 942--942
+\OT1/txtt/m/n/12 lookup / doi / 10 . 1073 / pnas . 0604666104http : / / www . p
+nas . org / lookup / doi / 10 .
  []
 
-[220]
-Underfull \hbox (badness 1755) in paragraph at lines 1009--1009
+
+Underfull \hbox (badness 1264) in paragraph at lines 973--973
+[]\OT1/txr/m/n/12 K[]efi, S., Berlow, E. L., Wi-eters, E. A., Navar-rete, S. A.
+, Petchey, O. L., Wood,
+ []
+
+
+Underfull \hbox (badness 3098) in paragraph at lines 973--973
+\OT1/txr/m/n/12 Menge, B. A., Blanchette, C. A., Iles, A. C. et Brose, U. (2012
+).  More
+ []
+
+[217]
+Underfull \hbox (badness 1755) in paragraph at lines 1008--1008
 []\OT1/txr/m/n/12 Kooijman, S. A. L. M. (2000).  \OT1/txr/m/it/12 Dy-namic En-e
 rgy and Mass Bud-gets in Bi-o-log-i-
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 1074--1074
+[218]
+Underfull \hbox (badness 10000) in paragraph at lines 1073--1073
 []\OT1/txr/m/n/12 Levins, R. (1969).  Some De-mo-graphic and Ge-netic Con-se-qu
 ences of En-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1074--1074
+Underfull \hbox (badness 10000) in paragraph at lines 1073--1073
 \OT1/txr/m/n/12 vi-ron-men-tal Het-ero-gene-ity for Bi-o-log-i-cal Con-trol.  \
 OT1/txr/m/it/12 Bul-letin of the En-to-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1074--1074
+Underfull \hbox (badness 10000) in paragraph at lines 1073--1073
 \OT1/txr/m/it/12 mo-log-i-cal So-ci-ety of Amer-ica\OT1/txr/m/n/12 , \OT1/txr/m
 /it/12 15\OT1/txr/m/n/12 (3), 237--240.  [][]$\OT1/txtt/m/n/12 http : / / dx . 
 doi . org /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1074--1074
+Underfull \hbox (badness 10000) in paragraph at lines 1073--1073
 \OT1/txtt/m/n/12 10 . 1093 / besa / 15 . 3 . 237$[][]\OT1/txr/m/n/12 .  R[]ecup
 []er[]e de [][]$\OT1/txtt/m/n/12 http : / / izt . ciens . ucv . ve /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1074--1074
+Underfull \hbox (badness 10000) in paragraph at lines 1073--1073
 \OT1/txtt/m/n/12 ecologia / Archivos / ECOLOGIA{_}DE{_}POBLACIONES{_}Hasta2004 
 /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1074--1074
+Underfull \hbox (badness 10000) in paragraph at lines 1073--1073
 \OT1/txtt/m/n/12 ECOL{_}POBLAC{_}Hasta2004{_}(H-[]N ) /Levins(yotrodeRabinovich
  ) .pdfhttp :
  []
 
 
-Underfull \hbox (badness 1577) in paragraph at lines 1085--1085
+Underfull \hbox (badness 1577) in paragraph at lines 1084--1084
 []\OT1/txr/m/n/12 Levins, R. et Cul-ver, D. (1971).  Re-gional Co-ex-is-tence o
 f Species and Com-pe-ti-
  []
 
 
-Underfull \hbox (badness 1721) in paragraph at lines 1085--1085
+Underfull \hbox (badness 1721) in paragraph at lines 1084--1084
 \OT1/txr/m/n/12 tion be-tween Rare Species.  \OT1/txr/m/it/12 Pro-ceed-ings of 
 the Na-tional Academy of Sci-ences\OT1/txr/m/n/12 ,
  []
 
 
-Underfull \hbox (badness 1521) in paragraph at lines 1085--1085
+Underfull \hbox (badness 1521) in paragraph at lines 1084--1084
 \OT1/txr/m/it/12 68\OT1/txr/m/n/12 (6), 1246--1248.  [][]$\OT1/txtt/m/n/12 http
  : / / dx . doi . org / 10 . 1073 / pnas . 68 . 6 . 1246$[][]\OT1/txr/m/n/12 . 
  R[]ecup[]er[]e
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1085--1085
+Underfull \hbox (badness 10000) in paragraph at lines 1084--1084
 \OT1/txr/m/n/12 de [][]$\OT1/txtt/m/n/12 papers : / / aa15ed4a-[]8b41-[]4036-[]
 84a6-[]41087bba0cd6 / Paper / p811http :
  []
 
-[221]
-Underfull \hbox (badness 10000) in paragraph at lines 1120--1120
+
+Underfull \hbox (badness 10000) in paragraph at lines 1119--1119
 \OT1/txtt/m/n/12 1365-[]2699 . 2000 . 00185 . x / fullhttp : / / doi . wiley . 
 com / 10 . 1046 / j . 1365-[]2699 .
  []
 
-[222]
-Underfull \hbox (badness 7963) in paragraph at lines 1225--1225
+[219] [220]
+Underfull \hbox (badness 7963) in paragraph at lines 1224--1224
 []\OT1/txr/m/n/12 McGill, B. J. (2010).  Mat-ters of Scale.  \OT1/txr/m/it/12 S
 ci-ence\OT1/txr/m/n/12 , \OT1/txr/m/it/12 328\OT1/txr/m/n/12 (5978), 575--576.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1225--1225
+Underfull \hbox (badness 10000) in paragraph at lines 1224--1224
 [][]$\OT1/txtt/m/n/12 http : / / dx . doi . org / 10 . 1126 / science . 1188528
 $[][]\OT1/txr/m/n/12 .  R[]ecup[]er[]e de [][]$\OT1/txtt/m/n/12 http :
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1225--1225
+Underfull \hbox (badness 10000) in paragraph at lines 1224--1224
 \OT1/txtt/m/n/12 / / www . ncbi . nlm . nih . gov / pubmed / 20431001http : / /
  www . sciencemag . org /
  []
 
-[223] [224]
-Underfull \hbox (badness 1571) in paragraph at lines 1322--1322
+[221]
+Underfull \hbox (badness 1571) in paragraph at lines 1321--1321
 []\OT1/txr/m/n/12 Neigel, J. (2003).  Species-area re-la-tio-ships and ma-rine 
 con-ser-va-tion.  \OT1/txr/m/it/12 Eco-log-i-cal
  []
 
 
-Underfull \hbox (badness 4205) in paragraph at lines 1356--1356
-[]\OT1/txr/m/n/12 Park, H.-J. et Fris-ton, K. (2013).  Struc-tural and Func-tio
-nal Brain Net-works:
+Underfull \hbox (badness 10000) in paragraph at lines 1355--1355
+\OT1/txtt/m/n/12 24179229{%}5Cnhttp : / / www . sciencemag . org / cgi / doi / 
+10 . 1126 / science .
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 1356--1356
-\OT1/txr/m/n/12 From Con-nec-tions to Cog-ni-tion.  \OT1/txr/m/it/12 Sci-ence\O
-T1/txr/m/n/12 , \OT1/txr/m/it/12 342\OT1/txr/m/n/12 (6158), 1238411--1238411.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1356--1356
-[][]$\OT1/txtt/m/n/12 http : / / dx . doi . org / 10 . 1126 / science . 1238411
-$[][]\OT1/txr/m/n/12 .  R[]ecup[]er[]e de [][]$\OT1/txtt/m/n/12 http :
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1356--1356
-\OT1/txtt/m/n/12 / / www . ncbi . nlm . nih . gov / pubmed / 24179229$ \ delimi
-ter"026E30F$nhttp :
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1356--1356
-\OT1/txtt/m/n/12 / / www . sciencemag . org / cgi / doi / 10 . 1126 / science .
- 1238411http : / / www .
- []
-
-[225]
-Underfull \hbox (badness 3098) in paragraph at lines 1393--1393
+[222]
+Underfull \hbox (badness 3098) in paragraph at lines 1392--1392
 []\OT1/txr/m/n/12 Pelletier, F., Garant, D. et Hendry, a. P. (2009b).  Eco-evol
 utionary dy-nam-ics.
  []
 
 
-Underfull \hbox (badness 2277) in paragraph at lines 1393--1393
+Underfull \hbox (badness 2277) in paragraph at lines 1392--1392
 \OT1/txr/m/it/12 Philo-soph-i-cal trans-ac-tions of the Royal So-ci-ety of Lon-
 don. Se-ries B, Bi-o-log-i-cal
  []
 
 
-Underfull \hbox (badness 2980) in paragraph at lines 1393--1393
+Underfull \hbox (badness 2980) in paragraph at lines 1392--1392
 \OT1/txr/m/it/12 sci-ences\OT1/txr/m/n/12 , \OT1/txr/m/it/12 364\OT1/txr/m/n/12
  (1523), 1483--9.  [][]$\OT1/txtt/m/n/12 http : / / dx . doi . org / 10 . 1098 
 / rstb . 2009 . 0027$[][]\OT1/txr/m/n/12 .
  []
 
 
-Underfull \hbox (badness 1635) in paragraph at lines 1403--1403
+Underfull \hbox (badness 1635) in paragraph at lines 1402--1402
 \OT1/txr/m/n/12 et Wisz, M. (2013).  Com-bin-ing food web and species dis-tri-b
 u-tion mod-els for
  []
 
 
-Underfull \hbox (badness 4569) in paragraph at lines 1403--1403
+Underfull \hbox (badness 4569) in paragraph at lines 1402--1402
 \OT1/txr/m/n/12 im-proved com-mu-nity pro-jec-tions.  \OT1/txr/m/it/12 Ecol-ogy
  and evo-lu-tion\OT1/txr/m/n/12 , \OT1/txr/m/it/12 3\OT1/txr/m/n/12 (13), 4572-
 -4583.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1403--1403
+Underfull \hbox (badness 10000) in paragraph at lines 1402--1402
 [][]$\OT1/txtt/m/n/12 http : / / dx . doi . org / 10 . 1002 / ece3 . 843$[][]\O
 T1/txr/m/n/12 .  R[]ecup[]er[]e de [][]$\OT1/txtt/m/n/12 http : / / doi . wiley
  .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1403--1403
+Underfull \hbox (badness 10000) in paragraph at lines 1402--1402
 \OT1/txtt/m/n/12 com / 10 . 1002 / ece3 . 843http : / / www . pubmedcentral . n
 ih . gov / articlerender .
  []
 
-[226] [227]
-Underfull \hbox (badness 1286) in paragraph at lines 1570--1570
-\OT1/txtt/m/n/12 235 . 4785 . 167$[][]\OT1/txr/m/n/12 .  R[]ecup[]er[]e de [][]
-$\OT1/txtt/m/n/12 http : / / www . sciencemag . org / cgi / doi / 10 . 1126 /
- []
-
-[228] [229]
-Underfull \hbox (badness 1917) in paragraph at lines 1693--1693
+[223] [224] [225] [226]
+Underfull \hbox (badness 1917) in paragraph at lines 1691--1691
 []\OT1/txr/m/n/12 Sexton, J. P., McIn-tyre, P. J., Angert, A. L. et Rice, K. J.
  (2009).  Evo-lu-tion
  []
 
 
-Underfull \hbox (badness 1308) in paragraph at lines 1693--1693
+Underfull \hbox (badness 1308) in paragraph at lines 1691--1691
 \OT1/txr/m/it/12 Sys-tem-at-ics\OT1/txr/m/n/12 , \OT1/txr/m/it/12 40\OT1/txr/m/
 n/12 (1), 415--436.  [][]$\OT1/txtt/m/n/12 http : / / dx . doi . org / 10 . 114
 6 / annurev . ecolsys .
  []
 
 
-Underfull \hbox (badness 2744) in paragraph at lines 1693--1693
+Underfull \hbox (badness 2744) in paragraph at lines 1691--1691
 \OT1/txtt/m/n/12 110308 . 120317$[][]\OT1/txr/m/n/12 .  R[]ecup[]er[]e de [][]$
 \OT1/txtt/m/n/12 http : / / www . annualreviews . org / doi / abs / 10 .
  []
 
-[230]
-Underfull \hbox (badness 2600) in paragraph at lines 1794--1794
+[227]
+Underfull \hbox (badness 2600) in paragraph at lines 1792--1792
 \OT1/txtt/m/n/12 00740 . x$[][]\OT1/txr/m/n/12 .  R[]ecup[]er[]e de [][]$\OT1/t
 xtt/m/n/12 http : / / doi . wiley . com / 10 . 1111 / j . 1461-[]0248 . 2005 .
  []
 
-
-Underfull \hbox (badness 1303) in paragraph at lines 1822--1822
+[228]
+Underfull \hbox (badness 1303) in paragraph at lines 1820--1820
 []\OT1/txr/m/n/12 Suding, K., Higgs, E., Palmer, M., Cal-li-cott, J. B., An-der
 -son, C. B., Baker, M.,
  []
 
 
-Underfull \hbox (badness 1102) in paragraph at lines 1822--1822
+Underfull \hbox (badness 1102) in paragraph at lines 1820--1820
 \OT1/txr/m/it/12 Sci-ence\OT1/txr/m/n/12 , \OT1/txr/m/it/12 348\OT1/txr/m/n/12 
 (6235), 638--640.  [][]$\OT1/txtt/m/n/12 http : / / dx . doi . org / 10 . 1126 
 / science . aaa4216$[][]\OT1/txr/m/n/12 .
  []
 
 
-Underfull \hbox (badness 2384) in paragraph at lines 1822--1822
+Underfull \hbox (badness 2384) in paragraph at lines 1820--1820
 \OT1/txr/m/n/12 R[]ecup[]er[]e de [][]$\OT1/txtt/m/n/12 http : / / www . scienc
 emag . org / content / 348 / 6235 / 638 . shorthttp :
  []
 
-[231]
-Underfull \hbox (badness 10000) in paragraph at lines 1876--1876
+[229]
+Underfull \hbox (badness 10000) in paragraph at lines 1874--1874
 [][]$\OT1/txtt/m/n/12 http : / / www . ncbi . nlm . nih . gov / pubmed / 213262
 04http : / / www . nature . com /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1906--1906
+Underfull \hbox (badness 10000) in paragraph at lines 1904--1904
 \OT1/txtt/m/n/12 gov / articlerender . fcgi ? artid = 2780944{&}tool = pmcentre
 z{&}rendertype =
  []
 
-[232]
-Underfull \hbox (badness 2343) in paragraph at lines 1914--1914
+
+Underfull \hbox (badness 2343) in paragraph at lines 1912--1912
 []\OT1/txr/m/n/12 Trebilco, R., Baum, J. K., Sa-lomon, A. K. et Dulvy, N. K. (2
 013).  Ecosys-
  []
 
 
-Underfull \hbox (badness 1881) in paragraph at lines 1914--1914
+Underfull \hbox (badness 1881) in paragraph at lines 1912--1912
 \OT1/txr/m/n/12 tem ecol-ogy: size-based con-straints on the pyra-mids of life.
   \OT1/txr/m/it/12 Trends in Ecol-
  []
 
-
-Underfull \hbox (badness 2073) in paragraph at lines 1945--1945
+[230]
+Underfull \hbox (badness 2073) in paragraph at lines 1943--1943
 []\OT1/txr/m/n/12 Veech, J. A. (2013).  A prob-a-bilis-tic model for analysing 
 species co-occurrence.
  []
 
-[233]
-Underfull \hbox (badness 1394) in paragraph at lines 1995--1995
+
+Underfull \hbox (badness 1394) in paragraph at lines 1993--1993
 []\OT1/txr/m/n/12 Wallace, A. R. (1860).  On the Zo-o-log-i-cal Ge-og-ra-phy of
  the Malay Archipelago.
  []
 
 
-Underfull \hbox (badness 1152) in paragraph at lines 1995--1995
+Underfull \hbox (badness 1152) in paragraph at lines 1993--1993
 \OT1/txr/m/n/12 184.  [][]$\OT1/txtt/m/n/12 http : / / dx . doi . org / 10 . 11
 11 / j . 1096-[]3642 . 1860 . tb00090 . x$[][]\OT1/txr/m/n/12 .  R[]ecup[]er[]e
 
  []
 
-
-Underfull \hbox (badness 1831) in paragraph at lines 2040--2040
+[231]
+Underfull \hbox (badness 1831) in paragraph at lines 2038--2038
 []\OT1/txr/m/n/12 White, C. R. et Kear-ney, M. R. (2013).  De-ter-mi-nants of i
 nter-specific vari-a-tion
  []
 
-[234]
-Underfull \hbox (badness 2027) in paragraph at lines 2055--2055
+
+Underfull \hbox (badness 2027) in paragraph at lines 2053--2053
 []\OT1/txr/m/n/12 Wiens, J. J. (2011).  The niche, bio-geog-ra-phy and species 
 in-ter-ac-tions.  \OT1/txr/m/it/12 Philo-
  []
 
 
-Underfull \hbox (badness 2351) in paragraph at lines 2055--2055
+Underfull \hbox (badness 2351) in paragraph at lines 2053--2053
 \OT1/txr/m/it/12 soph-i-cal trans-ac-tions of the Royal So-ci-ety of Lon-don. S
 e-ries B, Bi-o-log-i-cal sci-
  []
 
 
-Underfull \hbox (badness 1845) in paragraph at lines 2055--2055
+Underfull \hbox (badness 1845) in paragraph at lines 2053--2053
 \OT1/txr/m/it/12 ences\OT1/txr/m/n/12 , \OT1/txr/m/it/12 366\OT1/txr/m/n/12 (15
 76), 2336--2350.  [][]$\OT1/txtt/m/n/12 http : / / dx . doi . org / 10 . 1098 /
  rstb . 2011 . 0059$[][]\OT1/txr/m/n/12 .
  []
 
-
-Underfull \hbox (badness 1400) in paragraph at lines 2097--2097
+[232]
+Underfull \hbox (badness 1400) in paragraph at lines 2095--2095
 \OT1/txr/m/n/12 Per-tur-ba-tion Ex-per-i-ments.  \OT1/txr/m/it/12 Ecol-ogy\OT1/
 txr/m/n/12 , \OT1/txr/m/it/12 69\OT1/txr/m/n/12 (2), 508--515.  [][]$\OT1/txtt/
 m/n/12 http : / / dx . doi . org / 10 .
  []
 
 
-Underfull \hbox (badness 3219) in paragraph at lines 2105--2105
+Underfull \hbox (badness 3219) in paragraph at lines 2103--2103
 []\OT1/txr/m/n/12 Yodzis, P. et Innes, S. (1992).  Body Size and Consumer-Resou
 rce Dy-nam-ics.
  []
 
 
-Underfull \hbox (badness 3158) in paragraph at lines 2105--2105
+Underfull \hbox (badness 3158) in paragraph at lines 2103--2103
 \OT1/txr/m/it/12 The Amer-i-can Nat-u-ral-ist\OT1/txr/m/n/12 , \OT1/txr/m/it/12
  139\OT1/txr/m/n/12 (6), 1151--1175.  [][]$\OT1/txtt/m/n/12 http : / / dx . doi
  . org / 10 . 1086 /
  []
 
-[235])
+)
 Package cleveref Info: loaded `english' language definitions on input line 185.
 
 
 
-Package longtable Warning: Table widths have changed. Rerun LaTeX.
+Package natbib Warning: There were undefined citations.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 202.
-[236]
+[233]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 202.
  (./thesekc.aux (./liminaires.aux
 Package cleveref Info: loaded `french' language definitions on input line 4.
@@ -2711,31 +2805,31 @@ Package cleveref Info: loaded `french' language definitions on input line 25.
 Package cleveref Info: loaded `french' language definitions on input line 31.
 Package cleveref Info: loaded `english' language definitions on input line 415.
 
-Package cleveref Info: loaded `french' language definitions on input line 1402.
+Package cleveref Info: loaded `french' language definitions on input line 1415.
 
-Package cleveref Info: loaded `french' language definitions on input line 1521.
+Package cleveref Info: loaded `french' language definitions on input line 1534.
 
-Package cleveref Info: loaded `english' language definitions on input line 1578
+Package cleveref Info: loaded `english' language definitions on input line 1591
 .
-Package cleveref Info: loaded `english' language definitions on input line 1668
+Package cleveref Info: loaded `english' language definitions on input line 1681
 .
-Package cleveref Info: loaded `english' language definitions on input line 1732
+Package cleveref Info: loaded `english' language definitions on input line 1744
 .
-Package cleveref Info: loaded `english' language definitions on input line 1977
+Package cleveref Info: loaded `english' language definitions on input line 1990
 .
 )
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 202.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 202.
 Package rerunfilecheck Info: File `thesekc.out' has not changed.
-(rerunfilecheck)             Checksum: 979F8CD2395E1F8C86B355A37AED1C1C;10322.
+(rerunfilecheck)             Checksum: 584414F9A308A6657C3041CFC21778FC;10362.
 
 
 Package rerunfilecheck Warning: File `thesekc.brf' has changed.
 (rerunfilecheck)                Rerun to get bibliographical references right.
 
 Package rerunfilecheck Info: Checksums for `thesekc.brf':
-(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
-(rerunfilecheck)             After:  7E0508E7B1A373E8270E513F72766B6E;27985.
+(rerunfilecheck)             Before: AB9EECF8E1A381218937352BD30810C8;28022
+(rerunfilecheck)             After:  1CEDA3629421E4DBFB10808F399D2766;28076.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -2745,13 +2839,13 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 202.
  ) 
 Here is how much of TeX's memory you used:
- 20255 strings out of 493014
- 310417 string characters out of 6133351
- 451467 words of memory out of 5000000
- 22537 multiletter control sequences out of 15000+600000
+ 20266 strings out of 493014
+ 310562 string characters out of 6133351
+ 451780 words of memory out of 5000000
+ 22550 multiletter control sequences out of 15000+600000
  59581 words of font info for 139 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,17n,53p,2345b,1472s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,17n,53p,2345b,1462s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/te
 xlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/texl
@@ -2774,10 +2868,10 @@ e/2016/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2016/tex
 mf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2016/texmf-dist/f
 onts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1
 /urw/times/utmri8a.pfb>
-Output written on thesekc.pdf (259 pages, 3789718 bytes).
+Output written on thesekc.pdf (258 pages, 3818452 bytes).
 PDF statistics:
- 4965 PDF objects out of 5155 (max. 8388607)
- 4521 compressed objects within 46 object streams
- 831 named destinations out of 1000 (max. 500000)
- 1180 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 5481 PDF objects out of 6186 (max. 8388607)
+ 5033 compressed objects within 51 object streams
+ 829 named destinations out of 1000 (max. 500000)
+ 1188 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -11,13 +11,13 @@
 \contentsline {table}{\numberline {2}{\ignorespaces Presence/absence dataset for three species and 10 sites.\relax }}{84}{table.caption.48}
 \contentsline {table}{\numberline {3}{\ignorespaces Direct associations between pairs of species for different modules}}{87}{table.caption.51}
 \addvspace {0\p@ }
-\contentsline {table}{\numberline {4}{\ignorespaces Data sets analyzed in this article. \relax }}{103}{table.3.4}
-\contentsline {table}{\numberline {5}{\ignorespaces R packages used for the analyse}}{120}{table.3.5}
-\contentsline {table}{\numberline {6}{\ignorespaces Number of species used in the analyses}}{121}{table.3.6}
-\contentsline {table}{\numberline {7}{\ignorespaces Tree species and functional traits}}{122}{table.3.7}
-\contentsline {table}{\numberline {8}{\ignorespaces List of the Boolean traits for the French Breeding Birds Survey dataset.}}{124}{table.3.8}
+\contentsline {table}{\numberline {4}{\ignorespaces Data sets analyzed in this article. \relax }}{110}{table.3.4}
+\contentsline {table}{\numberline {5}{\ignorespaces R and packages used for the analyses. GLM: Generalized Linear Model, PCA: Principal Component Analysis. AUROC: Area Under the Receiver Operating Characteristic. \relax }}{119}{table.3.5}
+\contentsline {table}{\numberline {6}{\ignorespaces For each datasets we provide the total number of species (column \emph {Total}), the number of species present in more that 1\% of the total number of sites (column \emph {Selected}), and the number of species for which traits information are available (column \emph {Traits}). The symbol `-' means `not relevant'. \relax }}{119}{table.3.6}
+\contentsline {table}{\numberline {7}{\ignorespaces Tree species and traits used. Abbreviations are as follows: TSN - Taxonomic Serial Number defined by Integrated Taxonomic Information System (ITIS), maxH - Average maximum height, GR - Growth rate, WD - Wood Density, TolS - Shade tolerance, TolD - Drought tolerance, AM - Arbuscular mycorrhiza (Endomycorrhiza), EM - Ectomycorrhiza, LMA - Leaf mass per area, Nmass - Nitrogen content per leaf mass unit \citep {Paquette2011}. \relax }}{120}{table.3.7}
+\contentsline {table}{\numberline {8}{\ignorespaces List of the Boolean traits used to compute Euclidean distances between all pairs of species in the French Breeding Birds Survey. \relax }}{121}{table.3.8}
 \addvspace {0\p@ }
-\contentsline {table}{\numberline {9}{\ignorespaces Hypotheses associated to the four scenarios. \relax }}{151}{table.caption.70}
+\contentsline {table}{\numberline {9}{\ignorespaces Hypotheses associated to the four scenarios. \relax }}{148}{table.caption.70}
 \select@language {french}
 \select@language {french}
 \addvspace {10\p@ }
@@ -25,8 +25,8 @@
 \addvspace {10\p@ }
 \select@language {english}
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {10}{\ignorespaces Community states associated to simple networks}}{202}{table.caption.86}
-\contentsline {table}{\numberline {11}{\ignorespaces Transition matrix of the continuous-time Markov chain (part 1/2)}}{206}{table.7.11}
-\contentsline {table}{\numberline {12}{\ignorespaces Transition matrix of the continuous-time Markov chain (part 2/2)}}{207}{table.7.12}
+\contentsline {table}{\numberline {10}{\ignorespaces Community states associated to simple networks}}{199}{table.caption.86}
+\contentsline {table}{\numberline {11}{\ignorespaces Transition matrix of the continuous-time Markov chain (part 1/2)}}{203}{table.7.11}
+\contentsline {table}{\numberline {12}{\ignorespaces Transition matrix of the continuous-time Markov chain (part 2/2)}}{204}{table.7.12}
 \select@language {english}
 \select@language {english}

@@ -1,0 +1,12 @@
+howto/
+.DS_Store
+man.zip
+*.pdf
+*.zip
+man/*.aux
+man/*.bbl
+man/*.blg
+man/*.brf
+man/*.idx
+man/*.out 
+man/*.toc

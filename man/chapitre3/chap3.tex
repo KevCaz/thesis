@@ -3,8 +3,6 @@
 
 \section{Résumé en français du troisième article}
 
-\subsection{Contexte scientifique}
-
 Dans ce troisième article, je me suis me intéressé aux données de co-occurrence.
 Ces données, très importantes en biogéographie, sont des enregistrements
 de présences et d'absences pour un certain nombre d'espèces
@@ -56,7 +54,7 @@ Andrea Baquero, Allan Timmermann. Pour les données sur les communautés des feu
 je remercie Tomas Roslin. Pour les données sur les communautés microbiennes des
 Sarracénies (\emph{Sarracenia purpurea}), je remercie Benjamin Baiser.
 Pour les données du Suivi Temporel des Oiseaux Communs (STOC), je remercie Wilfried Thuiller
-et pour les données des arbres en Amérique du Nord, je remercie Dominique Gravel et Steve Vissault.
+et pour les données des arbres, je remercie Dominique Gravel et Steve Vissault.
 
 L'article qui suit est le fruit de discussions avec Dominique Gravel sur le type
 d'analyse à mener pour donner suite au chapitre \ref{chap2}. Je me suis occupé
@@ -273,116 +271,6 @@ correction using SDMs accounts for the fact that species may co-occur
 simply because they have similar abiotic requirements, irrespective of
 if they interact or not.
 
-
-\begin{landscape}
-
-\begin{longtable}[]{@{}lrrrrr@{}}
-\caption{Data sets analyzed in this article.
-\label{tbl:datasets}}\tabularnewline
-\toprule
-\begin{minipage}[b]{0.18\columnwidth}\raggedright\strut
-Type\strut
-\end{minipage} & \begin{minipage}[b]{0.08\columnwidth}\raggedleft\strut
-No. of sites\strut
-\end{minipage} & \begin{minipage}[b]{0.09\columnwidth}\raggedleft\strut
-No. of species\strut
-\end{minipage} & \begin{minipage}[b]{0.13\columnwidth}\raggedleft\strut
-Interaction type\strut
-\end{minipage} & \begin{minipage}[b]{0.08\columnwidth}\raggedleft\strut
-Connectance\strut
-\end{minipage} & \begin{minipage}[b]{0.27\columnwidth}\raggedleft\strut
-References\strut
-\end{minipage}\tabularnewline
-\midrule
-\endfirsthead
-\toprule
-\begin{minipage}[b]{0.18\columnwidth}\raggedright\strut
-Type\strut
-\end{minipage} & \begin{minipage}[b]{0.08\columnwidth}\raggedleft\strut
-No. of sites\strut
-\end{minipage} & \begin{minipage}[b]{0.09\columnwidth}\raggedleft\strut
-No. of species\strut
-\end{minipage} & \begin{minipage}[b]{0.13\columnwidth}\raggedleft\strut
-Interaction type\strut
-\end{minipage} & \begin{minipage}[b]{0.08\columnwidth}\raggedleft\strut
-Connectance\strut
-\end{minipage} & \begin{minipage}[b]{0.27\columnwidth}\raggedleft\strut
-References\strut
-\end{minipage}\tabularnewline
-\midrule
-\endhead
-\begin{minipage}[t]{0.18\columnwidth}\raggedright\strut
-Willow Leaf Network\strut
-\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\raggedleft\strut
-374\strut
-\end{minipage} & \begin{minipage}[t]{0.09\columnwidth}\raggedleft\strut
-156\strut
-\end{minipage} & \begin{minipage}[t]{0.13\columnwidth}\raggedleft\strut
-Trophic / Parasitism\strut
-\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\raggedleft\strut
-0.042\strut
-\end{minipage} & \begin{minipage}[t]{0.27\columnwidth}\raggedleft\strut
-unpublished\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{0.18\columnwidth}\raggedright\strut
-Pitcher Plants Network\strut
-\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\raggedleft\strut
-39x20\strut
-\end{minipage} & \begin{minipage}[t]{0.09\columnwidth}\raggedleft\strut
-53\strut
-\end{minipage} & \begin{minipage}[t]{0.13\columnwidth}\raggedleft\strut
-Trophic\strut
-\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\raggedleft\strut
-0.44\strut
-\end{minipage} & \begin{minipage}[t]{0.27\columnwidth}\raggedleft\strut
-\citet{Baiser2012}\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{0.18\columnwidth}\raggedright\strut
-Caribbean Hummingbirds Network\strut
-\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\raggedleft\strut
-32\strut
-\end{minipage} & \begin{minipage}[t]{0.09\columnwidth}\raggedleft\strut
-62\strut
-\end{minipage} & \begin{minipage}[t]{0.13\columnwidth}\raggedleft\strut
-Mutualism\strut
-\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\raggedleft\strut
-0.011\strut
-\end{minipage} & \begin{minipage}[t]{0.27\columnwidth}\raggedleft\strut
-\citet{MartinGonzalez2015}, \citet{Sonne2016}, \citet{Lack1973}\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{0.18\columnwidth}\raggedright\strut
-North American Trees\strut
-\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\raggedleft\strut
-128891\strut
-\end{minipage} & \begin{minipage}[t]{0.09\columnwidth}\raggedleft\strut
-31\strut
-\end{minipage} & \begin{minipage}[t]{0.13\columnwidth}\raggedleft\strut
-Competition\strut
-\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\raggedleft\strut
--\strut
-\end{minipage} & \begin{minipage}[t]{0.27\columnwidth}\raggedleft\strut
-unpublished\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{0.18\columnwidth}\raggedright\strut
-French Breeding Birds Survey\strut
-\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\raggedleft\strut
-2354\strut
-\end{minipage} & \begin{minipage}[t]{0.09\columnwidth}\raggedleft\strut
-179\strut
-\end{minipage} & \begin{minipage}[t]{0.13\columnwidth}\raggedleft\strut
-Trophic\strut
-\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\raggedleft\strut
-0.018\strut
-\end{minipage} & \begin{minipage}[t]{0.27\columnwidth}\raggedleft\strut
-\citet{Gauzere2015}\strut
-\end{minipage}\tabularnewline
-\bottomrule
-\end{longtable}
-
-\end{landscape}
-
-
-
 \section{Results}\label{results}
 
 Without accounting the abiotic context, we observe a difference in the
@@ -400,26 +288,6 @@ mean degree of species in the dataset increased (Fig. \ref{fig:shtpth}
 A-D). Therefore, based on co-occurrence data only, we conclude that
 interactions affect co-occurrence, but that detection trend becomes
 trickier in highly connected network.
-
-\begin{figure}[htbp]
-\centering
-\includegraphics[width=\textwidth]{chapitre3/figIntVsNoint.pdf}
-\caption[Co-occurrence of interacting versus not-interacting
-pairs of species]{\textbf{Co-occurrence of interacting versus not-interacting
-pairs of species} Numbers under each groups of boxplots indicate the
-number of pairs to which the Z-score distributions refer. The light grey
-rectangle corresponds to the 95\% confidence interval for the standard
-normal distribution which gives insight into the proportion of pairs of
-species significantly different from 0. The comparison made in panels A
-to D is based on direct interactions observed. For panels E and F,
-similar species are defined as the species for which the trait-based
-distance is less than or equal to the lower decile of this distance
-distribution. Note that outliers are not displayed. P-values were
-computed using the Wilcoxon rank sum test, to compare interacting versus
-not-interacting Z-score distribution calculated for the three different
-methods (black symbols) and to show whether the distribution is
-symmetric about 0 (light grey symbols).\label{fig:synth}}
-\end{figure}
 
 We observed that the strength of spatial association was higher for
 pairs of similar species (Fig. \ref{fig:synth} panels E and F) for the
@@ -445,22 +313,6 @@ dramatically shrunk (Fig. \ref{fig:synth} panels A to D, grey and dark
 grey boxplots). The tendencies are stronger for the RF approach than for
 the GLM one. The same trends are observed when we used functional
 distance rather that interactions (Fig. \ref{fig:synth} panels E-F).
-
-\begin{figure}[htbp]
-\centering
-\includegraphics[width=\textwidth]{chapitre3/figOrder.pdf}
-\caption[Co-occurrence signal decays when the shortest path
-between a pair of species increases]{\textbf{Co-occurrence signal decays when the shortest path
-between a pair of species increases} The Z-score distribution are plotted
-against the shortest path for A willows-herbivores interactions, B
-herbivores-parasitoids interactions, C birds-plants interactions and D
-the pitcher plants network. First figures under each grouped boxplots
-indicate the shortest path associated while the figures below provide
-the number of pair to which the distribution refers. Note that we used
-the same y-axis for panels A and B as they regard two different kind of
-interaction of the same dataset.\label{fig:shtpth}}
-\end{figure}
-
 
 We investigated if the strength of associations between species
 interacting indirectly decreases with the shortest path (Fig.
@@ -512,27 +364,6 @@ is made when the presence of one species is best explained by the
 presence of its prey. Indeed, we show the presence of the whole set of
 prey as predictor to assign the presence of specialist predator
 outperform GLMs but not RFs (see Fig. \ref{fig:ratauc}).
-
-\begin{figure}[htbp]
-\centering
-\includegraphics[width=.95\textwidth]{chapitre3/figdegocc.pdf}
-\caption[Co-occurrence significance decreases as the cumulated
-occupancy increases]{\textbf{Co-occurrence significance decreases as the cumulated
-occupancy of preys (host plants) increases} For a given species, Z-scores are averaged over the
-all set species it interacts with and plotted against the joint
-distribution of the same set of species. We do so for the herbivores in
-the willows leafs network (panels A to C), the parasitoids in the willow
-leafs network (panels D to F), the hummingbirds in the Caribbean
-hummingbirds datasets (panels G to I) and all species in the pitcher
-plants network that consume other species (panels J to L). The x-axis is
-expressed as a log proportion of the total number of sites. Black
-symbols are mean Z-scores significantly different from 0 (see SI
-\ref{chap3si}). In each panel, the dotted line represents the linear
-regression \(y~ax+b\) for which the \(R^2\) is provided. The size of
-circles reflects the degree of species. The relation size-degree valid
-for a given row is provided in the middle pannel of the same raw.
-\label{fig:degocc}}
-\end{figure}
 
 \subsection{Discussion}\label{discussion}
 
@@ -717,12 +548,119 @@ Using datasets including occurrence data for a large number of species
 together with information pertaining to the ecological relationships, we
 propose to test these theoretical expectations.
 
+\newpage
 
-\begin{figure}[htbp]
+\subsection{Tables}\label{tables}
+
+\begin{longtable}[]{@{}lrrrrr@{}}
+\caption{Data sets analyzed in this article.
+\label{tbl:datasets}}\tabularnewline
+\toprule
+\begin{minipage}[b]{0.18\columnwidth}\raggedright\strut
+Type\strut
+\end{minipage} & \begin{minipage}[b]{0.08\columnwidth}\raggedleft\strut
+No. of sites\strut
+\end{minipage} & \begin{minipage}[b]{0.09\columnwidth}\raggedleft\strut
+No. of species\strut
+\end{minipage} & \begin{minipage}[b]{0.13\columnwidth}\raggedleft\strut
+Interaction type\strut
+\end{minipage} & \begin{minipage}[b]{0.08\columnwidth}\raggedleft\strut
+Connectance\strut
+\end{minipage} & \begin{minipage}[b]{0.27\columnwidth}\raggedleft\strut
+References\strut
+\end{minipage}\tabularnewline
+\midrule
+\endfirsthead
+\toprule
+\begin{minipage}[b]{0.18\columnwidth}\raggedright\strut
+Type\strut
+\end{minipage} & \begin{minipage}[b]{0.08\columnwidth}\raggedleft\strut
+No. of sites\strut
+\end{minipage} & \begin{minipage}[b]{0.09\columnwidth}\raggedleft\strut
+No. of species\strut
+\end{minipage} & \begin{minipage}[b]{0.13\columnwidth}\raggedleft\strut
+Interaction type\strut
+\end{minipage} & \begin{minipage}[b]{0.08\columnwidth}\raggedleft\strut
+Connectance\strut
+\end{minipage} & \begin{minipage}[b]{0.27\columnwidth}\raggedleft\strut
+References\strut
+\end{minipage}\tabularnewline
+\midrule
+\endhead
+\begin{minipage}[t]{0.18\columnwidth}\raggedright\strut
+Willow Leaf Network\strut
+\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\raggedleft\strut
+374\strut
+\end{minipage} & \begin{minipage}[t]{0.09\columnwidth}\raggedleft\strut
+156\strut
+\end{minipage} & \begin{minipage}[t]{0.13\columnwidth}\raggedleft\strut
+Trophic / Parasitism\strut
+\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\raggedleft\strut
+0.042\strut
+\end{minipage} & \begin{minipage}[t]{0.27\columnwidth}\raggedleft\strut
+unpublished\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.18\columnwidth}\raggedright\strut
+Pitcher Plants Network\strut
+\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\raggedleft\strut
+39x20\strut
+\end{minipage} & \begin{minipage}[t]{0.09\columnwidth}\raggedleft\strut
+53\strut
+\end{minipage} & \begin{minipage}[t]{0.13\columnwidth}\raggedleft\strut
+Trophic\strut
+\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\raggedleft\strut
+0.44\strut
+\end{minipage} & \begin{minipage}[t]{0.27\columnwidth}\raggedleft\strut
+\citet{Baiser2012}\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.18\columnwidth}\raggedright\strut
+Caribbean Hummingbirds Network\strut
+\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\raggedleft\strut
+32\strut
+\end{minipage} & \begin{minipage}[t]{0.09\columnwidth}\raggedleft\strut
+62\strut
+\end{minipage} & \begin{minipage}[t]{0.13\columnwidth}\raggedleft\strut
+Mutualism\strut
+\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\raggedleft\strut
+0.011\strut
+\end{minipage} & \begin{minipage}[t]{0.27\columnwidth}\raggedleft\strut
+\citet{MartinGonzalez2015}, \citet{Sonne2016}, \citet{Lack1973}\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.18\columnwidth}\raggedright\strut
+North American Trees\strut
+\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\raggedleft\strut
+128891\strut
+\end{minipage} & \begin{minipage}[t]{0.09\columnwidth}\raggedleft\strut
+31\strut
+\end{minipage} & \begin{minipage}[t]{0.13\columnwidth}\raggedleft\strut
+Competition\strut
+\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\raggedleft\strut
+-\strut
+\end{minipage} & \begin{minipage}[t]{0.27\columnwidth}\raggedleft\strut
+unpublished\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.18\columnwidth}\raggedright\strut
+French Breeding Birds Survey\strut
+\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\raggedleft\strut
+2354\strut
+\end{minipage} & \begin{minipage}[t]{0.09\columnwidth}\raggedleft\strut
+179\strut
+\end{minipage} & \begin{minipage}[t]{0.13\columnwidth}\raggedleft\strut
+Trophic\strut
+\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\raggedleft\strut
+0.018\strut
+\end{minipage} & \begin{minipage}[t]{0.27\columnwidth}\raggedleft\strut
+\citet{Gauzere2015}\strut
+\end{minipage}\tabularnewline
+\bottomrule
+\end{longtable}
+
+\section{Figures}\label{figures}
+
+\begin{figure}
 \centering
-\includegraphics[width=.85\textwidth]{chapitre3/figConcept.pdf}
-\caption[Probabilistic description of fundamental and realized
-niches]{\textbf{Probabilistic description of fundamental and realized
+\includegraphics{chapitre3/figConcept.pdf}
+\caption{\textbf{Probabilistic description of fundamental and realized
 niches} For a four species network, all the occurrence probabilities are
 derived along an environmental gradient assuming that (A) interactions
 are not limiting the distribution and (B) that predators 3 and 4 needs
@@ -737,8 +675,66 @@ expected.\label{fig:box1}}
 
 \newpage
 
+\begin{figure}
+\centering
+\includegraphics{chapitre3/figIntVsNoint.pdf}
+\caption{\textbf{Co-occurrence of interacting versus not-interacting
+pairs of species} Figures under each groups of boxplots indicate the
+number of pairs to which the Z-score distributions refer. The light grey
+rectangle corresponds to the 95\% confidence interval for the standard
+normal distribution which gives insight into the proportion of pairs of
+species significantly different from 0. The comparison made in panels A
+to D is based on direct interactions observed. For panels E and F,
+similar species are defined as the species for which the trait-based
+distance is less than or equal to the lower decile of this distance
+distribution. Note that outliers are not displayed. P values were
+computed using the Wilcoxon rank sum test, to compare interacting versus
+not-interacting Z-score distribution calculated for the three different
+methods (black symbols) and to show whether the distribution is
+symmetric about 0 (light grey symbols).\label{fig:synth}}
+\end{figure}
 
+\newpage
 
+\begin{figure}
+\centering
+\includegraphics{chapitre3/figOrder.pdf}
+\caption{\textbf{Co-occurrence signal decays when the shortest path
+between a pair of species decay} The Z-score distribution are plotted
+against the shortest path for A willows-herbivores interactions, B
+herbivores-parasitoids interactions, C birds-plants interactions and D
+the pitcher plants network. First figures under each grouped boxplots
+indicate the shortest path associated while the figures below provide
+the number of pair to which the distribution refers. Note that we used
+the same y-axis for panels A and B as they regard two different kind of
+interaction of the same dataset.\label{fig:shtpth}}
+\end{figure}
+
+\newpage
+
+\begin{figure}
+\centering
+\includegraphics{chapitre3/figdegocc.pdf}
+\caption{\textbf{Co-occurrence significance decreases as the cumulated
+occupancy increases} For a given species, Z-scores are averaged over the
+all set species it interacts with and plotted against the joint
+distribution of the same set of species. We do so for the herbivores in
+the willows leafs network (panels A to C), the parasitoids in the willow
+leafs network (panels D to F), the hummingbirds in the Caribbean
+hummingbirds datasets (panels G to I) and all species in the pitcher
+plants network that consume other species (panels J to L). The x-axis is
+expressed as a log proportion of the total number of sites. Black
+symbols are mean Z-scores significantly different from 0 (see SI
+\ref{chap3si}). In each panel, the dotted line represents the linear
+regression \(y~ax+b\) for which the \(R^2\) is provided. The size of
+circles reflects the degree of species for which the Z-score was
+calculated, the relation size-degree for each row is given in the middle
+panel. For the hummingbirds dataset (panels G to I), the triangle
+represent the values obtained for the former distribution of a species
+already analyzed (see SI \ref{chap3si}).\label{fig:degocc}}
+\end{figure}
+
+\newpage
 
 \section{Supporting Information}\label{supporting-information}
 
@@ -758,6 +754,25 @@ Sites for the five datasets are reported on five maps gathered in Fig.
 present in at least 1\% of the total number of sites and the number of
 species for which traits information were available are reported in
 Table \ref{tbl:numsp}.
+
+\paragraph{Pitcher Plants Network}\label{pitcher-plants-network}
+
+\emph{Sarracenia purpurea} is a carnivorous plant that occurs along the
+east coast of North America from the panhandle of Florida to Canada and
+across southern Canada to British Columbia \citep{Buckley2010}. \emph{S.
+purpurea} has tube-shaped leaves that fill with rainwater and house a
+food web consisting of bacteria, protozoa, rotifers, and dipteran larvae
+among other taxa \citep{Addicott1974, Buckley2010}. This inquiline food
+web decomposes prey items releasing nutrients to the plant
+\citep{Mouquet2008, Baiser2011}. We used pitcher plant data from 39
+sites across North America (Fig. 1B) collected by \citet{Buckley2010}.
+This dataset contains abundance data and feeding interactions for 20
+pitcher plant food webs at each site for a total of 769 food webs (11
+pitchers were dropped due to missing data). In total, there are 90
+species and morpho species. Interaction structure (\emph{i.e.}, who eats
+whom) is from \citet{Baiser2012} which is based on previous studies
+\citep[\emph{e.g.},][\citet{Butler008}]{Addicott1974, Miller2002} and
+direct observation of feeding interactions.
 
 \paragraph{Traits-based distance}\label{traits-based-distance}
 
@@ -870,23 +885,12 @@ the Area Under the Receiver Operating Characteristic
 of frequencies corresponding to the score for all species for each of
 the four ecological systems we studied (see Fig. \ref{fig:ratauc}).
 
-
-
-% For the hummingbirds dataset (panels G to I), the triangle
-% represent the values obtained for the former distribution of a species
-% already analyzed (see SI \ref{chap3si}).\label{fig:degocc}}
-
-
-
 \subsection{Supporting Tables}\label{supporting-tables}
-
-
-\begin{landscape}
 
 \subsubsection{R packages used}\label{r-packages-used}
 
 \begin{longtable}[]{@{}lrrrr@{}}
-\caption[R packages used for the analyse]{R packages used for the analyses. GLM: Generalized Linear
+\caption{R and packages used for the analyses. GLM: Generalized Linear
 Model, PCA: Principal Component Analysis. AUROC: Area Under the Receiver
 Operating Characteristic. \label{tbl:rpkges}}\tabularnewline
 \toprule
@@ -921,19 +925,8 @@ Wilcoxon tests & wilcox.test & stats & 3.3.1 &
 \bottomrule
 \end{longtable}
 
-\end{landscape}
-
-
-\newpage
-
-
-\begin{landscape}
-
-\subsubsection{Number of psecies used in the analyses}
-
-
 \begin{longtable}[]{@{}lrrr@{}}
-\caption[Number of species used in the analyses]{Number of species used in the analyses. For each datasets we provide the total number of species
+\caption{For each datasets we provide the total number of species
 (column \emph{Total}), the number of species present in more that 1\% of
 the total number of sites (column \emph{Selected}), and the number of
 species for which traits information are available (column
@@ -955,17 +948,8 @@ French Breeding Birds Survey & 340 & 179 & 321\tabularnewline
 \bottomrule
 \end{longtable}
 
-\end{landscape}
-
-
-
-
-\begin{landscape}
-
-\subsubsection{Functional traits North Anerocan Tree species studied}
-
 \begin{longtable}[]{@{}lrrrrrrrrrr@{}}
-\caption[Tree species and functional traits]{Tree species and functional traits. Abbreviations are as follows: TSN
+\caption{Tree species and traits used. Abbreviations are as follows: TSN
 - Taxonomic Serial Number defined by Integrated Taxonomic Information
 System (ITIS), maxH - Average maximum height, GR - Growth rate, WD -
 Wood Density,\\
@@ -1048,17 +1032,9 @@ Ulmus rubra & 19050 & 25 & 3 & 0.48 & 3.3 & 3.0 & 1 & 0 & 59.88 &
 \bottomrule
 \end{longtable}
 
-
-\end{landscape}
-
-
-\begin{landscape}
-
-\subsubsection{Boolean traits for the French Breeding Birds Survey.}
-
 \begin{longtable}[]{@{}lr@{}}
-\caption[List of the Boolean traits for the French Breeding Birds Survey dataset.]{List of the Boolean traits used to compute Euclidean distances
-between all pairs of species for the French Breeding Birds Survey.
+\caption{List of the Boolean traits used to compute Euclidean distances
+between all pairs of species in the French Breeding Birds Survey.
 \label{tbl:trtfbbs}}\tabularnewline
 \toprule
 Category & Trait name\tabularnewline
@@ -1146,143 +1122,132 @@ Nesting location & Ground\tabularnewline
 \bottomrule
 \end{longtable}
 
+\newpage
+
 \section{Supporting Figures}\label{supporting-figures}
 
-
-\end{landscape}
-
-
-
-\begin{figure}[htbp]
+\begin{figure}
 \centering
-\includegraphics[width=.84\textwidth]{chapitre3/figS1.png}
-\caption[Sites of the study]{\textbf{Sites of the study}\label{fig:maps}}
+\includegraphics{chapitre3/figS1.png}
+\caption{\textbf{Sites of the study}\label{fig:maps}}
 \end{figure}
 
 \newpage
 
-\begin{figure}[htbp]
+\begin{figure}
 \centering
-\includegraphics[width=.64\textwidth]{chapitre3/figS2.pdf}
-\caption[Dendrogram representing the trait-based distances
-between the 31 species studied in the North American tree datasets.]{\textbf{Dendrogram representing the trait-based distances
+\includegraphics{chapitre3/figS2.pdf}
+\caption{\textbf{Dendrogram representing the trait-based distances
 between the 31 species studied in the North American tree datasets.}
 Names of angiosperm species are written in dark grey while names of
-Gymnosperm species are in light grey.\label{fig:dendro}}
+Gymnosperm species are in a lighter grey.\label{fig:dendro}}
 \end{figure}
 
 \newpage
 
-\begin{figure}[htbp]
+\begin{figure}
 \centering
-\includegraphics[width=.5\textwidth]{chapitre3/figS3.pdf}
-\caption[Performance of the SDMs]{\textbf{Performance of the SDMs} For each dataset, the
+\includegraphics{chapitre3/figS3.pdf}
+\caption{\textbf{Evaluation of the SDMs} For each dataset, the
 distributions of AUC for GLMs (light grey symbols) and RFs (dark grey
 symbols) for all species are presented.\label{fig:auc}}
 \end{figure}
 
 \newpage
 
-\begin{figure}[htbp]
+\begin{figure}
 \centering
-\includegraphics[width=\textwidth]{chapitre3/figS4.pdf}
-\caption[Co-occurrence and the nature of the trait-based distance in
-the FBBS dataset]{\textbf{Co-occurrence and the nature of the trait-based distance in
-the FBBS dataset}. The four panels correspond to four different set
+\includegraphics{chapitre3/figS4.pdf}
+\caption{** Co-occurrence and the nature of the trait-based distance in
+the FBBS dataset** The different panels correspond to four different set
 of trait upon which different distances are built. Similar species are
-defined as species for which the trait-based distance is less than
-or equal to the lower decile of the trait-based distance distribution. Note that
+defined as the species for which the trait-based distance is less than
+or equal to the lower decile of this distance distribution. Note that
 outliers are not displayed. The light grey rectangle corresponds to the
 95\% confidence interval for the standard normal distribution which
-porvides an insight into the proportion of pairs of species significantly
+gives insight into the proportion of pairs of species significantly
 different from 0. P values were computed using the Wilcoxon rank sum
 test, to compare interacting versus not-interacting Z-score distribution
 calculated for the three different methods (black symbols). They were
-also computed to show whether Z-score were greater for
+also computed to show whether whether Z-score were greater for
 hypergeometric versus GLM and GLM versus RF (grey
 symbols).\label{fig:dist}}
 \end{figure}
 
 \newpage
 
-\begin{figure}[htbp]
+\begin{figure}
 \centering
-\includegraphics[width=\textwidth]{chapitre3/figS5.pdf}
-\caption[Co-occurrence signal decays when the shortest path
-between a pair of species decay]{\textbf{Co-occurrence signal decays when the shortest path
-between a pair of species decay}. Distribution of Z-scores for all
+\includegraphics{chapitre3/figS5.pdf}
+\caption{\textbf{Co-occurrence signal decays when the shortest path
+between a pair of species decay} Distribution of Z-scores for all
 interactions are grouped by shortest-path indicated by the first numbers
-below boxplots. The other number below stand for the number of pairs of
+below boxplots. The other figures below stand for the number of pairs of
 species included within the distributions.\label{fig:sht_pth2}}
 \end{figure}
 
 \newpage
 
-\begin{figure}[htbp]
+\begin{figure}
 \centering
-\includegraphics[width=\textwidth]{chapitre3/figS6.pdf}
-\caption[Co-occurrence against trait-based distance]{
-\textbf{Co-occurrence against trait-based distance}. Points
-are the results for all pairs of species for two datasets:
-the NAT dataset (A-C) and the FBBS (D-I). For the latter, we used the trait-based distance
+\includegraphics{chapitre3/figS6.pdf}
+\caption{\emph{Changes in co-occurrence signal with increased distance
+between two species} Points represent the result for all pairs of
+interaction for two datasets: the North American Tree dataset (A=C) and
+the FBBS (D-I). For the latter, we used the trait-based distance
 computed with all available traits (D-F) and the body-size ratios (the
 lighter species over the heavier, panels G-I). In each panel, the
 equation on the bottom-left corner indicated the results of the linear
-regression depicted by the solid line.\label{fig:distrev}}
+regression depicted by the dotted line.\label{fig:distrev}}
 \end{figure}
 
 \newpage
 
-\begin{figure}[htbp]
+\begin{figure}
 \centering
-\includegraphics[width=\textwidth]{chapitre3/figS7.pdf}
-\caption[The degree of species partially explains the decrease
-of the co-occurrence strength]{\textbf{The degree of a species partially
-explains the decrease of the co-occurrence strength} For the herbivores (A-C) and the
-parasitoids in the WLN datasets (D-F), the hummingbirds
+\includegraphics{chapitre3/figS7.pdf}
+\caption{\textbf{The degree of species partially explains the decrease
+of the co-occurrence strength} For the herbivores (A-C) and the
+parasitoids in the willow leafs network datasets (D-F), the hummingbirds
 in the Caribbean hummingbirds datasets (G-I) and all species in the
-PPN that consume other species (J-L), the mean Z-score
+pitcher plants network that consume other species (J-L) the mean Z-score
 is plotted against the degree of the species. Black symbols are mean
 Z-scores significantly different from 0 (see SI Text). In each panel,
-the dotted line represents the linear regression to which the \(R^2\)
-corresponds. \label{fig:degree}}
+the dotted line represents the linear regression \(y~ax+b\) for which
+the \(R^2\) is provided.\label{fig:degree}}
 \end{figure}
 
 \newpage
 
-\begin{figure}[htbp]
+\begin{figure}
 \centering
-\includegraphics[width=.95\textwidth]{chapitre3/figS8.pdf}
-\caption[Co-occurrence significance decreases as the cumulated
-occupancy of predators (pollinators) increases]{\textbf{Co-occurrence significance decreases as the cumulated
-occupancy of predators (pollinators) increases}. This figure corresponds to
-Fig. \ref{fig:degocc} in the
+\includegraphics{chapitre3/figS8.pdf}
+\caption{*Reversed figure 4** This figure corresponds to figure 4 in the
 main text, but the Z-score were calculated for preys (host plants)
 rather than for predators (pollinators). Mean Z-score are computed for
 willows (A-C) and herbivores (based on the herbivores-parasitoids only,
 D-F) of the willows leafs network, the hosts plants in the Caribbean
-hummingbirds dataset (G-I) and species that feed on the detritus in the
+hummingbirds datasets (G-I) and species that feed on the detritus in the
 pitcher plants network (panels J-L). The x-axis is expressed as a log
-proportion of the total number of sites included in the dataset.
-Black symbols are mean Z-scores significantly different from 0.
-In each panel, the dotted line represents the linear
-regression for which the \(R^2\) is provided. The size of
-circles reflects the degree of species. The relation size-degree valid
-for a given row is provided in the middle pannel of the same raw.
+proportion of the total number of sites included in the considered
+dataset. Black symbols are mean Z-scores significantly different from 0
+(see SI Text). In each panel, the dotted line represents the linear
+regression \(y~ax+b\) for which the \(R^2\) is provided. The size of
+circles reflects the degree of species for which the Z-score was
+calculated, the relation size-degree for each row is given in the middle
 panel.\label{fig:degocc2}}
 \end{figure}
 
 \newpage
 
-\begin{figure}[htbp]
+\begin{figure}
 \centering
-\includegraphics[width=.72\textwidth]{chapitre3/figS9.pdf}
-\caption[Predicting herbivores distributions based on the
-distributions of willows species]{\textbf{Predicting herbivores distributions based on the
-distributions of willows species}. For all herbivores in the WLN
-dataset, we compared the AUC obtained when using willow species they do not
-interact with (circles) or a willow species they interact with (squares) or the set
-of willow species they interact with (triangles) as predictor variables to
-the AUC obtained for GLM (A) and RF (B). Positive values indicate that species based model outperformed
+\includegraphics{chapitre3/figS9.pdf}
+\caption{\textbf{Predicting herbivore distribution based on the
+distribution of willows} For the herbivores in the willow leafs network
+dataset, we compared the AUC obtained when using willow it does not
+interact with (circles) a willow in interacts with (squares) and the set
+of willow it interacts with (triangles) to AUC obtained for GLM (A) and
+RF (B). Positive values indicated that species based model outperformed
 the SDM model.\label{fig:ratauc}}
 \end{figure}
