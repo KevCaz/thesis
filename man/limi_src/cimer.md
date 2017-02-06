@@ -37,7 +37,7 @@ Pour tout ce qu'ils m'ont apporté, je remercie Sonia (et Thomas), Albouy
 et Zélie et Romane). Dans ces mêmes couloirs, j'en ai croisé se frottant
 des yeux fatigués par la lumière des écrans. Pour mes geek préférés, ceux qui
 connaissent comme moi l'appel du clavier, quand l'envie de coder devient
-trop forte, je désire taper un `\\huge{merci}`. Merci Casajus, Team Zissou,
+trop forte, je désire taper un `\huge{merci}`. Merci Casajus, Team Zissou,
 Dave et Flaul pour les morceaux de
 code et bien plus: votre enthousiasme et votre insatiable curiosité.
 

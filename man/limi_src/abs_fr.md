@@ -8,7 +8,7 @@ apporte un ensemble de preuves soulignant le rôle prépondérant des interactio
 dans la structuration des communautés locales, on trouve relativement peu d’études
 révélant les empreintes laissées par les interactions dans les données de
 distribution d’espèces. Proposer une explication simple et claire à ce problème
-demeurt un défi important que la biogéographie doit mener.
+demeure un défi important que la biogéographie doit mener.
 Le problème majeur que pose l’absence de réponse claire sur le rôle des
 interactions aux larges échelles spatiales est que la plupart des scénarios
 de changements de biodiversité partent de l’hypothèse que les interactions
@@ -33,7 +33,8 @@ sur un même ensemble de sites dispersés sur de larges étendues spatiales.
 données de co-occurrence et l’information contenue dans les réseaux écologiques.
 Je démontre clairement que les interactions affectent les données de
 co-occurrence. Je montre également que plus le nombre d’interactions séparant deux
-espèces est grand, moins leur interactions indirect est détectable. De même si une
+espèces est grand, plus il est délicat de déceler des traces de cette relation
+indirecte dans les données. De même si une
 espèce entretient de nombreuses interactions, il sera difficile de trouver une
 quelconque trace des interactions dans les données de co-occurrence pour cette
 espèce.
@@ -55,10 +56,10 @@ données par les modèles classiques de distribution d'espèces actuellement uti
 Les résultats de ma recherche apportent des éléments théoriques nouveaux sur le
 rôle des interactions écologiques dans le tracé des aires de répartition des
 espèces en plus de proposer une méthode originale pour étudier les données de
-co-occurrence d’espèces : les regarder à la lumière des réseaux écologiques.
+co-occurrence d’espèces&nbsp;: les regarder à la lumière des réseaux écologiques.
 Avant de conclure ma thèse, je propose au chapitre \ref{chap4} une démarche
 prometteuse pour aller encore plus loin dans l’intégration des interactions en
-biogéographie : les introduire par le biais des contraintes énergétiques, ce
+biogéographie&nbsp;: les introduire par le biais des contraintes énergétiques, ce
 qui offre une base solide pour une théorie métabolique de la biogéographie.
 
 
