@@ -53,9 +53,6 @@ $(INTR): $(MDI)
 	pandoc $< -o $@ $(PFLAGS)
 	gsed -i 1050,1070s/\caption/\caption{La\ Théorie\ de\ la\ Biogéographie\ des\ Iles\ \(TIB\)}/ $@
 	gsed -i 1320,1340s/\caption/\caption{Intégration\ des\ interactions\ et\ des\ contraintes\ abiotiques\ dans\ la\ TIB.}/ $@
-	# sed -e 's/\caption/caption\{La Théorie de la Biogéographie des Iles (TIB)\}/' $@
-	# sed -i -e 's/\caption/\caption\{Intégration des interactions et des contraintes abiotiques dans la TIB\}/' $@
-
 
 $(CCL): $(MDC)
 	pandoc $< -o $@ $(PFLAGS)
