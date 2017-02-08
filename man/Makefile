@@ -7,7 +7,7 @@ MDI = intro.md
 INTR = intro.tex
 ##-- Conclusion
 MDC = conclu.md
-CCL = $(patsubst %.md, %.tex, $(wildcard $(MDC)))
+CCL = conclu.tex
 ##-- Liminaires
 INLI := $(wildcard limi_src/*.md)
 OULI := $(patsubst %.md,%.tex,$(wildcard limi_src/*.md))
