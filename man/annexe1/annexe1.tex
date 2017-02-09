@@ -4,12 +4,9 @@
 \addtocounter{chapter}{1}
 \setcounter{equation}{0}
 
-% [Cette page est facultative; l’éliminer si elle n’est pas utilisée. Une annexe est jointe lorsqu’une information pertinente (tableau, figure ou autre) risque de nuire à la compréhension du texte principal ou encore de l’alourdir inutilement. Les annexes portent un titre (même mise en page que les chapitres) et sont numérotées en chiffres romains majuscules, s’il y en a plus d’une. On y fait référence dans le texte principal par la mention « voir ». Ex. : (voir annexe I).]
-
-
 L'article qui suit est le fruit de ma recontre avec Philippe Etchécopar, un des membres du comité éditorial du journal \emph{Accro$\alpha$mth}.
 Ce journal de vulgarisation mathématique est destiné aux étudiants et enseignants en mathématiques du Cégep\footnote{Le cégep est la dernière étape avant l'entrée à l'université pour ceux désirant poursuivre leurs études.}.
-Dans cet article, je reprends les bases du modèle de la TIB et je montre comment en partant d'une équation simple sur les probabilités, il est possible d'obtenir une équation différentielle déterministe. L'article est acessible en ligne à l'adresse suivante : \\ \url{http://accromath.uqam.ca/2014/02/la-biodiversite-en-territoires-isoles/}
+Dans cet article, je reprends les bases du modèle de la TIB et je montre comment en partant d'une équation simple sur les probabilités, il est possible d'obtenir une équation différentielle déterministe. L'article est acessible en ligne à l'adresse suivante~: \\ \url{http://accromath.uqam.ca/2014/02/la-biodiversite-en-territoires-isoles/}
 
 
 \section{Préambule}
@@ -17,17 +14,17 @@ Dans cet article, je reprends les bases du modèle de la TIB et je montre commen
 
 \section{Le modèle de MacArthur et Wilson}
 
-Un des modèles les plus puissants en biogéographie est celui proposé par MacArthur et Wilson dans leur passionnante théorie de la biogéographie des îles. Ces deux illustres prédécesseurs nous ont livré un paradigme simple et puissant pour envisager la construction de la biodiversité sur une île. Notons dès maintenant que l'île n'est pas nécessairement un monticule de sable fin au milieu de l'océan mais plutôt -et plus généralement- un territoire isolé. Le modèle permet de comprendre l'impact des capacités de dispersion et de survie des espèces sur la biodiversité $S$ de l'île considérée. Considérons que cette île est accessible depuis un continent qui présente un ensemble constant d'espèces $P$. Les $P$ espèces sont potentiellement celles que nous retrouverons sur l'île, nous avons donc $S\leqslant P$. À un temps $t$ donné, l'ensemble des $S$ espèces de l'île peuvent s'éteindre avec un taux $e$. De même, les $P-S$ espèces du continent (absentes de l'île) peuvent coloniser l'île avec un taux $c$. En langage mathématique, nous obtenons l'équation différentielle déterministe suivante pour décrire l'évolution temporelle de $S$ :
+Un des modèles les plus puissants en biogéographie est celui proposé par MacArthur et Wilson dans leur passionnante théorie de la biogéographie des îles. Ces deux illustres prédécesseurs nous ont livré un paradigme simple et puissant pour envisager la construction de la biodiversité sur une île. Notons dès maintenant que l'île n'est pas nécessairement un monticule de sable fin au milieu de l'océan mais plutôt -et plus généralement- un territoire isolé. Le modèle permet de comprendre l'impact des capacités de dispersion et de survie des espèces sur la biodiversité $S$ de l'île considérée. Considérons que cette île est accessible depuis un continent qui présente un ensemble constant d'espèces $P$. Les $P$ espèces sont potentiellement celles que nous retrouverons sur l'île, nous avons donc $S\leqslant P$. À un temps $t$ donné, l'ensemble des $S$ espèces de l'île peuvent s'éteindre avec un taux $e$. De même, les $P-S$ espèces du continent (absentes de l'île) peuvent coloniser l'île avec un taux $c$. En langage mathématique, nous obtenons l'équation différentielle déterministe suivante pour décrire l'évolution temporelle de $S$~:
 \begin{eqnarray}
 \nonumber \frac{dS}{dt}&=&c(P-S)-eS\\
 \label{eqAnnI1} &=&cP-(c+e)S
 \end{eqnarray}
-Cette équation est linéaire, nous pouvons la résoudre facilement par la méthode de la variation de la constante (essayez puis regardez l'encadré 2!). Pour les valeurs arbitraires $c=0.2$, $e=0.1$ et la condition initiale suivante : à $t=0$, l'île est inhabitée ($S(0)=0$), nous représentons graphiquement la solution de l'équation à la figure \ref{figAnnI1}. Pour un temps infini, la biodiversité tend vers la valeur : $S_{eq}=P\left(\frac{c}{c+e}\right)$, interprétée comme le nombre d'espèces provenant du continent et présentes sur l'île à l'équilibre.
+Cette équation est linéaire, nous pouvons la résoudre facilement par la méthode de la variation de la constante (essayez puis regardez l'encadré 2!). Pour les valeurs arbitraires $c=0.2$, $e=0.1$ et la condition initiale suivante~: à $t=0$, l'île est inhabitée ($S(0)=0$), nous représentons graphiquement la solution de l'équation à la figure \ref{figAnnI1}. Pour un temps infini, la biodiversité tend vers la valeur~: $S_{eq}=P\left(\frac{c}{c+e}\right)$, interprétée comme le nombre d'espèces provenant du continent et présentes sur l'île à l'équilibre.
 
 \begin{figure}[h!]
 \centering
 \includegraphics[width=0.9\textwidth]{annexe1/fig/figAnnI1.pdf}
-\caption[Représentation graphique de la solution de l'équation différentielle]{\textbf{Représentation graphique de la solution de l'équation différentielle} \eqref{eqAnnI1} pour les conditions suivantes : $c=0.04$, $e=0.01$ et $S(0)=0$. La ligne en pointillés représente la valeur de la biodiversité $S_{eq}$ que nous obtenons à un temps infini.}
+\caption[Représentation graphique de la solution de l'équation différentielle]{\textbf{Représentation graphique de la solution de l'équation différentielle} \eqref{eqAnnI1} pour les conditions suivantes~: $c=0.04$, $e=0.01$ et $S(0)=0$. La ligne en pointillés représente la valeur de la biodiversité $S_{eq}$ que nous obtenons à un temps infini.}
 \label{figAnnI1}
 \end{figure}
 
@@ -42,7 +39,7 @@ Il est très intéressant de réaliser que l'équation \eqref{eqAnnI1}, d'appare
 Comment savoir combien d’espèces sont présentes sur l’île ? Il suffit de compter 1 pour chaque espèce présente sur l’île. Nous introduisons donc $X_i$ , la variable aléatoire de présence sur l’île de l’espèce $i$ choisie parmi les $P$ espèces du continent. $X_i$ est égale à 0 si l’espèce n’est pas sur l’île et 1 si elle est sur l’île. C’est une variable aléatoire de Bernoulli (encadré 4). Ainsi, le nombre d’espèces présentes sur l’île, $S$, est égale à la somme des $X_i$. Nous allons encore plus loin en enregistrant ces valeurs au cours du temps. C'est ainsi que nous définissons le processus stochastique $X_{i,t>0}$, qui n'est autre qu'une succession de 1 et de 0 indiquant à chaque instant si oui ou non l'espèce $i$ est sur l'île. A priori, les suites $X_{i,t}$ ne sont pas prévisibles, ce qui n’exclut pas que la fonction $S$ présente, en moyenne, un comportement tout à fait régulier.
 
 \subsection{Les briques élémentaires du modèle stochastique}
-Au temps $t=0$, l'espèce $i$ n'est pas sur l'île. Pour construire la suite de son histoire, il nous faut une règle simple pour décrire l'évolution de sa présence entre deux pas de temps très proches. Le modèle de MacArthur et Wilson postule que si l'espèce considérée est sur l'île au temps $t$, elle s'éteint avec un taux $e$ ; si elle est sur le continent, elle le colonise avec un taux $c$. Pour simplifier, nous supposerons que les taux d’extinction et de colonisation sont les mêmes pour toutes les espèces. Nous donnons maintenant une signification en terme de probabilité à ces taux : $c$ est la probabilité de colonisation par unité de temps (on parle de densité du processus), $e$ est la probabilité d'extinction par unité de temps. Ainsi, $edt$ désigne la probabilité d'extinction pendant l'intervalle de temps $dt$. De même, $cdt$ est la probabilité de colonisation pendant $dt$. En faisant appel aux probabilités conditionnelles (encadré 5), en supposant $dt$ assez petit, nous différencions quatre cas:
+Au temps $t=0$, l'espèce $i$ n'est pas sur l'île. Pour construire la suite de son histoire, il nous faut une règle simple pour décrire l'évolution de sa présence entre deux pas de temps très proches. Le modèle de MacArthur et Wilson postule que si l'espèce considérée est sur l'île au temps $t$, elle s'éteint avec un taux $e$ ; si elle est sur le continent, elle le colonise avec un taux $c$. Pour simplifier, nous supposerons que les taux d’extinction et de colonisation sont les mêmes pour toutes les espèces. Nous donnons maintenant une signification en terme de probabilité à ces taux~: $c$ est la probabilité de colonisation par unité de temps (on parle de densité du processus), $e$ est la probabilité d'extinction par unité de temps. Ainsi, $edt$ désigne la probabilité d'extinction pendant l'intervalle de temps $dt$. De même, $cdt$ est la probabilité de colonisation pendant $dt$. En faisant appel aux probabilités conditionnelles (encadré 5), en supposant $dt$ assez petit, nous différencions quatre cas:
 \begin{eqnarray}
  \label{eqAnnI3a}  \forall t \in \mathbb{R}^+, ~~P(X_{i,t+dt}=1|X_{i,t}=0)&=&cdt\\
  \label{eqAnnI3b} P(X_{i,t+dt}=0|X_{i,t}=1)&=&edt \\
@@ -54,11 +51,11 @@ Il faut comprendre la première équation ainsi : sachant que l'espèce $i$ éta
 
 \subsection{Assemblons les briques!}
 
-L'assemblage consiste en l'utilisation de la formule des probabilités totales expliquée dans l'encadré 5. Nous pouvons en déduire la probabilité de présence de l'espèce $i$ à l'instant $t+dt$ :
+L'assemblage consiste en l'utilisation de la formule des probabilités totales expliquée dans l'encadré 5. Nous pouvons en déduire la probabilité de présence de l'espèce $i$ à l'instant $t+dt$~:
 \begin{eqnarray}
 \label{eqAnnI4} P(X_{i,t+dt}=1)&=&P(X_{i,t+dt}=1|X_{i,t}=0)P(X_{i,t}=0)+P(X_{i,t+dt}=1|X_{i,t}=1)P(X_{i,t}=1)
 \end{eqnarray}
-Il s'agit d'une somme de deux termes couvrant toutes les possibilités puisque, à l'instant $t$, l'espèce $i$ était soit absente de l'île soit présente, c'est un système complet d'évènements (encadré 5). Si l'espèce $i$ était absente (premier terme) à $t$, elle sera présente à $t+dt$ si elle colonise pendant $dt$ \eqref{eqAnnI3a}. Si elle était déjà sur l'île à $t$, elle s'y maintient à condition de ne pas s'éteindre \eqref{eqAnnI3d}. En remarquant que $P(X_{i,t}=0)=1-P(X_{i,t}=1)$, nous pouvons écrire :
+Il s'agit d'une somme de deux termes couvrant toutes les possibilités puisque, à l'instant $t$, l'espèce $i$ était soit absente de l'île soit présente, c'est un système complet d'évènements (encadré 5). Si l'espèce $i$ était absente (premier terme) à $t$, elle sera présente à $t+dt$ si elle colonise pendant $dt$ \eqref{eqAnnI3a}. Si elle était déjà sur l'île à $t$, elle s'y maintient à condition de ne pas s'éteindre \eqref{eqAnnI3d}. En remarquant que $P(X_{i,t}=0)=1-P(X_{i,t}=1)$, nous pouvons écrire~:
 \begin{eqnarray}
 \label{eqAnnI5a} P(X_{i,t+dt}=1)&=&cdt(1-P(X_{i,t}=1))+(1-edt)P(X_{i,t}=1)
 \end{eqnarray}
@@ -80,7 +77,7 @@ C'est l'équation que nous avons résolu dans l'encadré 1, avec $P=1$  :
 \end{equation}
 
 \subsection{Retrouvons le modèle classique}
-Nous avons presque retrouvé la solution de l'équation déterministe; vous pourriez penser qu'il faut simplement multiplier par le nombre d'espèces $P$. L'idée est bonne, mais demande justification ! Nous allons effectivement considérer non pas une mais bien les $P$ espèces du continent pour lesquelles l'équation \eqref{eqAnnI5e} est valable. Nous allons alors définir un nouveau processus stochastique qui est simplement la somme des $P$ processus de présence que nous supposons indépendants $X_{i,t>0}$, $Y_t>0=X_{1,t>0}+X_{2,t>0}+....X_{P,t}$. Le problème est alors de connaître à tout instant $t$ la probabilité d'avoir un nombre donné $k$ d'espèces présentes sur l'île. À un instant donné $t$ nous faisons une somme de variable aléatoires de Bernoulli. La somme de $P$ variables de Bernoulli indépendantes est une variable aléatoire suivant une loi binomiale (encadré 5). Nous avons donc :
+Nous avons presque retrouvé la solution de l'équation déterministe; vous pourriez penser qu'il faut simplement multiplier par le nombre d'espèces $P$. L'idée est bonne, mais demande justification ! Nous allons effectivement considérer non pas une mais bien les $P$ espèces du continent pour lesquelles l'équation \eqref{eqAnnI5e} est valable. Nous allons alors définir un nouveau processus stochastique qui est simplement la somme des $P$ processus de présence que nous supposons indépendants $X_{i,t>0}$, $Y_t>0=X_{1,t>0}+X_{2,t>0}+....X_{P,t}$. Le problème est alors de connaître à tout instant $t$ la probabilité d'avoir un nombre donné $k$ d'espèces présentes sur l'île. À un instant donné $t$ nous faisons une somme de variable aléatoires de Bernoulli. La somme de $P$ variables de Bernoulli indépendantes est une variable aléatoire suivant une loi binomiale (encadré 5). Nous avons donc~:
 \begin{equation}
  \forall t \in \mathbb{R}^+, ~~\label{eqAnnI6a} P(Y_t=k)=\binom{P}{k}s(t)^k(1-s(t))^{P-k}
 \end{equation}
@@ -107,7 +104,7 @@ Nous retrouvons la solution déterministe! Ainsi, le modèle déterministe peut 
 
 \section{Applications et perspectives}
 
-Bien que datant du milieu des années 1960, le modèle de MacArthur et Wilson demeure très précieux, notamment pour étudier les habitats fragmentés (des îles!) et prendre des décisions relatives à la conservation des espèces. Prenons un exemple : vous êtes le gestionnaire d'une nouvelle zone protégée que nous assimilerons à une île. Cette zone a longtemps été exploitée par l'homme de sorte qu'au temps $t=0$ le nombre d'espèces est $S=0$. Dans la région, la richesse en espèces est de $P=100$, c'est-à-dire que vous pouvez rencontrer jusqu'à 100 espèces dans votre aire de gestion. À la suite de MacArthur et Wilson, nous allons supposer que la valeur du taux de colonisation $c$ dépend de la difficulté d'accès. De plus, la survie d'une espèce sur cette zone dépend de sa superficie : ainsi plus l'aire de conservation est grande, moins les espèces s'éteignent ; $e$ est donc plus faible pour les grandes aires de protection. Prenons trois situations :
+Bien que datant du milieu des années 1960, le modèle de MacArthur et Wilson demeure très précieux, notamment pour étudier les habitats fragmentés (des îles!) et prendre des décisions relatives à la conservation des espèces. Prenons un exemple : vous êtes le gestionnaire d'une nouvelle zone protégée que nous assimilerons à une île. Cette zone a longtemps été exploitée par l'homme de sorte qu'au temps $t=0$ le nombre d'espèces est $S=0$. Dans la région, la richesse en espèces est de $P=100$, c'est-à-dire que vous pouvez rencontrer jusqu'à 100 espèces dans votre aire de gestion. À la suite de MacArthur et Wilson, nous allons supposer que la valeur du taux de colonisation $c$ dépend de la difficulté d'accès. De plus, la survie d'une espèce sur cette zone dépend de sa superficie : ainsi plus l'aire de conservation est grande, moins les espèces s'éteignent ; $e$ est donc plus faible pour les grandes aires de protection. Prenons trois situations~:
 \begin{itemize}
 \item Grande zone et accès aisé : e=0.01 et c=0.05
 \item Petite zone et accès aisé : e=0.05 et c=0.05
@@ -132,7 +129,7 @@ Dans cet exemple, le modèle stochastique n'a finalement que peu d'intérêt. Il
  \begin{minipage}{0.9\linewidth}
  \begin{multicols}{2}
  \textbf{Encadré 2} \\
- Il est facile de vérifier que la solution générale de l’équation homogène :
+ Il est facile de vérifier que la solution générale de l’équation homogène~:
  \begin{equation}
 \nonumber  \frac{dS}{dt}=-(c+e)S
 \end{equation}
@@ -140,7 +137,7 @@ est donnée par :
  \begin{equation}
 \nonumber \forall t \in \mathbb{R}^+,~ S(t)=C\exp(-(c+e)t)
 \end{equation}
-où $C$ est une constante, la solution de l’équation non homogène est alors de la forme :
+où $C$ est une constante, la solution de l’équation non homogène est alors de la forme~:
  \begin{equation}
 \nonumber S(t)=f(t) \exp(-(c+e)t)
 \end{equation}
@@ -148,11 +145,11 @@ En remplaçant dans l’équation différentielle on obtient :
  \begin{equation}
 \nonumber f’(t) \exp(-(c+e)t)= cP
 \end{equation}
-ce qui nous donne :
+ce qui nous donne~:
  \begin{equation}
 \nonumber f’(t)= cP \exp((c+e)t)
 \end{equation}
-En intégrant on obtient :
+En intégrant on obtient~:
  \begin{equation}
 \nonumber f(t)= P\frac{c}{c+e} \exp({(c+e)t}) + K
 \end{equation}
@@ -160,7 +157,7 @@ où $K$ est une constante arbitraire.
  \begin{equation}
 \nonumber S(t)= P\frac{c}{c+e} + K\exp(-(c+e)t)
 \end{equation}
-Avec $S(0)=0$, $K=-P\frac{c}{c+e}$, nous obtenons donc :
+Avec $S(0)=0$, $K=-P\frac{c}{c+e}$, nous obtenons donc~:
  \begin{equation}
 \nonumber S(t)= P\frac{c}{c+e} (1-\exp(-(c+e)t))
 \end{equation}
@@ -179,14 +176,14 @@ Les \textbf{processus aléatoires ou stochastiques} sont des collections de vari
 \setlength{\columnsep}{1cm}
  \begin{minipage}{0.9\linewidth}
  \textbf{Encadré 4} \\
-Une variable aléatoire $X$ suit un \textbf{schéma de Bernoulli} lorsqu'elle prend uniquement deux valeurs 0 ou 1. Si nous notons $p=P(X=1)$, nous avons :
+Une variable aléatoire $X$ suit un \textbf{schéma de Bernoulli} lorsqu'elle prend uniquement deux valeurs 0 ou 1. Si nous notons $p=P(X=1)$, nous avons~:
 \begin{itemize}
 \item $P(X=0)=1-p$
 \item $E(X)=p$
 \item $V(X)=p(1-p)$
 \end{itemize}
 $X$ est alors une variable aléatoire de Bernoulli de paramètre $p$. \\
-Une variable aléatoire $X$ suit une \textbf{loi Binomiale} de paramètres $n\in\mathbb{N}$ et $p\in[0,1]$ lorsqu'elle est la somme de $n$ variables de Bernoulli indépendantes de paramètre $p$. On peut alors montrer les résultats suivants :
+Une variable aléatoire $X$ suit une \textbf{loi Binomiale} de paramètres $n\in\mathbb{N}$ et $p\in[0,1]$ lorsqu'elle est la somme de $n$ variables de Bernoulli indépendantes de paramètre $p$. On peut alors montrer les résultats suivants~:
 \begin{itemize}
 \item $\forall k \leq n,~ P(X=k)=\binom{n}{k}p^k(1-p)^{n-k}$
 \item $E(X)=np$
@@ -208,7 +205,7 @@ Une variable aléatoire $X$ suit une \textbf{loi Binomiale} de paramètres $n\in
 \textbf{Encadré 5} \\
 Une \textbf{probabilité conditionnelle}, est une probabilité qu'un évènement se réalise à condition qu'un autre soit déjà réalisé. Soit deux évènements $A$ et $B$, la probabilité de $A$ sachant $B$, notée ici $P(A|B)$ est la probabilité que $A$ se réalise lorsque B est réalisé. \\
 Un \textbf{système complet d'évènements} est un ensemble d'événements exclusifs dont la somme des probabilités est 1. Par exemple, l'évènement $B$ et son complémentaire $\bar{B}$ forme un tel système (voir figure \ref{dess1}).\\
-La \textbf{formule des probabilités totales} nous donne la probabilité de réalisation d'un évènement à partir de la connaissance de probabilités conditionnelles sous réserve que l'ensemble des évènements du conditionnement forment un système complet d'évènements. Ainsi pour connaître la probabilité de $A$, nous pouvons écrire :
+La \textbf{formule des probabilités totales} nous donne la probabilité de réalisation d'un évènement à partir de la connaissance de probabilités conditionnelles sous réserve que l'ensemble des évènements du conditionnement forment un système complet d'évènements. Ainsi pour connaître la probabilité de $A$, nous pouvons écrire~:
 \begin{align*}
 \begin{split}
 P(A)&=P(A\cap B)+ P(A\cap\bar{B})\\
