@@ -311,15 +311,6 @@ distribution of food webs, and predators' ranges must be computed consistently w
 predicted ranges of their prey.
 
 
-<!-- %DG: il manque de la disc: il faut discuter sur le fait que les associations sont essentiellement positives. Pas de problème pour le mutualisme, mais embêtant pour les prédateurs proies (bien que la direction ne soit pas évidente a priori). -->
-<!-- %KC je pense que la box exlique un peu mieux ce problème. -->
-<!--
-[...]et surtout très surprenant pour les interactions de compétition.
-KC ==> Moi je pense que pour les arbre on a juste mus en évidence qu'il manquait de quoi !! On pourrait surment affiner le modèle avec des meilleurs données climato.
-% DG : il faut aussi revenir de façon critique sur l'histoire de l'étude de la co-occurrence, tes résultats sont fondamentaux et très provocateurs.
-KC: ok
--->
-
 Our findings lead us to conclude increased interactions diversity causes species to co-occur independently.
 Only the specialized species are strongly associated with their partners, as
 generalists experience a much more diffuse set of constraints from interacting species.
@@ -400,13 +391,6 @@ If we now examine the co-occurrence signals, *i.e.* the difference between the e
 Using datasets including occurrence data for a large number of species together with information pertaining to the ecological relationships, we  propose to test these theoretical expectations.
 
 
-<!-- %DG: le box est très chouette et utile, mais il manque quelques trucs pour le lier au texte principal
-- comment le lien à ce qui est mesuré ?
-- comment le lien aux hypothèses de i) diversité des proies et ii) distance
--- peut-être que ça pourrait être utile d'ajouter un top prédateur pour montrer qu'il sera plus associé à sa proie qu'aux espèces à la base. Et aussi de montrer que l'association entre le prédateur actuel 3 et l'espèce 1 par exemple sera plus fort sans l'espèce 2 qu'avec la présence de l'espèce 2. Par contre, l'association entre le prédateur et les espèces 1 et 2 ensemble devrait être tout aussi forte.
--- je me demande si ça ne serait pas utile de **nommer** ces trois phénomènes, de façon à y référer par après. -->
-
-
 
 \newpage
 
@@ -438,19 +422,22 @@ least of one of its preys, *i.e.* species 1 or 2. Horizontal dotted lines in (A)
 for the occurrence probabilities reached at an environmental optimum. The co-occurrence signal
 is calculated for the following pairs : a) predators 3 and 4; b) predator 3 and prey 1,
 predator 3 and prey 1; c) predator 3 and prey 1 or 2, predator 4 and prey 1 or 2.
-If no difference are found, 0 is expected.](../fig/figConcept.pdf){#fig:box1}
+If no difference are found, 0 is expected.](../fig/figConcept.pdf){width=87% #fig:box1}
 
 \newpage
 
-![**Co-occurrence of interacting versus not-interacting pairs of species** Figures under each groups of boxplots indicate the number of pairs to which the Z-score distributions refer. The light grey rectangle corresponds to the 95% confidence interval for the standard normal distribution which gives insight into the proportion of pairs of species significantly different from 0. The comparison made in panels A to D is based on direct interactions observed. For panels E and F, similar species are defined as the species for which the trait-based distance is less than or equal to the lower decile of this distance distribution. Note that outliers are not displayed. P values were computed using the Wilcoxon rank sum test, to compare interacting versus not-interacting Z-score distribution calculated for the three different methods (black symbols) and to show whether the distribution is symmetric about 0 (light grey symbols).](../fig/figIntVsNoint.pdf){#fig:synth}
+![**Co-occurrence of interacting versus not-interacting pairs of species** Figures
+under each groups of boxplots indicate the number of pairs to which the Z-score distributions refer. The light grey rectangle corresponds to the 95% confidence interval for the standard normal distribution which gives insight into the proportion of pairs of species significantly different from 0. The comparison made in panels A to D is based on direct interactions observed. For panels E and F, similar species are defined as the species for which the trait-based distance is less than or equal to the lower decile of this distance distribution. Note that outliers are not displayed. P values were computed using the Wilcoxon rank sum test, to compare interacting versus not-interacting Z-score distribution calculated for the three different methods (black symbols) and to show whether the distribution is symmetric about 0 (light grey symbols).](../fig/figIntVsNoint.pdf){width=95% #fig:synth}
 
 \newpage
 
-![**Co-occurrence signal decays when the shortest path between a pair of species decay** The Z-score distribution are plotted against the shortest path for A willows-herbivores interactions, B herbivores-parasitoids interactions, C birds-plants interactions and D the pitcher plants network. First figures under each grouped boxplots indicate the shortest path associated while the figures below provide the number of pair to which the distribution refers. Note that we used the same y-axis for panels A and B as they regard two different kind of interaction of the same dataset.](../fig/figOrder.pdf){#fig:shtpth}
+![**Co-occurrence signal decays when the shortest path between a pair of species decay**
+The Z-score distribution are plotted against the shortest path for A willows-herbivores interactions, B herbivores-parasitoids interactions, C birds-plants interactions and D the pitcher plants network. First figures under each grouped boxplots indicate the shortest path associated while the figures below provide the number of pair to which the distribution refers. Note that we used the same y-axis for panels A and B as they regard two different kind of interaction of the same dataset.](../fig/figOrder.pdf){width=95% #fig:shtpth}
 
 \newpage
 
-![**Co-occurrence significance decreases as the cumulated occupancy increases** For a given species, Z-scores are averaged over the all set species it interacts with and plotted against the joint distribution of the same set of species. We do so for the herbivores in the willows leafs network (panels A to C), the parasitoids in the willow leafs network (panels D to F), the hummingbirds in the Caribbean hummingbirds datasets (panels G to I) and all species in the pitcher plants network that consume other species (panels J to L). The x-axis is expressed as a log proportion of the total number of sites. Black symbols are mean Z-scores significantly different from 0 (see SI \ref{chap3si}). In each panel, the dotted line represents the linear regression $y~ax+b$ for which the $R^2$ is provided. The size of circles reflects the degree of species for which the Z-score was calculated, the relation size-degree for each row is given in the middle panel. For the hummingbirds dataset (panels G to I), the triangle represent the values obtained for the former distribution of a species already analyzed (see SI \ref{chap3si}).](../fig/figdegocc.pdf){#fig:degocc}
+![**Co-occurrence significance decreases as the cumulated occupancy increases**
+For a given species, Z-scores are averaged over the all set species it interacts with and plotted against the joint distribution of the same set of species. We do so for the herbivores in the willows leafs network (panels A to C), the parasitoids in the willow leafs network (panels D to F), the hummingbirds in the Caribbean hummingbirds datasets (panels G to I) and all species in the pitcher plants network that consume other species (panels J to L). The x-axis is expressed as a log proportion of the total number of sites. Black symbols are mean Z-scores significantly different from 0 (see SI \ref{chap3si}). In each panel, the dotted line represents the linear regression $y~ax+b$ for which the $R^2$ is provided. The size of circles reflects the degree of species for which the Z-score was calculated, the relation size-degree for each row is given in the middle panel. For the hummingbirds dataset (panels G to I), the triangle represent the values obtained for the former distribution of a species already analyzed (see SI \ref{chap3si}).](../fig/figdegocc.pdf){width=87% #fig:degocc}
 
 
 
@@ -771,7 +758,7 @@ Birds Survey. {#tbl:trtfbbs}
 # Supporting Figures
 
 
-![**Sites of the study**](../fig/figS1.png){#fig:maps}
+![**Sites of the study**](../fig/figS1.png){width=90% #fig:maps}
 
 \newpage
 
@@ -784,31 +771,37 @@ grey.](../fig/figS2.pdf){#fig:dendro}
 
 ![**Evaluation of the SDMs** For each dataset, the distributions of AUC for
  GLMs (light grey symbols) and RFs (dark grey symbols) for all species
- are presented.](../fig/figS3.pdf){#fig:auc}
+ are presented.](../fig/figS3.pdf){width=50% #fig:auc}
 
 \newpage
 
-![** Co-occurrence and the nature of the trait-based distance in the FBBS dataset** The different panels correspond to four different set of trait upon which different distances are built. Similar species are defined as the species for which the trait-based distance is less than or equal to the lower decile of this distance distribution. Note that outliers are not displayed. The light grey rectangle corresponds to the 95% confidence interval for the standard normal distribution which gives insight into the proportion of pairs of species significantly different from 0. P values were computed using the Wilcoxon rank sum test, to compare interacting versus not-interacting Z-score distribution calculated for the three different methods (black symbols). They were also computed to show whether whether Z-score were greater for hypergeometric versus GLM and GLM versus RF (grey symbols).](../fig/figS4.pdf){#fig:dist}
+![**Co-occurrence and the nature of the trait-based distance in the FBBS dataset**
+The different panels correspond to four different set of trait upon which different distances are built. Similar species are defined as the species for which the trait-based distance is less than or equal to the lower decile of this distance distribution. Note that outliers are not displayed. The light grey rectangle corresponds to the 95% confidence interval for the standard normal distribution which gives insight into the proportion of pairs of species significantly different from 0. P values were computed using the Wilcoxon rank sum test, to compare interacting versus not-interacting Z-score distribution calculated for the three different methods (black symbols). They were also computed to show whether whether Z-score were greater for hypergeometric versus GLM and GLM versus RF (grey symbols).](../fig/figS4.pdf){width=95% #fig:dist}
 
 \newpage
 
-![**Co-occurrence signal decays when the shortest path between a pair of species decay** Distribution of Z-scores for all interactions are grouped by shortest-path indicated by the first numbers below boxplots. The other figures below stand for the number of pairs of species included within the distributions.](../fig/figS5.pdf){#fig:sht_pth2}
+![**Co-occurrence signal decays when the shortest path between a pair of species decay**
+Distribution of Z-scores for all interactions are grouped by shortest-path indicated by the first numbers below boxplots. The other figures below stand for the number of pairs of species included within the distributions.](../fig/figS5.pdf){width=95% #fig:sht_pth2}
 
 \newpage
 
-![*Changes in co-occurrence signal with increased distance between two species* Points represent the result for all pairs of interaction for two datasets: the North American Tree dataset (A=C) and the FBBS (D-I). For the latter, we used the trait-based distance computed with all available traits (D-F) and the body-size ratios (the lighter species over the heavier, panels G-I). In each panel, the equation on the bottom-left corner indicated the results of the linear regression depicted by the dotted line.](../fig/figS6.pdf){#fig:distrev}
+![**Changes in co-occurrence signal with increased distance between two species**
+Points represent the result for all pairs of interaction for two datasets: the North American Tree dataset (A=C) and the FBBS (D-I). For the latter, we used the trait-based distance computed with all available traits (D-F) and the body-size ratios (the lighter species over the heavier, panels G-I). In each panel, the equation on the bottom-left corner indicated the results of the linear regression depicted by the dotted line.](../fig/figS6.pdf){width=95% #fig:distrev}
 
 \newpage
 
-![**The degree of species partially explains the decrease of the co-occurrence strength**  For the herbivores (A-C) and the parasitoids in the willow leafs network datasets (D-F), the hummingbirds in the Caribbean hummingbirds datasets (G-I) and all species in the pitcher plants network that consume other species (J-L) the mean Z-score is plotted against the degree of the species. Black symbols are mean Z-scores significantly different from 0 (see SI Text). In each panel, the dotted line represents the linear regression $y~ax+b$ for which the $R^2$ is provided.](../fig/figS7.pdf){#fig:degree}
+![**The degree of species partially explains the decrease of the co-occurrence strength**
+For the herbivores (A-C) and the parasitoids in the willow leafs network datasets (D-F), the hummingbirds in the Caribbean hummingbirds datasets (G-I) and all species in the pitcher plants network that consume other species (J-L) the mean Z-score is plotted against the degree of the species. Black symbols are mean Z-scores significantly different from 0 (see SI Text). In each panel, the dotted line represents the linear regression $y~ax+b$ for which the $R^2$ is provided.](../fig/figS7.pdf){width=95%  #fig:degree}
 
 \newpage
 
-![*Reversed figure 4** This figure corresponds to figure 4 in the main text, but the Z-score were calculated for preys (host plants) rather than for predators (pollinators). Mean Z-score are computed for willows (A-C) and herbivores (based on the herbivores-parasitoids only, D-F) of the willows leafs network, the hosts plants in the Caribbean hummingbirds datasets (G-I) and species that feed on the detritus in the pitcher plants network (panels J-L). The x-axis is expressed as a log proportion of the total number of sites included in the considered dataset. Black symbols are mean Z-scores significantly different from 0 (see SI Text). In each panel, the dotted line represents the linear regression $y~ax+b$ for which the $R^2$ is provided. The size of circles reflects the degree of species for which the Z-score was calculated, the relation size-degree for each row is given in the middle panel.](../fig/figS8.pdf){#fig:degocc2}
+![**Reversed figure 4**
+This figure corresponds to figure 4 in the main text, but the Z-score were calculated for preys (host plants) rather than for predators (pollinators). Mean Z-score are computed for willows (A-C) and herbivores (based on the herbivores-parasitoids only, D-F) of the willows leafs network, the hosts plants in the Caribbean hummingbirds datasets (G-I) and species that feed on the detritus in the pitcher plants network (panels J-L). The x-axis is expressed as a log proportion of the total number of sites included in the considered dataset. Black symbols are mean Z-scores significantly different from 0 (see SI Text). In each panel, the dotted line represents the linear regression $y~ax+b$ for which the $R^2$ is provided. The size of circles reflects the degree of species for which the Z-score was calculated, the relation size-degree for each row is given in the middle panel.](../fig/figS8.pdf){width=95% #fig:degocc2}
 
 \newpage
 
-![**Predicting herbivore distribution based on the distribution of willows** For the herbivores in the willow leafs network dataset, we compared the AUC obtained when using willow it does not interact with (circles) a willow in interacts with (squares) and the set of willow it interacts with (triangles) to AUC obtained for GLM (A) and RF (B). Positive values indicated that species based model outperformed the SDM model.](../fig/figS9.pdf){#fig:ratauc}
+![**Predicting herbivore distribution based on the distribution of willows**
+For the herbivores in the willow leafs network dataset, we compared the AUC obtained when using willow it does not interact with (circles) a willow in interacts with (squares) and the set of willow it interacts with (triangles) to AUC obtained for GLM (A) and RF (B). Positive values indicated that species based model outperformed the SDM model.](../fig/figS9.pdf){width=95% #fig:ratauc}
 
 
 

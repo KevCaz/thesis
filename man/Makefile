@@ -26,9 +26,6 @@ ANN3 = annexe3/annexe3.tex
 MDMAIN = chapitre3/main.md
 CHP3MN = chapitre3/main.tex
 CHP3HE = chapitre3/head.tex
-##-- To build chapter 4
-CHP4MN = chapitre4/main.tex
-CHP4HE = chapitre4/head.tex
 ##-- Reference and style
 REF0 = /Users/KevCaz/Documents/library.bib
 REF = library.bib
@@ -61,12 +58,9 @@ $(CHP3): $(CHP3MN)  $(CHP3HE)
 	cat  $(CHP3HE) $(CHP3MN) > $@
 	sed -i -e 's/..\/fig/chapitre3/g' $@
 
+
 $(CHP3MN): $(MDMAIN)
 	pandoc $< -o $@ $(PFLAGS)
-
-#
-# $(CHP4MN): $(MD4)
-# 	pandoc $< -o $@ $(PFLAGS)
 
 
 clean:
