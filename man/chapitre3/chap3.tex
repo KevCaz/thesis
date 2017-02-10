@@ -548,9 +548,12 @@ Using datasets including occurrence data for a large number of species
 together with information pertaining to the ecological relationships, we
 propose to test these theoretical expectations.
 
-\newpage
+
+
 
 \subsection{Tables}\label{tables}
+
+\begin{landscape}
 
 \begin{longtable}[]{@{}lrrrrr@{}}
 \caption{Data sets analyzed in this article.
@@ -657,10 +660,16 @@ Trophic\strut
 
 \section{Figures}\label{figures}
 
+
+\end{landscape}
+
+
+
 \begin{figure}
 \centering
 \includegraphics[width=0.87000\textwidth]{chapitre3/figConcept.pdf}
-\caption{\textbf{Probabilistic description of fundamental and realized
+\caption[Probabilistic description of fundamental and realized
+niches]{\textbf{Probabilistic description of fundamental and realized
 niches}. For a four species network, all the occurrence probabilities
 are derived along an environmental gradient assuming that (A)
 interactions are not limiting the distribution and (B) that predators 3
@@ -678,7 +687,8 @@ expected.\label{fig:box1}}
 \begin{figure}
 \centering
 \includegraphics[width=0.95000\textwidth]{chapitre3/figIntVsNoint.pdf}
-\caption{\textbf{Co-occurrence of interacting versus not-interacting
+\caption[Co-occurrence of interacting versus not-interacting
+pairs of species]{\textbf{Co-occurrence of interacting versus not-interacting
 pairs of species}. Figures under each groups of boxplots indicate the
 number of pairs to which the Z-score distributions refer. The light grey
 rectangle corresponds to the 95\% confidence interval for the standard
@@ -699,7 +709,8 @@ symmetric about 0 (light grey symbols).\label{fig:synth}}
 \begin{figure}
 \centering
 \includegraphics[width=0.98000\textwidth]{chapitre3/figOrder.pdf}
-\caption{\textbf{Co-occurrence signal decays when the shortest path
+\caption[Co-occurrence signal decays when the shortest path
+between a pair of species decay]{\textbf{Co-occurrence signal decays when the shortest path
 between a pair of species decay}. The Z-score distribution are plotted
 against the shortest path for A willows-herbivores interactions, B
 herbivores-parasitoids interactions, C birds-plants interactions and D
@@ -715,7 +726,8 @@ interaction of the same dataset.\label{fig:shtpth}}
 \begin{figure}
 \centering
 \includegraphics[width=0.87000\textwidth]{chapitre3/figdegocc.pdf}
-\caption{\textbf{Co-occurrence significance decreases as the cumulated
+\caption[Co-occurrence significance decreases as the cumulated
+occupancy of preys increases]{\textbf{Co-occurrence significance decreases as the cumulated
 occupancy of preys increases}. For a given species, Z-scores are
 averaged over the all set species it interacts with and plotted against
 the joint distribution of the same set of species. We do so for the
@@ -883,10 +895,15 @@ the four ecological systems we studied (see Fig. \ref{fig:ratauc}).
 
 \subsection{Supporting Tables}\label{supporting-tables}
 
+
+
 \subsubsection{R packages used}\label{r-packages-used}
 
+
+\begin{landscape}
+
 \begin{longtable}[]{@{}lrrrr@{}}
-\caption{R and packages used for the analyses. GLM: Generalized Linear
+\caption[R and packages used for the analyse]{R and packages used for the analyses. GLM: Generalized Linear
 Model, PCA: Principal Component Analysis. AUROC: Area Under the Receiver
 Operating Characteristic. \label{tbl:rpkges}}\tabularnewline
 \toprule
@@ -921,8 +938,11 @@ Wilcoxon tests & wilcox.test & stats & 3.3.1 &
 \bottomrule
 \end{longtable}
 
+\end{landscape}
+
+
 \begin{longtable}[]{@{}lrrr@{}}
-\caption{For each datasets we provide the total number of species
+\caption[Number of species considered]{For each datasets we provide the total number of species
 (column \emph{Total}), the number of species present in more that 1\% of
 the total number of sites (column \emph{Selected}), and the number of
 species for which traits information are available (column
@@ -944,8 +964,11 @@ French Breeding Birds Survey & 340 & 179 & 321\tabularnewline
 \bottomrule
 \end{longtable}
 
+
+\begin{landscape}
+
 \begin{longtable}[]{@{}lrrrrrrrrrr@{}}
-\caption{Tree species and traits used. Abbreviations are as follows: TSN
+\caption[Tree species and traits considered in the study]{Tree species and traits considered in the study. Abbreviations are as follows: TSN
 - Taxonomic Serial Number defined by Integrated Taxonomic Information
 System (ITIS), maxH - Average maximum height, GR - Growth rate, WD -
 Wood Density,\\
@@ -1028,8 +1051,12 @@ Ulmus rubra & 19050 & 25 & 3 & 0.48 & 3.3 & 3.0 & 1 & 0 & 59.88 &
 \bottomrule
 \end{longtable}
 
+\end{landscape}
+
+
+
 \begin{longtable}[]{@{}lr@{}}
-\caption{List of the Boolean traits used to compute Euclidean distances
+\caption[Traits considered for the FBBS dataset]{List of the Boolean traits used to compute Euclidean distances
 between all pairs of species in the French Breeding Birds Survey.
 \label{tbl:trtfbbs}}\tabularnewline
 \toprule
@@ -1118,14 +1145,13 @@ Nesting location & Ground\tabularnewline
 \bottomrule
 \end{longtable}
 
-\newpage
 
 \section{Supporting Figures}\label{supporting-figures}
 
 \begin{figure}
 \centering
 \includegraphics[width=0.90000\textwidth]{chapitre3/figS1.png}
-\caption{\textbf{Sites of the study}\label{fig:maps}}
+\caption[Sites of the study]{\textbf{Sites of the study}\label{fig:maps}}
 \end{figure}
 
 \newpage
@@ -1133,7 +1159,8 @@ Nesting location & Ground\tabularnewline
 \begin{figure}
 \centering
 \includegraphics{chapitre3/figS2.pdf}
-\caption{\textbf{Dendrogram representing the trait-based distances
+\caption[Dendrogram representing the trait-based distances
+between the 31 species studied in the North American tree datasets]{\textbf{Dendrogram representing the trait-based distances
 between the 31 species studied in the North American tree datasets}.
 Names of angiosperm species are written in dark grey while names of
 Gymnosperm species are in a lighter grey.\label{fig:dendro}}
@@ -1144,7 +1171,7 @@ Gymnosperm species are in a lighter grey.\label{fig:dendro}}
 \begin{figure}
 \centering
 \includegraphics[width=0.50000\textwidth]{chapitre3/figS3.pdf}
-\caption{\textbf{Evaluation of the SDMs}. For each dataset, the
+\caption[Evaluation of the SDMs]{\textbf{Evaluation of the SDMs}. For each dataset, the
 distributions of AUC for GLMs (light grey symbols) and RFs (dark grey
 symbols) for all species are presented.\label{fig:auc}}
 \end{figure}
@@ -1154,8 +1181,9 @@ symbols) for all species are presented.\label{fig:auc}}
 \begin{figure}
 \centering
 \includegraphics[width=0.95000\textwidth]{chapitre3/figS4.pdf}
-\caption{\textbf{Co-occurrence and the nature of the trait-based
-distance in the FBBS dataset}. The different panels correspond to four
+\caption[Co-occurrence and the trait-based
+distance used for the FBBS dataset]{\textbf{Co-occurrence and the trait-based
+distance used for the FBBS dataset}. The different panels correspond to four
 different set of trait upon which different distances are built. Similar
 species are defined as the species for which the trait-based distance is
 less than or equal to the lower decile of this distance distribution.
@@ -1175,8 +1203,9 @@ symbols).\label{fig:dist}}
 \begin{figure}
 \centering
 \includegraphics[width=0.95000\textwidth]{chapitre3/figS5.pdf}
-\caption{\textbf{Co-occurrence signal decays when the shortest path
-between a pair of species decay} Distribution of Z-scores for all
+\caption[Co-occurrence signal decays when the shortest path
+between a pair of species decay]{\textbf{Co-occurrence signal decays when the shortest path
+between a pair of species decay}. Distribution of Z-scores for all
 interactions are grouped by shortest-path indicated by the first numbers
 below boxplots. The other figures below stand for the number of pairs of
 species included within the distributions.\label{fig:sht_pth2}}
@@ -1187,8 +1216,9 @@ species included within the distributions.\label{fig:sht_pth2}}
 \begin{figure}
 \centering
 \includegraphics[width=0.95000\textwidth]{chapitre3/figS6.pdf}
-\caption{\textbf{Changes in co-occurrence signal with increased distance
-between two species} Points represent the result for all pairs of
+\caption[Changes in co-occurrence signal with increased distance
+between two species]{\textbf{Changes in co-occurrence signal with increased distance
+between two species}. Points represent the result for all pairs of
 interaction for two datasets: the North American Tree dataset (A=C) and
 the FBBS (D-I). For the latter, we used the trait-based distance
 computed with all available traits (D-F) and the body-size ratios (the
@@ -1202,7 +1232,8 @@ regression depicted by the dotted line.\label{fig:distrev}}
 \begin{figure}
 \centering
 \includegraphics[width=0.95000\textwidth]{chapitre3/figS7.pdf}
-\caption{\textbf{The degree of species partially explains the decrease
+\caption[The degree of species partially explains the decrease
+of the co-occurrence strength]{\textbf{The degree of species partially explains the decrease
 of the co-occurrence strength}. For the herbivores (A-C) and the
 parasitoids in the willow leafs network datasets (D-F), the hummingbirds
 in the Caribbean hummingbirds datasets (G-I) and all species in the
@@ -1218,7 +1249,7 @@ the \(R^2\) is provided.\label{fig:degree}}
 \begin{figure}
 \centering
 \includegraphics[width=0.95000\textwidth]{chapitre3/figS8.pdf}
-\caption{\textbf{Co-occurrence and cumulated occupancy of predators}.
+\caption[Co-occurrence and cumulated occupancy of predators]{\textbf{Co-occurrence and cumulated occupancy of predators}.
 This figure corresponds to figure \ref{fig:degocc} in the main text, but
 the Z-score were calculated for preys (host plants) rather than for
 predators (pollinators). Mean Z-score are computed for willows (A-C) and
@@ -1240,7 +1271,8 @@ panel.\label{fig:degocc2}}
 \begin{figure}
 \centering
 \includegraphics[width=0.95000\textwidth]{chapitre3/figS9.pdf}
-\caption{\textbf{Predicting herbivore distribution based on the
+\caption[Predicting herbivore distribution based on the
+distribution of willows]{\textbf{Predicting herbivore distribution based on the
 distribution of willows}. For the herbivores in the willow leafs network
 dataset, we compared the AUC obtained when using willow it does not
 interact with (circles) a willow in interacts with (squares) and the set

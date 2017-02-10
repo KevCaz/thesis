@@ -622,7 +622,6 @@ traits information are available (column *Traits*). The symbol '-' means 'not re
 
 
 
-
 |Species                |    TSN| maxH| GR|   WD| TolS| TolD| AM| EM|    LMA| Nmass|
 |:----------------------|------:|----:|--:|----:|----:|----:|--:|--:|------:|-----:|
 |Abies balsamea         |  18032|   25|  1| 0.34|  5.0|  1.0|  0|  1| 151.00|  1.66|
