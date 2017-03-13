@@ -20,7 +20,7 @@
 % \documentclass[12pt]{memoireuqam1.3}
 
 
-\raggedbottom % Évite les espaces trop gands entre chaque section.
+\raggedbottom % Évite les espaces trop grands entre chaque section.
 
 % \usepackage{multirow}
 \usepackage{natbib}
@@ -59,7 +59,16 @@
 \usepackage{soulutf8}
 \usepackage{caption}
 \usepackage{listings}
-\usepackage{geometry}
+
+% Ajout KC
+\usepackage[top=3cm, left=3cm, right=4cm, bottom=4cm]{geometry}
+
+\usepackage{chngcntr}
+% continuous nmbering
+% \counterwithout{figure}{chapter}
+% numbering by section
+\counterwithin{figure}{chapter}
+\counterwithin{table}{chapter}
 
 \captionsetup{singlelinecheck=false}
 % \captionsetup{singlelinecheck=false}
@@ -98,7 +107,7 @@
 \Programme{doctorat en biologie}
 % \Diplome{Philosophiae Doctor}
 \Travail{th\`{e}se}
-\Date{F\'{e}vrier}{2017}
+\Date{Mars}{2017}
 
 
 \newboolean{these}
