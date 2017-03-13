@@ -114,7 +114,7 @@
   \newcommand\@tabledesmatieres{Table des mati\`eres}
   \newcommand\@listedesfigures{Liste des figures}
   \newcommand\@listedestableaux{Liste des tableaux}
-  \newcommand\@listeabrev{liste des abr\'{e}viations}
+  \newcommand\@listeabrev{Liste des abr\'{e}viations, sigles et acronymes}
   \newcommand\@listesymboles{Liste des symboles}
   \newcommand\@resume{R\'esum\'e}
   \newcommand\@abstract{Abstract}
