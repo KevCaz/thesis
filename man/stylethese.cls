@@ -371,7 +371,7 @@
       \end{center}
     }}
 
-% Appendices.
+% Appendices. % KC \Alph instead of \Roman
 
   \newcommand\appendice{\if@openright\cleardoublepage\else\clearpage\fi
   		    \thispagestyle{empty}%
@@ -382,9 +382,9 @@
   \def\@anewchapter[#1]#2{\ifnum \c@secnumdepth >\m@ne
                          \if@mainmatter
                            \refstepcounter{annexe}%
-                           \typeout{\MakeUppercase{Annexe}\space\Roman{annexe}}%
+                           \typeout{\MakeUppercase{Annexe}\space\Alph{annexe}}%
                            \addcontentsline{toc}{chapter}%
-   {\protect\numberline{\MakeUppercase{Annexe}\space \Roman{annexe}} \\ \MakeUppercase{#1}}%
+   {\protect\numberline{\MakeUppercase{Annexe}\space \Alph{annexe}} \\ \MakeUppercase{#1}}%
                          \else
                            \typeout{#1}%
                            \addcontentsline{toc}{chapter}\MakeUppercase{#1}%
@@ -406,7 +406,7 @@
       \ifnum \c@secnumdepth >\m@ne
         \if@mainmatter
           \vspace*{0.5cm}% moitié de la valeur souhaitée, mais fonctionne
-          \normalsize\bfseries \MakeUppercase{Annexe}\space \Roman{annexe}
+          \normalsize\bfseries \MakeUppercase{Annexe}\space \Alph{annexe}
           \par\nobreak
           \vskip 1cm % moitié de la valeur souhaitée, mais fonctionne
         \fi

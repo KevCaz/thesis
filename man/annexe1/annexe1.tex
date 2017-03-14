@@ -4,9 +4,10 @@
 \addtocounter{chapter}{1}
 \setcounter{equation}{0}
 
-L'article qui suit est le fruit de ma recontre avec Philippe Etchécopar, un des membres du comité éditorial du journal \emph{Accro$\alpha$mth}.
+
+L'article qui suit est le fruit de ma rencontre avec Philippe Etchécopar,  membre du comité éditorial du journal \emph{Accro$\alpha$mth}.
 Ce journal de vulgarisation mathématique est destiné aux étudiants et enseignants en mathématiques du Cégep\footnote{Le cégep est la dernière étape avant l'entrée à l'université pour ceux désirant poursuivre leurs études.}.
-Dans cet article, je reprends les bases du modèle de la TIB et je montre comment en partant d'une équation simple sur les probabilités, il est possible d'obtenir une équation différentielle déterministe. L'article est acessible en ligne à l'adresse suivante~: \\ \url{http://accromath.uqam.ca/2014/02/la-biodiversite-en-territoires-isoles/}
+Dans cet article, je reprends les bases du modèle de la TIB et je montre comment en partant d'une équation simple sur les probabilités, il est possible d'obtenir une équation différentielle déterministe. L'article est accessible en ligne à l'adresse suivante~: \\ \url{http://accromath.uqam.ca/2014/02/la-biodiversite-en-territoires-isoles/}
 
 
 \section{Préambule}
@@ -67,7 +68,7 @@ Divisons par $dt$ :
 \begin{eqnarray}
 \label{eqAnnI5c} \frac{s_{i,t+dt}-s_{i,t}}{dt}&=&c(1-s_{i,t})-es_{i,t}
 \end{eqnarray}
-Nous faisons alors tendre $dt$ vers 0. Nous obtenons alors :
+Nous faisons alors tendre $dt$ vers 0. Nous obtenons alors~:
 \begin{equation}
 \label{eqAnnI5e} \frac{ds_{i}}{dt}=c(1-s_{i})-es_{i}
 \end{equation}
@@ -91,12 +92,12 @@ Grâce à ces résultats de probabilité, nous avons donc :
  \forall t \in \mathbb{R}^+, ~~\label{eqAnnI6d} E(Y_t)=P\frac{c}{c+e}(1-\exp(-(c+e)t))
 \end{equation}
 
-Nous retrouvons la solution déterministe! Ainsi, le modèle déterministe peut être considéré comme reflétant l'évolution de l'espérance des variables $Y_t$ pour $t>0$, c'est donc l'espérance du processus stochastique. Nous pouvons alors simuler le modèle stochastique grâce au modèle déterministe : à chaque instant $t$, il suffit de simuler une loi binomiale de paramètres $P$ et $E(Y_t)$. Regardez la figure \ref{figAnnI2}, il y a des différences fondamentales entre les deux approches. Le modèle déterministe donnera des valeurs continues et, pour des paramètres donnés, toujours le même résultat. De son côté, le modèle stochastique livrera des valeurs discrètes. De plus, deux simulations du modèle aléatoire ne donneront pas nécessairement les mêmes courbes.
+Nous retrouvons la solution déterministe! Ainsi, le modèle déterministe peut être considéré comme reflétant l'évolution de l'espérance des variables $Y_t$ pour $t>0$, c'est donc l'espérance du processus stochastique. Nous pouvons alors simuler le modèle stochastique grâce au modèle déterministe~: à chaque instant $t$, il suffit de simuler une loi binomiale de paramètres $P$ et $E(Y_t)$. Regardez la figure \ref{figAnnI2}, il y a des différences fondamentales entre les deux approches. Le modèle déterministe donnera des valeurs continues et, pour des paramètres donnés, toujours le même résultat. De son côté, le modèle stochastique livrera des valeurs discrètes. De plus, deux simulations du modèle aléatoire ne donneront pas nécessairement les mêmes courbes.
 
 \begin{figure}[h!]
 \centering
 \includegraphics[width=0.9\textwidth]{annexe1/fig/figAnnI2.pdf}
-\caption[Dynamique de la biodiversité de trois zones protégées]{\textbf{Dynamique de la biodiversité de trois zones protégées}. Les caractéristiques de la zone protégée sont données par les valeurs de $c$ et $e$. Les symboles rouges sont relatifs à une zone protégée de grande taille et facilement accessible, en vert, ils font référence à une petite zone facilement accessible ; enfin, en bleu, sont présentées les résultats pour une petite zone difficilement accessible. Les courbes striées en couleurs pastelles sont les réalisations du modèle stochastique. Les courbes en traits pleins, font référence au modèle déterministe qui est également la moyenne du modèle stochastique. Enfin, les courbes en pointillés représentent la moyenne du modèle stochastique plus ou moins l'écart type.}
+\caption[Dynamique de la biodiversité de trois zones protégées]{\textbf{Dynamique de la biodiversité de trois zones protégées}. Les caractéristiques de la zone protégée sont données par les valeurs de $c$ et $e$. Les symboles rouges sont relatifs à une zone protégée de grande taille et facilement accessible, en vert, ils font référence à une petite zone facilement accessible ; enfin, en bleu, sont présentées les résultats pour une petite zone difficilement accessible. Les courbes striées en couleurs pastels sont les réalisations du modèle stochastique. Les courbes en traits pleins, font référence au modèle déterministe qui est également la moyenne du modèle stochastique. Enfin, les courbes en pointillés représentent la moyenne du modèle stochastique plus ou moins l'écart type.}
 \label{figAnnI2}
 \end{figure}
 
