@@ -63,5 +63,5 @@ biogéographie&nbsp;: les introduire par le biais des contraintes énergétiques
 qui offre une base solide pour une théorie métabolique de la biogéographie.
 
 
-> Mots clés: Biogéographie, interactions biotiques, réseaux écologiques, contraintes abiotiques, co-occurrence,
+> MOTS-CLÉS&nbsp;: Biogéographie, interactions biotiques, réseaux écologiques, contraintes abiotiques, co-occurrence,
 théorie de la biogéographie des îles, théorie métabolique de l'écologie.

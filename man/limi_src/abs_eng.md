@@ -21,4 +21,4 @@ In the third chapter of the thesis, I assess five sets of co-occurrence data, wh
 My research findings bring new theoretical elements to the forefront when considering the influence of ecological interactions and how they shape species geographical distributions, while also introducing an original methodology for studying species co-occurrence: examining them in the light of ecological networks. Before concluding, my fourth and final chapter, I propose a promising new avenue to further investigate integrating species interactions in biogeography. Here, I introduce interactions in terms of energetic constraints, which will provide a sound basis for a metabolic theory of biogeography.
 
 
-> Keywords: Biogeography, biotic interactions, ecological networks, abiotic constrains, co-occurrence, theory of island biogeography, metabolic theory of ecology.
+> KEYWORDS: Biogeography, biotic interactions, ecological networks, abiotic constrains, co-occurrence, theory of island biogeography, metabolic theory of ecology.
