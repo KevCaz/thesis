@@ -35,7 +35,7 @@ d'intérêts convergents et qui se transforment en une amitié très appréciée
 Pour tout ce qu'ils m'ont apporté, je remercie Sonia (et Thomas), Albouy
 (et Séverine et Léo et Louis) et le joyeux Legagneux (et Aurélie et Margot et
 Juliette et Zélie et Romane). Dans ces mêmes couloirs, j'en ai croisé se frottant
-des yeux fatigués par la lumière des écrans. Pour mes geek préférés, ceux qui
+des yeux fatigués par la lumière des écrans. Pour mes geeks préférés, ceux qui
 connaissent comme moi l'appel du clavier, quand l'envie de coder devient
 trop forte, je désire taper un `\huge{merci}`. Merci Casajus, Team Zissou,
 Dave et Flaul pour les morceaux de code et bien plus&nbsp;: votre enthousiasme et votre insatiable curiosité.
@@ -61,21 +61,21 @@ des repères essentiels dans un voyage quelques fois extrêmement déboussolant.
 un grand merci.
 
 Ainsi, à mes amis du TerTer de Nanterre, qui me rappellent où j'ai grandi,
-les joies de mon parcours en banlieue parisienne, à ceux que j’ai connu il y a
-parfois plus de vingt ans, à vous Ariane, Bibi, Cendrars, Gomar, Gronico, K-wik, Matos, Miste, Rufo, Tinico, je vous dit un immense cimer! Un spécial cimer pour toi Rhum, mon frérot, qui n’a jamais cessé de me surprendre.
+les joies de mon parcours en banlieue parisienne, à ceux que j’ai connus il y a
+parfois plus de vingt ans, à vous Ariane, Bibi, Cendrars, Gomar, Gronico, K-wik, Matos, Miste, Rufo, Tinico, je vous dis un immense cimer! Un spécial cimer pour toi Rhum, mon frérot, qui n’a jamais cessé de me surprendre.
 
 À ma famille, ceux dont je partage parfois une partie de mon patrimoine
 génétique, mais souvent tellement plus. Un profond et chaleureux merci à
 Jean-Louis, Josette, Monique, Jean-Claude, Yvette, Tatoche, Tonton François,
 c'est toujours un immense bonheur de vous voir.
 
-Papi, Mami, éternels soutiens, guides indispensables de mes premier pas à
+Papi, Mami, éternels soutiens, guides indispensables de mes premiers pas à
 aujourd'hui, merci. Des grands-parents comme vous, tous les petits
 enfants en rêve... Je vous le promets, regardez, je fais de la science,
 je vais être docteur, c'est forcément vrai. Sachez que l’aventure sans vous
 aurait été bien plus pénible.
 
-Papa, père et pair, c'est quand même pas mal! Ton appui au court de ce
+Papa, père et pair, c'est quand même pas mal! Ton appui au cours de ce
 long voyage m'a été d'une aide très précieuse. Tu as été un éclaireur
 génial vers qui j'ai pu me tourner quand l'horizon semblait encore bien loin,
 merci papa.
@@ -87,6 +87,6 @@ Merci Pépette pour ta spontanéité et ta fraicheur, je sais que j'étais absen
 ces derniers temps, il faudra qu'on se rattrape!
 
 Maman, la plus belle des mamans. Ton fils n'est pas souvent passé par la maison
-ces dernières années, et oui, l'aventure m'a éloigné de mes terres d'origine.
-Rassures-toi, ton fils ne t'oublie pas, il sait très bien tout ce que tu as fait
+ces dernières années, eh oui, l'aventure m'a éloigné de mes terres d'origine.
+Rassure-toi, ton fils ne t'oublie pas, il sait très bien tout ce que tu as fait
 pour lui jusqu'à aujourd'hui et il t'en est éternellement reconnaissant.
