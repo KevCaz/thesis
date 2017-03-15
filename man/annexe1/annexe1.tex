@@ -34,7 +34,7 @@ Cette équation est linéaire, nous pouvons la résoudre facilement par la méth
 \section{Comment un modèle déterministe émerge-t-il de phénomènes aléatoires?}
 
 \subsection{Modèle stochastique?}
-Il est très intéressant de réaliser que l'équation \eqref{eqAnnI1}, d'apparence déterministe, renferme un modèle stochastique. "Stochastique" est un terme signifiant aléatoire, avec une part de hasard. Un modèle stochastique est donc un modèle dont l'issue contient une part de hasard; deux réalisations du modèle ne donneront donc pas nécessairement le même résultat. Pour comprendre où se cache le hasard dans le modèle que nous étudions, nous avons besoin d'objets mathématiques particuliers appartenant au domaine des probabilités : variables aléatoires et processus stochastiques (reportez-vous à l'encadré 3).
+Il est très intéressant de réaliser que l'équation \eqref{eqAnnI1}, d'apparence déterministe, renferme un modèle stochastique. "Stochastique" est un terme signifiant aléatoire, avec une part de hasard. Un modèle stochastique est donc un modèle dont l'issue contient une part de hasard; deux réalisations du modèle ne donneront donc pas nécessairement le même résultat. Pour comprendre où se cache le hasard dans le modèle que nous étudions, nous avons besoin d'objets mathématiques particuliers appartenant au domaine des probabilités~: variables aléatoires et processus stochastiques (reportez-vous à l'encadré 3).
 
 \subsection{Les objets mathématiques requis}
 Comment savoir combien d’espèces sont présentes sur l’île ? Il suffit de compter 1 pour chaque espèce présente sur l’île. Nous introduisons donc $X_i$ , la variable aléatoire de présence sur l’île de l’espèce $i$ choisie parmi les $P$ espèces du continent. $X_i$ est égale à 0 si l’espèce n’est pas sur l’île et 1 si elle est sur l’île. C’est une variable aléatoire de Bernoulli (encadré 4). Ainsi, le nombre d’espèces présentes sur l’île, $S$, est égale à la somme des $X_i$. Nous allons encore plus loin en enregistrant ces valeurs au cours du temps. C'est ainsi que nous définissons le processus stochastique $X_{i,t>0}$, qui n'est autre qu'une succession de 1 et de 0 indiquant à chaque instant si oui ou non l'espèce $i$ est sur l'île. A priori, les suites $X_{i,t}$ ne sont pas prévisibles, ce qui n’exclut pas que la fonction $S$ présente, en moyenne, un comportement tout à fait régulier.
@@ -47,7 +47,7 @@ Au temps $t=0$, l'espèce $i$ n'est pas sur l'île. Pour construire la suite de 
  \label{eqAnnI3c} P(X_{i,t+dt}=0|X_{i,t}=0)&=&(1-cdt) \\
    \label{eqAnnI3d} P(X_{i,t+dt}=1|X_{i,t}=1)&=&(1-edt)
 \end{eqnarray}
-Il faut comprendre la première équation ainsi : sachant que l'espèce $i$ était absente au temps $t$, la probabilité qu'elle soit sur l'île au temps $t+dt$ est égale à la probabilité qu'elle colonise l'île durant $dt$, c'est-à-dire $cdt$. Vous pourriez avancer que durant $dt$, une espèce peut coloniser, s'éteindre et re-coloniser et que nous n'en parlons pas ! Tous ces évènements sont en fait beaucoup moins probables et nous pouvons les ignorer complètement à la limite quand dt tend vers 0. Les trois autres équations s'interprètent avec un raisonnement similaire. Ces quatre équations sont les briques du modèle stochastique que nous construisons. Nous devons maintenant les assembler correctement.
+Il faut comprendre la première équation ainsi~: sachant que l'espèce $i$ était absente au temps $t$, la probabilité qu'elle soit sur l'île au temps $t+dt$ est égale à la probabilité qu'elle colonise l'île durant $dt$, c'est-à-dire $cdt$. Vous pourriez avancer que durant $dt$, une espèce peut coloniser, s'éteindre et re-coloniser et que nous n'en parlons pas ! Tous ces évènements sont en fait beaucoup moins probables et nous pouvons les ignorer complètement à la limite quand dt tend vers 0. Les trois autres équations s'interprètent avec un raisonnement similaire. Ces quatre équations sont les briques du modèle stochastique que nous construisons. Nous devons maintenant les assembler correctement.
 
 
 \subsection{Assemblons les briques!}
@@ -60,11 +60,11 @@ Il s'agit d'une somme de deux termes couvrant toutes les possibilités puisque, 
 \begin{eqnarray}
 \label{eqAnnI5a} P(X_{i,t+dt}=1)&=&cdt(1-P(X_{i,t}=1))+(1-edt)P(X_{i,t}=1)
 \end{eqnarray}
-Pour simplifier l'écriture, $s_{i,t}$ représente $P(X_{i,t}=1)$ :
+Pour simplifier l'écriture, $s_{i,t}$ représente $P(X_{i,t}=1)$~:
 \begin{equation}
 \label{eqAnnI5b} s_{i,t+dt}=cdt(1-s_{i,t})+(1-edt)s_{i,t}
 \end{equation}
-Divisons par $dt$ :
+Divisons par $dt$~:
 \begin{eqnarray}
 \label{eqAnnI5c} \frac{s_{i,t+dt}-s_{i,t}}{dt}&=&c(1-s_{i,t})-es_{i,t}
 \end{eqnarray}
@@ -72,7 +72,7 @@ Nous faisons alors tendre $dt$ vers 0. Nous obtenons alors~:
 \begin{equation}
 \label{eqAnnI5e} \frac{ds_{i}}{dt}=c(1-s_{i})-es_{i}
 \end{equation}
-C'est l'équation que nous avons résolu dans l'encadré 1, avec $P=1$  :
+C'est l'équation que nous avons résolu dans l'encadré 1, avec $P=1$~:
 \begin{equation}
 \label{eqAnnI5e} s_{i}(t)=\frac{c}{c+e} \left(1-\exp{(-(c+e)t)}\right)
 \end{equation}
@@ -82,12 +82,12 @@ Nous avons presque retrouvé la solution de l'équation déterministe; vous pour
 \begin{equation}
  \forall t \in \mathbb{R}^+, ~~\label{eqAnnI6a} P(Y_t=k)=\binom{P}{k}s(t)^k(1-s(t))^{P-k}
 \end{equation}
-De plus, on peut démontrer les résultats suivants :
+De plus, on peut démontrer les résultats suivants~:
 \begin{eqnarray}
  \forall t \in \mathbb{R}^+, ~~\label{eqAnnI6b} E(Y_t)&=&Ps(t) \\
  \forall t \in \mathbb{R}^+, ~~\label{eqAnnI6c} V(Y_t)&=&Ps(t)(1-s(t))
 \end{eqnarray}
-Grâce à ces résultats de probabilité, nous avons donc :
+Grâce à ces résultats de probabilité, nous avons donc~:
 \begin{equation}
  \forall t \in \mathbb{R}^+, ~~\label{eqAnnI6d} E(Y_t)=P\frac{c}{c+e}(1-\exp(-(c+e)t))
 \end{equation}
@@ -105,7 +105,7 @@ Nous retrouvons la solution déterministe! Ainsi, le modèle déterministe peut 
 
 \section{Applications et perspectives}
 
-Bien que datant du milieu des années 1960, le modèle de MacArthur et Wilson demeure très précieux, notamment pour étudier les habitats fragmentés (des îles!) et prendre des décisions relatives à la conservation des espèces. Prenons un exemple : vous êtes le gestionnaire d'une nouvelle zone protégée que nous assimilerons à une île. Cette zone a longtemps été exploitée par l'homme de sorte qu'au temps $t=0$ le nombre d'espèces est $S=0$. Dans la région, la richesse en espèces est de $P=100$, c'est-à-dire que vous pouvez rencontrer jusqu'à 100 espèces dans votre aire de gestion. À la suite de MacArthur et Wilson, nous allons supposer que la valeur du taux de colonisation $c$ dépend de la difficulté d'accès. De plus, la survie d'une espèce sur cette zone dépend de sa superficie : ainsi plus l'aire de conservation est grande, moins les espèces s'éteignent ; $e$ est donc plus faible pour les grandes aires de protection. Prenons trois situations~:
+Bien que datant du milieu des années 1960, le modèle de MacArthur et Wilson demeure très précieux, notamment pour étudier les habitats fragmentés (des îles!) et prendre des décisions relatives à la conservation des espèces. Prenons un exemple~: vous êtes le gestionnaire d'une nouvelle zone protégée que nous assimilerons à une île. Cette zone a longtemps été exploitée par l'homme de sorte qu'au temps $t=0$ le nombre d'espèces est $S=0$. Dans la région, la richesse en espèces est de $P=100$, c'est-à-dire que vous pouvez rencontrer jusqu'à 100 espèces dans votre aire de gestion. À la suite de MacArthur et Wilson, nous allons supposer que la valeur du taux de colonisation $c$ dépend de la difficulté d'accès. De plus, la survie d'une espèce sur cette zone dépend de sa superficie~: ainsi plus l'aire de conservation est grande, moins les espèces s'éteignent; $e$ est donc plus faible pour les grandes aires de protection. Prenons trois situations~:
 \begin{itemize}
 \item Grande zone et accès aisé~: e=0.01 et c=0.05
 \item Petite zone et accès aisé~: e=0.05 et c=0.05
@@ -121,7 +121,7 @@ Dans cet exemple, le modèle stochastique n'a finalement que peu d'intérêt. Il
 
 \setlength{\columnsep}{1cm}
 \begin{minipage}{0.9\linewidth}
-\textbf{Encadré 1 : la Biogéographie} \\
+\textbf{Encadré 1~: la Biogéographie} \\
 	La biogéographie est la science qui s'interroge sur les causes de l'agencement spatial des espèces à la surface de notre planète. Comment, par exemple, pouvons-nous expliquer la répartition et les différences entre les grands biomes terrestres? Le premier élément de réponse est l'implication des facteurs climatiques. La température, l'humidité, les précipitations sont autant de variables qui contraignent les conditions d'existence des espèces qui composent et modèlent les paysages terrestres. C'est avec ces contraintes que les écologues élaborent des modèles dits "bioclimatiques" afin de décrire l'évolution de la biodiversité avec les contraintes climatiques de demain. Cependant, les facteurs qui expliquent la distribution des espèces ne sont pas toujours climatiques, les causes sont multiples. Les mouvements des espèces et leurs histoires évolutives sont ainsi des moteurs fondamentaux en biogéographie. Les capacités de dispersion des espèces leur donnent accès à de nouveaux territoires qui, avec le temps peut-être, les verront disparaître. C'est ainsi qu'un territoire voit sa composition en espèces évoluer, avec l'arrivée de nouvelles espèces et l'extinction d'autres. C'est autour de cette idée majeure que s'articule le modèle présenté.
 \end{minipage}
 \vspace{2cm}
@@ -134,7 +134,7 @@ Dans cet exemple, le modèle stochastique n'a finalement que peu d'intérêt. Il
  \begin{equation}
 \nonumber  \frac{dS}{dt}=-(c+e)S
 \end{equation}
-est donnée par :
+est donnée par~:
  \begin{equation}
 \nonumber \forall t \in \mathbb{R}^+,~ S(t)=C\exp(-(c+e)t)
 \end{equation}
@@ -142,7 +142,7 @@ où $C$ est une constante, la solution de l’équation non homogène est alors 
  \begin{equation}
 \nonumber S(t)=f(t) \exp(-(c+e)t)
 \end{equation}
-En remplaçant dans l’équation différentielle on obtient :
+En remplaçant dans l’équation différentielle on obtient~:
  \begin{equation}
 \nonumber f’(t) \exp(-(c+e)t)= cP
 \end{equation}
