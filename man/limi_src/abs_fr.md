@@ -23,26 +23,26 @@ interactions écologiques. Au premier chapitre, je traite de l'intégration des 
 biogéographie des îles. Ce travail montre comment les effets conjoints
 des facteurs biotiques et abiotiques changent les attendus de la théorie
 classique. En m'appuyant sur ce premier chapitre, je montre au second chapitre
-comment les interactions peuvent se répercuter dans les données de co-occurrence
+comment les interactions peuvent se répercuter dans les données de cooccurrence
 d’espèces. Ces données indiquent la présence ou l’absence de plusieurs espèces
 sur un même ensemble de sites dispersés sur de larges étendues spatiales.
 À l’aide d’un modèle probabiliste, j'obtiens des résultats théoriques liant les
-données de co-occurrence et l’information contenue dans les réseaux écologiques.
+données de cooccurrence et l’information contenue dans les réseaux écologiques.
 Je démontre clairement que les interactions affectent les données de
-co-occurrence. Je montre également que plus le nombre d’interactions séparant deux
+cooccurrence. Je montre également que plus le nombre d’interactions séparant deux
 espèces est grand, plus il est délicat de déceler des traces de cette relation
-indirecte dans les données. De même, si une espèce entretient de nombreuses interactions, il sera difficile de trouver une quelconque trace des interactions dans les données de co-occurrence pour cette espèce.
+indirecte dans les données. De même, si une espèce entretient de nombreuses interactions, il sera difficile de trouver une quelconque trace des interactions dans les données de cooccurrence pour cette espèce.
 
 Au troisième chapitre, je présente l’analyse de cinq jeux de données de
-co-occurrence pour lesquels la description des interactions était disponible.
+cooccurrence pour lesquels la description des interactions était disponible.
 Avec ces donnés, j'ai été capable de confirmer mes hypothèses formulées au
-second chapitre en montrant que les espèces qui interagissent co-occurrent
+second chapitre en montrant que les espèces qui interagissent cooccurrent
 différemment de celles n’interagissant pas. Mes résultats indiquent aussi que
 l’abondance d'interactions est un frein à leur détection dans les données de
-co-occurrence. Cependant, en intégrant la similarité des facteurs abiotiques
-pour les différents sites, je montre que les signaux de co-occurrence
+cooccurrence. Cependant, en intégrant la similarité des facteurs abiotiques
+pour les différents sites, je montre que les signaux de cooccurrence
 s’affaiblissent pour parfois disparaitre. Mes résultats suggèrent donc qu’en
-utilisant des facteurs abiotiques pour inférer les probabilités de co-occurrence,
+utilisant des facteurs abiotiques pour inférer les probabilités de cooccurrence,
 une partie du lien entre les espèces est capturée, mais cette part est entachée
 d’une grande incertitude. Ceci vient questionner la qualité des prédictions
 données par les modèles classiques de distribution d'espèces actuellement utilisés.
@@ -50,7 +50,7 @@ données par les modèles classiques de distribution d'espèces actuellement uti
 Les résultats de ma recherche apportent des éléments théoriques nouveaux sur le
 rôle des interactions écologiques dans le tracé des aires de répartition des
 espèces en plus de proposer une méthode originale pour étudier les données de
-co-occurrence d’espèces&nbsp;: les regarder à la lumière des réseaux écologiques.
+cooccurrence d’espèces&nbsp;: les regarder à la lumière des réseaux écologiques.
 Avant de conclure ma thèse, je propose au chapitre \ref{chap4} une démarche
 prometteuse pour aller encore plus loin dans l’intégration des interactions en
 biogéographie&nbsp;: les introduire par le biais des contraintes énergétiques,
@@ -58,5 +58,5 @@ ce qui offre une base solide pour une théorie métabolique de la biogéographie
 
 
 > MOTS-CLÉS&nbsp;: Biogéographie, interactions biotiques, réseaux écologiques,
-contraintes abiotiques, co-occurrence, théorie de la biogéographie des îles,
+contraintes abiotiques, cooccurrence, théorie de la biogéographie des îles,
 théorie métabolique de l'écologie.

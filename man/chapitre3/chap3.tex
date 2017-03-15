@@ -1,44 +1,43 @@
-\chapter{Quelles traces les interactions biotiques laissent-elles dans les données de co-occurrence des espèces?}
+\chapter{Quelles traces les interactions biotiques laissent-elles dans les données de cooccurrence des espèces?}
 \label{chap3}
-
 
 \section{Résumé en français du troisième article}
 
-Dans ce troisième article, je me suis me intéressé aux données de co-occurrence.
+Dans ce troisième article, je me suis intéressé aux données de cooccurrence.
 Ces données, très importantes en biogéographie, sont des enregistrements
 de présences et d'absences pour un certain nombre d'espèces
-le long d'un gradient géographique (par exemple latitudinal).
+le long d'un gradient géographique (par exemple, un gradient latitudinal).
 On dispose alors d’un grand nombre de sites sur lesquels les conditions abiotiques
 varient et pour lesquels nous disposons également de la connaissance
-d’une partie du contexte biotiques (les présences de différentes espèces).
+d’une partie du contexte biotique (les présences de différentes espèces).
 En plus de ces informations, les jeux de données présentés sont munis
-d’observations relatives aux information réelles avec lesquelles il es possible
-de construire des réseaux d'interaction. J'ai donc analysé la co-occurrence à la
-lumière des propriétés des réseaux de type trophiques, mutualistes ou de compétition
+d’observations relatives aux informations réelles avec lesquelles il est possible
+de construire des réseaux d'interaction. J'ai donc analysé la cooccurrence à la
+lumière des propriétés des réseaux trophiques, mutualistes ou de compétition
 avec des espèces plus ou moins généralistes ce qui m’a permis de tester les
-hypothèses faîtes au chapitre \ref{chap2}.
+hypothèses faites au chapitre \ref{chap2}.
 
 
-Nos résultats montrent que les interactions ont un effet sur la co-occurrence
+Nos résultats montrent que les interactions ont un effet sur la cooccurrence
 mais que la détection de cet effet est délicate quand 1) les espèces sont éloignées
-dans le réseaux :les interaction indirectes sont finalement presque
-indétectables et 2) quand les interactions sont nombreuses, il est plus
-difficile de trouver des signaux de co-occurrence \footnote{Il s'agit de
-dévations par rapport à des attendus sous l'hypothèse que n'ont pas d'influence}
-pour les espèces généralistes. De plus, en intégrant la similarité des facteurs
-abiotiques pour les différents sites, je montre que les signaux de
-co-occurrence s’affaiblissent et parfois disparaissent. Mes résultats suggèrent
-donc qu’en utilisant des facteurs abiotiques pour inférer les probabilités de
-co-occurrence, une partie du lien entre les espèces est capturée, mais cette
-part est entachée d’une grande incertitude. Ceci vient questionner la
-qualité des prédictions données par les modèles classiques de distribution
-d'espèces actuellement utilisés. Nos résultats jettent une lumière forte
-intéressante sur un débat classique en
-écologie concernant la détection des interaction à partir des aires de
-distribution. Nous montrons que la configuration du réseau est aussi
-importante et qu’il ne faut pas trop rapidement conclure que les espèces sont
-indépendantes, ce qui est souvent à la base des projections que nous faisons
-pour anticiper les changements de biodiversité.
+dans le réseaux, les interactions indirectes sont donc difficiles à mettre en
+évidence et 2) quand les interactions sont nombreuses, il est plus
+difficile de trouver des signaux de cooccurrence \footnote{Il s'agit de
+déviations par rapport à des attendus sous l'hypothèse que les interactions
+n'ont pas d'influence} pour les espèces généralistes. De plus, en intégrant
+la similarité des facteurs abiotiques pour les différents sites, je montre que
+les signaux de cooccurrence s’affaiblissent et parfois disparaissent. Mes
+résultats suggèrent donc qu’en utilisant des facteurs abiotiques pour
+inférer les probabilités de cooccurrence, une partie du lien entre les espèces
+est capturée, mais cette part est entachée d’une grande incertitude. Ceci vient
+questionner la qualité des prédictions données par les modèles classiques de
+distribution d'espèces actuellement utilisés. Nos résultats propose un nouvel
+éclairage sur un débat classique de l'écologie concernant la détection
+des interactions à partir des aires de distribution. Nous montrons que la
+configuration du réseau est aussi importante et qu’il ne faut pas trop
+rapidement conclure que les espèces sont indépendantes, ce qui est souvent une
+hypothèse de départ dans les projections que nous faisons pour anticiper
+les conséquences des activités humaines sur les changements de biodiversité.
 
 
 
@@ -46,27 +45,28 @@ pour anticiper les changements de biodiversité.
 
 Le travail ici présenté a été rendu possible grâce à une collaboration entre différents
 chercheurs menée avec Dominique Gravel. Les jeux de données que j'ai analysé
-sont, en effet, difficiles à trouver et particulièrement riche en informations.
+sont, en effet, difficiles à trouver et particulièrement intéressantes.
 Je remercie tous les chercheurs qui m'ont accordé leur confiance
 pour analyser les données et toutes les personnes qui ont contribué à la collecte
 des données. Pour les données sur les colibris et les plantes des Caraïbes,
-je remecie Bo Dalsgaard, Louise J. Lehmann, Ana M. Martín González,
-Andrea Baquero, Allan Timmermann. Pour les données sur les communautés des feuilles de Saules,
-je remercie Tomas Roslin. Pour les données sur les communautés microbiennes des
-Sarracénies (\emph{Sarracenia purpurea}), je remercie Benjamin Baiser.
-Pour les données du Suivi Temporel des Oiseaux Communs (STOC), je remercie Wilfried Thuiller
-et pour les données des arbres, je remercie Dominique Gravel et Steve Vissault.
+je remercie Bo Dalsgaard, Louise J. Lehmann, Ana M. Martín González,
+Andrea Baquero, Allan Timmermann. Pour le jeu de données relatif aux communautés
+associées aux feuilles de saules, je remercie Tomas Roslin. Pour les données
+sur les communautés microbiennes des Sarracénies (\emph{Sarracenia purpurea}),
+je remercie Benjamin Baiser. Pour les données du Suivi Temporel des Oiseaux
+Communs (STOC), je remercie Wilfried Thuiller et pour les données des arbres,
+je remercie Dominique Gravel et Steve Vissault.
 
 L'article qui suit est le fruit de discussions avec Dominique Gravel sur le type
 d'analyse à mener pour donner suite au chapitre \ref{chap2}. Je me suis occupé
 de l'ensemble des analyses, des figures, de la rédaction de la première version
 relue par Dominique Gravel. J'ai également bénéficié d'une précieuse et
-attentive relecture de David Beauchesne que je merci chaleureusement.
+attentive relecture de David Beauchesne que je remerci chaleureusement.
 Due à la qualité des jeux de données, à l'originalité de nos analyses et
-nos résultats, je nourris l'espoir que mes résulats intéresseront
+nos résultats, je nourris l'espoir que mes résultats intéresseront
 une revue généraliste. C'est pour cela que le chapitre est dans un format court avec une
 longue section "Supplementary information" (SI, \ref{chap3si}). Se confronter
-à la rédaction en format court fut aussi un exercie très enrichissant bien que délicat.
+à la rédaction en format court fut aussi un exercice très enrichissant bien que délicat.
 
 
 
@@ -74,7 +74,7 @@ longue section "Supplementary information" (SI, \ref{chap3si}). Se confronter
 \subsection{Traduction du résumé en anglais}
 
 Un problème majeur en biogéographie et en modélisation de la biodiversité
-est de savoir si la co-occurrence des espèces contient une trace des
+est de savoir si la cooccurrence des espèces contient une trace des
 interactions. L'hypothèse conventionnelle affirme que les interactions
 négatives et positives conduiraient respectivement à des répulsions et
 des attractions. La rareté des jeux de données combinant des distributions
@@ -82,19 +82,19 @@ des attractions. La rareté des jeux de données combinant des distributions
 les biogéographes d'obtenir des idées claires sur ce problème. Pour répondre
 à cette question, nous avons utilisé cinq jeux de données sur un large
 gradient de conditions climatiques incluant des informations sur les interactions écologiques,
-représentant un total de 793 espèces pour 354015 observations de co-occurrence.
-Nous avons comparé la co-occurrence des pairs d'espèces interagissant avec
+représentant un total de 793 espèces pour 354015 observations de cooccurrence.
+Nous avons comparé la cooccurrence des pairs d'espèces interagissant avec
 celle de paire d'espèces n'interagissant pas en intégrant ou non les
 variables abiotiques. Nous avons trouvé un effet des interactions sur la
-distribution des espèce de co-occurrence brute mais pas de preuve d'un tel
+distribution des espèces de cooccurrence brute mais aucune preuve d'un tel
 effet lorsque les variables abiotiques étaient intégrées. De plus, nous avons
 trouvé que certaines propriétés du réseau d'interactions pouvaient masquer l'impact
-des interactions sur la co-occurrence. Nous avons ainsi montré que plus le nombre
+des interactions sur la cooccurrence. Nous avons ainsi montré que plus le nombre
 d'interactions qu'une espèce entretenait était grand, plus notre capacité
 à détecter le signal dans les données d'interactions statiques était faible.
-De plus, nous démontrons clairement que le signal de co-occurrence entre un
-prédateur et ses proies disparait quand la proportion de sites couverts par
-l'ensemble de proie augmente. Dans un contexte où les écosystèmes sont
+De plus, nous démontrons clairement que le signal de cooccurrence entre un
+prédateur et ses proies disparaît quand la proportion de sites couverts par
+l'ensemble de proies augmente. Dans un contexte où les écosystèmes sont
 fortement perturbés par l'activité humaine, nos résultats insistent
 sur le besoin d'intégrer les processus écologiques dans les
 modes de distribution d'espèces pour mieux prédire la biodiversité de demain.
@@ -549,12 +549,9 @@ Using datasets including occurrence data for a large number of species
 together with information pertaining to the ecological relationships, we
 propose to test these theoretical expectations.
 
-
-
+\newpage
 
 \subsection{Tables}\label{tables}
-
-\begin{landscape}
 
 \begin{longtable}[]{@{}lrrrrr@{}}
 \caption{Data sets analyzed in this article.
@@ -661,16 +658,10 @@ Trophic\strut
 
 \section{Figures}\label{figures}
 
-
-\end{landscape}
-
-
-
 \begin{figure}
 \centering
 \includegraphics[width=0.87000\textwidth]{chapitre3/figConcept.pdf}
-\caption[Probabilistic description of fundamental and realized
-niches]{\textbf{Probabilistic description of fundamental and realized
+\caption{\textbf{Probabilistic description of fundamental and realized
 niches}. For a four species network, all the occurrence probabilities
 are derived along an environmental gradient assuming that (A)
 interactions are not limiting the distribution and (B) that predators 3
@@ -688,8 +679,7 @@ expected.\label{fig:box1}}
 \begin{figure}
 \centering
 \includegraphics[width=0.95000\textwidth]{chapitre3/figIntVsNoint.pdf}
-\caption[Co-occurrence of interacting versus not-interacting
-pairs of species]{\textbf{Co-occurrence of interacting versus not-interacting
+\caption{\textbf{Co-occurrence of interacting versus not-interacting
 pairs of species}. Figures under each groups of boxplots indicate the
 number of pairs to which the Z-score distributions refer. The light grey
 rectangle corresponds to the 95\% confidence interval for the standard
@@ -710,8 +700,7 @@ symmetric about 0 (light grey symbols).\label{fig:synth}}
 \begin{figure}
 \centering
 \includegraphics[width=0.98000\textwidth]{chapitre3/figOrder.pdf}
-\caption[Co-occurrence signal decays when the shortest path
-between a pair of species decay]{\textbf{Co-occurrence signal decays when the shortest path
+\caption{\textbf{Co-occurrence signal decays when the shortest path
 between a pair of species decay}. The Z-score distribution are plotted
 against the shortest path for A willows-herbivores interactions, B
 herbivores-parasitoids interactions, C birds-plants interactions and D
@@ -727,8 +716,7 @@ interaction of the same dataset.\label{fig:shtpth}}
 \begin{figure}
 \centering
 \includegraphics[width=0.87000\textwidth]{chapitre3/figdegocc.pdf}
-\caption[Co-occurrence significance decreases as the cumulated
-occupancy of preys increases]{\textbf{Co-occurrence significance decreases as the cumulated
+\caption{\textbf{Co-occurrence significance decreases as the cumulated
 occupancy of preys increases}. For a given species, Z-scores are
 averaged over the all set species it interacts with and plotted against
 the joint distribution of the same set of species. We do so for the
@@ -896,15 +884,10 @@ the four ecological systems we studied (see Fig. \ref{fig:ratauc}).
 
 \subsection{Supporting Tables}\label{supporting-tables}
 
-
-
 \subsubsection{R packages used}\label{r-packages-used}
 
-
-\begin{landscape}
-
 \begin{longtable}[]{@{}lrrrr@{}}
-\caption[R and packages used for the analyse]{R and packages used for the analyses. GLM: Generalized Linear
+\caption{R and packages used for the analyses. GLM: Generalized Linear
 Model, PCA: Principal Component Analysis. AUROC: Area Under the Receiver
 Operating Characteristic. \label{tbl:rpkges}}\tabularnewline
 \toprule
@@ -939,11 +922,8 @@ Wilcoxon tests & wilcox.test & stats & 3.3.1 &
 \bottomrule
 \end{longtable}
 
-\end{landscape}
-
-
 \begin{longtable}[]{@{}lrrr@{}}
-\caption[Number of species considered]{For each datasets we provide the total number of species
+\caption{For each datasets we provide the total number of species
 (column \emph{Total}), the number of species present in more that 1\% of
 the total number of sites (column \emph{Selected}), and the number of
 species for which traits information are available (column
@@ -965,11 +945,8 @@ French Breeding Birds Survey & 340 & 179 & 321\tabularnewline
 \bottomrule
 \end{longtable}
 
-
-\begin{landscape}
-
 \begin{longtable}[]{@{}lrrrrrrrrrr@{}}
-\caption[Tree species and traits considered in the study]{Tree species and traits considered in the study. Abbreviations are as follows: TSN
+\caption{Tree species and traits used. Abbreviations are as follows: TSN
 - Taxonomic Serial Number defined by Integrated Taxonomic Information
 System (ITIS), maxH - Average maximum height, GR - Growth rate, WD -
 Wood Density,\\
@@ -1052,12 +1029,8 @@ Ulmus rubra & 19050 & 25 & 3 & 0.48 & 3.3 & 3.0 & 1 & 0 & 59.88 &
 \bottomrule
 \end{longtable}
 
-\end{landscape}
-
-
-
 \begin{longtable}[]{@{}lr@{}}
-\caption[Traits considered for the FBBS dataset]{List of the Boolean traits used to compute Euclidean distances
+\caption{List of the Boolean traits used to compute Euclidean distances
 between all pairs of species in the French Breeding Birds Survey.
 \label{tbl:trtfbbs}}\tabularnewline
 \toprule
@@ -1146,13 +1119,14 @@ Nesting location & Ground\tabularnewline
 \bottomrule
 \end{longtable}
 
+\newpage
 
 \section{Supporting Figures}\label{supporting-figures}
 
 \begin{figure}
 \centering
 \includegraphics[width=0.90000\textwidth]{chapitre3/figS1.png}
-\caption[Sites of the study]{\textbf{Sites of the study}\label{fig:maps}}
+\caption{\textbf{Sites of the study}\label{fig:maps}}
 \end{figure}
 
 \newpage
@@ -1160,8 +1134,7 @@ Nesting location & Ground\tabularnewline
 \begin{figure}
 \centering
 \includegraphics{chapitre3/figS2.pdf}
-\caption[Dendrogram representing the trait-based distances
-between the 31 species studied in the North American tree datasets]{\textbf{Dendrogram representing the trait-based distances
+\caption{\textbf{Dendrogram representing the trait-based distances
 between the 31 species studied in the North American tree datasets}.
 Names of angiosperm species are written in dark grey while names of
 Gymnosperm species are in a lighter grey.\label{fig:dendro}}
@@ -1172,7 +1145,7 @@ Gymnosperm species are in a lighter grey.\label{fig:dendro}}
 \begin{figure}
 \centering
 \includegraphics[width=0.50000\textwidth]{chapitre3/figS3.pdf}
-\caption[Evaluation of the SDMs]{\textbf{Evaluation of the SDMs}. For each dataset, the
+\caption{\textbf{Evaluation of the SDMs}. For each dataset, the
 distributions of AUC for GLMs (light grey symbols) and RFs (dark grey
 symbols) for all species are presented.\label{fig:auc}}
 \end{figure}
@@ -1182,9 +1155,8 @@ symbols) for all species are presented.\label{fig:auc}}
 \begin{figure}
 \centering
 \includegraphics[width=0.95000\textwidth]{chapitre3/figS4.pdf}
-\caption[Co-occurrence and the trait-based
-distance used for the FBBS dataset]{\textbf{Co-occurrence and the trait-based
-distance used for the FBBS dataset}. The different panels correspond to four
+\caption{\textbf{Co-occurrence and the nature of the trait-based
+distance in the FBBS dataset}. The different panels correspond to four
 different set of trait upon which different distances are built. Similar
 species are defined as the species for which the trait-based distance is
 less than or equal to the lower decile of this distance distribution.
@@ -1204,9 +1176,8 @@ symbols).\label{fig:dist}}
 \begin{figure}
 \centering
 \includegraphics[width=0.95000\textwidth]{chapitre3/figS5.pdf}
-\caption[Co-occurrence signal decays when the shortest path
-between a pair of species decay]{\textbf{Co-occurrence signal decays when the shortest path
-between a pair of species decay}. Distribution of Z-scores for all
+\caption{\textbf{Co-occurrence signal decays when the shortest path
+between a pair of species decay} Distribution of Z-scores for all
 interactions are grouped by shortest-path indicated by the first numbers
 below boxplots. The other figures below stand for the number of pairs of
 species included within the distributions.\label{fig:sht_pth2}}
@@ -1217,9 +1188,8 @@ species included within the distributions.\label{fig:sht_pth2}}
 \begin{figure}
 \centering
 \includegraphics[width=0.95000\textwidth]{chapitre3/figS6.pdf}
-\caption[Changes in co-occurrence signal with increased distance
-between two species]{\textbf{Changes in co-occurrence signal with increased distance
-between two species}. Points represent the result for all pairs of
+\caption{\textbf{Changes in co-occurrence signal with increased distance
+between two species} Points represent the result for all pairs of
 interaction for two datasets: the North American Tree dataset (A=C) and
 the FBBS (D-I). For the latter, we used the trait-based distance
 computed with all available traits (D-F) and the body-size ratios (the
@@ -1233,8 +1203,7 @@ regression depicted by the dotted line.\label{fig:distrev}}
 \begin{figure}
 \centering
 \includegraphics[width=0.95000\textwidth]{chapitre3/figS7.pdf}
-\caption[The degree of species partially explains the decrease
-of the co-occurrence strength]{\textbf{The degree of species partially explains the decrease
+\caption{\textbf{The degree of species partially explains the decrease
 of the co-occurrence strength}. For the herbivores (A-C) and the
 parasitoids in the willow leafs network datasets (D-F), the hummingbirds
 in the Caribbean hummingbirds datasets (G-I) and all species in the
@@ -1250,7 +1219,7 @@ the \(R^2\) is provided.\label{fig:degree}}
 \begin{figure}
 \centering
 \includegraphics[width=0.95000\textwidth]{chapitre3/figS8.pdf}
-\caption[Co-occurrence and cumulated occupancy of predators]{\textbf{Co-occurrence and cumulated occupancy of predators}.
+\caption{\textbf{Co-occurrence and cumulated occupancy of predators}.
 This figure corresponds to figure \ref{fig:degocc} in the main text, but
 the Z-score were calculated for preys (host plants) rather than for
 predators (pollinators). Mean Z-score are computed for willows (A-C) and
@@ -1272,8 +1241,7 @@ panel.\label{fig:degocc2}}
 \begin{figure}
 \centering
 \includegraphics[width=0.95000\textwidth]{chapitre3/figS9.pdf}
-\caption[Predicting herbivore distribution based on the
-distribution of willows]{\textbf{Predicting herbivore distribution based on the
+\caption{\textbf{Predicting herbivore distribution based on the
 distribution of willows}. For the herbivores in the willow leafs network
 dataset, we compared the AUC obtained when using willow it does not
 interact with (circles) a willow in interacts with (squares) and the set
