@@ -1,6 +1,6 @@
 Au royaume des idées, nous transformons les fragments de notre existence en songes.
 Chaque conversation est une caisse de résonance offerte à nos propres songes.
-Chaque lecture est une conversation, un échange avec d'autres qui bien qu'étant absents,
+Chaque lecture est une conversation, un échange avec d'autres qui, bien qu'étant absents,
 nous livrent leurs pensées. Comment alors ne pas croire que tout le travail ici
 présenté n'est autre que le récit de ma rencontre et des échanges avec tous ces
 autres? Un récit qui à son tour deviendra une nouvelle source de songes pour des
