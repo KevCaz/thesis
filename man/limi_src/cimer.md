@@ -6,14 +6,14 @@ présenté n'est autre que le récit de ma rencontre et des échanges avec tous 
 autres? Un récit qui à son tour deviendra une nouvelle source de songes pour des
 lecteurs que je ne connaîtrai peut-être jamais.
 
-L'aventure du doctorat est bien plus collective que ce qu'elle ne semble être. Longue est
-la liste de ceux qui apportèrent une pierre à l’édifice ici présenté.
+L'aventure de mon doctorat a été bien plus collective que ce j'imaginai. Longue
+est la liste de ceux qui apportèrent une pierre à l’édifice ici présenté.
 Des pierres les plus solides pour bâtir les fondations aux plus petits
 cailloux qui donnent un rien de charme et d'originalité à l’ensemble, nombreux
 sont les contributeurs au présent travail. À tous ces autres qui parfois ignorent
-ce qu’ils m’ont offert, j'adresse un chaleureux merci. Certaines rencontres
-laissent des empreintes plus profondes et méritent que je leur destine des
-remerciements plus personnels.
+ce qu’ils m’ont offert, j'adresse un chaleureux merci. Dans cette multitude de
+rencontres, certaines laissent des empreintes plus profondes et méritent que je
+leur destine des remerciements plus personnels.
 
 Pour m'avoir donné ma chance et offert une confiance sans faille, je veux
 remercier vivement Dom, Nico et David, sans qui l'aventure n'aurait pas été la même.
@@ -33,13 +33,12 @@ Claire, Clara, Florian, Isa, Marie, Pierre et Simon.
 Dans les couloirs des laboratoires, il y a aussi des liens qui se nouent autour
 d'intérêts convergents et qui se transforment en une amitié très appréciée.
 Pour tout ce qu'ils m'ont apporté, je remercie Sonia (et Thomas), Albouy
-(et Séverine et Léo et Louis) et le joyeux Legagneux (et Aurélie et Margot et Juliette
-et Zélie et Romane). Dans ces mêmes couloirs, j'en ai croisé se frottant
+(et Séverine et Léo et Louis) et le joyeux Legagneux (et Aurélie et Margot et
+Juliette et Zélie et Romane). Dans ces mêmes couloirs, j'en ai croisé se frottant
 des yeux fatigués par la lumière des écrans. Pour mes geek préférés, ceux qui
 connaissent comme moi l'appel du clavier, quand l'envie de coder devient
 trop forte, je désire taper un `\huge{merci}`. Merci Casajus, Team Zissou,
-Dave et Flaul pour les morceaux de
-code et bien plus: votre enthousiasme et votre insatiable curiosité.
+Dave et Flaul pour les morceaux de code et bien plus&nbsp;: votre enthousiasme et votre insatiable curiosité.
 
 D'un pays à l'autre, d'un laboratoire à l'autre, d'un couloir à l'autre,
 d'un projet à l'autre, l'aventure n'est, bien heureusement, nullement
@@ -62,10 +61,8 @@ des repères essentiels dans un voyage quelques fois extrêmement déboussolant.
 un grand merci.
 
 Ainsi, à mes amis du TerTer de Nanterre, qui me rappellent où j'ai grandi,
-les joies de mon parcours en banlieue parisienne, à ceux que j’ai connu il y a parfois plus
-de vingt ans, à vous Ariane, Bibi, Cendrars, Gomar, Gronico, K-wik, Matos, Miste,
-Rufo, Tinico, je vous dit un immense cimer! Un spécial cimer pour toi
-Rhum, mon frérot, qui n’a jamais cessé de me surprendre.
+les joies de mon parcours en banlieue parisienne, à ceux que j’ai connu il y a
+parfois plus de vingt ans, à vous Ariane, Bibi, Cendrars, Gomar, Gronico, K-wik, Matos, Miste, Rufo, Tinico, je vous dit un immense cimer! Un spécial cimer pour toi Rhum, mon frérot, qui n’a jamais cessé de me surprendre.
 
 À ma famille, ceux dont je partage parfois une partie de mon patrimoine
 génétique, mais souvent tellement plus. Un profond et chaleureux merci à
@@ -73,13 +70,13 @@ Jean-Louis, Josette, Monique, Jean-Claude, Yvette, Tatoche, Tonton François,
 c'est toujours un immense bonheur de vous voir.
 
 Papi, Mami, éternels soutiens, guides indispensables de mes premier pas à
-aujourd'hui, merci. Des grands-parents comme vous tous les petits
+aujourd'hui, merci. Des grands-parents comme vous, tous les petits
 enfants en rêve... Je vous le promets, regardez, je fais de la science,
 je vais être docteur, c'est forcément vrai. Sachez que l’aventure sans vous
 aurait été bien plus pénible.
 
 Papa, père et pair, c'est quand même pas mal! Ton appui au court de ce
-long voyage m'a été d'une aide au combien précieuse. Tu as été un éclaireur
+long voyage m'a été d'une aide très précieuse. Tu as été un éclaireur
 génial vers qui j'ai pu me tourner quand l'horizon semblait encore bien loin,
 merci papa.
 
