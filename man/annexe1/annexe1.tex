@@ -7,7 +7,7 @@
 
 L'article qui suit est le fruit de ma rencontre avec Philippe Etchécopar,  membre du comité éditorial du journal \emph{Accro$\alpha$mth}.
 Ce journal de vulgarisation mathématique est destiné aux étudiants et enseignants en mathématiques du Cégep\footnote{Le cégep est la dernière étape avant l'entrée à l'université pour ceux désirant poursuivre leurs études.}.
-Dans cet article, je reprends les bases du modèle de la TIB et je montre comment en partant d'une équation simple sur les probabilités, il est possible d'obtenir une équation différentielle déterministe. L'article est accessible en ligne à l'adresse suivante~: \\ \url{http://accromath.uqam.ca/2014/02/la-biodiversite-en-territoires-isoles/}
+Dans cet article, je reprends les bases du modèle de la TIB et je montre comment en partant d'une équation simple sur les probabilités, il est possible d'obtenir une équation différentielle déterministe. L'article est accessible en ligne\footnote{http://accromath.uqam.ca/2014/02/la-biodiversite-en-territoires-isoles}
 
 
 \section{Préambule}
@@ -54,7 +54,8 @@ Il faut comprendre la première équation ainsi~: sachant que l'espèce $i$ éta
 
 L'assemblage consiste en l'utilisation de la formule des probabilités totales expliquée dans l'encadré 5. Nous pouvons en déduire la probabilité de présence de l'espèce $i$ à l'instant $t+dt$~:
 \begin{eqnarray}
-\label{eqAnnI4} P(X_{i,t+dt}=1)&=&P(X_{i,t+dt}=1|X_{i,t}=0)P(X_{i,t}=0)+P(X_{i,t+dt}=1|X_{i,t}=1)P(X_{i,t}=1)
+\nonumber P(X_{i,t+dt}=1)&=&P(X_{i,t+dt}=1|X_{i,t}=0)P(X_{i,t}=0) \\
+\label{eqAnnI4}  & &+P(X_{i,t+dt}=1|X_{i,t}=1)P(X_{i,t}=1)
 \end{eqnarray}
 Il s'agit d'une somme de deux termes couvrant toutes les possibilités puisque, à l'instant $t$, l'espèce $i$ était soit absente de l'île soit présente, c'est un système complet d'évènements (encadré 5). Si l'espèce $i$ était absente (premier terme) à $t$, elle sera présente à $t+dt$ si elle colonise pendant $dt$ \eqref{eqAnnI3a}. Si elle était déjà sur l'île à $t$, elle s'y maintient à condition de ne pas s'éteindre \eqref{eqAnnI3d}. En remarquant que $P(X_{i,t}=0)=1-P(X_{i,t}=1)$, nous pouvons écrire~:
 \begin{eqnarray}
@@ -194,12 +195,15 @@ Une variable aléatoire $X$ suit une \textbf{loi Binomiale} de paramètres $n\in
 \\  \\  \\
 
 
-\begin{figure}[h!]
+\begin{figure}[H!]
 \centering
 \includegraphics[width=0.95\textwidth]{annexe1/fig/figAnnI3.pdf}
 \caption[Représentation de la formule des probabilités totales.]{\textbf{Représentation de la formule des probabilités totales}. $A$ et $B$ sont deux événements. La probabilité de A peut être décrite comme la somme de l'intersection avec $B$ et $\bar B$ qui constituent un système complet d'évènements.}
 \label{dess1}
 \end{figure}
+
+\newpage
+
 
 \setlength{\columnsep}{1cm}
 \begin{minipage}{0.9\linewidth}

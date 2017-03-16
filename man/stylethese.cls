@@ -160,7 +160,7 @@
     %  \null\vskip+1.0cm % PSL
       \begin{center}
         %  \MakeUppercase{Universit\'{e} du Qu\'{e}bec \`{a} Rimouski}
-        \MakeUppercase{Universit\'{e} du Qu\'{e}bec \`{a} Montr\'{e}al}
+        \MakeUppercase{Universit\'{e} du Qu\'{e}bec \`{a} Rimouski}
 
     %    \includegraphics[width=6.81cm]{logo_uqar.eps}
 
@@ -177,7 +177,9 @@
 		}
 	 \MakeUppercase{comme exigence partielle} \\
 	\ifthenelse{\boolean{these}}{\MakeUppercase{du}}{\MakeUppercase{de la}}
-  	\MakeUppercase{\@Programme}
+  	\MakeUppercase{\@Programme} \\
+    \MakeUppercase{extensionn\'e de} \\
+    \MakeUppercase{l'universit\'e du qu\'ebec \`a montr\'eal}
   	\vskip3cm{PAR} \\
   	\MakeUppercase{{\@AuteurPrenom} {\@AuteurNom}}
   	\vfill\MakeUppercase{{\@Datea} {\@Dateb}}
