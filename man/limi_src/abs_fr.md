@@ -15,11 +15,11 @@ de changements de biodiversité partent de l’hypothèse que les interactions
 sont négligeables. Si cette hypothèse est remise en question, alors il devient
 nécessaire de réviser ces scénarios et soutenir le développement de méthodologies incluant les relations entre les espèces.
 
-Dans le travail de thèse présenté, je me confronte au problème de l'intégration
-des interactions dans la répartition des espèces et de leurs effet sur ces
+Dans le travail de thèse que je présente, je me confronte au problème de l'intégration
+des interactions dans la répartition des espèces et de leurs effets sur ces
 distributions. Je commence cette thèse par un travail théorique sur le sujet car
 les théories classiques en biogéographie relèguent souvent au second plan les
-interactions écologiques. Au premier chapitre, je traite de l'intégration des interactions écologiques dans un modèle théorique de distribution d'espèces issue d'une des théories les plus importantes en biogéographie&nbsp;: la théorie de la
+interactions écologiques. Au premier chapitre, je traite de l'intégration des interactions écologiques dans un modèle théorique de distribution d'espèces issu d'une des théories les plus importantes en biogéographie&nbsp;: la théorie de la
 biogéographie des îles. Ce travail montre comment les effets conjoints
 des facteurs biotiques et abiotiques changent les attendus de la théorie
 classique. En m'appuyant sur ce premier chapitre, je montre au second chapitre

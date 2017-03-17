@@ -48,9 +48,9 @@ encore sa tristesse avec d’autres voyageurs est un soutien plus que précieux.
 Marion, Matoche, Clem, pour ce soutien qui a été si important, je vous remercie
 mille fois.
 
-Pour ne pas faiblir face aux péripéties, le lieu de repos soit être choisi avec
+Pour ne pas faiblir face aux péripéties, le lieu de repos doit être choisi avec
 soin. Le temps du doctorat, il est important de trouver son havre de paix.
-Pour avoir été les co-locataires de cet endroit merveilleux qu'a été la Maison
+Pour avoir été les colocataires de cet endroit merveilleux qu'a été la Maison
 des Courges, un immense merci à Camille, Élo, Gigi, Jean, Jerem, Jerem, Lau,
 Léo, Marie, Palardy, TriTri. Palette, bien sur, un remerciement tout particulier
 pour toi et pour tout ce que nous partageons.
@@ -72,8 +72,8 @@ c'est toujours un immense bonheur de vous voir.
 Papi, Mami, éternels soutiens, guides indispensables de mes premiers pas à
 aujourd'hui, merci. Des grands-parents comme vous, tous les petits
 enfants en rêve... Je vous le promets, regardez, je fais de la science,
-je vais être docteur, c'est forcément vrai. Sachez que l’aventure sans vous
-aurait été bien plus pénible.
+je vais être docteur, c'est forcément vrai. Sachez que l’aventure aurait été bien plus pénible sans vous.
+
 
 Papa, père et pair, c'est quand même pas mal! Ton appui au cours de ce
 long voyage m'a été d'une aide très précieuse. Tu as été un éclaireur
@@ -88,5 +88,5 @@ ces derniers temps, il faudra qu'on se rattrape!
 
 Maman, la plus belle des mamans. Ton fils n'est pas souvent passé par la maison
 ces dernières années, eh oui, l'aventure m'a éloigné de mes terres d'origine.
-Rassure-toi, ton fils ne t'oublie pas, il sait très bien tout ce que tu as fait
+Rassures-toi, ton fils ne t'oublie pas, il sait très bien tout ce que tu as fait
 pour lui jusqu'à aujourd'hui et il t'en est éternellement reconnaissant.
