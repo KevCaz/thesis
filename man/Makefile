@@ -27,9 +27,16 @@ MDMAIN = chapitre3/main.md
 CHP3MN = chapitre3/main.tex
 CHP3HE = chapitre3/head.tex
 ##-- Reference and style
-REF0 = /Users/KevCaz/Documents/library.bib
+REF0 = library0.bib
 REF = library.bib
 PFLAGS = --filter pandoc-fignos --filter pandoc-tablenos --filter pandoc-eqnos --natbib --bibliography=$(REF) --latex-engine=pdflatex
+##-- sed
+OS := $(shell uname)
+ifeq ($(OS),Darwin)
+  sed = gsed
+else
+  sed = sed 
+endif
 
 
 ALL: $(THES)
@@ -41,15 +48,15 @@ $(THES): $(MAIN) $(OULI) $(LIM) $(INTR) $(CCL) $(CHP1) $(CHP2) $(CHP3) $(CHP4) $
 	pdflatex thesekc
 
 $(REF): $(REF0)
-	bibtool -s -d -x thesekc.aux $< > $@
+	bibtool -sdx thesekc.aux $< > $@
 
 $(LIPA)/%.tex: $(LIPA)/%.md
 	pandoc $< -o $@
 
 $(INTR): $(MDI)
 	pandoc $< -o $@ $(PFLAGS)
-	gsed -i 1060,1090s/\caption/\caption[La\ Théorie\ de\ la\ Biogéographie\ des\ Iles\ \(TIB\)]/ $@
-	gsed -i 1320,1340s/\caption/\caption[Intégration\ des\ interactions\ et\ des\ contraintes\ abiotiques\ dans\ la\ TIB.]/ $@
+	$(sed) -i 1060,1090s/\caption/\caption[La\ Théorie\ de\ la\ Biogéographie\ des\ Iles\ \(TIB\)]/ $@
+	$(sed) -i 1320,1340s/\caption/\caption[Intégration\ des\ interactions\ et\ des\ contraintes\ abiotiques\ dans\ la\ TIB.]/ $@
 
 $(CCL): $(MDC)
 	pandoc $< -o $@ $(PFLAGS)
